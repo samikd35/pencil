@@ -1288,7 +1288,7 @@
     },
     "previous_voice_setup": "artifacts/voice-setup-v001/setup-checks.json",
     "local_voice_runtime": {
-      "path": "/Users/samikd/MyProjects/Pencil/.runtime/qwen-voice",
+      "path": "/Users/samikd/Models/qwen-voice",
       "command": "python3 pipeline/qwen_voice.py --text <line> --direction <acting direction> --out <new.wav>",
       "test": "artifacts/voices-v002/local-setup.json"
     }

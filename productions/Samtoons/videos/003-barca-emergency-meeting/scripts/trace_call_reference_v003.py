@@ -1,6 +1,6 @@
 """Extract editable source contours, registered in the unmodified call drawing.
 
-Run with PYTHONPATH=.runtime/vector-art .runtime/qwen-voice/.venv/bin/python.
+Run with PYTHONPATH=.runtime/vector-art ~/Models/qwen-voice/.venv/bin/python.
 Uses the existing tracer/parser; alpha/semantic masks are construction inputs,
 not new character artwork. The supplied pose remains the measured rest pose.
 """

@@ -113,7 +113,7 @@ This audit is complete; the v007 artwork/animation repair is **not implemented**
 From the Pencil root:
 
 ```sh
-PYTHONPATH=.runtime/vector-art .runtime/qwen-voice/.venv/bin/python productions/Samtoons/research/puppet-v006-audit/capture_baseline.py
+PYTHONPATH=.runtime/vector-art ~/Models/qwen-voice/.venv/bin/python productions/Samtoons/research/puppet-v006-audit/capture_baseline.py
 /Applications/Blender.app/Contents/MacOS/Blender -b productions/Samtoons/videos/003-barca-emergency-meeting/artifacts/staging-v001/call-performance-v006/call-performance.blend --python-exit-code 3 --python productions/Samtoons/research/puppet-v006-audit/audit_saved_scene.py -- --ablate
 ```
 

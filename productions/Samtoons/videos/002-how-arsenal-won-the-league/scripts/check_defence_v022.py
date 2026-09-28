@@ -21,5 +21,5 @@ phone=next(o for o in city.objects if '/ v019 Arteta phone' in o.name)
 for f in range(1,241):
  city.frame_set(f);assert all(abs(v-1)<1e-6 for v in phone.scale)
 report['phone_size_constant']=True;report['coach_complete_drawings_packed']=True;report['local_constraints_checked']=True
-assert (V.parents[3]/'.runtime/qwen-voice/model/model.safetensors').exists() and (V.parents[3]/'.runtime/qwen-voice/base-model/model.safetensors').exists();report['voice_models_retained']=True
+assert (Path.home()/'Models/qwen-voice/model/model.safetensors').exists() and (Path.home()/'Models/qwen-voice/base-model/model.safetensors').exists();report['voice_models_retained']=True
 (O/'native-checks.json').write_text(json.dumps(report,indent=2));print(json.dumps(report,indent=2))

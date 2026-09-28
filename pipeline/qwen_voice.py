@@ -2,11 +2,10 @@
 from pathlib import Path
 import argparse, os, sys, json, time, hashlib
 
-ROOT = Path(__file__).resolve().parents[1]
-RUNTIME = ROOT/'.runtime/qwen-voice'
+RUNTIME = Path.home()/'Models/qwen-voice'
 PYTHON = RUNTIME/'.venv/bin/python'
 if Path(sys.prefix).resolve() != (RUNTIME/'.venv').resolve():
-    if not PYTHON.exists(): raise SystemExit('Qwen runtime is missing; see .runtime/qwen-voice/README.md')
+    if not PYTHON.exists(): raise SystemExit(f'Qwen runtime is missing at {RUNTIME}; see pipeline/qwen-voice/README.md')
     os.execv(str(PYTHON),[str(PYTHON),str(Path(__file__).resolve()),*sys.argv[1:]])
 
 import mlx.core as mx

@@ -1,6 +1,6 @@
 """Convert selected illustration contours to native editable vector data.
 No new illustration is generated and no raster plane is used in the character.
-Runtime: PYTHONPATH=.runtime/vector-art .runtime/qwen-voice/.venv/bin/python
+Runtime: PYTHONPATH=.runtime/vector-art ~/Models/qwen-voice/.venv/bin/python
 """
 from pathlib import Path
 from PIL import Image,ImageDraw

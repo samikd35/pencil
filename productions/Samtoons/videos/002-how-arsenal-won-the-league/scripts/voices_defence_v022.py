@@ -3,7 +3,7 @@ import json,time,hashlib
 import mlx.core as mx
 import numpy as np,soundfile as sf
 from mlx_audio.tts.utils import load_model
-V=Path(__file__).resolve().parents[1];O=V/'artifacts/defence-v022';R=V.parents[3]/'.runtime/qwen-voice';model=load_model(str(R/'base-model'))
+V=Path(__file__).resolve().parents[1];O=V/'artifacts/defence-v022';R=Path.home()/'Models/qwen-voice';model=load_model(str(R/'base-model'))
 lines=[('L18b','ARTETA',"Again? We've built a fortress... and City are still right behind us."),('L18c','NARRATOR','And Pep had started warming up.')]
 for key,speaker,text in lines:
  p=O/'voices'/f'{key}.wav'

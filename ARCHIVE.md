@@ -16,8 +16,8 @@ not a byte-for-byte copy of the original Pencil folder.
 ## Local-only or omitted
 
 - `.runtime/` weights, virtual environments, package caches, and local tools.
-  The Qwen model remains in the local Pencil folder until it is relocated;
-  `pipeline/qwen_voice.py` currently expects `.runtime/qwen-voice/` here.
+  The Qwen voice runtime was moved to `~/Models/qwen-voice` and is not in GitHub.
+  `pipeline/qwen_voice.py` uses that shared location.
 - Blender backup files, logs, caches, temporary renders, and superseded
   preview media. Some historical project records still point to these files.
 
@@ -33,4 +33,4 @@ not a byte-for-byte copy of the original Pencil folder.
   different system may substitute it.
 
 Before deleting the local folder, confirm that every wanted file is present in
-a fresh clone with `git lfs pull`, and move the Qwen runtime outside this folder.
+a fresh clone with `git lfs pull`. The Qwen runtime is already outside Pencil.

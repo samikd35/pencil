@@ -159,7 +159,7 @@ Read a source script before adapting it: existing paths, artwork, frame rates, f
 |---|---|---|
 | Editable expressive motion, contact and restrained revisions | `experiments/001_heavy_box/README.md`, `artifacts/finish-v002/` | Preserve delivery; inspect relevant pose/contact mechanisms. C is an example, not a style requirement. |
 | Original JSON-driven synthesis | `experiments/001_heavy_box/scripts/sound_finish_v001.py` | Author or reuse a suitable generator upstream; its output becomes a selected audio asset. |
-| Local speech with acting instructions | `pipeline/qwen_voice.py`, `.runtime/qwen-voice/README.md` | Uses the configured MLX/Qwen runtime; produces a new raw WAV and provenance metadata. Select performances through the sound checkpoint; do not replace accepted takes when retiming. |
+| Local speech with acting instructions | `pipeline/qwen_voice.py`, `pipeline/qwen-voice/README.md` | Uses the shared MLX/Qwen runtime at `~/Models/qwen-voice`; produces a new raw WAV and provenance metadata. Select performances through the sound checkpoint; do not replace accepted takes when retiming. |
 | Flat native artwork and keyframes | `experiments/003_alisson_winner/scripts/build_film.py` | Useful low-level construction functions; callers rely on film globals. No universal character rig has been extracted. |
 | Held poses, facial replacements and hand/object checks | `experiments/006_just_five_minutes/scripts/build_film.py`, `verify_project.py` | Adapt motion and verification to current geometry. Existing artwork is film-specific. |
 | Streamed native rendering | `experiments/006_just_five_minutes/scripts/render_film.py` | Adapt filenames, dimensions and actual frame rate including `fps_base`; preserve the bounded frame-storage pattern. |

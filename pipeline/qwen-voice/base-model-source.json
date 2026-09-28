@@ -1,0 +1,6 @@
+{
+  "repository": "mlx-community/Qwen3-TTS-12Hz-0.6B-Base-4bit",
+  "revision": "0d6bb6fe33f92d47a507e23b9148940e8366ab5b",
+  "tokenizer": "Shared existing Qwen12Hz tokenizer, model speech_tokenizer symlink",
+  "method": "Reference-conditioned synthetic character voice; original opening B02 remains identity anchor"
+}

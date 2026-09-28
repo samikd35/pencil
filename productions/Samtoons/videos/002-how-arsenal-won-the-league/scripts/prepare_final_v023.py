@@ -13,7 +13,7 @@ def voices():
   ident=f'L{i:02}';src=V/'artifacts/animatic-v001/voices'/f'{ident}.wav';meta=json.loads(src.with_suffix('.json').read_text());dst=O/'voices'/src.name
   if dst.exists():continue
   if meta['role']=='ARTETA':
-   if model is None:model=load_model(str(V.parents[3]/'.runtime/qwen-voice/base-model'))
+   if model is None:model=load_model(str(Path.home()/'Models/qwen-voice/base-model'))
    ref=V/'artifacts/opening-v002/voices/B02.wav';rm=json.loads(ref.with_suffix('.json').read_text());mx.random.seed(43+i)
    chunks=list(model.generate(text=meta['text'],lang_code='English',ref_audio=str(ref),ref_text=rm['text'],temperature=.65,max_tokens=280));a=np.concatenate([np.asarray(c.audio).reshape(-1) for c in chunks]);sf.write(dst,a,chunks[0].sample_rate,subtype='PCM_24');meta.update(reference=str(ref),reference_sha256=hashlib.sha256(ref.read_bytes()).hexdigest(),seconds=len(a)/chunks[0].sample_rate,selected_for_final=False,heard_by_agent=False)
   else:shutil.copy2(src,dst)

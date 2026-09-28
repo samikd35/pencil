@@ -29,7 +29,7 @@ LINES=[
 if __name__=='__main__':
  import mlx.core as mx,numpy as np,soundfile as sf
  from mlx_audio.tts.utils import load_model
- model=load_model(str(V.parents[3]/'.runtime/qwen-voice/base-model'))
+ model=load_model(str(Path.home()/'Models/qwen-voice/base-model'))
  for idx,(ident,sid,role,words,refid) in enumerate(LINES):
   out=O/'voices'/f'{ident}.wav'
   if out.exists():continue

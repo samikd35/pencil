@@ -4,7 +4,7 @@ import json,time,hashlib
 import mlx.core as mx
 import numpy as np,soundfile as sf
 from mlx_audio.tts.utils import load_model
-V=Path(__file__).resolve().parents[1];O=V/'artifacts/dialogue-v018';R=V.parents[3]/'.runtime/qwen-voice';old=V/'artifacts/opening-v002/voices'
+V=Path(__file__).resolve().parents[1];O=V/'artifacts/dialogue-v018';R=Path.home()/'Models/qwen-voice';old=V/'artifacts/opening-v002/voices'
 lines=[
 ('B02','ARTETA',"This year, no excuses. I'm lifting that trophy, not applauding somebody else!"),
 ('B03','ARTETA',"Bottles? Three years finishing second, and you've made us a subscription?"),
