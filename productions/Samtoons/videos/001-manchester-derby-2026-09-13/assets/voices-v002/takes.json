@@ -1,0 +1,51 @@
+[
+  {
+    "id": "bruno",
+    "text": "REF! REF!",
+    "description": "A young adult male footballer with a bright, slightly raspy voice, SHOUTING furiously across a football pitch to get the referee's attention. Two explosive projected calls, the second louder and more outraged. Strong breath pressure, sharp attack and a stretched vowel. Comic theatrical indignation. This is a full-throated shout, not ordinary speech. Clean dry recording, no crowd.",
+    "event_id": "164f046dfd4445b789ab2fedff360610",
+    "engine": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+    "host": "https://qwen-qwen3-tts.hf.space",
+    "api": "generate_voice_design",
+    "license": "Apache-2.0",
+    "heard_by_agent": false,
+    "path": "assets/voices-v002/bruno.wav",
+    "sha256": "48e802d3bac62f3e8cc8e8fa143a8b1e64928295ce858ee5e8d78ee27e8a02f9",
+    "duration_seconds": 1.0707083333333334,
+    "processing": "silenceremove=start_periods=1:start_duration=0.015:start_threshold=-45dB:start_silence=0.025,areverse,silenceremove=start_periods=1:start_duration=0.015:start_threshold=-45dB:start_silence=0.06,areverse,highpass=f=65,loudnorm=I=-17:TP=-3:LRA=12,afade=t=in:d=0.005"
+  },
+  {
+    "id": "oliver",
+    "text": "I'm so... so sorry!",
+    "description": "An adult British English man with a thin, pinched mid-high voice. He is tearfully begging for forgiveness, on the edge of a ridiculous emotional breakdown. His breath catches before the second so, his voice trembles and cracks on sorry into a pleading whimper. Play this as an embarrassed man trying and failing to hold back tears. Urgent and compressed, about two seconds. Clean dry close microphone, no music.",
+    "event_id": "99cb09eeea184791be361c875b88c413",
+    "engine": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+    "host": "https://qwen-qwen3-tts.hf.space",
+    "api": "generate_voice_design",
+    "license": "Apache-2.0",
+    "heard_by_agent": false,
+    "path": "assets/voices-v002/oliver.wav",
+    "sha256": "7113136f76c81f30d2958820a2d0930046fbedfe087896ee6be4fba63916600d",
+    "duration_seconds": 3.013625,
+    "processing": "silenceremove=start_periods=1:start_duration=0.015:start_threshold=-45dB:start_silence=0.025,areverse,silenceremove=start_periods=1:start_duration=0.015:start_threshold=-45dB:start_silence=0.06,areverse,highpass=f=65,loudnorm=I=-21:TP=-3:LRA=12,afade=t=in:d=0.005"
+  },
+  {
+    "id": "carrick",
+    "text": "Any points with that?",
+    "description": "A middle-aged British English man with a low, slightly gravelly voice and a restrained northern English accent. Bone-dry sarcasm, fed up but completely controlled. Deliver this short question as a cutting comeback, stress POINTS, then let with that fall dismissively. Brisk, about one and a half seconds, no introductory breath or extra words. A deadpan comic punchline. Clean dry close microphone, no music.",
+    "event_id": "eda0065eb86643758172ff2f5ac2f02f",
+    "engine": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+    "host": "https://qwen-qwen3-tts.hf.space",
+    "api": "generate_voice_design",
+    "license": "Apache-2.0",
+    "heard_by_agent": false,
+    "failed_event_ids": [
+      "63bfed61640047d5948e0c7e265cecbc"
+    ],
+    "failure": "Official demo returned event:error with data:null; one fresh attempt.",
+    "path": "assets/voices-v002/carrick.wav",
+    "sha256": "52954c899f277a4473710f9434cead14cf969887b03518c325b1a561dc77d160",
+    "duration_seconds": 1.09875,
+    "processing": "silenceremove=start_periods=1:start_duration=0.015:start_threshold=-45dB:start_silence=0.025,areverse,silenceremove=start_periods=1:start_duration=0.015:start_threshold=-45dB:start_silence=0.06,areverse,highpass=f=65,loudnorm=I=-22:TP=-3:LRA=12,afade=t=in:d=0.005"
+  }
+]

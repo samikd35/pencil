@@ -1,0 +1,33 @@
+{
+  "id": "chibi",
+  "catalog_version": 1,
+  "settings": {
+    "design": "chibi",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "reviewer": "assistant",
+  "reason": "Representative style chosen under the user\u2019s delegated eight-step workflow implementation authority",
+  "files": {
+    "recipe.md": {
+      "path": "assets/style-selections/v001/recipe.md",
+      "sha256": "b378de784c9889f75ea8f4e76c5dd726b217d23db5d90194fd888a086bd84dba"
+    },
+    "construction.md": {
+      "path": "assets/style-selections/v001/construction.md",
+      "sha256": "4c9c3fcf02590e5ed499e026e88ab7b3416e6bf248338f28acb9328d7a60a88d"
+    },
+    "sample.png": {
+      "path": "assets/style-selections/v001/sample.png",
+      "sha256": "58765144aea7af0bf64bedbeb42174ec7cf888270db4a4abe5fd93bc970ae0af"
+    },
+    "option.json": {
+      "path": "assets/style-selections/v001/option.json",
+      "sha256": "42eb641dcc096622d5861c3ba88c5019b5ec9b775d64b34c2dcc7f9ef57f0f79"
+    },
+    "build_samples.py": {
+      "path": "assets/style-selections/v001/build_samples.py",
+      "sha256": "3d0cd75ae132eb78cdec3c5c15657eea57e5b467779f0c7f4a6dfb675dd80b83"
+    }
+  }
+}

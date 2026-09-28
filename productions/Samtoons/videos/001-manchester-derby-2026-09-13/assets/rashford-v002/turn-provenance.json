@@ -1,0 +1,17 @@
+{
+  "method": "Built-in image generation; full-body corrective drawings inspected before binding.",
+  "variants": [
+    {
+      "file": "temple-front.png",
+      "prompt": "Create one corrective animation drawing by editing this exact full-body Marcus Rashford underpainting. Preserve 1024x1536 canvas, every pixel of torso, kit number 9, relaxed image-left arm, both legs and boots, figure scale/location, cel-shaded line quality, dark skin and short fade hairstyle. Change ONLY the head/neck and the touching hand: rotate his head from its current image-right three-quarter view to FACE STRAIGHT TOWARD THE VIEWER, anatomically natural neck connection, symmetrical ears visible, nose now centrally positioned. Keep head same width and height and hair size. The index finger of his image-right raised hand continues touching the same anatomical temple but adapts to the now front-view head. Preserve smoothly connected shoulder, upper arm, elbow, forearm and wrist. Keep areas for BOTH EYES, EYEBROWS AND MOUTH BLANK because editable facial features will be added in Blender. Face has nose/ears/jaw/hair only. This is a matched animation drawing, not a redesigned person. Transparent background, full uncut body, no labels, no white mat, no extra figures."
+    },
+    {
+      "file": "temple-turn.png",
+      "prompt": "Create one matched in-between full-body animation drawing of Marcus Rashford from these two supplied drawings. First reference is looking three-quarter to image-right, second faces straight forward. Draw the head halfway between those orientations: facing just 15 degrees toward image-right, both ears partly visible, nose slightly right of centre. The image-right raised index fingertip continues to touch his temple; natural wrist/elbow/shoulder continuity. Keep eyes, eyebrows and mouth areas blank for native animation features. Preserve FIRST reference's exact torso, collar, kit logos, number 9 shorts, relaxed image-left arm, legs, boots, silhouette proportions, hairline and cel shading. Preserve 1024x1536 registration and full figure position. No different outfit, extra people or labels. Transparent background. This is an in-between for a head turn, not a redesign."
+    },
+    {
+      "file": "keeper-left.png",
+      "prompt": "Edit the supplied full-body goalkeeper Donnarumma animation underpainting into a matched three-quarter LEFT-FACING view, looking toward a goalpost to the LEFT OF THE IMAGE. Turn his head AND shoulders/torso/hips/feet naturally toward image-left about 30 degrees, not a mirror image of the shirt. Preserve exact person identity, beard hairstyle dark/light eyebrow area, pink Manchester City long-sleeve goalkeeper kit, unmirrored readable ETIHAD AIRWAYS chest text and Puma/city logos, number 1 shorts, white gloves and boots, complete connected figure, same simple refined cel-shaded football caricature style. Arms comfortably relaxed at sides with elbows softly bent. Both boots planted. Keep canvas 1024x1536, floor at y1505, head top near y18, neck centre near x510/y281. Keep eye, eyebrow and mouth regions BLANK for editable animation expressions, preserving nose/ears/hair/beard. Draw full body on transparent background, no detached components, no circular joint covers, no extra props. This is the same goalkeeper seen from the other side, not a redesign."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "generator": "built-in image_gen",
+  "purpose": "Neutral whole-character drawings for v016-style fitted native rigs",
+  "status": "adopted into v021 review candidate; not separately user approved",
+  "references": [
+    "assets/rig-art-v012/arteta-gyokeres.png",
+    "assets/film-acting-v001/football.png",
+    "assets/film-acting-v001/wall.png"
+  ],
+  "files": {
+    "wall-prompt.txt": "b4d240c1d453d27eefe079b4fe33eae451e358df3903723bed58af9aad43971b",
+    "wall.png": "110f3d31fd1691dd678c9ba7708c95e19b768347eed5e01356ae2141f1c35015",
+    "football.png": "addf6498320bce8930683f80b1573cd9716f67d8d743a9142d08e59c468fc7c2",
+    "football-prompt.txt": "c151af643259bfd8fe633d79b0e9bff6a0a65ae1de0edfcefc859d781834ea39"
+  }
+}

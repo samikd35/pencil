@@ -1,0 +1,23 @@
+{
+  "text": "That's not relevant.",
+  "direction": "",
+  "seed": 241102,
+  "sample_rate": 24000,
+  "duration_seconds": 1.36,
+  "load_seconds": 9.953806375000568,
+  "generation_seconds": 23.462918790999538,
+  "peak_memory_bytes": 4188129761,
+  "model_source": {
+    "repository": "mlx-community/Qwen3-TTS-12Hz-0.6B-Base-4bit",
+    "revision": "0d6bb6fe33f92d47a507e23b9148940e8366ab5b",
+    "tokenizer": "Shared existing Qwen12Hz tokenizer, model speech_tokenizer symlink",
+    "method": "Reference-conditioned synthetic character voice; original opening B02 remains identity anchor"
+  },
+  "sha256": "e105915d89724c4647eb4b7ac95c243bd5d5c47bab520cd7a0a176f124389239",
+  "heard_by_agent": false,
+  "processing": "Unprocessed local model output; no gain or pitch change",
+  "reference_wav": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/003-barca-emergency-meeting/assets/voices-v001/muller-call.wav",
+  "reference_text": "Eight goals. A very good night.",
+  "reference_sha256": "2ecf7c478d36fc0154f80a2db8af29d388a194feaa0ae572eed443567f5aa0f6",
+  "direction_applied": false
+}

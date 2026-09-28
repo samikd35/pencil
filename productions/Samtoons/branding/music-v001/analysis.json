@@ -1,0 +1,98 @@
+{
+  "status": "selected by user for animated-v002 on 2026-09-22",
+  "user_selection": "I love the motion in the music.",
+  "sources": {
+    "intro-gemini.mp3": {
+      "sha256": "510b978e36afdc9028cc9bc73c35ce4447c9d9800ee5a93e842742a127eba6da",
+      "duration_seconds": 61.283208
+    },
+    "outro-gemini.mp3": {
+      "sha256": "adb8758a19670b9aa63b45256dc0201bccdc388a0b5cd5ed7284759baac88771",
+      "duration_seconds": 59.141167
+    }
+  },
+  "selections": {
+    "intro": {
+      "source_interval_seconds": [
+        0.32,
+        2.72
+      ],
+      "tempo_factor": 1.28,
+      "review_signal_activity_seconds": [
+        0.52,
+        1.6
+      ]
+    },
+    "outro": {
+      "source_interval_seconds": [
+        2.65,
+        14.65
+      ],
+      "opening_duck_seconds": 1.5,
+      "fade_out_seconds": [
+        11.55,
+        12.0
+      ]
+    }
+  },
+  "outputs": {
+    "intro-review.mp4": {
+      "duration_seconds": 3.0,
+      "sha256": "1bb36669784fe4490a170781748eb98c9d5045ba30bae234e1a644b73fd936b3",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "24/1",
+            "nb_frames": "72"
+          },
+          {
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 2,
+            "r_frame_rate": "0/0",
+            "nb_frames": "142"
+          }
+        ],
+        "format": {
+          "duration": "3.000000"
+        }
+      }
+    },
+    "outro-review.mp4": {
+      "duration_seconds": 12.0,
+      "sha256": "53d66beb89b1e81ae96a2910be6165e67d7e6ef09d9048f9b6ff62445b8055b0",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "24/1",
+            "nb_frames": "288"
+          },
+          {
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 2,
+            "r_frame_rate": "0/0",
+            "nb_frames": "564"
+          }
+        ],
+        "format": {
+          "duration": "12.000000"
+        }
+      }
+    },
+    "intro-outro-review.mp4": {
+      "duration_seconds": 15.021333,
+      "sha256": "688e8a8eba94470d919e6172fcbeb51a2a42f4c4141ffc0805309901ba5859f7"
+    }
+  }
+}

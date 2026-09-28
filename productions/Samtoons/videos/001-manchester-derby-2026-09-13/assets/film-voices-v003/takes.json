@@ -1,0 +1,14 @@
+[
+  {
+    "id": "var",
+    "character": "VAR",
+    "text": "Onside. No touch. Enzo was sleeping. Goal.",
+    "direction": "Middle-aged British man, dry clipped bureaucratic diction, thin precise voice. An officious British official issuing a ludicrously overconfident verdict. ONSIDE. NO TOUCH. Then dismiss the objection with smug certainty: ENZO was SLEEPING. A short deliberate pause, then an emphatic final GOAL. Dry comic finality, crisp authoritative diction, no soft fading endings.",
+    "path": "assets/film-voices-v003/var.wav",
+    "duration": 4.191291666666666,
+    "frames": 201182,
+    "sample_rate": 48000,
+    "sha256": "7b6a4e0b8228ebd18dcef488c1a70bea852f1b8bd7b01181f372afefdd1d4080",
+    "review": "pending combined animatic"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "method": "Built-in image_gen; original project artwork",
+  "prompts": [
+    "Use case: illustration-story. Asset: one individual full-body animation underpainting of Marcus Rashford, not a sheet of multiple characters. Input 1 is reference for Rashford identity (third character, United number 10); input 2 is reference for the accepted unified body and line-art quality. Create a portrait 1024x1536 composition with ONE complete Rashford at center, hair to studs entirely visible with small margins. Recognizable dark brown skin, short black close fade with curly top, long slim face and nose. Entire figure consistently drawn as a clean expressive football cartoon, about 5.3 heads tall, simple athletic limbs. Front-facing body, head turned slightly to viewer right. Neutral relaxed A stance: arms angled 25 degrees out from torso, gentle natural elbows, hands fully visible, feet apart. Continuous natural neck, shoulders, sleeves, forearms, wrists, hips and legs; NO mechanical joint circles, NO separated pieces, no pose-diagram markings. United red short sleeve shirt with white shoulder stripes, small club badge, white Snapdragon sponsor, white shorts number 10 with red trim, black socks with red/white tops, coral-red football boots. Match the second reference's coordinated illustration and simple cel shading; avoid photorealism. This is an underpainting for native editable facial features: leave eye/brow/mouth regions blank skin, retain ears/nose/hair and face silhouette. No drawn eyes, eyebrows, mouth; these will be authored in Blender. Solid opaque figure on genuinely transparent background, crisp antialiasing; no backdrop, glow, shadow, floor, ball, label or other player. High-quality continuous silhouette throughout.",
+    "Edit only the shorts jersey number on this Marcus Rashford animation underpainting from 10 to 9, to match this film's verified match roster. Keep absolutely everything else identical: figure pose, proportions, complete drawing, skin, hair, kit, boots, blank eye/brow/mouth regions for native Blender face controls, and the original transparency. No redesign, no additional text.",
+    "Edit this existing full-body Marcus Rashford animation underpainting to make ONE corrective acting pose. Preserve exact canvas 1024x1536, head shape/hair/nose and location, neck/torso/kit/number 9, waist, both legs and boots, skin, outline quality and transparency. Keep face eye/brow/mouth regions blank for Blender overlays. Change only the arm on the RIGHT SIDE OF THE IMAGE: bend it up naturally, elbow out to the image-right, index finger pointing upward and gently TOUCHING the right temple of his own head; other fingers curled into a natural loose fist. This is Rashford's recognizable temple-point celebration pose. Shoulder-to-sleeve-to-upper-arm-to-elbow-to-forearm-to-wrist-to-hand all must be naturally connected with smooth unified contours and matching cel shading. Arm stays outside torso and hand lies beside temple, not over nose or middle of face. Left image arm stays exactly at its original relaxed A pose. No circles over joints, no detached cutout parts, no extra fingers, no additional objects, no motion marks. Complete figure preserved at identical size and position. Transparent background."
+  ],
+  "selected": [
+    "neutral.png",
+    "temple.png"
+  ],
+  "references": [
+    "../film-cast-v001/cast-1.png",
+    "../action-a-v001/mbeumo-left.png"
+  ],
+  "scope": "Full-body underpaintings for native face controls, fitted deformation and corrective temple pose; not yet user-reviewed motion.",
+  "jersey": "9 per current match-facts.md roster"
+}

@@ -1,0 +1,16 @@
+{
+  "style": "chibi",
+  "frames": 240,
+  "fps": 24,
+  "duration": 10,
+  "complete_decode": "passed",
+  "native_checks": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/proofs/workflow-v001/chibi/animatic-v001/checks.json",
+  "selected_settings": {
+    "design": "chibi",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "authoritative_sound_pcm": "identical to original",
+  "listening": "Not performed; original soundtrack preserved",
+  "visual_review": "Pending sequential-frame review"
+}

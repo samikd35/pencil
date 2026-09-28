@@ -1,0 +1,40 @@
+{
+  "status": "review candidate, not approved",
+  "construction": {
+    "ordinary_action": "Complete illustrated source on source-fitted native 14-bone rig; continuous regular UV grid, locally smoothed semantic weights; native mouth and same-source blink.",
+    "extreme_action": "16 complete matching action drawings; pose exposures and continuous registered travel/contact compensation adapted from accepted Bruno v003.",
+    "not_claimed": "Not native hand-drawn Grease Pencil; not a new universal rig or approved cast baseline."
+  },
+  "sources": [
+    {
+      "path": "assets/rig-art-v012/arteta-gyokeres.png",
+      "sha256": "5c813157102504d3b01e0d46c157947342398b702642f24d7012c0202b969be2"
+    },
+    {
+      "path": "assets/gyokeres-proof-v015/run.png",
+      "sha256": "1cdbb56a51a1db2b0d6479eebe99736c4d5825c52e89ed22db25bb45c58edcc5"
+    },
+    {
+      "path": "assets/gyokeres-proof-v015/jump.png",
+      "sha256": "af7b57ddab903ebe14b83beaad8f49e1e7cb836e1b699cde09d6c1040b9b8ac8"
+    },
+    {
+      "path": "artifacts/pose-action-v003/pose-action-v003.blend",
+      "sha256": "1711b486913bbbc1ec3524e9516262be681d8d870712b28626e771c3f6d579b8"
+    },
+    {
+      "path": "artifacts/pose-action-v003/motion.json",
+      "sha256": "035e99e4fbf21b51920300139b13e152dc0fb65e746607c0fbd82aff637dad56"
+    },
+    {
+      "path": "artifacts/animatic-v001/voices/L08-mix.wav",
+      "sha256": "f09c26a9b03e1be5d216d76f56da6858baa38b7c7b41148bae85df1a8102e6b7"
+    }
+  ],
+  "generated_sheets": {
+    "run": "/Users/samikd/.codex/generated_images/01a0b4e0-f8a3-77d1-8f65-78aac6e1a954/exec-4d945537-4d55-49bb-a4e0-a04f57d49968.png",
+    "jump": "/Users/samikd/.codex/generated_images/01a0b4e0-f8a3-77d1-8f65-78aac6e1a954/exec-016da00f-6a2a-4540-a74a-795e237639e6.png",
+    "direction": "Eight complete Gyokeres poses each, derived from the complete rig-art-v012 left character and Bruno action layout. Preserve swept blond hair, stubble, Arsenal kit, shorts 14 and boots. Transparent alpha inspected, not assumed."
+  },
+  "scope": "One character, one view family; no Arteta/full-batch adoption before review."
+}

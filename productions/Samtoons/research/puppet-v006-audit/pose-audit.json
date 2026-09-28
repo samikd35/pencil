@@ -1,0 +1,3395 @@
+{
+  "source_movie_sha256": "ea22868317dce482b57c28f503dc1df44b7aea8637e44386ea42b4e1fb02bcd5",
+  "actors": {
+    "Muller": {
+      "max_joint_gap_source_pixels": 0,
+      "frames_at_limit": 91,
+      "frames_over_one_degree_error": 76,
+      "worst": {
+        "frame": 228,
+        "desired_degrees": 101.410048,
+        "actual_degrees": 133.82534900400788,
+        "error_degrees": 32.41530100400786,
+        "relative_degrees": -40.00002723745149
+      },
+      "frames": [
+        {
+          "frame": 1,
+          "desired_degrees": 93,
+          "actual_degrees": 93.00000351635202,
+          "error_degrees": 3.5163520237802004e-06,
+          "relative_degrees": -39.293053188740586
+        },
+        {
+          "frame": 2,
+          "desired_degrees": 93.03207464644991,
+          "actual_degrees": 93.03208050315858,
+          "error_degrees": 5.85670866826149e-06,
+          "relative_degrees": -39.3299412804596
+        },
+        {
+          "frame": 3,
+          "desired_degrees": 93.1236331826797,
+          "actual_degrees": 93.12362455680965,
+          "error_degrees": 8.625870066225616e-06,
+          "relative_degrees": -39.43508567941085
+        },
+        {
+          "frame": 4,
+          "desired_degrees": 93.26767750400933,
+          "actual_degrees": 93.26767155921127,
+          "error_degrees": 5.944798061818801e-06,
+          "relative_degrees": -39.60002371189595
+        },
+        {
+          "frame": 5,
+          "desired_degrees": 93.45720950575885,
+          "actual_degrees": 93.4572136054511,
+          "error_degrees": 4.09969226211615e-06,
+          "relative_degrees": -39.81618773840403
+        },
+        {
+          "frame": 6,
+          "desired_degrees": 93.68523108324828,
+          "actual_degrees": 93.76023864283677,
+          "error_degrees": 0.07500755958847094,
+          "relative_degrees": -39.99999255053804
+        },
+        {
+          "frame": 7,
+          "desired_degrees": 93.94474413179763,
+          "actual_degrees": 94.31260749181816,
+          "error_degrees": 0.36786336002052167,
+          "relative_degrees": -39.99999513613489
+        },
+        {
+          "frame": 8,
+          "desired_degrees": 94.22875054672693,
+          "actual_degrees": 94.91503121420314,
+          "error_degrees": 0.6862806674762112,
+          "relative_degrees": -39.999993548037686
+        },
+        {
+          "frame": 9,
+          "desired_degrees": 94.53025222335617,
+          "actual_degrees": 95.55219691161359,
+          "error_degrees": 1.0219446882574061,
+          "relative_degrees": -40.000008266097446
+        },
+        {
+          "frame": 10,
+          "desired_degrees": 94.8422510570054,
+          "actual_degrees": 96.209068874628,
+          "error_degrees": 1.3668178176226036,
+          "relative_degrees": -40.00000969537334
+        },
+        {
+          "frame": 11,
+          "desired_degrees": 95.1577489429946,
+          "actual_degrees": 96.8706866979498,
+          "error_degrees": 1.7129377549551918,
+          "relative_degrees": -40.000001076276405
+        },
+        {
+          "frame": 12,
+          "desired_degrees": 95.46974777664383,
+          "actual_degrees": 97.52245328328894,
+          "error_degrees": 2.052705506645111,
+          "relative_degrees": -39.99999095235472
+        },
+        {
+          "frame": 13,
+          "desired_degrees": 95.77124945327307,
+          "actual_degrees": 98.14985831813891,
+          "error_degrees": 2.3786088648658392,
+          "relative_degrees": -40.00000148793771
+        },
+        {
+          "frame": 14,
+          "desired_degrees": 96.05525586820237,
+          "actual_degrees": 98.73871418134254,
+          "error_degrees": 2.683458313140193,
+          "relative_degrees": -40.00000243245284
+        },
+        {
+          "frame": 15,
+          "desired_degrees": 96.31476891675172,
+          "actual_degrees": 99.27503839008577,
+          "error_degrees": 2.9602694733340513,
+          "relative_degrees": -39.99999486065852
+        },
+        {
+          "frame": 16,
+          "desired_degrees": 96.54279049424115,
+          "actual_degrees": 99.74485839335763,
+          "error_degrees": 3.2020678991164857,
+          "relative_degrees": -39.99999808486561
+        },
+        {
+          "frame": 17,
+          "desired_degrees": 96.73232249599067,
+          "actual_degrees": 100.13435683511685,
+          "error_degrees": 3.4020343391261747,
+          "relative_degrees": -40.00000971900799
+        },
+        {
+          "frame": 18,
+          "desired_degrees": 96.8763668173203,
+          "actual_degrees": 100.42980052271953,
+          "error_degrees": 3.553433705399243,
+          "relative_degrees": -40.00000093309802
+        },
+        {
+          "frame": 19,
+          "desired_degrees": 96.96792535355009,
+          "actual_degrees": 100.61729222933256,
+          "error_degrees": 3.6493668757824764,
+          "relative_degrees": -40.00000933319304
+        },
+        {
+          "frame": 20,
+          "desired_degrees": 97.0,
+          "actual_degrees": 100.68293483543131,
+          "error_degrees": 3.682934835431297,
+          "relative_degrees": -40.00001990249867
+        },
+        {
+          "frame": 21,
+          "desired_degrees": 96.85733882030178,
+          "actual_degrees": 100.43648582919107,
+          "error_degrees": 3.5791470088892936,
+          "relative_degrees": -40.00002767825597
+        },
+        {
+          "frame": 22,
+          "desired_degrees": 96.45130315500685,
+          "actual_degrees": 99.74168472673854,
+          "error_degrees": 3.2903815717317,
+          "relative_degrees": -39.99999601107607
+        },
+        {
+          "frame": 23,
+          "desired_degrees": 95.81481481481481,
+          "actual_degrees": 98.67239396164665,
+          "error_degrees": 2.8575791468318243,
+          "relative_degrees": -40.00000140391619
+        },
+        {
+          "frame": 24,
+          "desired_degrees": 94.98079561042525,
+          "actual_degrees": 97.30890920140207,
+          "error_degrees": 2.328113590976841,
+          "relative_degrees": -40.000006359039624
+        },
+        {
+          "frame": 25,
+          "desired_degrees": 93.98216735253772,
+          "actual_degrees": 95.7346007568655,
+          "error_degrees": 1.7524334043278031,
+          "relative_degrees": -40.0000087065099
+        },
+        {
+          "frame": 26,
+          "desired_degrees": 92.85185185185185,
+          "actual_degrees": 94.03226437437806,
+          "error_degrees": 1.1804125225262112,
+          "relative_degrees": -39.99998540837343
+        },
+        {
+          "frame": 27,
+          "desired_degrees": 91.62277091906722,
+          "actual_degrees": 92.28073013095666,
+          "error_degrees": 0.6579592118894197,
+          "relative_degrees": -40.00000413529808
+        },
+        {
+          "frame": 28,
+          "desired_degrees": 90.3278463648834,
+          "actual_degrees": 90.55154104182888,
+          "error_degrees": 0.22369467694548462,
+          "relative_degrees": -39.99999924848312
+        },
+        {
+          "frame": 29,
+          "desired_degrees": 89.0,
+          "actual_degrees": 89.00000091779798,
+          "error_degrees": 9.17797990496183e-07,
+          "relative_degrees": -39.90595493187613
+        },
+        {
+          "frame": 30,
+          "desired_degrees": 87.6721536351166,
+          "actual_degrees": 87.6721616164857,
+          "error_degrees": 7.981369094522961e-06,
+          "relative_degrees": -39.72061994769891
+        },
+        {
+          "frame": 31,
+          "desired_degrees": 86.37722908093278,
+          "actual_degrees": 86.37722352688476,
+          "error_degrees": 5.554048016165325e-06,
+          "relative_degrees": -39.6700644738024
+        },
+        {
+          "frame": 32,
+          "desired_degrees": 85.14814814814815,
+          "actual_degrees": 85.14814576737373,
+          "error_degrees": 2.380774418497822e-06,
+          "relative_degrees": -39.74333090777651
+        },
+        {
+          "frame": 33,
+          "desired_degrees": 84.01783264746228,
+          "actual_degrees": 84.01784298339885,
+          "error_degrees": 1.0335936565297743e-05,
+          "relative_degrees": -39.917379290954855
+        },
+        {
+          "frame": 34,
+          "desired_degrees": 83.01920438957475,
+          "actual_degrees": 83.17890666991084,
+          "error_degrees": 0.15970228033609146,
+          "relative_degrees": -40.00000930844707
+        },
+        {
+          "frame": 35,
+          "desired_degrees": 82.18518518518519,
+          "actual_degrees": 82.61645811896668,
+          "error_degrees": 0.4312729337814858,
+          "relative_degrees": -39.9999921272011
+        },
+        {
+          "frame": 36,
+          "desired_degrees": 81.54869684499315,
+          "actual_degrees": 82.23928596802718,
+          "error_degrees": 0.6905891230340444,
+          "relative_degrees": -39.99998468386196
+        },
+        {
+          "frame": 37,
+          "desired_degrees": 81.14266117969822,
+          "actual_degrees": 82.040537016821,
+          "error_degrees": 0.8978758371227968,
+          "relative_degrees": -39.99999969099334
+        },
+        {
+          "frame": 38,
+          "desired_degrees": 81.0,
+          "actual_degrees": 82.02015122670039,
+          "error_degrees": 1.020151226700392,
+          "relative_degrees": -40.00000028807724
+        },
+        {
+          "frame": 39,
+          "desired_degrees": 81.02336,
+          "actual_degrees": 82.07454967615526,
+          "error_degrees": 1.0511896761552748,
+          "relative_degrees": -40.00000049329614
+        },
+        {
+          "frame": 40,
+          "desired_degrees": 81.09088,
+          "actual_degrees": 82.10529160662206,
+          "error_degrees": 1.0144116066220477,
+          "relative_degrees": -39.99998955549405
+        },
+        {
+          "frame": 41,
+          "desired_degrees": 81.19872,
+          "actual_degrees": 82.12741507267185,
+          "error_degrees": 0.9286950726718715,
+          "relative_degrees": -39.99998657477113
+        },
+        {
+          "frame": 42,
+          "desired_degrees": 81.34304,
+          "actual_degrees": 82.14226519013913,
+          "error_degrees": 0.7992251901391114,
+          "relative_degrees": -40.00000240838966
+        },
+        {
+          "frame": 43,
+          "desired_degrees": 81.52,
+          "actual_degrees": 82.15139808770779,
+          "error_degrees": 0.6313980877077938,
+          "relative_degrees": -40.000000931347294
+        },
+        {
+          "frame": 44,
+          "desired_degrees": 81.72576,
+          "actual_degrees": 82.15629105485147,
+          "error_degrees": 0.43053105485148535,
+          "relative_degrees": -40.000000354486694
+        },
+        {
+          "frame": 45,
+          "desired_degrees": 81.95648,
+          "actual_degrees": 82.15841101868403,
+          "error_degrees": 0.20193101868403573,
+          "relative_degrees": -39.99998795973708
+        },
+        {
+          "frame": 46,
+          "desired_degrees": 82.20832,
+          "actual_degrees": 82.20831945826741,
+          "error_degrees": 5.417325894541136e-07,
+          "relative_degrees": -39.95081694846311
+        },
+        {
+          "frame": 47,
+          "desired_degrees": 82.47744,
+          "actual_degrees": 82.47743115141192,
+          "error_degrees": 8.848588095133891e-06,
+          "relative_degrees": -39.68224682113162
+        },
+        {
+          "frame": 48,
+          "desired_degrees": 82.76,
+          "actual_degrees": 82.76000342059463,
+          "error_degrees": 3.4205946235488227e-06,
+          "relative_degrees": -39.40109513488964
+        },
+        {
+          "frame": 49,
+          "desired_degrees": 83.05216,
+          "actual_degrees": 83.05217051624797,
+          "error_degrees": 1.0516247982650384e-05,
+          "relative_degrees": -39.11200694700255
+        },
+        {
+          "frame": 50,
+          "desired_degrees": 83.35008,
+          "actual_degrees": 83.35009127272973,
+          "error_degrees": 1.1272729722122676e-05,
+          "relative_degrees": -38.81940127519187
+        },
+        {
+          "frame": 51,
+          "desired_degrees": 83.64992,
+          "actual_degrees": 83.64992191052069,
+          "error_degrees": 1.910520694536899e-06,
+          "relative_degrees": -38.5274333860104
+        },
+        {
+          "frame": 52,
+          "desired_degrees": 83.94784,
+          "actual_degrees": 83.9478419472084,
+          "error_degrees": 1.9472084034077852e-06,
+          "relative_degrees": -38.2399199351707
+        },
+        {
+          "frame": 53,
+          "desired_degrees": 84.24,
+          "actual_degrees": 84.23999974058955,
+          "error_degrees": 2.594104557829269e-07,
+          "relative_degrees": -37.96053026717718
+        },
+        {
+          "frame": 54,
+          "desired_degrees": 84.52256,
+          "actual_degrees": 84.52256610008698,
+          "error_degrees": 6.100086977767205e-06,
+          "relative_degrees": -37.69258946442482
+        },
+        {
+          "frame": 55,
+          "desired_degrees": 84.79168,
+          "actual_degrees": 84.79168041449743,
+          "error_degrees": 4.1449743548582774e-07,
+          "relative_degrees": -37.43925758945238
+        },
+        {
+          "frame": 56,
+          "desired_degrees": 85.04352,
+          "actual_degrees": 85.04352640569086,
+          "error_degrees": 6.405690839983436e-06,
+          "relative_degrees": -37.20349845037211
+        },
+        {
+          "frame": 57,
+          "desired_degrees": 85.27424,
+          "actual_degrees": 85.27424582653542,
+          "error_degrees": 5.8265354141440184e-06,
+          "relative_degrees": -36.9881821599945
+        },
+        {
+          "frame": 58,
+          "desired_degrees": 85.48,
+          "actual_degrees": 85.48000731159753,
+          "error_degrees": 7.311597528314451e-06,
+          "relative_degrees": -36.796017387491524
+        },
+        {
+          "frame": 59,
+          "desired_degrees": 85.65696,
+          "actual_degrees": 85.65695220184725,
+          "error_degrees": 7.798152751092857e-06,
+          "relative_degrees": -36.62987465743501
+        },
+        {
+          "frame": 60,
+          "desired_degrees": 85.80128,
+          "actual_degrees": 85.80129003293426,
+          "error_degrees": 1.0032934255832515e-05,
+          "relative_degrees": -36.49254979399197
+        },
+        {
+          "frame": 61,
+          "desired_degrees": 85.90912,
+          "actual_degrees": 85.9091177438203,
+          "error_degrees": 2.2561796981790394e-06,
+          "relative_degrees": -36.387174776816735
+        },
+        {
+          "frame": 62,
+          "desired_degrees": 85.97664,
+          "actual_degrees": 85.97664206248422,
+          "error_degrees": 2.062484213638527e-06,
+          "relative_degrees": -36.31630459388927
+        },
+        {
+          "frame": 63,
+          "desired_degrees": 86.0,
+          "actual_degrees": 85.99998956080971,
+          "error_degrees": 1.0439190305078228e-05,
+          "relative_degrees": -36.283374498474416
+        },
+        {
+          "frame": 64,
+          "desired_degrees": 85.98023971493359,
+          "actual_degrees": 85.98023988381432,
+          "error_degrees": 1.6888071741050226e-07,
+          "relative_degrees": -36.288137240964886
+        },
+        {
+          "frame": 65,
+          "desired_degrees": 85.92355037252996,
+          "actual_degrees": 85.92354049422437,
+          "error_degrees": 9.878305604615889e-06,
+          "relative_degrees": -36.32530109144188
+        },
+        {
+          "frame": 66,
+          "desired_degrees": 85.83381924198251,
+          "actual_degrees": 85.8338297290538,
+          "error_degrees": 1.048707127893067e-05,
+          "relative_degrees": -36.3918306436244
+        },
+        {
+          "frame": 67,
+          "desired_degrees": 85.71493359248461,
+          "actual_degrees": 85.71493258083629,
+          "error_degrees": 1.01164832244649e-06,
+          "relative_degrees": -36.48481279492712
+        },
+        {
+          "frame": 68,
+          "desired_degrees": 85.57078069322968,
+          "actual_degrees": 85.57078821623071,
+          "error_degrees": 7.523001045228739e-06,
+          "relative_degrees": -36.601167340469715
+        },
+        {
+          "frame": 69,
+          "desired_degrees": 85.40524781341108,
+          "actual_degrees": 85.40523666003969,
+          "error_degrees": 1.1153371389127642e-05,
+          "relative_degrees": -36.73789697316965
+        },
+        {
+          "frame": 70,
+          "desired_degrees": 85.22222222222223,
+          "actual_degrees": 85.2222189856662,
+          "error_degrees": 3.2365560400648974e-06,
+          "relative_degrees": -36.89188270533322
+        },
+        {
+          "frame": 71,
+          "desired_degrees": 85.0255911888565,
+          "actual_degrees": 85.02560194147779,
+          "error_degrees": 1.0752621278697916e-05,
+          "relative_degrees": -37.059984879365274
+        },
+        {
+          "frame": 72,
+          "desired_degrees": 84.8192419825073,
+          "actual_degrees": 84.81923381179841,
+          "error_degrees": 8.170708895249845e-06,
+          "relative_degrees": -37.239008577776474
+        },
+        {
+          "frame": 73,
+          "desired_degrees": 84.60706187236799,
+          "actual_degrees": 84.60706343716791,
+          "error_degrees": 1.564799902098457e-06,
+          "relative_degrees": -37.425562715440854
+        },
+        {
+          "frame": 74,
+          "desired_degrees": 84.39293812763201,
+          "actual_degrees": 84.39294425151824,
+          "error_degrees": 6.123886237219267e-06,
+          "relative_degrees": -37.61632249596207
+        },
+        {
+          "frame": 75,
+          "desired_degrees": 84.1807580174927,
+          "actual_degrees": 84.18076126452323,
+          "error_degrees": 3.2470305200149596e-06,
+          "relative_degrees": -37.80778164127121
+        },
+        {
+          "frame": 76,
+          "desired_degrees": 83.9744088111435,
+          "actual_degrees": 83.97440412521668,
+          "error_degrees": 4.685926825231945e-06,
+          "relative_degrees": -37.996415646325175
+        },
+        {
+          "frame": 77,
+          "desired_degrees": 83.77777777777777,
+          "actual_degrees": 83.77777504619029,
+          "error_degrees": 2.7315874717714905e-06,
+          "relative_degrees": -38.17860020370613
+        },
+        {
+          "frame": 78,
+          "desired_degrees": 83.59475218658892,
+          "actual_degrees": 83.59474631350881,
+          "error_degrees": 5.873080112905882e-06,
+          "relative_degrees": -38.350665959049294
+        },
+        {
+          "frame": 79,
+          "desired_degrees": 83.42921930677034,
+          "actual_degrees": 83.4292086887347,
+          "error_degrees": 1.061803561697161e-05,
+          "relative_degrees": -38.508857884439934
+        },
+        {
+          "frame": 80,
+          "desired_degrees": 83.28506640751539,
+          "actual_degrees": 83.28507203143496,
+          "error_degrees": 5.6239195771468076e-06,
+          "relative_degrees": -38.649431557212665
+        },
+        {
+          "frame": 81,
+          "desired_degrees": 83.16618075801749,
+          "actual_degrees": 83.1661800959358,
+          "error_degrees": 6.620816748181824e-07,
+          "relative_degrees": -38.76862788893939
+        },
+        {
+          "frame": 82,
+          "desired_degrees": 83.07644962747004,
+          "actual_degrees": 83.0764523937979,
+          "error_degrees": 2.766327838799043e-06,
+          "relative_degrees": -38.862649530639324
+        },
+        {
+          "frame": 83,
+          "desired_degrees": 83.01976028506641,
+          "actual_degrees": 83.01975724622388,
+          "error_degrees": 3.0388425216187898e-06,
+          "relative_degrees": -38.927783248872935
+        },
+        {
+          "frame": 84,
+          "desired_degrees": 83.0,
+          "actual_degrees": 83.00000391732081,
+          "error_degrees": 3.917320810842284e-06,
+          "relative_degrees": -38.96030980709511
+        },
+        {
+          "frame": 85,
+          "desired_degrees": 83.02162039144288,
+          "actual_degrees": 83.02161371030697,
+          "error_degrees": 6.681135914732295e-06,
+          "relative_degrees": -38.964885636751276
+        },
+        {
+          "frame": 86,
+          "desired_degrees": 83.0842057350933,
+          "actual_degrees": 83.08420223055109,
+          "error_degrees": 3.504542235077679e-06,
+          "relative_degrees": -38.939505157740165
+        },
+        {
+          "frame": 87,
+          "desired_degrees": 83.184342284934,
+          "actual_degrees": 83.18435192995062,
+          "error_degrees": 9.645016632475745e-06,
+          "relative_degrees": -38.87770679191797
+        },
+        {
+          "frame": 88,
+          "desired_degrees": 83.31861629494766,
+          "actual_degrees": 83.31861676020327,
+          "error_degrees": 4.6525559582732967e-07,
+          "relative_degrees": -38.78271297727156
+        },
+        {
+          "frame": 89,
+          "desired_degrees": 83.48361401911697,
+          "actual_degrees": 83.48360452265723,
+          "error_degrees": 9.496459739466445e-06,
+          "relative_degrees": -38.65783066653463
+        },
+        {
+          "frame": 90,
+          "desired_degrees": 83.67592171142466,
+          "actual_degrees": 83.67591218137933,
+          "error_degrees": 9.53004533243984e-06,
+          "relative_degrees": -38.50642665123226
+        },
+        {
+          "frame": 91,
+          "desired_degrees": 83.89212562585344,
+          "actual_degrees": 83.89213541371936,
+          "error_degrees": 9.78786590621894e-06,
+          "relative_degrees": -38.331768999783435
+        },
+        {
+          "frame": 92,
+          "desired_degrees": 84.12881201638598,
+          "actual_degrees": 84.12880454687702,
+          "error_degrees": 7.4695089438137074e-06,
+          "relative_degrees": -38.137077832352716
+        },
+        {
+          "frame": 93,
+          "desired_degrees": 84.38256713700501,
+          "actual_degrees": 84.38256546675346,
+          "error_degrees": 1.6702515495126136e-06,
+          "relative_degrees": -37.925283474095714
+        },
+        {
+          "frame": 94,
+          "desired_degrees": 84.64997724169322,
+          "actual_degrees": 84.64998736695765,
+          "error_degrees": 1.0125264424232228e-05,
+          "relative_degrees": -37.699144429972485
+        },
+        {
+          "frame": 95,
+          "desired_degrees": 84.92762858443332,
+          "actual_degrees": 84.927632292422,
+          "error_degrees": 3.7079886965329933e-06,
+          "relative_degrees": -37.46120824413247
+        },
+        {
+          "frame": 96,
+          "desired_degrees": 85.21210741920801,
+          "actual_degrees": 85.21211255512301,
+          "error_degrees": 5.135914989295998e-06,
+          "relative_degrees": -37.21358467002691
+        },
+        {
+          "frame": 97,
+          "desired_degrees": 85.5,
+          "actual_degrees": 85.50000163997427,
+          "error_degrees": 1.6399742719386268e-06,
+          "relative_degrees": -36.958230005419956
+        },
+        {
+          "frame": 98,
+          "desired_degrees": 85.78789258079199,
+          "actual_degrees": 85.7878954378707,
+          "error_degrees": 2.8570786980708363e-06,
+          "relative_degrees": -36.69667134508533
+        },
+        {
+          "frame": 99,
+          "desired_degrees": 86.07237141556668,
+          "actual_degrees": 86.0723642890858,
+          "error_degrees": 7.126480880970121e-06,
+          "relative_degrees": -36.43018541243222
+        },
+        {
+          "frame": 100,
+          "desired_degrees": 86.35002275830678,
+          "actual_degrees": 86.3500315818493,
+          "error_degrees": 8.823542515301597e-06,
+          "relative_degrees": -36.1597232639167
+        },
+        {
+          "frame": 101,
+          "desired_degrees": 86.61743286299499,
+          "actual_degrees": 86.61743135277595,
+          "error_degrees": 1.5102190218385658e-06,
+          "relative_degrees": -35.88609755473965
+        },
+        {
+          "frame": 102,
+          "desired_degrees": 86.87118798361402,
+          "actual_degrees": 86.8711909745393,
+          "error_degrees": 2.9909252816651133e-06,
+          "relative_degrees": -35.60983075572113
+        },
+        {
+          "frame": 103,
+          "desired_degrees": 87.10787437414656,
+          "actual_degrees": 87.10787312836983,
+          "error_degrees": 1.2457767297746614e-06,
+          "relative_degrees": -35.331328593746626
+        },
+        {
+          "frame": 104,
+          "desired_degrees": 87.32407828857534,
+          "actual_degrees": 87.32408276629486,
+          "error_degrees": 4.477719528495072e-06,
+          "relative_degrees": -35.05099607142708
+        },
+        {
+          "frame": 105,
+          "desired_degrees": 87.51638598088303,
+          "actual_degrees": 87.51638241149264,
+          "error_degrees": 3.5693904010258848e-06,
+          "relative_degrees": -34.76928755714492
+        },
+        {
+          "frame": 106,
+          "desired_degrees": 87.68138370505234,
+          "actual_degrees": 87.68137902758423,
+          "error_degrees": 4.6774680981798156e-06,
+          "relative_degrees": -34.48678924471456
+        },
+        {
+          "frame": 107,
+          "desired_degrees": 87.815657715066,
+          "actual_degrees": 87.81565283878652,
+          "error_degrees": 4.876279490417801e-06,
+          "relative_degrees": -34.23048523890017
+        },
+        {
+          "frame": 108,
+          "desired_degrees": 87.9157942649067,
+          "actual_degrees": 87.91578477661213,
+          "error_degrees": 9.488294551829313e-06,
+          "relative_degrees": -34.03087289992588
+        },
+        {
+          "frame": 109,
+          "desired_degrees": 87.97837960855712,
+          "actual_degrees": 87.9783754791551,
+          "error_degrees": 4.129402014996231e-06,
+          "relative_degrees": -33.893976509970486
+        },
+        {
+          "frame": 110,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -33.8258739290719
+        },
+        {
+          "frame": 111,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -33.809812294511
+        },
+        {
+          "frame": 112,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -33.80665516477487
+        },
+        {
+          "frame": 113,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -33.797461007951206
+        },
+        {
+          "frame": 114,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -33.78258924402785
+        },
+        {
+          "frame": 115,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -33.76238592421622
+        },
+        {
+          "frame": 116,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -33.737289116972065
+        },
+        {
+          "frame": 117,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -33.70762089027753
+        },
+        {
+          "frame": 118,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -33.67377581270496
+        },
+        {
+          "frame": 119,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -33.636112569489406
+        },
+        {
+          "frame": 120,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -33.59502063191543
+        },
+        {
+          "frame": 121,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -33.55084908386913
+        },
+        {
+          "frame": 122,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -33.50398970818395
+        },
+        {
+          "frame": 123,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -33.454819942479574
+        },
+        {
+          "frame": 124,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -33.403708399446806
+        },
+        {
+          "frame": 125,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -33.3510205188334
+        },
+        {
+          "frame": 126,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -33.29715970009203
+        },
+        {
+          "frame": 127,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -33.242464977770545
+        },
+        {
+          "frame": 128,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -33.187349720137
+        },
+        {
+          "frame": 129,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -33.13216802675865
+        },
+        {
+          "frame": 130,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -33.077344018259915
+        },
+        {
+          "frame": 131,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -33.0232188665848
+        },
+        {
+          "frame": 132,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -32.970185999794445
+        },
+        {
+          "frame": 133,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -32.91866221271002
+        },
+        {
+          "frame": 134,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -32.869003810252934
+        },
+        {
+          "frame": 135,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -32.82161229693962
+        },
+        {
+          "frame": 136,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -32.77687659029454
+        },
+        {
+          "frame": 137,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -32.735187837480076
+        },
+        {
+          "frame": 138,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -32.69693284712392
+        },
+        {
+          "frame": 139,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -32.662503801797776
+        },
+        {
+          "frame": 140,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -32.63230239720314
+        },
+        {
+          "frame": 141,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -32.60671493433864
+        },
+        {
+          "frame": 142,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -32.58616070664225
+        },
+        {
+          "frame": 143,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -32.57095863483226
+        },
+        {
+          "frame": 144,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -32.56156881353555
+        },
+        {
+          "frame": 145,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -32.558346092308106
+        },
+        {
+          "frame": 146,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -32.53427777209229
+        },
+        {
+          "frame": 147,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -32.46454112125669
+        },
+        {
+          "frame": 148,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -32.35283222861387
+        },
+        {
+          "frame": 149,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -32.20267731587695
+        },
+        {
+          "frame": 150,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -32.01761973201991
+        },
+        {
+          "frame": 151,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -31.801199650596814
+        },
+        {
+          "frame": 152,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -31.508575891286895
+        },
+        {
+          "frame": 153,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -31.102634597978696
+        },
+        {
+          "frame": 154,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -30.598185552091174
+        },
+        {
+          "frame": 155,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -30.010103789448902
+        },
+        {
+          "frame": 156,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -29.353390600531988
+        },
+        {
+          "frame": 157,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -28.643312451714085
+        },
+        {
+          "frame": 158,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -27.89559554089918
+        },
+        {
+          "frame": 159,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -27.12649569517005
+        },
+        {
+          "frame": 160,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -26.352930962522162
+        },
+        {
+          "frame": 161,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000096999918,
+          "error_degrees": 9.699991778688855e-07,
+          "relative_degrees": -25.592570792518593
+        },
+        {
+          "frame": 162,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -24.863798135656378
+        },
+        {
+          "frame": 163,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -24.185788031050514
+        },
+        {
+          "frame": 164,
+          "desired_degrees": 88.0,
+          "actual_degrees": 88.00000015636279,
+          "error_degrees": 1.5636277339581284e-07,
+          "relative_degrees": -23.578416060707088
+        },
+        {
+          "frame": 165,
+          "desired_degrees": 88.017074880702,
+          "actual_degrees": 88.01707654818242,
+          "error_degrees": 1.6674804328431492e-06,
+          "relative_degrees": -23.0450430963697
+        },
+        {
+          "frame": 166,
+          "desired_degrees": 88.06739489336681,
+          "actual_degrees": 88.06739379562362,
+          "error_degrees": 1.0977431941228133e-06,
+          "relative_degrees": -22.59025695864226
+        },
+        {
+          "frame": 167,
+          "desired_degrees": 88.1496030938327,
+          "actual_degrees": 88.14959579858045,
+          "error_degrees": 7.295252260064444e-06,
+          "relative_degrees": -22.236268910182503
+        },
+        {
+          "frame": 168,
+          "desired_degrees": 88.2623425379379,
+          "actual_degrees": 88.26234925629826,
+          "error_degrees": 6.718360367585774e-06,
+          "relative_degrees": -22.04821370804127
+        },
+        {
+          "frame": 169,
+          "desired_degrees": 88.40425628152069,
+          "actual_degrees": 88.40424992528845,
+          "error_degrees": 6.3562322338839294e-06,
+          "relative_degrees": -22.075228820314535
+        },
+        {
+          "frame": 170,
+          "desired_degrees": 88.5739873804193,
+          "actual_degrees": 88.57398621114893,
+          "error_degrees": 1.1692703765220358e-06,
+          "relative_degrees": -22.315099847086973
+        },
+        {
+          "frame": 171,
+          "desired_degrees": 88.770178890472,
+          "actual_degrees": 88.77017723870334,
+          "error_degrees": 1.651768656074637e-06,
+          "relative_degrees": -22.765038519265108
+        },
+        {
+          "frame": 172,
+          "desired_degrees": 88.99147386751702,
+          "actual_degrees": 88.9914669598457,
+          "error_degrees": 6.907671320277586e-06,
+          "relative_degrees": -23.38362423560617
+        },
+        {
+          "frame": 173,
+          "desired_degrees": 89.23651536739263,
+          "actual_degrees": 89.23652332431732,
+          "error_degrees": 7.956924690688538e-06,
+          "relative_degrees": -24.128350145851634
+        },
+        {
+          "frame": 174,
+          "desired_degrees": 89.50394644593709,
+          "actual_degrees": 89.50394796632462,
+          "error_degrees": 1.5203875136649003e-06,
+          "relative_degrees": -24.99455922591934
+        },
+        {
+          "frame": 175,
+          "desired_degrees": 89.79241015898863,
+          "actual_degrees": 89.79241426190676,
+          "error_degrees": 4.102918126136501e-06,
+          "relative_degrees": -25.977192821008224
+        },
+        {
+          "frame": 176,
+          "desired_degrees": 90.10054956238551,
+          "actual_degrees": 90.10055206095288,
+          "error_degrees": 2.498567369002558e-06,
+          "relative_degrees": -27.070925869821274
+        },
+        {
+          "frame": 177,
+          "desired_degrees": 90.42700771196598,
+          "actual_degrees": 90.42701786476009,
+          "error_degrees": 1.0152794118312158e-05,
+          "relative_degrees": -28.269770232918525
+        },
+        {
+          "frame": 178,
+          "desired_degrees": 90.77042766356831,
+          "actual_degrees": 90.77042478730864,
+          "error_degrees": 2.876259657114133e-06,
+          "relative_degrees": -29.56710176934225
+        },
+        {
+          "frame": 179,
+          "desired_degrees": 91.12945247303074,
+          "actual_degrees": 91.12945909236775,
+          "error_degrees": 6.619337000302039e-06,
+          "relative_degrees": -30.955401949622864
+        },
+        {
+          "frame": 180,
+          "desired_degrees": 91.5027251961915,
+          "actual_degrees": 91.5027175928918,
+          "error_degrees": 7.603299707170663e-06,
+          "relative_degrees": -32.42641693377894
+        },
+        {
+          "frame": 181,
+          "desired_degrees": 91.88888888888889,
+          "actual_degrees": 91.88889241540433,
+          "error_degrees": 3.5265154565422563e-06,
+          "relative_degrees": -33.97095518404608
+        },
+        {
+          "frame": 182,
+          "desired_degrees": 92.28658660696112,
+          "actual_degrees": 92.28658651549515,
+          "error_degrees": 9.146597790277156e-08,
+          "relative_degrees": -35.57924920724073
+        },
+        {
+          "frame": 183,
+          "desired_degrees": 92.69446140624646,
+          "actual_degrees": 92.69447278518099,
+          "error_degrees": 1.1378934516415029e-05,
+          "relative_degrees": -37.240702480531304
+        },
+        {
+          "frame": 184,
+          "desired_degrees": 93.11115634258317,
+          "actual_degrees": 93.11115796123161,
+          "error_degrees": 1.6186484401714551e-06,
+          "relative_degrees": -38.94439485125704
+        },
+        {
+          "frame": 185,
+          "desired_degrees": 93.53531447180949,
+          "actual_degrees": 94.21418415184463,
+          "error_degrees": 0.6788696800351488,
+          "relative_degrees": -40.000001280687414
+        },
+        {
+          "frame": 186,
+          "desired_degrees": 93.96557884976366,
+          "actual_degrees": 96.39819163501002,
+          "error_degrees": 2.432612785246363,
+          "relative_degrees": -40.000006970866025
+        },
+        {
+          "frame": 187,
+          "desired_degrees": 94.40059253228397,
+          "actual_degrees": 98.59452752308223,
+          "error_degrees": 4.193934990798255,
+          "relative_degrees": -39.99999646327914
+        },
+        {
+          "frame": 188,
+          "desired_degrees": 94.83899857520863,
+          "actual_degrees": 100.79023601730488,
+          "error_degrees": 5.951237442096243,
+          "relative_degrees": -39.99999400954251
+        },
+        {
+          "frame": 189,
+          "desired_degrees": 95.27944003437592,
+          "actual_degrees": 102.97258860453982,
+          "error_degrees": 7.693148570163885,
+          "relative_degrees": -40.000006947107195
+        },
+        {
+          "frame": 190,
+          "desired_degrees": 95.72055996562408,
+          "actual_degrees": 105.1290742443365,
+          "error_degrees": 9.408514278712403,
+          "relative_degrees": -40.000012677477365
+        },
+        {
+          "frame": 191,
+          "desired_degrees": 96.16100142479137,
+          "actual_degrees": 107.24756875336672,
+          "error_degrees": 11.08656732857537,
+          "relative_degrees": -40.000002157583936
+        },
+        {
+          "frame": 192,
+          "desired_degrees": 96.59940746771603,
+          "actual_degrees": 109.31627819651402,
+          "error_degrees": 12.716870728797971,
+          "relative_degrees": -40.00003207151082
+        },
+        {
+          "frame": 193,
+          "desired_degrees": 97.03442115023633,
+          "actual_degrees": 111.32384037468748,
+          "error_degrees": 14.289419224451137,
+          "relative_degrees": -40.000020822952926
+        },
+        {
+          "frame": 194,
+          "desired_degrees": 97.46468552819051,
+          "actual_degrees": 113.25919849320512,
+          "error_degrees": 15.794512965014604,
+          "relative_degrees": -40.00003401713022
+        },
+        {
+          "frame": 195,
+          "desired_degrees": 97.88884365741683,
+          "actual_degrees": 115.11172682608147,
+          "error_degrees": 17.222883168664623,
+          "relative_degrees": -40.00001524023399
+        },
+        {
+          "frame": 196,
+          "desired_degrees": 98.30553859375354,
+          "actual_degrees": 116.87100459807276,
+          "error_degrees": 18.565466004319205,
+          "relative_degrees": -40.00002926523962
+        },
+        {
+          "frame": 197,
+          "desired_degrees": 98.71341339303888,
+          "actual_degrees": 118.5269542360837,
+          "error_degrees": 19.81354084304482,
+          "relative_degrees": -40.00004175935766
+        },
+        {
+          "frame": 198,
+          "desired_degrees": 99.11111111111111,
+          "actual_degrees": 120.06970313773576,
+          "error_degrees": 20.958592026624643,
+          "relative_degrees": -40.00002701337565
+        },
+        {
+          "frame": 199,
+          "desired_degrees": 99.4972748038085,
+          "actual_degrees": 121.4894363280739,
+          "error_degrees": 21.992161524265384,
+          "relative_degrees": -40.000027139166434
+        },
+        {
+          "frame": 200,
+          "desired_degrees": 99.87054752696926,
+          "actual_degrees": 122.7765165303702,
+          "error_degrees": 22.90596900340094,
+          "relative_degrees": -40.000015597822646
+        },
+        {
+          "frame": 201,
+          "desired_degrees": 100.22957233643169,
+          "actual_degrees": 123.92124284131353,
+          "error_degrees": 23.69167050488184,
+          "relative_degrees": -40.00001839269658
+        },
+        {
+          "frame": 202,
+          "desired_degrees": 100.57299228803402,
+          "actual_degrees": 124.91395351365362,
+          "error_degrees": 24.340961225619594,
+          "relative_degrees": -40.00004098394299
+        },
+        {
+          "frame": 203,
+          "desired_degrees": 100.89945043761449,
+          "actual_degrees": 125.74495706925207,
+          "error_degrees": 24.84550663163759,
+          "relative_degrees": -40.000048161121526
+        },
+        {
+          "frame": 204,
+          "desired_degrees": 101.20758984101137,
+          "actual_degrees": 126.40441077458858,
+          "error_degrees": 25.196820933577214,
+          "relative_degrees": -40.00002501002495
+        },
+        {
+          "frame": 205,
+          "desired_degrees": 101.49605355406291,
+          "actual_degrees": 126.88227490159069,
+          "error_degrees": 25.386221347527794,
+          "relative_degrees": -40.0000346724567
+        },
+        {
+          "frame": 206,
+          "desired_degrees": 101.76348463260737,
+          "actual_degrees": 127.16837749185976,
+          "error_degrees": 25.404892859252385,
+          "relative_degrees": -40.000029009317814
+        },
+        {
+          "frame": 207,
+          "desired_degrees": 102.00852613248298,
+          "actual_degrees": 127.25232930627884,
+          "error_degrees": 25.243803173795868,
+          "relative_degrees": -40.00003852215466
+        },
+        {
+          "frame": 208,
+          "desired_degrees": 102.22982110952802,
+          "actual_degrees": 127.29212220453904,
+          "error_degrees": 25.062301095011037,
+          "relative_degrees": -40.00003476428902
+        },
+        {
+          "frame": 209,
+          "desired_degrees": 102.4260126195807,
+          "actual_degrees": 127.44413578518656,
+          "error_degrees": 25.018123165605857,
+          "relative_degrees": -40.000039630979046
+        },
+        {
+          "frame": 210,
+          "desired_degrees": 102.59574371847931,
+          "actual_degrees": 127.69529702215536,
+          "error_degrees": 25.099553303676032,
+          "relative_degrees": -40.00003018763362
+        },
+        {
+          "frame": 211,
+          "desired_degrees": 102.7376574620621,
+          "actual_degrees": 128.03236198143784,
+          "error_degrees": 25.294704519375728,
+          "relative_degrees": -40.00004671065102
+        },
+        {
+          "frame": 212,
+          "desired_degrees": 102.8503969061673,
+          "actual_degrees": 128.44185437094865,
+          "error_degrees": 25.591457464781342,
+          "relative_degrees": -40.00002257052021
+        },
+        {
+          "frame": 213,
+          "desired_degrees": 102.93260510663319,
+          "actual_degrees": 128.90971939980793,
+          "error_degrees": 25.977114293174736,
+          "relative_degrees": -40.00002147025745
+        },
+        {
+          "frame": 214,
+          "desired_degrees": 102.982925119298,
+          "actual_degrees": 129.42199217893094,
+          "error_degrees": 26.43906705963292,
+          "relative_degrees": -40.000031684998994
+        },
+        {
+          "frame": 215,
+          "desired_degrees": 103.0,
+          "actual_degrees": 129.96472487975876,
+          "error_degrees": 26.964724879758762,
+          "relative_degrees": -40.00003761825801
+        },
+        {
+          "frame": 216,
+          "desired_degrees": 102.985984,
+          "actual_degrees": 130.5239863399035,
+          "error_degrees": 27.5380023399035,
+          "relative_degrees": -40.00003943025765
+        },
+        {
+          "frame": 217,
+          "desired_degrees": 102.945472,
+          "actual_degrees": 131.08590337911093,
+          "error_degrees": 28.140431379110936,
+          "relative_degrees": -40.00002664106127
+        },
+        {
+          "frame": 218,
+          "desired_degrees": 102.880768,
+          "actual_degrees": 131.63662741464282,
+          "error_degrees": 28.755859414642828,
+          "relative_degrees": -40.00004943063427
+        },
+        {
+          "frame": 219,
+          "desired_degrees": 102.794176,
+          "actual_degrees": 132.16246391165612,
+          "error_degrees": 29.368287911656125,
+          "relative_degrees": -40.00003602314921
+        },
+        {
+          "frame": 220,
+          "desired_degrees": 102.688,
+          "actual_degrees": 132.64971739753398,
+          "error_degrees": 29.96171739753396,
+          "relative_degrees": -40.00003624898397
+        },
+        {
+          "frame": 221,
+          "desired_degrees": 102.564544,
+          "actual_degrees": 133.08476979397022,
+          "error_degrees": 30.520225793970212,
+          "relative_degrees": -40.00004880088445
+        },
+        {
+          "frame": 222,
+          "desired_degrees": 102.426112,
+          "actual_degrees": 133.45410218828076,
+          "error_degrees": 31.02799018828074,
+          "relative_degrees": -40.00004375049016
+        },
+        {
+          "frame": 223,
+          "desired_degrees": 102.275008,
+          "actual_degrees": 133.74423131372188,
+          "error_degrees": 31.469223313721898,
+          "relative_degrees": -40.00003402632468
+        },
+        {
+          "frame": 224,
+          "desired_degrees": 102.113536,
+          "actual_degrees": 133.9417325244275,
+          "error_degrees": 31.828196524427483,
+          "relative_degrees": -40.00002793973005
+        },
+        {
+          "frame": 225,
+          "desired_degrees": 101.944,
+          "actual_degrees": 134.03319909363918,
+          "error_degrees": 32.089199093639195,
+          "relative_degrees": -40.000039784327036
+        },
+        {
+          "frame": 226,
+          "desired_degrees": 101.768704,
+          "actual_degrees": 134.02931610854392,
+          "error_degrees": 32.26061210854391,
+          "relative_degrees": -40.00003444100479
+        },
+        {
+          "frame": 227,
+          "desired_degrees": 101.589952,
+          "actual_degrees": 133.9565716293456,
+          "error_degrees": 32.36661962934562,
+          "relative_degrees": -40.000038180919226
+        },
+        {
+          "frame": 228,
+          "desired_degrees": 101.410048,
+          "actual_degrees": 133.82534900400788,
+          "error_degrees": 32.41530100400786,
+          "relative_degrees": -40.00002723745149
+        },
+        {
+          "frame": 229,
+          "desired_degrees": 101.231296,
+          "actual_degrees": 133.64591237899216,
+          "error_degrees": 32.41461637899215,
+          "relative_degrees": -40.000045928590154
+        },
+        {
+          "frame": 230,
+          "desired_degrees": 101.056,
+          "actual_degrees": 133.42863948482034,
+          "error_degrees": 32.372639484820354,
+          "relative_degrees": -40.00002284976824
+        },
+        {
+          "frame": 231,
+          "desired_degrees": 100.886464,
+          "actual_degrees": 133.18370932046307,
+          "error_degrees": 32.29724532046305,
+          "relative_degrees": -40.00002903109279
+        },
+        {
+          "frame": 232,
+          "desired_degrees": 100.724992,
+          "actual_degrees": 132.92135098447758,
+          "error_degrees": 32.19635898447757,
+          "relative_degrees": -40.00002543195973
+        },
+        {
+          "frame": 233,
+          "desired_degrees": 100.573888,
+          "actual_degrees": 132.65180475039966,
+          "error_degrees": 32.07791675039965,
+          "relative_degrees": -40.00003235702515
+        },
+        {
+          "frame": 234,
+          "desired_degrees": 100.435456,
+          "actual_degrees": 132.3852340474358,
+          "error_degrees": 31.949778047435814,
+          "relative_degrees": -40.00003856296363
+        },
+        {
+          "frame": 235,
+          "desired_degrees": 100.312,
+          "actual_degrees": 132.1318374727008,
+          "error_degrees": 31.819837472700783,
+          "relative_degrees": -40.00003048659372
+        },
+        {
+          "frame": 236,
+          "desired_degrees": 100.205824,
+          "actual_degrees": 131.9017036115641,
+          "error_degrees": 31.695879611564095,
+          "relative_degrees": -40.00004400551427
+        },
+        {
+          "frame": 237,
+          "desired_degrees": 100.119232,
+          "actual_degrees": 131.70504918640648,
+          "error_degrees": 31.585817186406473,
+          "relative_degrees": -40.00003424780705
+        },
+        {
+          "frame": 238,
+          "desired_degrees": 100.054528,
+          "actual_degrees": 131.55199081458198,
+          "error_degrees": 31.49746281458198,
+          "relative_degrees": -40.00002376719242
+        },
+        {
+          "frame": 239,
+          "desired_degrees": 100.014016,
+          "actual_degrees": 131.45268801820464,
+          "error_degrees": 31.43867201820464,
+          "relative_degrees": -40.000042734969405
+        },
+        {
+          "frame": 240,
+          "desired_degrees": 100.0,
+          "actual_degrees": 131.41733269056414,
+          "error_degrees": 31.417332690564137,
+          "relative_degrees": -40.00002476503742
+        }
+      ]
+    },
+    "Perez": {
+      "max_joint_gap_source_pixels": 0,
+      "frames_at_limit": 61,
+      "frames_over_one_degree_error": 60,
+      "worst": {
+        "frame": 151,
+        "desired_degrees": 67.0,
+        "actual_degrees": 29.761393015172242,
+        "error_degrees": 37.238606984827754,
+        "relative_degrees": 40.000290928444855
+      },
+      "frames": [
+        {
+          "frame": 1,
+          "desired_degrees": 90,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.68229068177749
+        },
+        {
+          "frame": 2,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.68998367077593
+        },
+        {
+          "frame": 3,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.71243280237035
+        },
+        {
+          "frame": 4,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.748832863137697
+        },
+        {
+          "frame": 5,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.79842681582336
+        },
+        {
+          "frame": 6,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.860538535968892
+        },
+        {
+          "frame": 7,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.93454196697041
+        },
+        {
+          "frame": 8,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.01983657876184
+        },
+        {
+          "frame": 9,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.115869261159133
+        },
+        {
+          "frame": 10,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.222038911890184
+        },
+        {
+          "frame": 11,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.337876393877323
+        },
+        {
+          "frame": 12,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.462684639710208
+        },
+        {
+          "frame": 13,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.595898557993575
+        },
+        {
+          "frame": 14,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.736824576327386
+        },
+        {
+          "frame": 15,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.884843150972248
+        },
+        {
+          "frame": 16,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 23.039081382043133
+        },
+        {
+          "frame": 17,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 23.198648349113565
+        },
+        {
+          "frame": 18,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 23.362704669785714
+        },
+        {
+          "frame": 19,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 23.530123294252867
+        },
+        {
+          "frame": 20,
+          "desired_degrees": 90.0,
+          "actual_degrees": 89.99998834314381,
+          "error_degrees": 1.1656856202080235e-05,
+          "relative_degrees": 23.699832354459566
+        },
+        {
+          "frame": 21,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 23.870625732459956
+        },
+        {
+          "frame": 22,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.04117708254093
+        },
+        {
+          "frame": 23,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.20996309030815
+        },
+        {
+          "frame": 24,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.375407954468766
+        },
+        {
+          "frame": 25,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.535942437852704
+        },
+        {
+          "frame": 26,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.689737834547916
+        },
+        {
+          "frame": 27,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.834852618136765
+        },
+        {
+          "frame": 28,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.969398873764035
+        },
+        {
+          "frame": 29,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 25.091251045197932
+        },
+        {
+          "frame": 30,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 25.198222391954506
+        },
+        {
+          "frame": 31,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 25.288135228596275
+        },
+        {
+          "frame": 32,
+          "desired_degrees": 90.0,
+          "actual_degrees": 89.99998834314381,
+          "error_degrees": 1.1656856202080235e-05,
+          "relative_degrees": 25.358659242114253
+        },
+        {
+          "frame": 33,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 25.40759808807018
+        },
+        {
+          "frame": 34,
+          "desired_degrees": 90.0,
+          "actual_degrees": 89.99998834314381,
+          "error_degrees": 1.1656856202080235e-05,
+          "relative_degrees": 25.432480929486818
+        },
+        {
+          "frame": 35,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 25.431069794659876
+        },
+        {
+          "frame": 36,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 25.400934387347142
+        },
+        {
+          "frame": 37,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 25.339988521739105
+        },
+        {
+          "frame": 38,
+          "desired_degrees": 90.0,
+          "actual_degrees": 89.99998834314381,
+          "error_degrees": 1.1656856202080235e-05,
+          "relative_degrees": 25.2454466233229
+        },
+        {
+          "frame": 39,
+          "desired_degrees": 90.0,
+          "actual_degrees": 89.99998834314381,
+          "error_degrees": 1.1656856202080235e-05,
+          "relative_degrees": 25.118466617158028
+        },
+        {
+          "frame": 40,
+          "desired_degrees": 90.0,
+          "actual_degrees": 89.99998834314381,
+          "error_degrees": 1.1656856202080235e-05,
+          "relative_degrees": 24.96259121508604
+        },
+        {
+          "frame": 41,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.781472316393437
+        },
+        {
+          "frame": 42,
+          "desired_degrees": 90.0,
+          "actual_degrees": 89.99998834314381,
+          "error_degrees": 1.1656856202080235e-05,
+          "relative_degrees": 24.579034387718593
+        },
+        {
+          "frame": 43,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.362739351347916
+        },
+        {
+          "frame": 44,
+          "desired_degrees": 90.0,
+          "actual_degrees": 89.99998834314381,
+          "error_degrees": 1.1656856202080235e-05,
+          "relative_degrees": 24.13859531673439
+        },
+        {
+          "frame": 45,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 23.90894267325561
+        },
+        {
+          "frame": 46,
+          "desired_degrees": 90.0,
+          "actual_degrees": 89.99998834314381,
+          "error_degrees": 1.1656856202080235e-05,
+          "relative_degrees": 23.676129863917723
+        },
+        {
+          "frame": 47,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 23.44261197416232
+        },
+        {
+          "frame": 48,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 23.210548959999308
+        },
+        {
+          "frame": 49,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.982140772609654
+        },
+        {
+          "frame": 50,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.759523105145405
+        },
+        {
+          "frame": 51,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.544506059729276
+        },
+        {
+          "frame": 52,
+          "desired_degrees": 90.0,
+          "actual_degrees": 89.99998834314381,
+          "error_degrees": 1.1656856202080235e-05,
+          "relative_degrees": 22.338756244441626
+        },
+        {
+          "frame": 53,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.14402148880569
+        },
+        {
+          "frame": 54,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.961365212319528
+        },
+        {
+          "frame": 55,
+          "desired_degrees": 90.0,
+          "actual_degrees": 89.99998834314381,
+          "error_degrees": 1.1656856202080235e-05,
+          "relative_degrees": 21.792173544099768
+        },
+        {
+          "frame": 56,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.637246074216627
+        },
+        {
+          "frame": 57,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.49737831545398
+        },
+        {
+          "frame": 58,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.373212328076328
+        },
+        {
+          "frame": 59,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.265269765337766
+        },
+        {
+          "frame": 60,
+          "desired_degrees": 90.0,
+          "actual_degrees": 89.99998834314381,
+          "error_degrees": 1.1656856202080235e-05,
+          "relative_degrees": 21.173741172488143
+        },
+        {
+          "frame": 61,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.09885745934428
+        },
+        {
+          "frame": 62,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.040784389388072
+        },
+        {
+          "frame": 63,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 20.99943936723586
+        },
+        {
+          "frame": 64,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 20.97490212956844
+        },
+        {
+          "frame": 65,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 20.967082031875275
+        },
+        {
+          "frame": 66,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 20.975825528174305
+        },
+        {
+          "frame": 67,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.00115897270957
+        },
+        {
+          "frame": 68,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.042965695034727
+        },
+        {
+          "frame": 69,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.101311427150147
+        },
+        {
+          "frame": 70,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.176175874348715
+        },
+        {
+          "frame": 71,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.26774905837849
+        },
+        {
+          "frame": 72,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.37632412397657
+        },
+        {
+          "frame": 73,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.46488015754271
+        },
+        {
+          "frame": 74,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.497382869017905
+        },
+        {
+          "frame": 75,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.475435990586753
+        },
+        {
+          "frame": 76,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.40026973407577
+        },
+        {
+          "frame": 77,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.272765922690287
+        },
+        {
+          "frame": 78,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.149174768825883
+        },
+        {
+          "frame": 79,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.083057739841998
+        },
+        {
+          "frame": 80,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.070680012442207
+        },
+        {
+          "frame": 81,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.10761359595248
+        },
+        {
+          "frame": 82,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.188851594485985
+        },
+        {
+          "frame": 83,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.309353733866782
+        },
+        {
+          "frame": 84,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.463706889327643
+        },
+        {
+          "frame": 85,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.646661235783952
+        },
+        {
+          "frame": 86,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 21.85314728070053
+        },
+        {
+          "frame": 87,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.07820098830107
+        },
+        {
+          "frame": 88,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.31713677456287
+        },
+        {
+          "frame": 89,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.565678352000088
+        },
+        {
+          "frame": 90,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 22.81960989811906
+        },
+        {
+          "frame": 91,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 23.075239555004
+        },
+        {
+          "frame": 92,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 23.3289196419796
+        },
+        {
+          "frame": 93,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 23.5774111594419
+        },
+        {
+          "frame": 94,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 23.81757770896736
+        },
+        {
+          "frame": 95,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.04654424917937
+        },
+        {
+          "frame": 96,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.261465239211834
+        },
+        {
+          "frame": 97,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.45974009175689
+        },
+        {
+          "frame": 98,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.638752868488233
+        },
+        {
+          "frame": 99,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.79598126333632
+        },
+        {
+          "frame": 100,
+          "desired_degrees": 90.0,
+          "actual_degrees": 90.0,
+          "error_degrees": 0.0,
+          "relative_degrees": 24.92892288038762
+        },
+        {
+          "frame": 101,
+          "desired_degrees": 89.943936,
+          "actual_degrees": 89.94393051684105,
+          "error_degrees": 5.4831589295645244e-06,
+          "relative_degrees": 24.978943731248272
+        },
+        {
+          "frame": 102,
+          "desired_degrees": 89.781888,
+          "actual_degrees": 89.78188802004027,
+          "error_degrees": 2.0040261006215587e-08,
+          "relative_degrees": 24.893570288203293
+        },
+        {
+          "frame": 103,
+          "desired_degrees": 89.523072,
+          "actual_degrees": 89.52307736851435,
+          "error_degrees": 5.368514337078523e-06,
+          "relative_degrees": 24.82408047037226
+        },
+        {
+          "frame": 104,
+          "desired_degrees": 89.176704,
+          "actual_degrees": 89.17671775955387,
+          "error_degrees": 1.3759553866066199e-05,
+          "relative_degrees": 24.764847006267082
+        },
+        {
+          "frame": 105,
+          "desired_degrees": 88.752,
+          "actual_degrees": 88.75201153328085,
+          "error_degrees": 1.1533280854791883e-05,
+          "relative_degrees": 24.59148514902229
+        },
+        {
+          "frame": 106,
+          "desired_degrees": 88.258176,
+          "actual_degrees": 88.25818613851612,
+          "error_degrees": 1.0138516131519282e-05,
+          "relative_degrees": 24.337000353566392
+        },
+        {
+          "frame": 107,
+          "desired_degrees": 87.704448,
+          "actual_degrees": 87.70445419540192,
+          "error_degrees": 6.19540190882617e-06,
+          "relative_degrees": 24.03907251132858
+        },
+        {
+          "frame": 108,
+          "desired_degrees": 87.100032,
+          "actual_degrees": 87.10004016753962,
+          "error_degrees": 8.16753961885297e-06,
+          "relative_degrees": 23.740473642203277
+        },
+        {
+          "frame": 109,
+          "desired_degrees": 86.454144,
+          "actual_degrees": 86.45415729654734,
+          "error_degrees": 1.3296547336949516e-05,
+          "relative_degrees": 23.49008923784721
+        },
+        {
+          "frame": 110,
+          "desired_degrees": 85.776,
+          "actual_degrees": 85.7760207058359,
+          "error_degrees": 2.0705835908074732e-05,
+          "relative_degrees": 23.343115025637815
+        },
+        {
+          "frame": 111,
+          "desired_degrees": 85.074816,
+          "actual_degrees": 85.07483716269422,
+          "error_degrees": 2.116269422458572e-05,
+          "relative_degrees": 23.361499369096123
+        },
+        {
+          "frame": 112,
+          "desired_degrees": 84.359808,
+          "actual_degrees": 84.35982908509719,
+          "error_degrees": 2.1085097188233703e-05,
+          "relative_degrees": 23.611813389793785
+        },
+        {
+          "frame": 113,
+          "desired_degrees": 83.640192,
+          "actual_degrees": 83.64020805569352,
+          "error_degrees": 1.6055693521366265e-05,
+          "relative_degrees": 24.160143080670455
+        },
+        {
+          "frame": 114,
+          "desired_degrees": 82.925184,
+          "actual_degrees": 82.92520688667415,
+          "error_degrees": 2.288667414518386e-05,
+          "relative_degrees": 25.06168845748669
+        },
+        {
+          "frame": 115,
+          "desired_degrees": 82.224,
+          "actual_degrees": 82.22404001610938,
+          "error_degrees": 4.001610938075828e-05,
+          "relative_degrees": 26.3448745013616
+        },
+        {
+          "frame": 116,
+          "desired_degrees": 81.545856,
+          "actual_degrees": 81.54589255443847,
+          "error_degrees": 3.655443845218542e-05,
+          "relative_degrees": 27.993251020458086
+        },
+        {
+          "frame": 117,
+          "desired_degrees": 80.899968,
+          "actual_degrees": 80.90000549308641,
+          "error_degrees": 3.7493086409767784e-05,
+          "relative_degrees": 29.93334642115377
+        },
+        {
+          "frame": 118,
+          "desired_degrees": 80.295552,
+          "actual_degrees": 80.29558904294242,
+          "error_degrees": 3.7042942437892634e-05,
+          "relative_degrees": 32.03576994698333
+        },
+        {
+          "frame": 119,
+          "desired_degrees": 79.74182400000001,
+          "actual_degrees": 79.74187753840494,
+          "error_degrees": 5.3538404927166994e-05,
+          "relative_degrees": 34.13193531896595
+        },
+        {
+          "frame": 120,
+          "desired_degrees": 79.24799999999999,
+          "actual_degrees": 79.2480326026271,
+          "error_degrees": 3.260262712956319e-05,
+          "relative_degrees": 36.03617981431288
+        },
+        {
+          "frame": 121,
+          "desired_degrees": 78.823296,
+          "actual_degrees": 78.82333568301107,
+          "error_degrees": 3.968301106738181e-05,
+          "relative_degrees": 37.56590294409833
+        },
+        {
+          "frame": 122,
+          "desired_degrees": 78.476928,
+          "actual_degrees": 78.47696161266532,
+          "error_degrees": 3.361266533374874e-05,
+          "relative_degrees": 38.55223183134329
+        },
+        {
+          "frame": 123,
+          "desired_degrees": 78.218112,
+          "actual_degrees": 78.21816141882057,
+          "error_degrees": 4.941882056641589e-05,
+          "relative_degrees": 38.843369920732805
+        },
+        {
+          "frame": 124,
+          "desired_degrees": 78.05606399999999,
+          "actual_degrees": 78.05610836220437,
+          "error_degrees": 4.436220439174576e-05,
+          "relative_degrees": 38.79175760049309
+        },
+        {
+          "frame": 125,
+          "desired_degrees": 78.0,
+          "actual_degrees": 78.00004260683151,
+          "error_degrees": 4.2606831527791655e-05,
+          "relative_degrees": 39.14553516219093
+        },
+        {
+          "frame": 126,
+          "desired_degrees": 77.95243513882568,
+          "actual_degrees": 77.88258675759539,
+          "error_degrees": 0.0698483812302868,
+          "relative_degrees": 39.99997345725902
+        },
+        {
+          "frame": 127,
+          "desired_degrees": 77.81474738279472,
+          "actual_degrees": 76.42318758683197,
+          "error_degrees": 1.3915597959627348,
+          "relative_degrees": 39.99998643246153
+        },
+        {
+          "frame": 128,
+          "desired_degrees": 77.5944469731452,
+          "actual_degrees": 74.55674273021343,
+          "error_degrees": 3.037704242931767,
+          "relative_degrees": 39.99998790962622
+        },
+        {
+          "frame": 129,
+          "desired_degrees": 77.29904415111515,
+          "actual_degrees": 72.36309242312014,
+          "error_degrees": 4.935951727995018,
+          "relative_degrees": 39.99999763431918
+        },
+        {
+          "frame": 130,
+          "desired_degrees": 76.93604915794265,
+          "actual_degrees": 69.91691675291128,
+          "error_degrees": 7.019132405031371,
+          "relative_degrees": 40.0000258903026
+        },
+        {
+          "frame": 131,
+          "desired_degrees": 76.51297223486573,
+          "actual_degrees": 67.28602650960515,
+          "error_degrees": 9.226945725260578,
+          "relative_degrees": 40.00004263389311
+        },
+        {
+          "frame": 132,
+          "desired_degrees": 76.03732362312243,
+          "actual_degrees": 64.53032068006839,
+          "error_degrees": 11.507002943054033,
+          "relative_degrees": 40.0000641896377
+        },
+        {
+          "frame": 133,
+          "desired_degrees": 75.51661356395084,
+          "actual_degrees": 61.70224434238181,
+          "error_degrees": 13.814369221569024,
+          "relative_degrees": 40.00008314149283
+        },
+        {
+          "frame": 134,
+          "desired_degrees": 74.95835229858899,
+          "actual_degrees": 58.84718490610563,
+          "error_degrees": 16.111167392483367,
+          "relative_degrees": 40.00010918677258
+        },
+        {
+          "frame": 135,
+          "desired_degrees": 74.37005006827492,
+          "actual_degrees": 56.004296246896494,
+          "error_degrees": 18.365753821378433,
+          "relative_degrees": 40.00012568003417
+        },
+        {
+          "frame": 136,
+          "desired_degrees": 73.7592171142467,
+          "actual_degrees": 53.207037715253136,
+          "error_degrees": 20.55217939899356,
+          "relative_degrees": 40.00013611696989
+        },
+        {
+          "frame": 137,
+          "desired_degrees": 73.13336367774238,
+          "actual_degrees": 50.48412921307231,
+          "error_degrees": 22.649234464670087,
+          "relative_degrees": 40.00015980514732
+        },
+        {
+          "frame": 138,
+          "desired_degrees": 72.5,
+          "actual_degrees": 47.86002030846007,
+          "error_degrees": 24.639979691539935,
+          "relative_degrees": 40.0001767265444
+        },
+        {
+          "frame": 139,
+          "desired_degrees": 71.86663632225762,
+          "actual_degrees": 45.355656447195784,
+          "error_degrees": 26.51097987506182,
+          "relative_degrees": 40.00018954609526
+        },
+        {
+          "frame": 140,
+          "desired_degrees": 71.2407828857533,
+          "actual_degrees": 42.989103893507036,
+          "error_degrees": 28.25167899224627,
+          "relative_degrees": 40.00021827550873
+        },
+        {
+          "frame": 141,
+          "desired_degrees": 70.62994993172508,
+          "actual_degrees": 40.77592414569989,
+          "error_degrees": 29.854025786025204,
+          "relative_degrees": 40.00023345448355
+        },
+        {
+          "frame": 142,
+          "desired_degrees": 70.04164770141102,
+          "actual_degrees": 38.72997030736554,
+          "error_degrees": 31.31167739404549,
+          "relative_degrees": 40.000235657023566
+        },
+        {
+          "frame": 143,
+          "desired_degrees": 69.48338643604916,
+          "actual_degrees": 36.863689187591895,
+          "error_degrees": 32.61969724845727,
+          "relative_degrees": 40.00024409558479
+        },
+        {
+          "frame": 144,
+          "desired_degrees": 68.96267637687757,
+          "actual_degrees": 35.188784414314064,
+          "error_degrees": 33.77389196256351,
+          "relative_degrees": 40.00027247967447
+        },
+        {
+          "frame": 145,
+          "desired_degrees": 68.48702776513427,
+          "actual_degrees": 33.71645559353266,
+          "error_degrees": 34.7705721716016,
+          "relative_degrees": 40.00027550916985
+        },
+        {
+          "frame": 146,
+          "desired_degrees": 68.06395084205735,
+          "actual_degrees": 32.45808741238504,
+          "error_degrees": 35.6058634296723,
+          "relative_degrees": 40.000275994295706
+        },
+        {
+          "frame": 147,
+          "desired_degrees": 67.70095584888485,
+          "actual_degrees": 31.425541103259174,
+          "error_degrees": 36.27541474562565,
+          "relative_degrees": 40.00030551826347
+        },
+        {
+          "frame": 148,
+          "desired_degrees": 67.4055530268548,
+          "actual_degrees": 30.631639390664112,
+          "error_degrees": 36.773913636190684,
+          "relative_degrees": 40.00028556687424
+        },
+        {
+          "frame": 149,
+          "desired_degrees": 67.18525261720528,
+          "actual_degrees": 30.090767800752435,
+          "error_degrees": 37.09448481645285,
+          "relative_degrees": 40.000298082225186
+        },
+        {
+          "frame": 150,
+          "desired_degrees": 67.04756486117432,
+          "actual_degrees": 29.819314182283065,
+          "error_degrees": 37.22825067889124,
+          "relative_degrees": 40.00027844007464
+        },
+        {
+          "frame": 151,
+          "desired_degrees": 67.0,
+          "actual_degrees": 29.761393015172242,
+          "error_degrees": 37.238606984827754,
+          "relative_degrees": 40.000290928444855
+        },
+        {
+          "frame": 152,
+          "desired_degrees": 67.01803155522164,
+          "actual_degrees": 29.844388311848416,
+          "error_degrees": 37.17364324337322,
+          "relative_degrees": 40.000273678309384
+        },
+        {
+          "frame": 153,
+          "desired_degrees": 67.06987227648385,
+          "actual_degrees": 30.061910816178663,
+          "error_degrees": 37.00796146030518,
+          "relative_degrees": 40.000288550231545
+        },
+        {
+          "frame": 154,
+          "desired_degrees": 67.15214124718257,
+          "actual_degrees": 30.42694132867551,
+          "error_degrees": 36.72519991850706,
+          "relative_degrees": 40.00027741508491
+        },
+        {
+          "frame": 155,
+          "desired_degrees": 67.26145755071374,
+          "actual_degrees": 30.946689868057327,
+          "error_degrees": 36.314767682656424,
+          "relative_degrees": 40.00027668258975
+        },
+        {
+          "frame": 156,
+          "desired_degrees": 67.39444027047332,
+          "actual_degrees": 31.6065736255254,
+          "error_degrees": 35.78786664494794,
+          "relative_degrees": 40.00029323742318
+        },
+        {
+          "frame": 157,
+          "desired_degrees": 67.54770848985726,
+          "actual_degrees": 32.39229835557703,
+          "error_degrees": 35.15541013428023,
+          "relative_degrees": 40.00026870544883
+        },
+        {
+          "frame": 158,
+          "desired_degrees": 67.71788129226145,
+          "actual_degrees": 33.28971700822641,
+          "error_degrees": 34.428164284035034,
+          "relative_degrees": 40.00026859891839
+        },
+        {
+          "frame": 159,
+          "desired_degrees": 67.9015777610819,
+          "actual_degrees": 34.284660040592655,
+          "error_degrees": 33.616917720489255,
+          "relative_degrees": 40.00026951553334
+        },
+        {
+          "frame": 160,
+          "desired_degrees": 68.0954169797145,
+          "actual_degrees": 35.36282128569556,
+          "error_degrees": 32.732595694018926,
+          "relative_degrees": 40.0002636137498
+        },
+        {
+          "frame": 161,
+          "desired_degrees": 68.29601803155522,
+          "actual_degrees": 36.50969747393964,
+          "error_degrees": 31.786320557615568,
+          "relative_degrees": 40.000243265298785
+        },
+        {
+          "frame": 162,
+          "desired_degrees": 68.5,
+          "actual_degrees": 37.71055967996053,
+          "error_degrees": 30.78944032003946,
+          "relative_degrees": 40.000251159661026
+        },
+        {
+          "frame": 163,
+          "desired_degrees": 68.70398196844478,
+          "actual_degrees": 38.950281138943375,
+          "error_degrees": 29.753700829501412,
+          "relative_degrees": 40.00023975039512
+        },
+        {
+          "frame": 164,
+          "desired_degrees": 68.9045830202855,
+          "actual_degrees": 40.21336884601881,
+          "error_degrees": 28.69121417426669,
+          "relative_degrees": 40.000213116643906
+        },
+        {
+          "frame": 165,
+          "desired_degrees": 69.0984222389181,
+          "actual_degrees": 41.48405460169246,
+          "error_degrees": 27.614367637225655,
+          "relative_degrees": 40.000200488097626
+        },
+        {
+          "frame": 166,
+          "desired_degrees": 69.28211870773855,
+          "actual_degrees": 42.74621377121911,
+          "error_degrees": 26.535904936519444,
+          "relative_degrees": 40.000210715666256
+        },
+        {
+          "frame": 167,
+          "desired_degrees": 69.45229151014274,
+          "actual_degrees": 43.98318172487765,
+          "error_degrees": 25.46910978526509,
+          "relative_degrees": 40.000206364385946
+        },
+        {
+          "frame": 168,
+          "desired_degrees": 69.60555972952668,
+          "actual_degrees": 45.1781158955703,
+          "error_degrees": 24.427443833956374,
+          "relative_degrees": 40.0001901665171
+        },
+        {
+          "frame": 169,
+          "desired_degrees": 69.73854244928626,
+          "actual_degrees": 46.31381341682418,
+          "error_degrees": 23.424729032462068,
+          "relative_degrees": 40.000177554269484
+        },
+        {
+          "frame": 170,
+          "desired_degrees": 69.84785875281743,
+          "actual_degrees": 47.37265054500784,
+          "error_degrees": 22.4752082078096,
+          "relative_degrees": 40.00019773094489
+        },
+        {
+          "frame": 171,
+          "desired_degrees": 69.93012772351615,
+          "actual_degrees": 48.336641790887164,
+          "error_degrees": 21.593485932628994,
+          "relative_degrees": 40.000188274281136
+        },
+        {
+          "frame": 172,
+          "desired_degrees": 69.98196844477836,
+          "actual_degrees": 49.18744328198492,
+          "error_degrees": 20.794525162793434,
+          "relative_degrees": 40.00017842333832
+        },
+        {
+          "frame": 173,
+          "desired_degrees": 70.0,
+          "actual_degrees": 49.90622704041489,
+          "error_degrees": 20.093772959585124,
+          "relative_degrees": 40.000188925912916
+        },
+        {
+          "frame": 174,
+          "desired_degrees": 70.0717037037037,
+          "actual_degrees": 50.70290974066139,
+          "error_degrees": 19.36879396304232,
+          "relative_degrees": 40.00017684760562
+        },
+        {
+          "frame": 175,
+          "desired_degrees": 70.2802962962963,
+          "actual_degrees": 51.78215463952286,
+          "error_degrees": 18.49814165677344,
+          "relative_degrees": 40.00017533357064
+        },
+        {
+          "frame": 176,
+          "desired_degrees": 70.616,
+          "actual_degrees": 53.11693941738832,
+          "error_degrees": 17.499060582611662,
+          "relative_degrees": 40.00015437585204
+        },
+        {
+          "frame": 177,
+          "desired_degrees": 71.06903703703703,
+          "actual_degrees": 54.67972689670862,
+          "error_degrees": 16.389310140328405,
+          "relative_degrees": 40.00015790548631
+        },
+        {
+          "frame": 178,
+          "desired_degrees": 71.62962962962963,
+          "actual_degrees": 56.441707778103044,
+          "error_degrees": 15.187921851526596,
+          "relative_degrees": 40.00014076479161
+        },
+        {
+          "frame": 179,
+          "desired_degrees": 72.288,
+          "actual_degrees": 58.37212771152082,
+          "error_degrees": 13.915872288479193,
+          "relative_degrees": 40.000102492735586
+        },
+        {
+          "frame": 180,
+          "desired_degrees": 73.03437037037037,
+          "actual_degrees": 60.43743132665906,
+          "error_degrees": 12.596939043711302,
+          "relative_degrees": 40.00009638279225
+        },
+        {
+          "frame": 181,
+          "desired_degrees": 73.85896296296296,
+          "actual_degrees": 62.600759649312046,
+          "error_degrees": 11.25820331365091,
+          "relative_degrees": 40.000089118995646
+        },
+        {
+          "frame": 182,
+          "desired_degrees": 74.752,
+          "actual_degrees": 64.94895905123077,
+          "error_degrees": 9.803040948769222,
+          "relative_degrees": 40.00006641970538
+        },
+        {
+          "frame": 183,
+          "desired_degrees": 75.7037037037037,
+          "actual_degrees": 67.58019943955767,
+          "error_degrees": 8.123504264146021,
+          "relative_degrees": 40.000051163930266
+        },
+        {
+          "frame": 184,
+          "desired_degrees": 76.70429629629629,
+          "actual_degrees": 70.47100248113041,
+          "error_degrees": 6.233293815165894,
+          "relative_degrees": 40.000020127074976
+        },
+        {
+          "frame": 185,
+          "desired_degrees": 77.744,
+          "actual_degrees": 73.59587679116575,
+          "error_degrees": 4.1481232088342495,
+          "relative_degrees": 40.00000334937072
+        },
+        {
+          "frame": 186,
+          "desired_degrees": 78.81303703703703,
+          "actual_degrees": 76.92684901004452,
+          "error_degrees": 1.8861880269924995,
+          "relative_degrees": 39.99998482513783
+        },
+        {
+          "frame": 187,
+          "desired_degrees": 79.90162962962962,
+          "actual_degrees": 79.90167734006648,
+          "error_degrees": 4.771043685991572e-05,
+          "relative_degrees": 39.46869598889637
+        },
+        {
+          "frame": 188,
+          "desired_degrees": 81.0,
+          "actual_degrees": 81.00003137456153,
+          "error_degrees": 3.137456153012863e-05,
+          "relative_degrees": 36.920092308329735
+        },
+        {
+          "frame": 189,
+          "desired_degrees": 82.09837037037038,
+          "actual_degrees": 82.09839414183675,
+          "error_degrees": 2.3771466374000738e-05,
+          "relative_degrees": 34.268081707203216
+        },
+        {
+          "frame": 190,
+          "desired_degrees": 83.18696296296297,
+          "actual_degrees": 83.18699492219939,
+          "error_degrees": 3.195923642351772e-05,
+          "relative_degrees": 31.543386495855213
+        },
+        {
+          "frame": 191,
+          "desired_degrees": 84.256,
+          "actual_degrees": 84.25601565105408,
+          "error_degrees": 1.5651054070531245e-05,
+          "relative_degrees": 28.778894936200487
+        },
+        {
+          "frame": 192,
+          "desired_degrees": 85.29570370370371,
+          "actual_degrees": 85.29572294580925,
+          "error_degrees": 1.9242105537387033e-05,
+          "relative_degrees": 26.008637645313765
+        },
+        {
+          "frame": 193,
+          "desired_degrees": 86.29629629629629,
+          "actual_degrees": 86.29631077336653,
+          "error_degrees": 1.4477070237717271e-05,
+          "relative_degrees": 23.26703576600053
+        },
+        {
+          "frame": 194,
+          "desired_degrees": 87.24799999999999,
+          "actual_degrees": 87.24800586191023,
+          "error_degrees": 5.861910238991186e-06,
+          "relative_degrees": 20.58675111895071
+        },
+        {
+          "frame": 195,
+          "desired_degrees": 88.14103703703704,
+          "actual_degrees": 88.14103509564686,
+          "error_degrees": 1.941390166848578e-06,
+          "relative_degrees": 17.99819580420355
+        },
+        {
+          "frame": 196,
+          "desired_degrees": 88.96562962962963,
+          "actual_degrees": 88.96561951036861,
+          "error_degrees": 1.0119261020236081e-05,
+          "relative_degrees": 15.527818252144705
+        },
+        {
+          "frame": 197,
+          "desired_degrees": 89.712,
+          "actual_degrees": 89.71199284710046,
+          "error_degrees": 7.152899542006708e-06,
+          "relative_degrees": 13.198948656892414
+        },
+        {
+          "frame": 198,
+          "desired_degrees": 90.37037037037038,
+          "actual_degrees": 90.37036431269956,
+          "error_degrees": 6.057670816517202e-06,
+          "relative_degrees": 11.033776122115572
+        },
+        {
+          "frame": 199,
+          "desired_degrees": 90.93096296296297,
+          "actual_degrees": 90.9309340337627,
+          "error_degrees": 2.8929200254879106e-05,
+          "relative_degrees": 9.063252551547711
+        },
+        {
+          "frame": 200,
+          "desired_degrees": 91.384,
+          "actual_degrees": 91.38397830380518,
+          "error_degrees": 2.169619483538554e-05,
+          "relative_degrees": 7.167885229037133
+        },
+        {
+          "frame": 201,
+          "desired_degrees": 91.7197037037037,
+          "actual_degrees": 91.71967952779845,
+          "error_degrees": 2.4175905252832308e-05,
+          "relative_degrees": 5.2721537948585855
+        },
+        {
+          "frame": 202,
+          "desired_degrees": 91.9282962962963,
+          "actual_degrees": 91.92826838867838,
+          "error_degrees": 2.7907617919709082e-05,
+          "relative_degrees": 3.670440048602452
+        },
+        {
+          "frame": 203,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 3.0536787699766514
+        },
+        {
+          "frame": 204,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 3.609649839794479
+        },
+        {
+          "frame": 205,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 4.691614026925842
+        },
+        {
+          "frame": 206,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 5.938905867746495
+        },
+        {
+          "frame": 207,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 7.244408758714712
+        },
+        {
+          "frame": 208,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 8.574068707711135
+        },
+        {
+          "frame": 209,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 9.917028388802187
+        },
+        {
+          "frame": 210,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 11.168350435402047
+        },
+        {
+          "frame": 211,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 12.252224852627078
+        },
+        {
+          "frame": 212,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 13.195827608013
+        },
+        {
+          "frame": 213,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 14.015797333250182
+        },
+        {
+          "frame": 214,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 14.722333998657188
+        },
+        {
+          "frame": 215,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 15.321541160669724
+        },
+        {
+          "frame": 216,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 15.81662698677124
+        },
+        {
+          "frame": 217,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.208113055835344
+        },
+        {
+          "frame": 218,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.494477489104806
+        },
+        {
+          "frame": 219,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.671541784492014
+        },
+        {
+          "frame": 220,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 221,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 222,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 223,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 224,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 225,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 226,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 227,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 228,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 229,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 230,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 231,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 232,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 233,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 234,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 235,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 236,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 237,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 238,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 239,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        },
+        {
+          "frame": 240,
+          "desired_degrees": 92.0,
+          "actual_degrees": 91.99997654412759,
+          "error_degrees": 2.345587239460656e-05,
+          "relative_degrees": 16.732575289839513
+        }
+      ]
+    }
+  },
+  "scope": "hand direction versus authored target; no visual-quality verdict",
+  "assertion_passed": false
+}

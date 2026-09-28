@@ -1,0 +1,14 @@
+{
+  "productions/Samtoons/videos/003-barca-emergency-meeting/scripts/build_call_performance_v006.py": "3e6eed363a7265b4319968d2d269df56ceb2032718ed9f980020f8f39b0fd487",
+  "productions/Samtoons/videos/003-barca-emergency-meeting/scripts/build_call_performance_v005.py": "9c58b6ec0b4a72f3a667b8c46948c38d1fed00b855564999c5aedc14f737f9a4",
+  "productions/Samtoons/videos/003-barca-emergency-meeting/scripts/build_call_performance_v004.py": "7894ec066a9d4fad4f9624e9ff38615ba5f3d932f4c7fadb20363091b3e18531",
+  "productions/Samtoons/videos/003-barca-emergency-meeting/scripts/build_call_performance_v002.py": "88d898194901ba77de70538319bc91c7f2af5c94c85675ec1939d624a53a32bc",
+  "productions/Samtoons/videos/003-barca-emergency-meeting/scripts/trace_call_reference_v003.py": "7dcb4be90a2fb243b30c011a961c12207d6b0dc8c96f57d018f730d875899b6f",
+  "productions/Samtoons/videos/003-barca-emergency-meeting/scripts/render_call_review_v001.py": "a9b94df15fc2c3b9cfc92267a13ec75fb900291b10b0a9e7abcf0197142386cc",
+  "pipeline/pose_geometry.py": "81bfd28a4d34990ffe356c4e5fc97e40dcf3421d29fbce54bc028f4f7837ffc2",
+  "productions/Samtoons/videos/003-barca-emergency-meeting/assets/reference-redraw-v003/call-pose.png": "e3540a9655510b44f7eb04f48fb69742ddec1a4b4f8e0bd10c6d02ee712a20be",
+  "productions/Samtoons/videos/003-barca-emergency-meeting/assets/reference-redraw-v003/muller-contours.json": "b934ef41f0319525b83a5c75556d672913ff318274afd7806593df79c76499c5",
+  "productions/Samtoons/videos/003-barca-emergency-meeting/assets/reference-redraw-v003/perez-contours.json": "4c6c8ef062b7f81cc06f9ad14de2ad83b99569e192b87533334448ce758753fe",
+  "productions/Samtoons/videos/003-barca-emergency-meeting/artifacts/staging-v001/call-performance-v006/call-performance.blend": "9a491a5a17632297ef7fcaf8427eda3899412a40f0f2f6e63e5761870ccd8467",
+  "productions/Samtoons/videos/003-barca-emergency-meeting/artifacts/staging-v001/call-performance-v006/call-review.mp4": "ea22868317dce482b57c28f503dc1df44b7aea8637e44386ea42b4e1fb02bcd5"
+}

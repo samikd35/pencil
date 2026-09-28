@@ -1,0 +1,19 @@
+Edit the supplied original character artwork into an animation replacement sheet. Preserve the specific illustrated likenesses, hair, facial proportions, palette and black-line style from this artwork. This is a technical drawing revision for the same film, not new character design.
+
+Output a transparent PNG landscape 2048x1024 with precisely FOUR equal columns and TWO equal rows. No borders, labels, typography or background. Exactly EIGHT HEAD-ONLY drawings, each centered with safe transparent padding. HEAD ONLY: eliminate the neck stumps completely. Each silhouette must end at the anatomical jaw/chin edge under the ears. There must be no neck, no neck stump, no collar, no shoulders. We will connect these heads to a continuously deforming neck in Blender. Preserve the jaw outline.
+
+TOP ROW: four perfectly registered drawings of the SAME Haaland facing a slight three-quarter angle toward screen RIGHT, preserving his broad angular long jaw, high cheekbones, small blue eyes, very pale blond slicked-back hair and bun. The hair/skull/ears/nose/eye placement remain IDENTICAL across the four cells. Only the mouth / eyelids change.
+Cell 1: cheerful closed-mouth smile.
+Cell 2: small half-open speaking smile, top teeth just appearing.
+Cell 3: wider open speaking smile, visible teeth and tongue.
+Cell 4: same closed smile as cell 1, eyelids fully closed for a blink.
+Keep face/bun the same size and aligned baseline/eyeline in all four.
+
+BOTTOM ROW: four perfectly registered drawings of the SAME Enzo Maresca, now facing slightly toward screen LEFT. Preserve his actual distinctive bald head, broad nose, thick black eyebrows and salt-and-pepper full beard from the reference. Identical skull/ears/nose/overall beard silhouette and size in all four, with eyes at the same height. Only expression changes.
+Cell 1: small polite smile, watchful eyes.
+Cell 2: intermediate reaction: smile fading, eyebrows beginning to knit, uncertain skeptical eyes.
+Cell 3: annoyed deadpan: compressed lips and one raised eyebrow, skeptical look toward Haaland.
+Cell 4: same annoyed face as cell 3 but eyes fully closed, a weary blink.
+The bottom beard edge is the bottom of the head; no skin neck beneath it.
+
+Clean readable cartoon drawing, consistent cel-shading, no increased photographic detail. No rearrangement, no repeated extra heads. Facial replacements must match in outline so the character will not jitter when drawings change. Transparent alpha required outside the eight isolated heads.

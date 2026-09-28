@@ -1,0 +1,42 @@
+[
+  {
+    "uuid": "dcac504c-d3dd-4ecd-a691-f83f760a6a7b",
+    "title": "Funkorama",
+    "filename": "Funkorama-opening.mp3",
+    "length": "00:03:21",
+    "instruments": "Guitar, Bass, Kit, Organ, Synth",
+    "genre": "8",
+    "bpm": "101",
+    "description": "Clean audio mix with an interesting electronic drum kit and odd chord progressions. Nice grooving bass line.",
+    "feel": "Grooving, Uplifting",
+    "uploaded": "2008-06-16",
+    "isrc": "USUAN1100474",
+    "collection": "11",
+    "sheetmusic": null,
+    "video": null,
+    "itunes": "https://itunes.apple.com/us/album/funkorama/id945494837?i=945494847",
+    "wav": null,
+    "filmmusicURL": "https://incompetech.filmmusic.io/song/3788-funkorama/",
+    "source_filename": "Funkorama.mp3",
+    "download_note": "HTTP byte range 0\u2013819199 from the official MP3; opening excerpt only, adequate for the 10.8-second audition cue."
+  },
+  {
+    "uuid": "6378843C-DEAA-3BE4-B356-D6943609CC6B",
+    "title": "Scheming Weasel (faster version)",
+    "filename": "Scheming Weasel faster.mp3",
+    "length": "00:01:29",
+    "instruments": "English Horn, Bassoons, Bass, Glock, Clarinet, Celesta, Triangle, Bass Clarinet",
+    "genre": "22",
+    "bpm": "168",
+    "description": "Sort of cartoonish, and yet sort of dark. I couldn't decide the tempo, so I posted a slower and faster version of the piece.",
+    "feel": "Dark, Humorous, Eerie, Bouncy",
+    "uploaded": "2006-01-01",
+    "isrc": "USUAN1100085",
+    "collection": "34",
+    "sheetmusic": "Scheming Weasel (faster version).pdf",
+    "video": null,
+    "itunes": "https://itunes.apple.com/us/album/scheming-weasel-faster-version/id942795121?i=942795134",
+    "wav": null,
+    "filmmusicURL": "https://incompetech.filmmusic.io/song/4326-scheming-weasel-faster-version/"
+  }
+]

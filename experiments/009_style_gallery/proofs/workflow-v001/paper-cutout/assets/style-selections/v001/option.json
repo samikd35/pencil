@@ -1,0 +1,29 @@
+{
+  "id": "paper-cutout",
+  "name": "Paper-cutout look",
+  "category": "Finish",
+  "description": "Layered colored shapes with offset paper shadows.",
+  "limitation": "Elastic limbs remain continuous; rigid hinged cutout limbs need a separate variant.",
+  "recipe": "recipes/paper-cutout.md",
+  "sample": "samples/paper-cutout.png",
+  "settings": {
+    "design": "human",
+    "finish": "paper",
+    "presentation": "scene"
+  },
+  "status": "Still tested \u00b7 motion pending",
+  "evidence": [
+    {
+      "label": "Native project",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v002/paper-cutout/character.blend"
+    },
+    {
+      "label": "240-frame connection check",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v002/paper-cutout/checks.json"
+    }
+  ],
+  "sources": [
+    "https://www.adobe.com/uk/creativecloud/animation/discover/cut-out-animation.html"
+  ],
+  "motion_tested": false
+}

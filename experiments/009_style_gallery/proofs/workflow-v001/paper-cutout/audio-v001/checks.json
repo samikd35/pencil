@@ -1,0 +1,40 @@
+{
+  "scope": "Technical premaster checks; subjective listening and final encoded checks are separate",
+  "ffmpeg": "ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers",
+  "outputs": [
+    {
+      "path": "stems/original-mix.wav",
+      "sha256": "f206aefd6a18f1c181357b1ec434ce5d139850aae10a2a722af60979708b665e",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "10",
+        "codec": "pcm_f32le"
+      },
+      "samples": 480000,
+      "decoded": true,
+      "finite_samples": true
+    },
+    {
+      "path": "mix-premaster.wav",
+      "sha256": "f206aefd6a18f1c181357b1ec434ce5d139850aae10a2a722af60979708b665e",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "10",
+        "codec": "pcm_f32le"
+      },
+      "samples": 480000,
+      "decoded": true,
+      "finite_samples": true
+    }
+  ],
+  "premaster_measurement": {
+    "input_i": "-16.04",
+    "input_tp": "-1.50",
+    "input_lra": "3.30",
+    "input_thresh": "-26.92"
+  },
+  "finishing_required": true,
+  "peak_above_full_scale": false
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "paper",
+    "user": "Ezcah",
+    "page": "https://freesound.org/people/Ezcah/sounds/248178/",
+    "previews": [
+      "https://freesound.orghttps://cdn.freesound.org/previews/248/248178_1900515-lq.mp3",
+      "https://cdn.freesound.org/previews/248/248178_1900515-lq.mp3",
+      "https://cdn.freesound.org/previews/248/248178_1900515-lq.ogg",
+      "https://cdn.freesound.org/previews/248/248178_1900515-hq.mp3"
+    ],
+    "license": [
+      "http://creativecommons.org/publicdomain/zero/1.0/"
+    ],
+    "download": "https://cdn.freesound.org/previews/248/248178_1900515-hq.mp3",
+    "sha256": "8ca2f7b0a117d65db52be7c2fc022387a4475978aa7e989ea634c41b449f869a",
+    "retrieved": "2026-09-15",
+    "quality": "Freesound public high-quality MP3 preview; not the lossless original"
+  },
+  {
+    "name": "sob",
+    "user": "jacobmathiassen",
+    "page": "https://freesound.org/people/jacobmathiassen/sounds/254869/",
+    "previews": [
+      "https://freesound.orghttps://cdn.freesound.org/previews/254/254869_173571-lq.mp3",
+      "https://cdn.freesound.org/previews/254/254869_173571-lq.mp3",
+      "https://cdn.freesound.org/previews/254/254869_173571-lq.ogg",
+      "https://cdn.freesound.org/previews/254/254869_173571-hq.mp3"
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "download": "https://cdn.freesound.org/previews/254/254869_173571-hq.mp3",
+    "sha256": "802a60233f7a9a651c12037e07c9ddfa23215f5c8e2024e3926434e420adc8f0",
+    "retrieved": "2026-09-15",
+    "quality": "Freesound public high-quality MP3 preview; not the lossless original"
+  },
+  {
+    "name": "kick",
+    "user": "volivieri",
+    "page": "https://freesound.org/people/volivieri/sounds/37157/",
+    "previews": [
+      "https://freesound.orghttps://cdn.freesound.org/previews/37/37157_374422-lq.mp3",
+      "https://cdn.freesound.org/previews/37/37157_374422-lq.mp3",
+      "https://cdn.freesound.org/previews/37/37157_374422-lq.ogg",
+      "https://cdn.freesound.org/previews/37/37157_374422-hq.mp3"
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "download": "https://cdn.freesound.org/previews/37/37157_374422-hq.mp3",
+    "sha256": "8f491648f27855a70dc97ecee8999e0951b03e87a97c64f08df10193c1de104d",
+    "retrieved": "2026-09-15",
+    "quality": "Freesound public high-quality MP3 preview; not the lossless original"
+  },
+  {
+    "name": "cloth",
+    "user": "NachtmahrTV",
+    "page": "https://freesound.org/people/NachtmahrTV/sounds/556711/",
+    "previews": [
+      "https://freesound.orghttps://cdn.freesound.org/previews/556/556711_5620304-lq.mp3",
+      "https://cdn.freesound.org/previews/556/556711_5620304-lq.mp3",
+      "https://cdn.freesound.org/previews/556/556711_5620304-lq.ogg",
+      "https://cdn.freesound.org/previews/556/556711_5620304-hq.mp3"
+    ],
+    "license": [
+      "http://creativecommons.org/publicdomain/zero/1.0/"
+    ],
+    "download": "https://cdn.freesound.org/previews/556/556711_5620304-hq.mp3",
+    "sha256": "3773c103f63b93ebce227b10eb1b6cb9f7e4c16f37be128ecd84b3f13dee9ad2",
+    "retrieved": "2026-09-15",
+    "quality": "Freesound public high-quality MP3 preview; not the lossless original"
+  }
+]

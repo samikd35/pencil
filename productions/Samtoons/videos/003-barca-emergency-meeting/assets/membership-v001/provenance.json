@@ -1,0 +1,8 @@
+{
+  "tool": "Built-in image_gen.imagegen",
+  "source_file": "assets/membership-v001/reference.png",
+  "reference_role": "S11 frame: style only, not character identity",
+  "cast": "Two original fictional people; no real-person identification.",
+  "prompt": "prompt.md",
+  "native_extraction": "Selected color contours and independently controlled face, grip and prop; source PNG unmodified."
+}

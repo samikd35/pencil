@@ -1,0 +1,354 @@
+{
+  "Gabriel": {
+    "file": "gabriel-selected.png",
+    "scale": 0.004476495726495727,
+    "height": 2.12,
+    "registration_kind": "inspected midpoint of overhead palm contact line",
+    "poses": [
+      {
+        "registration": [
+          238,
+          33
+        ],
+        "foot": [
+          343,
+          498
+        ]
+      },
+      {
+        "registration": [
+          626,
+          33
+        ],
+        "foot": [
+          604,
+          504
+        ]
+      },
+      {
+        "registration": [
+          977,
+          33
+        ],
+        "foot": [
+          839,
+          499
+        ]
+      },
+      {
+        "registration": [
+          1370,
+          33
+        ],
+        "foot": [
+          1200,
+          479
+        ]
+      },
+      {
+        "registration": [
+          237,
+          535
+        ],
+        "foot": [
+          346,
+          993
+        ]
+      },
+      {
+        "registration": [
+          625,
+          536
+        ],
+        "foot": [
+          606,
+          999
+        ]
+      },
+      {
+        "registration": [
+          977,
+          535
+        ],
+        "foot": [
+          839,
+          994
+        ]
+      },
+      {
+        "registration": [
+          1365,
+          535
+        ],
+        "foot": [
+          1480,
+          966
+        ]
+      }
+    ]
+  },
+  "Saliba": {
+    "file": "saliba.png",
+    "scale": 0.004476495726495727,
+    "height": 2.12,
+    "registration_kind": "inspected midpoint of overhead palm contact line",
+    "poses": [
+      {
+        "registration": [
+          238,
+          33
+        ],
+        "foot": [
+          343,
+          498
+        ]
+      },
+      {
+        "registration": [
+          626,
+          33
+        ],
+        "foot": [
+          604,
+          504
+        ]
+      },
+      {
+        "registration": [
+          977,
+          33
+        ],
+        "foot": [
+          864,
+          499
+        ]
+      },
+      {
+        "registration": [
+          1370,
+          33
+        ],
+        "foot": [
+          1200,
+          479
+        ]
+      },
+      {
+        "registration": [
+          237,
+          535
+        ],
+        "foot": [
+          346,
+          993
+        ]
+      },
+      {
+        "registration": [
+          625,
+          536
+        ],
+        "foot": [
+          606,
+          999
+        ]
+      },
+      {
+        "registration": [
+          977,
+          535
+        ],
+        "foot": [
+          859,
+          994
+        ]
+      },
+      {
+        "registration": [
+          1340,
+          535
+        ],
+        "foot": [
+          1472,
+          978
+        ]
+      }
+    ]
+  },
+  "Gyokeres": {
+    "file": "gyokeres.png",
+    "scale": 0.004476495726495727,
+    "height": 2.12,
+    "registration_kind": "inspected midpoint of overhead palm contact line",
+    "poses": [
+      {
+        "registration": [
+          238,
+          33
+        ],
+        "foot": [
+          343,
+          498
+        ]
+      },
+      {
+        "registration": [
+          626,
+          33
+        ],
+        "foot": [
+          604,
+          504
+        ]
+      },
+      {
+        "registration": [
+          977,
+          33
+        ],
+        "foot": [
+          839,
+          499
+        ]
+      },
+      {
+        "registration": [
+          1370,
+          33
+        ],
+        "foot": [
+          1200,
+          479
+        ]
+      },
+      {
+        "registration": [
+          237,
+          535
+        ],
+        "foot": [
+          346,
+          993
+        ]
+      },
+      {
+        "registration": [
+          625,
+          536
+        ],
+        "foot": [
+          606,
+          999
+        ]
+      },
+      {
+        "registration": [
+          977,
+          535
+        ],
+        "foot": [
+          839,
+          994
+        ]
+      },
+      {
+        "registration": [
+          1365,
+          535
+        ],
+        "foot": [
+          1480,
+          966
+        ]
+      }
+    ]
+  },
+  "Arteta": {
+    "file": "arteta.png",
+    "scale": 0.0041,
+    "height": 1.43,
+    "registration_kind": "inspected neck base",
+    "poses": [
+      {
+        "registration": [
+          274,
+          152
+        ],
+        "foot": [
+          345,
+          490
+        ]
+      },
+      {
+        "registration": [
+          650,
+          153
+        ],
+        "foot": [
+          594,
+          503
+        ]
+      },
+      {
+        "registration": [
+          1037,
+          154
+        ],
+        "foot": [
+          841,
+          497
+        ]
+      },
+      {
+        "registration": [
+          1403,
+          152
+        ],
+        "foot": [
+          1184,
+          474
+        ]
+      },
+      {
+        "registration": [
+          273,
+          649
+        ],
+        "foot": [
+          345,
+          989
+        ]
+      },
+      {
+        "registration": [
+          653,
+          645
+        ],
+        "foot": [
+          604,
+          997
+        ]
+      },
+      {
+        "registration": [
+          1038,
+          648
+        ],
+        "foot": [
+          848,
+          985
+        ]
+      },
+      {
+        "registration": [
+          1431,
+          647
+        ],
+        "foot": [
+          1491,
+          975
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "timeline": {
+    "frames": 720,
+    "fps": 24,
+    "seconds": 30,
+    "resolution": [
+      1920,
+      1080
+    ]
+  },
+  "camera_cuts": [
+    [
+      1,
+      "01_A_NEW_DAY",
+      "DT_CAM_01_A_NEW_DAY"
+    ],
+    [
+      121,
+      "02_FOCUS",
+      "DT_CAM_02_FOCUS"
+    ],
+    [
+      241,
+      "03_MOVEMENT",
+      "DT_CAM_03_MOVEMENT"
+    ],
+    [
+      361,
+      "04_POWER_UP",
+      "DT_CAM_04_POWER_UP"
+    ],
+    [
+      481,
+      "05_RELEASE",
+      "DT_CAM_05_RELEASE"
+    ],
+    [
+      601,
+      "06_VICTORY",
+      "DT_CAM_06_VICTORY"
+    ]
+  ],
+  "native_grease_pencil": {
+    "FRONT": {
+      "layers": 43,
+      "bones": 25,
+      "editable_curves": 2339
+    },
+    "BACK": {
+      "layers": 26,
+      "bones": 18,
+      "editable_curves": 1900
+    },
+    "FOCUS": {
+      "layers": 18,
+      "bones": 9,
+      "editable_curves": 816
+    },
+    "RUN": {
+      "layers": 26,
+      "bones": 18,
+      "editable_curves": 1182
+    },
+    "CROUCH": {
+      "layers": 23,
+      "bones": 16,
+      "editable_curves": 1053
+    },
+    "POWER": {
+      "layers": 23,
+      "bones": 18,
+      "editable_curves": 1356
+    },
+    "SIT": {
+      "layers": 25,
+      "bones": 17,
+      "editable_curves": 1364
+    }
+  },
+  "character_exposure_boundaries": {
+    "1": [
+      "BACK"
+    ],
+    "120": [
+      "BACK"
+    ],
+    "121": [
+      "FOCUS"
+    ],
+    "240": [
+      "FOCUS"
+    ],
+    "241": [
+      "RUN"
+    ],
+    "360": [
+      "RUN"
+    ],
+    "361": [
+      "POWER"
+    ],
+    "480": [
+      "POWER"
+    ],
+    "481": [
+      "RUN"
+    ],
+    "600": [
+      "RUN"
+    ],
+    "601": [
+      "CROUCH"
+    ],
+    "648": [
+      "CROUCH"
+    ],
+    "649": [
+      "FRONT"
+    ],
+    "720": [
+      "FRONT"
+    ]
+  },
+  "run_motion": {
+    "241": {
+      "root": [
+        -8.0,
+        -0.09641003608703613,
+        0.0
+      ],
+      "leg_z": 0.0,
+      "arm_z": 0.0
+    },
+    "245": {
+      "root": [
+        -7.462184906005859,
+        0.3643985986709595,
+        0.0
+      ],
+      "leg_z": 0.471238911151886,
+      "arm_z": 0.3141592741012573
+    },
+    "249": {
+      "root": [
+        -6.924369812011719,
+        0.045176487416028976,
+        0.0
+      ],
+      "leg_z": 5.77101215542239e-17,
+      "arm_z": 3.8473414369482597e-17
+    },
+    "253": {
+      "root": [
+        -6.386554718017578,
+        -0.5939304232597351,
+        0.0
+      ],
+      "leg_z": -0.471238911151886,
+      "arm_z": -0.3141592741012573
+    },
+    "357": {
+      "root": [
+        7.5966386795043945,
+        0.3643985986709595,
+        0.0
+      ],
+      "leg_z": 0.471238911151886,
+      "arm_z": 0.3141592741012573
+    }
+  },
+  "blink_driver": {
+    "121": {
+      "blink": 0,
+      "layers": {
+        "eyes.L": 1.0,
+        "eyes.R": 1.0,
+        "Closed_eyes.L": 0.0,
+        "Closed_eyes.R": 0.0
+      }
+    },
+    "193": {
+      "blink": 1,
+      "layers": {
+        "eyes.L": 0.0,
+        "eyes.R": 0.0,
+        "Closed_eyes.L": 1.0,
+        "Closed_eyes.R": 1.0
+      }
+    },
+    "219": {
+      "blink": 0,
+      "layers": {
+        "eyes.L": 1.0,
+        "eyes.R": 1.0,
+        "Closed_eyes.L": 0.0,
+        "Closed_eyes.R": 0.0
+      }
+    }
+  },
+  "independent_neutral_studio": true,
+  "packed_references": 5,
+  "packed_sounds": 1,
+  "rendered_frames": {
+    "count": 720,
+    "unique": 720,
+    "all_dimensions_valid": true
+  },
+  "artistic_status": "Complete first cut; no user approval or platform-wide character certification claimed.",
+  "blender_version": "5.2.0 LTS",
+  "build_hash": "fbe6228777e7"
+}

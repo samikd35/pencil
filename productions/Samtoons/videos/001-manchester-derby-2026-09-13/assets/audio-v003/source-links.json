@@ -1,0 +1,58 @@
+[
+  {
+    "name": "paper",
+    "user": "Ezcah",
+    "page": "https://freesound.org/people/Ezcah/sounds/248178/",
+    "previews": [
+      "https://freesound.orghttps://cdn.freesound.org/previews/248/248178_1900515-lq.mp3",
+      "https://cdn.freesound.org/previews/248/248178_1900515-lq.mp3",
+      "https://cdn.freesound.org/previews/248/248178_1900515-lq.ogg",
+      "https://cdn.freesound.org/previews/248/248178_1900515-hq.mp3"
+    ],
+    "license": [
+      "http://creativecommons.org/publicdomain/zero/1.0/"
+    ]
+  },
+  {
+    "name": "sob",
+    "user": "jacobmathiassen",
+    "page": "https://freesound.org/people/jacobmathiassen/sounds/254869/",
+    "previews": [
+      "https://freesound.orghttps://cdn.freesound.org/previews/254/254869_173571-lq.mp3",
+      "https://cdn.freesound.org/previews/254/254869_173571-lq.mp3",
+      "https://cdn.freesound.org/previews/254/254869_173571-lq.ogg",
+      "https://cdn.freesound.org/previews/254/254869_173571-hq.mp3"
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ]
+  },
+  {
+    "name": "kick",
+    "user": "volivieri",
+    "page": "https://freesound.org/people/volivieri/sounds/37157/",
+    "previews": [
+      "https://freesound.orghttps://cdn.freesound.org/previews/37/37157_374422-lq.mp3",
+      "https://cdn.freesound.org/previews/37/37157_374422-lq.mp3",
+      "https://cdn.freesound.org/previews/37/37157_374422-lq.ogg",
+      "https://cdn.freesound.org/previews/37/37157_374422-hq.mp3"
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ]
+  },
+  {
+    "name": "cloth",
+    "user": "NachtmahrTV",
+    "page": "https://freesound.org/people/NachtmahrTV/sounds/556711/",
+    "previews": [
+      "https://freesound.orghttps://cdn.freesound.org/previews/556/556711_5620304-lq.mp3",
+      "https://cdn.freesound.org/previews/556/556711_5620304-lq.mp3",
+      "https://cdn.freesound.org/previews/556/556711_5620304-lq.ogg",
+      "https://cdn.freesound.org/previews/556/556711_5620304-hq.mp3"
+    ],
+    "license": [
+      "http://creativecommons.org/publicdomain/zero/1.0/"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "sources": {
+    "crowd-bed": {
+      "path": "assets/audio-v002/crowd-bed.wav",
+      "sha256": "c427aef0de7e5c0b17d1b1572f541696ba9ae6ac81cd7dcd257d25c2532f8c96",
+      "source": "https://freesound.org/people/D.jones/sounds/528799/; public HQ preview acquired 2026-09-12; original preview retained in assets/audio-v002.",
+      "license": "CC0 1.0, per individual sound page; page snapshot retained locally.",
+      "attribution": "D.jones / Freesound (voluntary credit)",
+      "notes": "Candidate, not yet auditioned by the user. First 16 seconds; highpass 120 Hz, lowpass 7 kHz; loudnorm -30 LUFS / -3 dBTP / LRA 8; 48 kHz stereo. Not archival Anfield audio."
+    },
+    "crowd-goal": {
+      "path": "assets/audio-v002/crowd-goal.wav",
+      "sha256": "ba9525c914dded27d61dd4ea1ffd22ae0b4a92f8ce9bf838efb01b11fac3f485",
+      "source": "https://freesound.org/people/Krizin/sounds/651646/; public HQ preview acquired 2026-09-12; original preview retained in assets/audio-v002.",
+      "license": "CC0 1.0, per individual sound page; page snapshot retained locally.",
+      "attribution": "Krizin / Freesound (voluntary credit)",
+      "notes": "Candidate, not yet auditioned by the user. First 6.3 seconds; highpass 120 Hz, lowpass 7 kHz; loudnorm -20 LUFS / -3 dBTP / LRA 8; 48 kHz stereo. Not archival Anfield audio."
+    }
+  },
+  "rejected_prior_assets": {
+    "stadium": "f078544e7af5c5270d1d8939d5969eec0d1909bce75d5d472924a510f0c678e0",
+    "hush": "3f2f3456517754bf29769a067aeba1a87bdf3bd6464a7635d202e70a1325f861",
+    "cheer": "9a285976c51d12563e062f08f3e08cd666a78e7dda8ce70ba33d274ef39f635b",
+    "tension": "abfc6b3fae5912ff315f6a123e1d868244f9f77d569f9cc50023ce14407b73e7",
+    "notice": "1130ec9550436ec8a30d2486bdbc4009a5ea4a9b5b4782edc5a098657dc5a0eb",
+    "resolve": "f19c24e896cdca33fbe05267962b2911c763c1e2f84a4b0ce8a66301970b7d7f"
+  },
+  "status": "Candidate assets acquired and prepared; subjective listening pending.",
+  "preparation_note": "The goal-cheer extraction requested up to 6.3 seconds; the public preview decodes to 6.24375 seconds. The longest selected cue uses 6.2 seconds and passes source-boundary checks."
+}

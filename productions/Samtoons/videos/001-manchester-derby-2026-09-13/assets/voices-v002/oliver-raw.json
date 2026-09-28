@@ -1,0 +1,26 @@
+{
+  "id": "oliver",
+  "text": "I'm so... so sorry!",
+  "description": "An adult British English man with a thin, pinched mid-high voice. He is tearfully begging for forgiveness, on the edge of a ridiculous emotional breakdown. His breath catches before the second so, his voice trembles and cracks on sorry into a pleading whimper. Play this as an embarrassed man trying and failing to hold back tears. Urgent and compressed, about two seconds. Clean dry close microphone, no music.",
+  "event_id": "99cb09eeea184791be361c875b88c413",
+  "engine": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+  "host": "https://qwen-qwen3-tts.hf.space",
+  "api": "generate_voice_design",
+  "license": "Apache-2.0",
+  "heard_by_agent": false,
+  "result": [
+    {
+      "path": "/tmp/gradio/9cbe99c572394e7f7795af228814f20206f5ab4c94297656670ed9514f0b3802/audio.wav",
+      "url": "https://qwen-qwen3-tts.hf.space/gradio_api/file=/tmp/gradio/9cbe99c572394e7f7795af228814f20206f5ab4c94297656670ed9514f0b3802/audio.wav",
+      "size": null,
+      "orig_name": "audio.wav",
+      "mime_type": null,
+      "is_stream": false,
+      "meta": {
+        "_type": "gradio.FileData"
+      }
+    },
+    "Voice design generation completed successfully!"
+  ],
+  "sha256": "19dd37f1d45ff4a218efa2403a8740a96be43afce876e86f1ff90a0480ec7300"
+}

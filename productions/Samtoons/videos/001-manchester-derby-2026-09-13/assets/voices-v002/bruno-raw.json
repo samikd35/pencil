@@ -1,0 +1,18 @@
+{
+  "id": "bruno",
+  "text": "REF! REF!",
+  "description": "A young adult male footballer with a bright, slightly raspy voice, SHOUTING furiously across a football pitch to get the referee's attention. Two explosive projected calls, the second louder and more outraged. Strong breath pressure, sharp attack and a stretched vowel. Comic theatrical indignation. This is a full-throated shout, not ordinary speech. Clean dry recording, no crowd.",
+  "event_id": "164f046dfd4445b789ab2fedff360610",
+  "engine": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+  "host": "https://qwen-qwen3-tts.hf.space",
+  "api": "generate_voice_design",
+  "license": "Apache-2.0",
+  "heard_by_agent": false,
+  "result": [
+    {
+      "url": "https://qwen-qwen3-tts.hf.space/gradio_api/file=/tmp/gradio/6508bd6ba02f045d5ddd6b851a3a3e41b1e84af9c3b3d546843a21f2c4315ad3/audio.wav"
+    },
+    "Voice design generation completed successfully!"
+  ],
+  "sha256": "ac723f756e85052e1888ac3718bf24a577c3649e44b7078ea7c8d7f01d3bdcff"
+}

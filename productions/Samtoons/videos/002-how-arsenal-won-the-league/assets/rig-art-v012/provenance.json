@@ -1,0 +1,12 @@
+{
+  "status": "consistent derivative candidate, not user approved",
+  "tool": "image_gen.imagegen",
+  "source": "artifacts/visual-treatment-v001/gyokeres-arteta.png",
+  "source_sha256": "1b6b3b12bd74214739ef65d52a00d8c268601bd15fdc64066262f74e44c73bf4",
+  "output": "arteta-gyokeres.png",
+  "output_sha256": "5c813157102504d3b01e0d46c157947342398b702642f24d7012c0202b969be2",
+  "generated_original": "/Users/samikd/.codex/generated_images/01a0ae44-0eb9-7050-8d7b-9d8216856c01/exec-c7fad045-92c2-427b-a33b-e065cc9fcc5b.png",
+  "request": "Same complete Arteta/Gyokeres identities and outfits in separated-arm A poses for fitted rigging; closed mouths; no props.",
+  "actual_background": "Opaque gradient; excluded through native mesh silhouette, not a raster edit.",
+  "construction": "Continuous illustrated UV mesh on fitted native bones with native mouth controls and eyelid shape key."
+}

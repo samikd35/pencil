@@ -1,0 +1,74 @@
+{
+  "version": 3,
+  "id": "samtoons-reference-v001",
+  "selection": "User: \u201cI choose A.\u201d Selection covers the Clean caricature design board, not a demonstrated native implementation.",
+  "source": "https://www.youtube.com/watch?v=g3oku3-4-2A",
+  "quality_targets": [
+    "Recognizable cartoon identities with one full-body drawing language",
+    "Natural jaw/neck/shoulder/collar connection",
+    "Purposeful expressive poses with sufficient matching intermediate drawings",
+    "Consistent pitch perspective and dimensional goal",
+    "Low-contrast crowd and deliberate camera compositions",
+    "Source-grounded kick-out and parry; eyes anchor tears",
+    "Actual character performances auditioned before detailed facial timing"
+  ],
+  "current_scope": "Continue option A using the established stick-joint foundation and 19-option workflow; native binding adaptation is limited to the reviewed pose range.",
+  "files": {
+    "assets/benchmark-v001.md": {
+      "sha256": "a68240af4f58991c9d81d50abc616346fb0ea73057f636cd74ad52e36db1b773"
+    },
+    "assets/reference-board.jpg": {
+      "sha256": "989f851540b865dfbc64ca08d6fe1af6c9d6c8953f811cd13b2fdf1247151307"
+    },
+    "assets/production-context.md": {
+      "sha256": "c170cae9075d4e0a786cc5246f9ede89c21f3aa3163316457d2f44af4c1df8cc"
+    },
+    "assets/art-v001/haaland-maresca-heads.png": {
+      "sha256": "2bc285e148bf16bd1e6c9a4b08d2b99863058763a554158b4b449f17b27bab15"
+    },
+    "assets/art-v001/generation-prompt.txt": {
+      "sha256": "09b0e3e5e0547cbb4620d7a431fbddb157c5bbea6c9e3af80c24e26215d5e8d5"
+    },
+    "assets/art-v002/head-expressions.png": {
+      "sha256": "98e01b9e941f50eddc9548dbbba69654774546093f215d222c48424d6cb2de68"
+    },
+    "assets/art-v002/generation-prompt.txt": {
+      "sha256": "2b99a230691029643998294b43922defb76eb94b00bcd3aca0686e02b0763468"
+    }
+  },
+  "art_provenance": {
+    "generator": "Built-in imagegen",
+    "generated_original": "Original facial artwork; source photos and 442oons board used as references, not export pixels",
+    "source_references": [
+      "research/visual-references/haaland-celebration.png",
+      "research/visual-references/maresca-club-portrait.jpg"
+    ],
+    "portrait_source": "https://www.mancity.com/news/mens/enzo-maresca-first-day-back-as-manchester-city-manager-63918337",
+    "source_credit": "Manchester City official gallery; reference only",
+    "limits": "Two views per character; not an approved reusable cast or final lip-sync system"
+  },
+  "status": "A selected; native S02 reaction construction awaiting review",
+  "previous_active_art": "assets/art-v002/head-expressions.png",
+  "active_art": "assets/option-a-v001/provenance.json",
+  "candidates": [
+    {
+      "id": "A",
+      "label": "Clean caricature",
+      "path": "assets/treatment-v001/A-clean-caricature.png",
+      "recommended": true
+    },
+    {
+      "id": "B",
+      "label": "Rounded comic",
+      "path": "assets/treatment-v001/B-rounded-comic.png",
+      "recommended": false
+    }
+  ],
+  "candidate_provenance": "assets/treatment-v001/provenance.json",
+  "selected_candidate": "A",
+  "selected_design": {
+    "path": "assets/treatment-v001/A-clean-caricature.png",
+    "sha256": "61151483f986e5a531afa218cdbc21932c16f0d1b0365c1e4080763ef7b34852",
+    "scope": "visual treatment only"
+  }
+}

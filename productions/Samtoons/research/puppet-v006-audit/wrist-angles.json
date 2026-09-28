@@ -1,0 +1,2470 @@
+{
+  "Muller": {
+    "minimum": -40.00004943063427,
+    "maximum": -22.04821370804127,
+    "frames_at_40_degree_limit": 91,
+    "samples": [
+      {
+        "frame": 1,
+        "wrist_relative_degrees": -39.293053188740586,
+        "hand_absolute_degrees": 93.00000351635202
+      },
+      {
+        "frame": 38,
+        "wrist_relative_degrees": -40.00000028807724,
+        "hand_absolute_degrees": 82.02015122670039
+      },
+      {
+        "frame": 150,
+        "wrist_relative_degrees": -32.01761973201991,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 215,
+        "wrist_relative_degrees": -40.00003761825801,
+        "hand_absolute_degrees": 129.96472487975876
+      },
+      {
+        "frame": 240,
+        "wrist_relative_degrees": -40.00002476503742,
+        "hand_absolute_degrees": 131.41733269056414
+      }
+    ],
+    "frames": [
+      {
+        "frame": 1,
+        "wrist_relative_degrees": -39.293053188740586,
+        "hand_absolute_degrees": 93.00000351635202
+      },
+      {
+        "frame": 2,
+        "wrist_relative_degrees": -39.3299412804596,
+        "hand_absolute_degrees": 93.03208050315858
+      },
+      {
+        "frame": 3,
+        "wrist_relative_degrees": -39.43508567941085,
+        "hand_absolute_degrees": 93.12362455680965
+      },
+      {
+        "frame": 4,
+        "wrist_relative_degrees": -39.60002371189595,
+        "hand_absolute_degrees": 93.26767155921127
+      },
+      {
+        "frame": 5,
+        "wrist_relative_degrees": -39.81618773840403,
+        "hand_absolute_degrees": 93.4572136054511
+      },
+      {
+        "frame": 6,
+        "wrist_relative_degrees": -39.99999255053804,
+        "hand_absolute_degrees": 93.76023864283677
+      },
+      {
+        "frame": 7,
+        "wrist_relative_degrees": -39.99999513613489,
+        "hand_absolute_degrees": 94.31260749181816
+      },
+      {
+        "frame": 8,
+        "wrist_relative_degrees": -39.999993548037686,
+        "hand_absolute_degrees": 94.91503121420314
+      },
+      {
+        "frame": 9,
+        "wrist_relative_degrees": -40.000008266097446,
+        "hand_absolute_degrees": 95.55219691161359
+      },
+      {
+        "frame": 10,
+        "wrist_relative_degrees": -40.00000969537334,
+        "hand_absolute_degrees": 96.209068874628
+      },
+      {
+        "frame": 11,
+        "wrist_relative_degrees": -40.000001076276405,
+        "hand_absolute_degrees": 96.8706866979498
+      },
+      {
+        "frame": 12,
+        "wrist_relative_degrees": -39.99999095235472,
+        "hand_absolute_degrees": 97.52245328328894
+      },
+      {
+        "frame": 13,
+        "wrist_relative_degrees": -40.00000148793771,
+        "hand_absolute_degrees": 98.14985831813891
+      },
+      {
+        "frame": 14,
+        "wrist_relative_degrees": -40.00000243245284,
+        "hand_absolute_degrees": 98.73871418134254
+      },
+      {
+        "frame": 15,
+        "wrist_relative_degrees": -39.99999486065852,
+        "hand_absolute_degrees": 99.27503839008577
+      },
+      {
+        "frame": 16,
+        "wrist_relative_degrees": -39.99999808486561,
+        "hand_absolute_degrees": 99.74485839335763
+      },
+      {
+        "frame": 17,
+        "wrist_relative_degrees": -40.00000971900799,
+        "hand_absolute_degrees": 100.13435683511685
+      },
+      {
+        "frame": 18,
+        "wrist_relative_degrees": -40.00000093309802,
+        "hand_absolute_degrees": 100.42980052271953
+      },
+      {
+        "frame": 19,
+        "wrist_relative_degrees": -40.00000933319304,
+        "hand_absolute_degrees": 100.61729222933256
+      },
+      {
+        "frame": 20,
+        "wrist_relative_degrees": -40.00001990249867,
+        "hand_absolute_degrees": 100.68293483543131
+      },
+      {
+        "frame": 21,
+        "wrist_relative_degrees": -40.00002767825597,
+        "hand_absolute_degrees": 100.43648582919107
+      },
+      {
+        "frame": 22,
+        "wrist_relative_degrees": -39.99999601107607,
+        "hand_absolute_degrees": 99.74168472673854
+      },
+      {
+        "frame": 23,
+        "wrist_relative_degrees": -40.00000140391619,
+        "hand_absolute_degrees": 98.67239396164665
+      },
+      {
+        "frame": 24,
+        "wrist_relative_degrees": -40.000006359039624,
+        "hand_absolute_degrees": 97.30890920140207
+      },
+      {
+        "frame": 25,
+        "wrist_relative_degrees": -40.0000087065099,
+        "hand_absolute_degrees": 95.7346007568655
+      },
+      {
+        "frame": 26,
+        "wrist_relative_degrees": -39.99998540837343,
+        "hand_absolute_degrees": 94.03226437437806
+      },
+      {
+        "frame": 27,
+        "wrist_relative_degrees": -40.00000413529808,
+        "hand_absolute_degrees": 92.28073013095666
+      },
+      {
+        "frame": 28,
+        "wrist_relative_degrees": -39.99999924848312,
+        "hand_absolute_degrees": 90.55154104182888
+      },
+      {
+        "frame": 29,
+        "wrist_relative_degrees": -39.90595493187613,
+        "hand_absolute_degrees": 89.00000091779798
+      },
+      {
+        "frame": 30,
+        "wrist_relative_degrees": -39.72061994769891,
+        "hand_absolute_degrees": 87.6721616164857
+      },
+      {
+        "frame": 31,
+        "wrist_relative_degrees": -39.6700644738024,
+        "hand_absolute_degrees": 86.37722352688476
+      },
+      {
+        "frame": 32,
+        "wrist_relative_degrees": -39.74333090777651,
+        "hand_absolute_degrees": 85.14814576737373
+      },
+      {
+        "frame": 33,
+        "wrist_relative_degrees": -39.917379290954855,
+        "hand_absolute_degrees": 84.01784298339885
+      },
+      {
+        "frame": 34,
+        "wrist_relative_degrees": -40.00000930844707,
+        "hand_absolute_degrees": 83.17890666991084
+      },
+      {
+        "frame": 35,
+        "wrist_relative_degrees": -39.9999921272011,
+        "hand_absolute_degrees": 82.61645811896668
+      },
+      {
+        "frame": 36,
+        "wrist_relative_degrees": -39.99998468386196,
+        "hand_absolute_degrees": 82.23928596802718
+      },
+      {
+        "frame": 37,
+        "wrist_relative_degrees": -39.99999969099334,
+        "hand_absolute_degrees": 82.040537016821
+      },
+      {
+        "frame": 38,
+        "wrist_relative_degrees": -40.00000028807724,
+        "hand_absolute_degrees": 82.02015122670039
+      },
+      {
+        "frame": 39,
+        "wrist_relative_degrees": -40.00000049329614,
+        "hand_absolute_degrees": 82.07454967615526
+      },
+      {
+        "frame": 40,
+        "wrist_relative_degrees": -39.99998955549405,
+        "hand_absolute_degrees": 82.10529160662206
+      },
+      {
+        "frame": 41,
+        "wrist_relative_degrees": -39.99998657477113,
+        "hand_absolute_degrees": 82.12741507267185
+      },
+      {
+        "frame": 42,
+        "wrist_relative_degrees": -40.00000240838966,
+        "hand_absolute_degrees": 82.14226519013913
+      },
+      {
+        "frame": 43,
+        "wrist_relative_degrees": -40.000000931347294,
+        "hand_absolute_degrees": 82.15139808770779
+      },
+      {
+        "frame": 44,
+        "wrist_relative_degrees": -40.000000354486694,
+        "hand_absolute_degrees": 82.15629105485147
+      },
+      {
+        "frame": 45,
+        "wrist_relative_degrees": -39.99998795973708,
+        "hand_absolute_degrees": 82.15841101868403
+      },
+      {
+        "frame": 46,
+        "wrist_relative_degrees": -39.95081694846311,
+        "hand_absolute_degrees": 82.20831945826741
+      },
+      {
+        "frame": 47,
+        "wrist_relative_degrees": -39.68224682113162,
+        "hand_absolute_degrees": 82.47743115141192
+      },
+      {
+        "frame": 48,
+        "wrist_relative_degrees": -39.40109513488964,
+        "hand_absolute_degrees": 82.76000342059463
+      },
+      {
+        "frame": 49,
+        "wrist_relative_degrees": -39.11200694700255,
+        "hand_absolute_degrees": 83.05217051624797
+      },
+      {
+        "frame": 50,
+        "wrist_relative_degrees": -38.81940127519187,
+        "hand_absolute_degrees": 83.35009127272973
+      },
+      {
+        "frame": 51,
+        "wrist_relative_degrees": -38.5274333860104,
+        "hand_absolute_degrees": 83.64992191052069
+      },
+      {
+        "frame": 52,
+        "wrist_relative_degrees": -38.2399199351707,
+        "hand_absolute_degrees": 83.9478419472084
+      },
+      {
+        "frame": 53,
+        "wrist_relative_degrees": -37.96053026717718,
+        "hand_absolute_degrees": 84.23999974058955
+      },
+      {
+        "frame": 54,
+        "wrist_relative_degrees": -37.69258946442482,
+        "hand_absolute_degrees": 84.52256610008698
+      },
+      {
+        "frame": 55,
+        "wrist_relative_degrees": -37.43925758945238,
+        "hand_absolute_degrees": 84.79168041449743
+      },
+      {
+        "frame": 56,
+        "wrist_relative_degrees": -37.20349845037211,
+        "hand_absolute_degrees": 85.04352640569086
+      },
+      {
+        "frame": 57,
+        "wrist_relative_degrees": -36.9881821599945,
+        "hand_absolute_degrees": 85.27424582653542
+      },
+      {
+        "frame": 58,
+        "wrist_relative_degrees": -36.796017387491524,
+        "hand_absolute_degrees": 85.48000731159753
+      },
+      {
+        "frame": 59,
+        "wrist_relative_degrees": -36.62987465743501,
+        "hand_absolute_degrees": 85.65695220184725
+      },
+      {
+        "frame": 60,
+        "wrist_relative_degrees": -36.49254979399197,
+        "hand_absolute_degrees": 85.80129003293426
+      },
+      {
+        "frame": 61,
+        "wrist_relative_degrees": -36.387174776816735,
+        "hand_absolute_degrees": 85.9091177438203
+      },
+      {
+        "frame": 62,
+        "wrist_relative_degrees": -36.31630459388927,
+        "hand_absolute_degrees": 85.97664206248422
+      },
+      {
+        "frame": 63,
+        "wrist_relative_degrees": -36.283374498474416,
+        "hand_absolute_degrees": 85.99998956080971
+      },
+      {
+        "frame": 64,
+        "wrist_relative_degrees": -36.288137240964886,
+        "hand_absolute_degrees": 85.98023988381432
+      },
+      {
+        "frame": 65,
+        "wrist_relative_degrees": -36.32530109144188,
+        "hand_absolute_degrees": 85.92354049422437
+      },
+      {
+        "frame": 66,
+        "wrist_relative_degrees": -36.3918306436244,
+        "hand_absolute_degrees": 85.8338297290538
+      },
+      {
+        "frame": 67,
+        "wrist_relative_degrees": -36.48481279492712,
+        "hand_absolute_degrees": 85.71493258083629
+      },
+      {
+        "frame": 68,
+        "wrist_relative_degrees": -36.601167340469715,
+        "hand_absolute_degrees": 85.57078821623071
+      },
+      {
+        "frame": 69,
+        "wrist_relative_degrees": -36.73789697316965,
+        "hand_absolute_degrees": 85.40523666003969
+      },
+      {
+        "frame": 70,
+        "wrist_relative_degrees": -36.89188270533322,
+        "hand_absolute_degrees": 85.2222189856662
+      },
+      {
+        "frame": 71,
+        "wrist_relative_degrees": -37.059984879365274,
+        "hand_absolute_degrees": 85.02560194147779
+      },
+      {
+        "frame": 72,
+        "wrist_relative_degrees": -37.239008577776474,
+        "hand_absolute_degrees": 84.81923381179841
+      },
+      {
+        "frame": 73,
+        "wrist_relative_degrees": -37.425562715440854,
+        "hand_absolute_degrees": 84.60706343716791
+      },
+      {
+        "frame": 74,
+        "wrist_relative_degrees": -37.61632249596207,
+        "hand_absolute_degrees": 84.39294425151824
+      },
+      {
+        "frame": 75,
+        "wrist_relative_degrees": -37.80778164127121,
+        "hand_absolute_degrees": 84.18076126452323
+      },
+      {
+        "frame": 76,
+        "wrist_relative_degrees": -37.996415646325175,
+        "hand_absolute_degrees": 83.97440412521668
+      },
+      {
+        "frame": 77,
+        "wrist_relative_degrees": -38.17860020370613,
+        "hand_absolute_degrees": 83.77777504619029
+      },
+      {
+        "frame": 78,
+        "wrist_relative_degrees": -38.350665959049294,
+        "hand_absolute_degrees": 83.59474631350881
+      },
+      {
+        "frame": 79,
+        "wrist_relative_degrees": -38.508857884439934,
+        "hand_absolute_degrees": 83.4292086887347
+      },
+      {
+        "frame": 80,
+        "wrist_relative_degrees": -38.649431557212665,
+        "hand_absolute_degrees": 83.28507203143496
+      },
+      {
+        "frame": 81,
+        "wrist_relative_degrees": -38.76862788893939,
+        "hand_absolute_degrees": 83.1661800959358
+      },
+      {
+        "frame": 82,
+        "wrist_relative_degrees": -38.862649530639324,
+        "hand_absolute_degrees": 83.0764523937979
+      },
+      {
+        "frame": 83,
+        "wrist_relative_degrees": -38.927783248872935,
+        "hand_absolute_degrees": 83.01975724622388
+      },
+      {
+        "frame": 84,
+        "wrist_relative_degrees": -38.96030980709511,
+        "hand_absolute_degrees": 83.00000391732081
+      },
+      {
+        "frame": 85,
+        "wrist_relative_degrees": -38.964885636751276,
+        "hand_absolute_degrees": 83.02161371030697
+      },
+      {
+        "frame": 86,
+        "wrist_relative_degrees": -38.939505157740165,
+        "hand_absolute_degrees": 83.08420223055109
+      },
+      {
+        "frame": 87,
+        "wrist_relative_degrees": -38.87770679191797,
+        "hand_absolute_degrees": 83.18435192995062
+      },
+      {
+        "frame": 88,
+        "wrist_relative_degrees": -38.78271297727156,
+        "hand_absolute_degrees": 83.31861676020327
+      },
+      {
+        "frame": 89,
+        "wrist_relative_degrees": -38.65783066653463,
+        "hand_absolute_degrees": 83.48360452265723
+      },
+      {
+        "frame": 90,
+        "wrist_relative_degrees": -38.50642665123226,
+        "hand_absolute_degrees": 83.67591218137933
+      },
+      {
+        "frame": 91,
+        "wrist_relative_degrees": -38.331768999783435,
+        "hand_absolute_degrees": 83.89213541371936
+      },
+      {
+        "frame": 92,
+        "wrist_relative_degrees": -38.137077832352716,
+        "hand_absolute_degrees": 84.12880454687702
+      },
+      {
+        "frame": 93,
+        "wrist_relative_degrees": -37.925283474095714,
+        "hand_absolute_degrees": 84.38256546675346
+      },
+      {
+        "frame": 94,
+        "wrist_relative_degrees": -37.699144429972485,
+        "hand_absolute_degrees": 84.64998736695765
+      },
+      {
+        "frame": 95,
+        "wrist_relative_degrees": -37.46120824413247,
+        "hand_absolute_degrees": 84.927632292422
+      },
+      {
+        "frame": 96,
+        "wrist_relative_degrees": -37.21358467002691,
+        "hand_absolute_degrees": 85.21211255512301
+      },
+      {
+        "frame": 97,
+        "wrist_relative_degrees": -36.958230005419956,
+        "hand_absolute_degrees": 85.50000163997427
+      },
+      {
+        "frame": 98,
+        "wrist_relative_degrees": -36.69667134508533,
+        "hand_absolute_degrees": 85.7878954378707
+      },
+      {
+        "frame": 99,
+        "wrist_relative_degrees": -36.43018541243222,
+        "hand_absolute_degrees": 86.0723642890858
+      },
+      {
+        "frame": 100,
+        "wrist_relative_degrees": -36.1597232639167,
+        "hand_absolute_degrees": 86.3500315818493
+      },
+      {
+        "frame": 101,
+        "wrist_relative_degrees": -35.88609755473965,
+        "hand_absolute_degrees": 86.61743135277595
+      },
+      {
+        "frame": 102,
+        "wrist_relative_degrees": -35.60983075572113,
+        "hand_absolute_degrees": 86.8711909745393
+      },
+      {
+        "frame": 103,
+        "wrist_relative_degrees": -35.331328593746626,
+        "hand_absolute_degrees": 87.10787312836983
+      },
+      {
+        "frame": 104,
+        "wrist_relative_degrees": -35.05099607142708,
+        "hand_absolute_degrees": 87.32408276629486
+      },
+      {
+        "frame": 105,
+        "wrist_relative_degrees": -34.76928755714492,
+        "hand_absolute_degrees": 87.51638241149264
+      },
+      {
+        "frame": 106,
+        "wrist_relative_degrees": -34.48678924471456,
+        "hand_absolute_degrees": 87.68137902758423
+      },
+      {
+        "frame": 107,
+        "wrist_relative_degrees": -34.23048523890017,
+        "hand_absolute_degrees": 87.81565283878652
+      },
+      {
+        "frame": 108,
+        "wrist_relative_degrees": -34.03087289992588,
+        "hand_absolute_degrees": 87.91578477661213
+      },
+      {
+        "frame": 109,
+        "wrist_relative_degrees": -33.893976509970486,
+        "hand_absolute_degrees": 87.9783754791551
+      },
+      {
+        "frame": 110,
+        "wrist_relative_degrees": -33.8258739290719,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 111,
+        "wrist_relative_degrees": -33.809812294511,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 112,
+        "wrist_relative_degrees": -33.80665516477487,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 113,
+        "wrist_relative_degrees": -33.797461007951206,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 114,
+        "wrist_relative_degrees": -33.78258924402785,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 115,
+        "wrist_relative_degrees": -33.76238592421622,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 116,
+        "wrist_relative_degrees": -33.737289116972065,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 117,
+        "wrist_relative_degrees": -33.70762089027753,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 118,
+        "wrist_relative_degrees": -33.67377581270496,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 119,
+        "wrist_relative_degrees": -33.636112569489406,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 120,
+        "wrist_relative_degrees": -33.59502063191543,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 121,
+        "wrist_relative_degrees": -33.55084908386913,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 122,
+        "wrist_relative_degrees": -33.50398970818395,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 123,
+        "wrist_relative_degrees": -33.454819942479574,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 124,
+        "wrist_relative_degrees": -33.403708399446806,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 125,
+        "wrist_relative_degrees": -33.3510205188334,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 126,
+        "wrist_relative_degrees": -33.29715970009203,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 127,
+        "wrist_relative_degrees": -33.242464977770545,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 128,
+        "wrist_relative_degrees": -33.187349720137,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 129,
+        "wrist_relative_degrees": -33.13216802675865,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 130,
+        "wrist_relative_degrees": -33.077344018259915,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 131,
+        "wrist_relative_degrees": -33.0232188665848,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 132,
+        "wrist_relative_degrees": -32.970185999794445,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 133,
+        "wrist_relative_degrees": -32.91866221271002,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 134,
+        "wrist_relative_degrees": -32.869003810252934,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 135,
+        "wrist_relative_degrees": -32.82161229693962,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 136,
+        "wrist_relative_degrees": -32.77687659029454,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 137,
+        "wrist_relative_degrees": -32.735187837480076,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 138,
+        "wrist_relative_degrees": -32.69693284712392,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 139,
+        "wrist_relative_degrees": -32.662503801797776,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 140,
+        "wrist_relative_degrees": -32.63230239720314,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 141,
+        "wrist_relative_degrees": -32.60671493433864,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 142,
+        "wrist_relative_degrees": -32.58616070664225,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 143,
+        "wrist_relative_degrees": -32.57095863483226,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 144,
+        "wrist_relative_degrees": -32.56156881353555,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 145,
+        "wrist_relative_degrees": -32.558346092308106,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 146,
+        "wrist_relative_degrees": -32.53427777209229,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 147,
+        "wrist_relative_degrees": -32.46454112125669,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 148,
+        "wrist_relative_degrees": -32.35283222861387,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 149,
+        "wrist_relative_degrees": -32.20267731587695,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 150,
+        "wrist_relative_degrees": -32.01761973201991,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 151,
+        "wrist_relative_degrees": -31.801199650596814,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 152,
+        "wrist_relative_degrees": -31.508575891286895,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 153,
+        "wrist_relative_degrees": -31.102634597978696,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 154,
+        "wrist_relative_degrees": -30.598185552091174,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 155,
+        "wrist_relative_degrees": -30.010103789448902,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 156,
+        "wrist_relative_degrees": -29.353390600531988,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 157,
+        "wrist_relative_degrees": -28.643312451714085,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 158,
+        "wrist_relative_degrees": -27.89559554089918,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 159,
+        "wrist_relative_degrees": -27.12649569517005,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 160,
+        "wrist_relative_degrees": -26.352930962522162,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 161,
+        "wrist_relative_degrees": -25.592570792518593,
+        "hand_absolute_degrees": 88.00000096999918
+      },
+      {
+        "frame": 162,
+        "wrist_relative_degrees": -24.863798135656378,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 163,
+        "wrist_relative_degrees": -24.185788031050514,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 164,
+        "wrist_relative_degrees": -23.578416060707088,
+        "hand_absolute_degrees": 88.00000015636279
+      },
+      {
+        "frame": 165,
+        "wrist_relative_degrees": -23.0450430963697,
+        "hand_absolute_degrees": 88.01707654818242
+      },
+      {
+        "frame": 166,
+        "wrist_relative_degrees": -22.59025695864226,
+        "hand_absolute_degrees": 88.06739379562362
+      },
+      {
+        "frame": 167,
+        "wrist_relative_degrees": -22.236268910182503,
+        "hand_absolute_degrees": 88.14959579858045
+      },
+      {
+        "frame": 168,
+        "wrist_relative_degrees": -22.04821370804127,
+        "hand_absolute_degrees": 88.26234925629826
+      },
+      {
+        "frame": 169,
+        "wrist_relative_degrees": -22.075228820314535,
+        "hand_absolute_degrees": 88.40424992528845
+      },
+      {
+        "frame": 170,
+        "wrist_relative_degrees": -22.315099847086973,
+        "hand_absolute_degrees": 88.57398621114893
+      },
+      {
+        "frame": 171,
+        "wrist_relative_degrees": -22.765038519265108,
+        "hand_absolute_degrees": 88.77017723870334
+      },
+      {
+        "frame": 172,
+        "wrist_relative_degrees": -23.38362423560617,
+        "hand_absolute_degrees": 88.9914669598457
+      },
+      {
+        "frame": 173,
+        "wrist_relative_degrees": -24.128350145851634,
+        "hand_absolute_degrees": 89.23652332431732
+      },
+      {
+        "frame": 174,
+        "wrist_relative_degrees": -24.99455922591934,
+        "hand_absolute_degrees": 89.50394796632462
+      },
+      {
+        "frame": 175,
+        "wrist_relative_degrees": -25.977192821008224,
+        "hand_absolute_degrees": 89.79241426190676
+      },
+      {
+        "frame": 176,
+        "wrist_relative_degrees": -27.070925869821274,
+        "hand_absolute_degrees": 90.10055206095288
+      },
+      {
+        "frame": 177,
+        "wrist_relative_degrees": -28.269770232918525,
+        "hand_absolute_degrees": 90.42701786476009
+      },
+      {
+        "frame": 178,
+        "wrist_relative_degrees": -29.56710176934225,
+        "hand_absolute_degrees": 90.77042478730864
+      },
+      {
+        "frame": 179,
+        "wrist_relative_degrees": -30.955401949622864,
+        "hand_absolute_degrees": 91.12945909236775
+      },
+      {
+        "frame": 180,
+        "wrist_relative_degrees": -32.42641693377894,
+        "hand_absolute_degrees": 91.5027175928918
+      },
+      {
+        "frame": 181,
+        "wrist_relative_degrees": -33.97095518404608,
+        "hand_absolute_degrees": 91.88889241540433
+      },
+      {
+        "frame": 182,
+        "wrist_relative_degrees": -35.57924920724073,
+        "hand_absolute_degrees": 92.28658651549515
+      },
+      {
+        "frame": 183,
+        "wrist_relative_degrees": -37.240702480531304,
+        "hand_absolute_degrees": 92.69447278518099
+      },
+      {
+        "frame": 184,
+        "wrist_relative_degrees": -38.94439485125704,
+        "hand_absolute_degrees": 93.11115796123161
+      },
+      {
+        "frame": 185,
+        "wrist_relative_degrees": -40.000001280687414,
+        "hand_absolute_degrees": 94.21418415184463
+      },
+      {
+        "frame": 186,
+        "wrist_relative_degrees": -40.000006970866025,
+        "hand_absolute_degrees": 96.39819163501002
+      },
+      {
+        "frame": 187,
+        "wrist_relative_degrees": -39.99999646327914,
+        "hand_absolute_degrees": 98.59452752308223
+      },
+      {
+        "frame": 188,
+        "wrist_relative_degrees": -39.99999400954251,
+        "hand_absolute_degrees": 100.79023601730488
+      },
+      {
+        "frame": 189,
+        "wrist_relative_degrees": -40.000006947107195,
+        "hand_absolute_degrees": 102.97258860453982
+      },
+      {
+        "frame": 190,
+        "wrist_relative_degrees": -40.000012677477365,
+        "hand_absolute_degrees": 105.1290742443365
+      },
+      {
+        "frame": 191,
+        "wrist_relative_degrees": -40.000002157583936,
+        "hand_absolute_degrees": 107.24756875336672
+      },
+      {
+        "frame": 192,
+        "wrist_relative_degrees": -40.00003207151082,
+        "hand_absolute_degrees": 109.31627819651402
+      },
+      {
+        "frame": 193,
+        "wrist_relative_degrees": -40.000020822952926,
+        "hand_absolute_degrees": 111.32384037468748
+      },
+      {
+        "frame": 194,
+        "wrist_relative_degrees": -40.00003401713022,
+        "hand_absolute_degrees": 113.25919849320512
+      },
+      {
+        "frame": 195,
+        "wrist_relative_degrees": -40.00001524023399,
+        "hand_absolute_degrees": 115.11172682608147
+      },
+      {
+        "frame": 196,
+        "wrist_relative_degrees": -40.00002926523962,
+        "hand_absolute_degrees": 116.87100459807276
+      },
+      {
+        "frame": 197,
+        "wrist_relative_degrees": -40.00004175935766,
+        "hand_absolute_degrees": 118.5269542360837
+      },
+      {
+        "frame": 198,
+        "wrist_relative_degrees": -40.00002701337565,
+        "hand_absolute_degrees": 120.06970313773576
+      },
+      {
+        "frame": 199,
+        "wrist_relative_degrees": -40.000027139166434,
+        "hand_absolute_degrees": 121.4894363280739
+      },
+      {
+        "frame": 200,
+        "wrist_relative_degrees": -40.000015597822646,
+        "hand_absolute_degrees": 122.7765165303702
+      },
+      {
+        "frame": 201,
+        "wrist_relative_degrees": -40.00001839269658,
+        "hand_absolute_degrees": 123.92124284131353
+      },
+      {
+        "frame": 202,
+        "wrist_relative_degrees": -40.00004098394299,
+        "hand_absolute_degrees": 124.91395351365362
+      },
+      {
+        "frame": 203,
+        "wrist_relative_degrees": -40.000048161121526,
+        "hand_absolute_degrees": 125.74495706925207
+      },
+      {
+        "frame": 204,
+        "wrist_relative_degrees": -40.00002501002495,
+        "hand_absolute_degrees": 126.40441077458858
+      },
+      {
+        "frame": 205,
+        "wrist_relative_degrees": -40.0000346724567,
+        "hand_absolute_degrees": 126.88227490159069
+      },
+      {
+        "frame": 206,
+        "wrist_relative_degrees": -40.000029009317814,
+        "hand_absolute_degrees": 127.16837749185976
+      },
+      {
+        "frame": 207,
+        "wrist_relative_degrees": -40.00003852215466,
+        "hand_absolute_degrees": 127.25232930627884
+      },
+      {
+        "frame": 208,
+        "wrist_relative_degrees": -40.00003476428902,
+        "hand_absolute_degrees": 127.29212220453904
+      },
+      {
+        "frame": 209,
+        "wrist_relative_degrees": -40.000039630979046,
+        "hand_absolute_degrees": 127.44413578518656
+      },
+      {
+        "frame": 210,
+        "wrist_relative_degrees": -40.00003018763362,
+        "hand_absolute_degrees": 127.69529702215536
+      },
+      {
+        "frame": 211,
+        "wrist_relative_degrees": -40.00004671065102,
+        "hand_absolute_degrees": 128.03236198143784
+      },
+      {
+        "frame": 212,
+        "wrist_relative_degrees": -40.00002257052021,
+        "hand_absolute_degrees": 128.44185437094865
+      },
+      {
+        "frame": 213,
+        "wrist_relative_degrees": -40.00002147025745,
+        "hand_absolute_degrees": 128.90971939980793
+      },
+      {
+        "frame": 214,
+        "wrist_relative_degrees": -40.000031684998994,
+        "hand_absolute_degrees": 129.42199217893094
+      },
+      {
+        "frame": 215,
+        "wrist_relative_degrees": -40.00003761825801,
+        "hand_absolute_degrees": 129.96472487975876
+      },
+      {
+        "frame": 216,
+        "wrist_relative_degrees": -40.00003943025765,
+        "hand_absolute_degrees": 130.5239863399035
+      },
+      {
+        "frame": 217,
+        "wrist_relative_degrees": -40.00002664106127,
+        "hand_absolute_degrees": 131.08590337911093
+      },
+      {
+        "frame": 218,
+        "wrist_relative_degrees": -40.00004943063427,
+        "hand_absolute_degrees": 131.63662741464282
+      },
+      {
+        "frame": 219,
+        "wrist_relative_degrees": -40.00003602314921,
+        "hand_absolute_degrees": 132.16246391165612
+      },
+      {
+        "frame": 220,
+        "wrist_relative_degrees": -40.00003624898397,
+        "hand_absolute_degrees": 132.64971739753398
+      },
+      {
+        "frame": 221,
+        "wrist_relative_degrees": -40.00004880088445,
+        "hand_absolute_degrees": 133.08476979397022
+      },
+      {
+        "frame": 222,
+        "wrist_relative_degrees": -40.00004375049016,
+        "hand_absolute_degrees": 133.45410218828076
+      },
+      {
+        "frame": 223,
+        "wrist_relative_degrees": -40.00003402632468,
+        "hand_absolute_degrees": 133.74423131372188
+      },
+      {
+        "frame": 224,
+        "wrist_relative_degrees": -40.00002793973005,
+        "hand_absolute_degrees": 133.9417325244275
+      },
+      {
+        "frame": 225,
+        "wrist_relative_degrees": -40.000039784327036,
+        "hand_absolute_degrees": 134.03319909363918
+      },
+      {
+        "frame": 226,
+        "wrist_relative_degrees": -40.00003444100479,
+        "hand_absolute_degrees": 134.02931610854392
+      },
+      {
+        "frame": 227,
+        "wrist_relative_degrees": -40.000038180919226,
+        "hand_absolute_degrees": 133.9565716293456
+      },
+      {
+        "frame": 228,
+        "wrist_relative_degrees": -40.00002723745149,
+        "hand_absolute_degrees": 133.82534900400788
+      },
+      {
+        "frame": 229,
+        "wrist_relative_degrees": -40.000045928590154,
+        "hand_absolute_degrees": 133.64591237899216
+      },
+      {
+        "frame": 230,
+        "wrist_relative_degrees": -40.00002284976824,
+        "hand_absolute_degrees": 133.42863948482034
+      },
+      {
+        "frame": 231,
+        "wrist_relative_degrees": -40.00002903109279,
+        "hand_absolute_degrees": 133.18370932046307
+      },
+      {
+        "frame": 232,
+        "wrist_relative_degrees": -40.00002543195973,
+        "hand_absolute_degrees": 132.92135098447758
+      },
+      {
+        "frame": 233,
+        "wrist_relative_degrees": -40.00003235702515,
+        "hand_absolute_degrees": 132.65180475039966
+      },
+      {
+        "frame": 234,
+        "wrist_relative_degrees": -40.00003856296363,
+        "hand_absolute_degrees": 132.3852340474358
+      },
+      {
+        "frame": 235,
+        "wrist_relative_degrees": -40.00003048659372,
+        "hand_absolute_degrees": 132.1318374727008
+      },
+      {
+        "frame": 236,
+        "wrist_relative_degrees": -40.00004400551427,
+        "hand_absolute_degrees": 131.9017036115641
+      },
+      {
+        "frame": 237,
+        "wrist_relative_degrees": -40.00003424780705,
+        "hand_absolute_degrees": 131.70504918640648
+      },
+      {
+        "frame": 238,
+        "wrist_relative_degrees": -40.00002376719242,
+        "hand_absolute_degrees": 131.55199081458198
+      },
+      {
+        "frame": 239,
+        "wrist_relative_degrees": -40.000042734969405,
+        "hand_absolute_degrees": 131.45268801820464
+      },
+      {
+        "frame": 240,
+        "wrist_relative_degrees": -40.00002476503742,
+        "hand_absolute_degrees": 131.41733269056414
+      }
+    ]
+  },
+  "Perez": {
+    "minimum": 3.0536787699766514,
+    "maximum": 40.00030551826347,
+    "frames_at_40_degree_limit": 61,
+    "samples": [
+      {
+        "frame": 1,
+        "wrist_relative_degrees": 21.68229068177749,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 38,
+        "wrist_relative_degrees": 25.2454466233229,
+        "hand_absolute_degrees": 89.99998834314381
+      },
+      {
+        "frame": 150,
+        "wrist_relative_degrees": 40.00027844007464,
+        "hand_absolute_degrees": 29.819314182283065
+      },
+      {
+        "frame": 215,
+        "wrist_relative_degrees": 15.321541160669724,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 240,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      }
+    ],
+    "frames": [
+      {
+        "frame": 1,
+        "wrist_relative_degrees": 21.68229068177749,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 2,
+        "wrist_relative_degrees": 21.68998367077593,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 3,
+        "wrist_relative_degrees": 21.71243280237035,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 4,
+        "wrist_relative_degrees": 21.748832863137697,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 5,
+        "wrist_relative_degrees": 21.79842681582336,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 6,
+        "wrist_relative_degrees": 21.860538535968892,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 7,
+        "wrist_relative_degrees": 21.93454196697041,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 8,
+        "wrist_relative_degrees": 22.01983657876184,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 9,
+        "wrist_relative_degrees": 22.115869261159133,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 10,
+        "wrist_relative_degrees": 22.222038911890184,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 11,
+        "wrist_relative_degrees": 22.337876393877323,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 12,
+        "wrist_relative_degrees": 22.462684639710208,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 13,
+        "wrist_relative_degrees": 22.595898557993575,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 14,
+        "wrist_relative_degrees": 22.736824576327386,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 15,
+        "wrist_relative_degrees": 22.884843150972248,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 16,
+        "wrist_relative_degrees": 23.039081382043133,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 17,
+        "wrist_relative_degrees": 23.198648349113565,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 18,
+        "wrist_relative_degrees": 23.362704669785714,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 19,
+        "wrist_relative_degrees": 23.530123294252867,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 20,
+        "wrist_relative_degrees": 23.699832354459566,
+        "hand_absolute_degrees": 89.99998834314381
+      },
+      {
+        "frame": 21,
+        "wrist_relative_degrees": 23.870625732459956,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 22,
+        "wrist_relative_degrees": 24.04117708254093,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 23,
+        "wrist_relative_degrees": 24.20996309030815,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 24,
+        "wrist_relative_degrees": 24.375407954468766,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 25,
+        "wrist_relative_degrees": 24.535942437852704,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 26,
+        "wrist_relative_degrees": 24.689737834547916,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 27,
+        "wrist_relative_degrees": 24.834852618136765,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 28,
+        "wrist_relative_degrees": 24.969398873764035,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 29,
+        "wrist_relative_degrees": 25.091251045197932,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 30,
+        "wrist_relative_degrees": 25.198222391954506,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 31,
+        "wrist_relative_degrees": 25.288135228596275,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 32,
+        "wrist_relative_degrees": 25.358659242114253,
+        "hand_absolute_degrees": 89.99998834314381
+      },
+      {
+        "frame": 33,
+        "wrist_relative_degrees": 25.40759808807018,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 34,
+        "wrist_relative_degrees": 25.432480929486818,
+        "hand_absolute_degrees": 89.99998834314381
+      },
+      {
+        "frame": 35,
+        "wrist_relative_degrees": 25.431069794659876,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 36,
+        "wrist_relative_degrees": 25.400934387347142,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 37,
+        "wrist_relative_degrees": 25.339988521739105,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 38,
+        "wrist_relative_degrees": 25.2454466233229,
+        "hand_absolute_degrees": 89.99998834314381
+      },
+      {
+        "frame": 39,
+        "wrist_relative_degrees": 25.118466617158028,
+        "hand_absolute_degrees": 89.99998834314381
+      },
+      {
+        "frame": 40,
+        "wrist_relative_degrees": 24.96259121508604,
+        "hand_absolute_degrees": 89.99998834314381
+      },
+      {
+        "frame": 41,
+        "wrist_relative_degrees": 24.781472316393437,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 42,
+        "wrist_relative_degrees": 24.579034387718593,
+        "hand_absolute_degrees": 89.99998834314381
+      },
+      {
+        "frame": 43,
+        "wrist_relative_degrees": 24.362739351347916,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 44,
+        "wrist_relative_degrees": 24.13859531673439,
+        "hand_absolute_degrees": 89.99998834314381
+      },
+      {
+        "frame": 45,
+        "wrist_relative_degrees": 23.90894267325561,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 46,
+        "wrist_relative_degrees": 23.676129863917723,
+        "hand_absolute_degrees": 89.99998834314381
+      },
+      {
+        "frame": 47,
+        "wrist_relative_degrees": 23.44261197416232,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 48,
+        "wrist_relative_degrees": 23.210548959999308,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 49,
+        "wrist_relative_degrees": 22.982140772609654,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 50,
+        "wrist_relative_degrees": 22.759523105145405,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 51,
+        "wrist_relative_degrees": 22.544506059729276,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 52,
+        "wrist_relative_degrees": 22.338756244441626,
+        "hand_absolute_degrees": 89.99998834314381
+      },
+      {
+        "frame": 53,
+        "wrist_relative_degrees": 22.14402148880569,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 54,
+        "wrist_relative_degrees": 21.961365212319528,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 55,
+        "wrist_relative_degrees": 21.792173544099768,
+        "hand_absolute_degrees": 89.99998834314381
+      },
+      {
+        "frame": 56,
+        "wrist_relative_degrees": 21.637246074216627,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 57,
+        "wrist_relative_degrees": 21.49737831545398,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 58,
+        "wrist_relative_degrees": 21.373212328076328,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 59,
+        "wrist_relative_degrees": 21.265269765337766,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 60,
+        "wrist_relative_degrees": 21.173741172488143,
+        "hand_absolute_degrees": 89.99998834314381
+      },
+      {
+        "frame": 61,
+        "wrist_relative_degrees": 21.09885745934428,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 62,
+        "wrist_relative_degrees": 21.040784389388072,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 63,
+        "wrist_relative_degrees": 20.99943936723586,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 64,
+        "wrist_relative_degrees": 20.97490212956844,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 65,
+        "wrist_relative_degrees": 20.967082031875275,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 66,
+        "wrist_relative_degrees": 20.975825528174305,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 67,
+        "wrist_relative_degrees": 21.00115897270957,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 68,
+        "wrist_relative_degrees": 21.042965695034727,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 69,
+        "wrist_relative_degrees": 21.101311427150147,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 70,
+        "wrist_relative_degrees": 21.176175874348715,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 71,
+        "wrist_relative_degrees": 21.26774905837849,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 72,
+        "wrist_relative_degrees": 21.37632412397657,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 73,
+        "wrist_relative_degrees": 21.46488015754271,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 74,
+        "wrist_relative_degrees": 21.497382869017905,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 75,
+        "wrist_relative_degrees": 21.475435990586753,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 76,
+        "wrist_relative_degrees": 21.40026973407577,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 77,
+        "wrist_relative_degrees": 21.272765922690287,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 78,
+        "wrist_relative_degrees": 21.149174768825883,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 79,
+        "wrist_relative_degrees": 21.083057739841998,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 80,
+        "wrist_relative_degrees": 21.070680012442207,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 81,
+        "wrist_relative_degrees": 21.10761359595248,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 82,
+        "wrist_relative_degrees": 21.188851594485985,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 83,
+        "wrist_relative_degrees": 21.309353733866782,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 84,
+        "wrist_relative_degrees": 21.463706889327643,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 85,
+        "wrist_relative_degrees": 21.646661235783952,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 86,
+        "wrist_relative_degrees": 21.85314728070053,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 87,
+        "wrist_relative_degrees": 22.07820098830107,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 88,
+        "wrist_relative_degrees": 22.31713677456287,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 89,
+        "wrist_relative_degrees": 22.565678352000088,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 90,
+        "wrist_relative_degrees": 22.81960989811906,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 91,
+        "wrist_relative_degrees": 23.075239555004,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 92,
+        "wrist_relative_degrees": 23.3289196419796,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 93,
+        "wrist_relative_degrees": 23.5774111594419,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 94,
+        "wrist_relative_degrees": 23.81757770896736,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 95,
+        "wrist_relative_degrees": 24.04654424917937,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 96,
+        "wrist_relative_degrees": 24.261465239211834,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 97,
+        "wrist_relative_degrees": 24.45974009175689,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 98,
+        "wrist_relative_degrees": 24.638752868488233,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 99,
+        "wrist_relative_degrees": 24.79598126333632,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 100,
+        "wrist_relative_degrees": 24.92892288038762,
+        "hand_absolute_degrees": 90.0
+      },
+      {
+        "frame": 101,
+        "wrist_relative_degrees": 24.978943731248272,
+        "hand_absolute_degrees": 89.94393051684105
+      },
+      {
+        "frame": 102,
+        "wrist_relative_degrees": 24.893570288203293,
+        "hand_absolute_degrees": 89.78188802004027
+      },
+      {
+        "frame": 103,
+        "wrist_relative_degrees": 24.82408047037226,
+        "hand_absolute_degrees": 89.52307736851435
+      },
+      {
+        "frame": 104,
+        "wrist_relative_degrees": 24.764847006267082,
+        "hand_absolute_degrees": 89.17671775955387
+      },
+      {
+        "frame": 105,
+        "wrist_relative_degrees": 24.59148514902229,
+        "hand_absolute_degrees": 88.75201153328085
+      },
+      {
+        "frame": 106,
+        "wrist_relative_degrees": 24.337000353566392,
+        "hand_absolute_degrees": 88.25818613851612
+      },
+      {
+        "frame": 107,
+        "wrist_relative_degrees": 24.03907251132858,
+        "hand_absolute_degrees": 87.70445419540192
+      },
+      {
+        "frame": 108,
+        "wrist_relative_degrees": 23.740473642203277,
+        "hand_absolute_degrees": 87.10004016753962
+      },
+      {
+        "frame": 109,
+        "wrist_relative_degrees": 23.49008923784721,
+        "hand_absolute_degrees": 86.45415729654734
+      },
+      {
+        "frame": 110,
+        "wrist_relative_degrees": 23.343115025637815,
+        "hand_absolute_degrees": 85.7760207058359
+      },
+      {
+        "frame": 111,
+        "wrist_relative_degrees": 23.361499369096123,
+        "hand_absolute_degrees": 85.07483716269422
+      },
+      {
+        "frame": 112,
+        "wrist_relative_degrees": 23.611813389793785,
+        "hand_absolute_degrees": 84.35982908509719
+      },
+      {
+        "frame": 113,
+        "wrist_relative_degrees": 24.160143080670455,
+        "hand_absolute_degrees": 83.64020805569352
+      },
+      {
+        "frame": 114,
+        "wrist_relative_degrees": 25.06168845748669,
+        "hand_absolute_degrees": 82.92520688667415
+      },
+      {
+        "frame": 115,
+        "wrist_relative_degrees": 26.3448745013616,
+        "hand_absolute_degrees": 82.22404001610938
+      },
+      {
+        "frame": 116,
+        "wrist_relative_degrees": 27.993251020458086,
+        "hand_absolute_degrees": 81.54589255443847
+      },
+      {
+        "frame": 117,
+        "wrist_relative_degrees": 29.93334642115377,
+        "hand_absolute_degrees": 80.90000549308641
+      },
+      {
+        "frame": 118,
+        "wrist_relative_degrees": 32.03576994698333,
+        "hand_absolute_degrees": 80.29558904294242
+      },
+      {
+        "frame": 119,
+        "wrist_relative_degrees": 34.13193531896595,
+        "hand_absolute_degrees": 79.74187753840494
+      },
+      {
+        "frame": 120,
+        "wrist_relative_degrees": 36.03617981431288,
+        "hand_absolute_degrees": 79.2480326026271
+      },
+      {
+        "frame": 121,
+        "wrist_relative_degrees": 37.56590294409833,
+        "hand_absolute_degrees": 78.82333568301107
+      },
+      {
+        "frame": 122,
+        "wrist_relative_degrees": 38.55223183134329,
+        "hand_absolute_degrees": 78.47696161266532
+      },
+      {
+        "frame": 123,
+        "wrist_relative_degrees": 38.843369920732805,
+        "hand_absolute_degrees": 78.21816141882057
+      },
+      {
+        "frame": 124,
+        "wrist_relative_degrees": 38.79175760049309,
+        "hand_absolute_degrees": 78.05610836220437
+      },
+      {
+        "frame": 125,
+        "wrist_relative_degrees": 39.14553516219093,
+        "hand_absolute_degrees": 78.00004260683151
+      },
+      {
+        "frame": 126,
+        "wrist_relative_degrees": 39.99997345725902,
+        "hand_absolute_degrees": 77.88258675759539
+      },
+      {
+        "frame": 127,
+        "wrist_relative_degrees": 39.99998643246153,
+        "hand_absolute_degrees": 76.42318758683197
+      },
+      {
+        "frame": 128,
+        "wrist_relative_degrees": 39.99998790962622,
+        "hand_absolute_degrees": 74.55674273021343
+      },
+      {
+        "frame": 129,
+        "wrist_relative_degrees": 39.99999763431918,
+        "hand_absolute_degrees": 72.36309242312014
+      },
+      {
+        "frame": 130,
+        "wrist_relative_degrees": 40.0000258903026,
+        "hand_absolute_degrees": 69.91691675291128
+      },
+      {
+        "frame": 131,
+        "wrist_relative_degrees": 40.00004263389311,
+        "hand_absolute_degrees": 67.28602650960515
+      },
+      {
+        "frame": 132,
+        "wrist_relative_degrees": 40.0000641896377,
+        "hand_absolute_degrees": 64.53032068006839
+      },
+      {
+        "frame": 133,
+        "wrist_relative_degrees": 40.00008314149283,
+        "hand_absolute_degrees": 61.70224434238181
+      },
+      {
+        "frame": 134,
+        "wrist_relative_degrees": 40.00010918677258,
+        "hand_absolute_degrees": 58.84718490610563
+      },
+      {
+        "frame": 135,
+        "wrist_relative_degrees": 40.00012568003417,
+        "hand_absolute_degrees": 56.004296246896494
+      },
+      {
+        "frame": 136,
+        "wrist_relative_degrees": 40.00013611696989,
+        "hand_absolute_degrees": 53.207037715253136
+      },
+      {
+        "frame": 137,
+        "wrist_relative_degrees": 40.00015980514732,
+        "hand_absolute_degrees": 50.48412921307231
+      },
+      {
+        "frame": 138,
+        "wrist_relative_degrees": 40.0001767265444,
+        "hand_absolute_degrees": 47.86002030846007
+      },
+      {
+        "frame": 139,
+        "wrist_relative_degrees": 40.00018954609526,
+        "hand_absolute_degrees": 45.355656447195784
+      },
+      {
+        "frame": 140,
+        "wrist_relative_degrees": 40.00021827550873,
+        "hand_absolute_degrees": 42.989103893507036
+      },
+      {
+        "frame": 141,
+        "wrist_relative_degrees": 40.00023345448355,
+        "hand_absolute_degrees": 40.77592414569989
+      },
+      {
+        "frame": 142,
+        "wrist_relative_degrees": 40.000235657023566,
+        "hand_absolute_degrees": 38.72997030736554
+      },
+      {
+        "frame": 143,
+        "wrist_relative_degrees": 40.00024409558479,
+        "hand_absolute_degrees": 36.863689187591895
+      },
+      {
+        "frame": 144,
+        "wrist_relative_degrees": 40.00027247967447,
+        "hand_absolute_degrees": 35.188784414314064
+      },
+      {
+        "frame": 145,
+        "wrist_relative_degrees": 40.00027550916985,
+        "hand_absolute_degrees": 33.71645559353266
+      },
+      {
+        "frame": 146,
+        "wrist_relative_degrees": 40.000275994295706,
+        "hand_absolute_degrees": 32.45808741238504
+      },
+      {
+        "frame": 147,
+        "wrist_relative_degrees": 40.00030551826347,
+        "hand_absolute_degrees": 31.425541103259174
+      },
+      {
+        "frame": 148,
+        "wrist_relative_degrees": 40.00028556687424,
+        "hand_absolute_degrees": 30.631639390664112
+      },
+      {
+        "frame": 149,
+        "wrist_relative_degrees": 40.000298082225186,
+        "hand_absolute_degrees": 30.090767800752435
+      },
+      {
+        "frame": 150,
+        "wrist_relative_degrees": 40.00027844007464,
+        "hand_absolute_degrees": 29.819314182283065
+      },
+      {
+        "frame": 151,
+        "wrist_relative_degrees": 40.000290928444855,
+        "hand_absolute_degrees": 29.761393015172242
+      },
+      {
+        "frame": 152,
+        "wrist_relative_degrees": 40.000273678309384,
+        "hand_absolute_degrees": 29.844388311848416
+      },
+      {
+        "frame": 153,
+        "wrist_relative_degrees": 40.000288550231545,
+        "hand_absolute_degrees": 30.061910816178663
+      },
+      {
+        "frame": 154,
+        "wrist_relative_degrees": 40.00027741508491,
+        "hand_absolute_degrees": 30.42694132867551
+      },
+      {
+        "frame": 155,
+        "wrist_relative_degrees": 40.00027668258975,
+        "hand_absolute_degrees": 30.946689868057327
+      },
+      {
+        "frame": 156,
+        "wrist_relative_degrees": 40.00029323742318,
+        "hand_absolute_degrees": 31.6065736255254
+      },
+      {
+        "frame": 157,
+        "wrist_relative_degrees": 40.00026870544883,
+        "hand_absolute_degrees": 32.39229835557703
+      },
+      {
+        "frame": 158,
+        "wrist_relative_degrees": 40.00026859891839,
+        "hand_absolute_degrees": 33.28971700822641
+      },
+      {
+        "frame": 159,
+        "wrist_relative_degrees": 40.00026951553334,
+        "hand_absolute_degrees": 34.284660040592655
+      },
+      {
+        "frame": 160,
+        "wrist_relative_degrees": 40.0002636137498,
+        "hand_absolute_degrees": 35.36282128569556
+      },
+      {
+        "frame": 161,
+        "wrist_relative_degrees": 40.000243265298785,
+        "hand_absolute_degrees": 36.50969747393964
+      },
+      {
+        "frame": 162,
+        "wrist_relative_degrees": 40.000251159661026,
+        "hand_absolute_degrees": 37.71055967996053
+      },
+      {
+        "frame": 163,
+        "wrist_relative_degrees": 40.00023975039512,
+        "hand_absolute_degrees": 38.950281138943375
+      },
+      {
+        "frame": 164,
+        "wrist_relative_degrees": 40.000213116643906,
+        "hand_absolute_degrees": 40.21336884601881
+      },
+      {
+        "frame": 165,
+        "wrist_relative_degrees": 40.000200488097626,
+        "hand_absolute_degrees": 41.48405460169246
+      },
+      {
+        "frame": 166,
+        "wrist_relative_degrees": 40.000210715666256,
+        "hand_absolute_degrees": 42.74621377121911
+      },
+      {
+        "frame": 167,
+        "wrist_relative_degrees": 40.000206364385946,
+        "hand_absolute_degrees": 43.98318172487765
+      },
+      {
+        "frame": 168,
+        "wrist_relative_degrees": 40.0001901665171,
+        "hand_absolute_degrees": 45.1781158955703
+      },
+      {
+        "frame": 169,
+        "wrist_relative_degrees": 40.000177554269484,
+        "hand_absolute_degrees": 46.31381341682418
+      },
+      {
+        "frame": 170,
+        "wrist_relative_degrees": 40.00019773094489,
+        "hand_absolute_degrees": 47.37265054500784
+      },
+      {
+        "frame": 171,
+        "wrist_relative_degrees": 40.000188274281136,
+        "hand_absolute_degrees": 48.336641790887164
+      },
+      {
+        "frame": 172,
+        "wrist_relative_degrees": 40.00017842333832,
+        "hand_absolute_degrees": 49.18744328198492
+      },
+      {
+        "frame": 173,
+        "wrist_relative_degrees": 40.000188925912916,
+        "hand_absolute_degrees": 49.90622704041489
+      },
+      {
+        "frame": 174,
+        "wrist_relative_degrees": 40.00017684760562,
+        "hand_absolute_degrees": 50.70290974066139
+      },
+      {
+        "frame": 175,
+        "wrist_relative_degrees": 40.00017533357064,
+        "hand_absolute_degrees": 51.78215463952286
+      },
+      {
+        "frame": 176,
+        "wrist_relative_degrees": 40.00015437585204,
+        "hand_absolute_degrees": 53.11693941738832
+      },
+      {
+        "frame": 177,
+        "wrist_relative_degrees": 40.00015790548631,
+        "hand_absolute_degrees": 54.67972689670862
+      },
+      {
+        "frame": 178,
+        "wrist_relative_degrees": 40.00014076479161,
+        "hand_absolute_degrees": 56.441707778103044
+      },
+      {
+        "frame": 179,
+        "wrist_relative_degrees": 40.000102492735586,
+        "hand_absolute_degrees": 58.37212771152082
+      },
+      {
+        "frame": 180,
+        "wrist_relative_degrees": 40.00009638279225,
+        "hand_absolute_degrees": 60.43743132665906
+      },
+      {
+        "frame": 181,
+        "wrist_relative_degrees": 40.000089118995646,
+        "hand_absolute_degrees": 62.600759649312046
+      },
+      {
+        "frame": 182,
+        "wrist_relative_degrees": 40.00006641970538,
+        "hand_absolute_degrees": 64.94895905123077
+      },
+      {
+        "frame": 183,
+        "wrist_relative_degrees": 40.000051163930266,
+        "hand_absolute_degrees": 67.58019943955767
+      },
+      {
+        "frame": 184,
+        "wrist_relative_degrees": 40.000020127074976,
+        "hand_absolute_degrees": 70.47100248113041
+      },
+      {
+        "frame": 185,
+        "wrist_relative_degrees": 40.00000334937072,
+        "hand_absolute_degrees": 73.59587679116575
+      },
+      {
+        "frame": 186,
+        "wrist_relative_degrees": 39.99998482513783,
+        "hand_absolute_degrees": 76.92684901004452
+      },
+      {
+        "frame": 187,
+        "wrist_relative_degrees": 39.46869598889637,
+        "hand_absolute_degrees": 79.90167734006648
+      },
+      {
+        "frame": 188,
+        "wrist_relative_degrees": 36.920092308329735,
+        "hand_absolute_degrees": 81.00003137456153
+      },
+      {
+        "frame": 189,
+        "wrist_relative_degrees": 34.268081707203216,
+        "hand_absolute_degrees": 82.09839414183675
+      },
+      {
+        "frame": 190,
+        "wrist_relative_degrees": 31.543386495855213,
+        "hand_absolute_degrees": 83.18699492219939
+      },
+      {
+        "frame": 191,
+        "wrist_relative_degrees": 28.778894936200487,
+        "hand_absolute_degrees": 84.25601565105408
+      },
+      {
+        "frame": 192,
+        "wrist_relative_degrees": 26.008637645313765,
+        "hand_absolute_degrees": 85.29572294580925
+      },
+      {
+        "frame": 193,
+        "wrist_relative_degrees": 23.26703576600053,
+        "hand_absolute_degrees": 86.29631077336653
+      },
+      {
+        "frame": 194,
+        "wrist_relative_degrees": 20.58675111895071,
+        "hand_absolute_degrees": 87.24800586191023
+      },
+      {
+        "frame": 195,
+        "wrist_relative_degrees": 17.99819580420355,
+        "hand_absolute_degrees": 88.14103509564686
+      },
+      {
+        "frame": 196,
+        "wrist_relative_degrees": 15.527818252144705,
+        "hand_absolute_degrees": 88.96561951036861
+      },
+      {
+        "frame": 197,
+        "wrist_relative_degrees": 13.198948656892414,
+        "hand_absolute_degrees": 89.71199284710046
+      },
+      {
+        "frame": 198,
+        "wrist_relative_degrees": 11.033776122115572,
+        "hand_absolute_degrees": 90.37036431269956
+      },
+      {
+        "frame": 199,
+        "wrist_relative_degrees": 9.063252551547711,
+        "hand_absolute_degrees": 90.9309340337627
+      },
+      {
+        "frame": 200,
+        "wrist_relative_degrees": 7.167885229037133,
+        "hand_absolute_degrees": 91.38397830380518
+      },
+      {
+        "frame": 201,
+        "wrist_relative_degrees": 5.2721537948585855,
+        "hand_absolute_degrees": 91.71967952779845
+      },
+      {
+        "frame": 202,
+        "wrist_relative_degrees": 3.670440048602452,
+        "hand_absolute_degrees": 91.92826838867838
+      },
+      {
+        "frame": 203,
+        "wrist_relative_degrees": 3.0536787699766514,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 204,
+        "wrist_relative_degrees": 3.609649839794479,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 205,
+        "wrist_relative_degrees": 4.691614026925842,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 206,
+        "wrist_relative_degrees": 5.938905867746495,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 207,
+        "wrist_relative_degrees": 7.244408758714712,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 208,
+        "wrist_relative_degrees": 8.574068707711135,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 209,
+        "wrist_relative_degrees": 9.917028388802187,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 210,
+        "wrist_relative_degrees": 11.168350435402047,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 211,
+        "wrist_relative_degrees": 12.252224852627078,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 212,
+        "wrist_relative_degrees": 13.195827608013,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 213,
+        "wrist_relative_degrees": 14.015797333250182,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 214,
+        "wrist_relative_degrees": 14.722333998657188,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 215,
+        "wrist_relative_degrees": 15.321541160669724,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 216,
+        "wrist_relative_degrees": 15.81662698677124,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 217,
+        "wrist_relative_degrees": 16.208113055835344,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 218,
+        "wrist_relative_degrees": 16.494477489104806,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 219,
+        "wrist_relative_degrees": 16.671541784492014,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 220,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 221,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 222,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 223,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 224,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 225,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 226,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 227,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 228,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 229,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 230,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 231,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 232,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 233,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 234,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 235,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 236,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 237,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 238,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 239,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      },
+      {
+        "frame": 240,
+        "wrist_relative_degrees": 16.732575289839513,
+        "hand_absolute_degrees": 91.99997654412759
+      }
+    ]
+  }
+}

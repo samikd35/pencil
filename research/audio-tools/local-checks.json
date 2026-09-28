@@ -1,0 +1,66 @@
+{
+  "checked_at": "2026-09-11T12:57:34.036145+00:00",
+  "machine": "arm64",
+  "python": "3.12.14",
+  "ffmpeg": "ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers",
+  "filters_present": [
+    "adelay",
+    "amix",
+    "afir",
+    "loudnorm",
+    "ebur128",
+    "astats",
+    "silencedetect",
+    "rubberband",
+    "aresample",
+    "acrossfade",
+    "afftdn"
+  ],
+  "tests": [
+    {
+      "test": "sample_exact_delay",
+      "fps": "24",
+      "frame": 38,
+      "expected_sample": 74000,
+      "observed_sample": 74000,
+      "passed": true
+    },
+    {
+      "test": "sample_exact_delay",
+      "fps": "30000/1001",
+      "frame": 38,
+      "expected_sample": 59259,
+      "observed_sample": 59259,
+      "passed": true
+    },
+    {
+      "test": "block_stream_to_ffmpeg",
+      "passed": true,
+      "audio_frames": 2880000,
+      "block_audio_bytes": 65536,
+      "scope": "Bounded block arrays, not an RSS benchmark or full stem mixer"
+    }
+  ],
+  "packages": {
+    "numpy": "2.3.5",
+    "scipy": null,
+    "soundfile": null,
+    "pedalboard": null,
+    "librosa": null,
+    "soxr": null,
+    "pyloudnorm": null,
+    "torch": null
+  },
+  "one_hour_stereo_array_bytes": {
+    "float64_per_stem": 2764800000,
+    "float32_per_stem": 1382400000,
+    "three_float64_stems_before_temporaries": 8294400000
+  },
+  "not_tested": [
+    "AI models",
+    "new package installation",
+    "subjective listening",
+    "third-party applications",
+    "full production retiming or mixing"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "carrick",
+  "text": "Any points with that?",
+  "description": "A middle-aged British English man with a low, slightly gravelly voice and a restrained northern English accent. Bone-dry sarcasm, fed up but completely controlled. Deliver this short question as a cutting comeback, stress POINTS, then let with that fall dismissively. Brisk, about one and a half seconds, no introductory breath or extra words. A deadpan comic punchline. Clean dry close microphone, no music.",
+  "event_id": "eda0065eb86643758172ff2f5ac2f02f",
+  "engine": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+  "host": "https://qwen-qwen3-tts.hf.space",
+  "api": "generate_voice_design",
+  "license": "Apache-2.0",
+  "heard_by_agent": false,
+  "failed_event_ids": [
+    "63bfed61640047d5948e0c7e265cecbc"
+  ],
+  "failure": "Official demo returned event:error with data:null; one fresh attempt.",
+  "result": [
+    {
+      "path": "/tmp/gradio/c3aa31ec62a34980fa036f35c410c031324d566a87bc18c3c5ad75992f181345/audio.wav",
+      "url": "https://qwen-qwen3-tts.hf.space/gradio_api/file=/tmp/gradio/c3aa31ec62a34980fa036f35c410c031324d566a87bc18c3c5ad75992f181345/audio.wav",
+      "size": null,
+      "orig_name": "audio.wav",
+      "mime_type": null,
+      "is_stream": false,
+      "meta": {
+        "_type": "gradio.FileData"
+      }
+    },
+    "Voice design generation completed successfully!"
+  ],
+  "sha256": "20f9a4786c0bf8e3ddf5b4b8506d9b73debb9901a2581aeaac810868919ed773"
+}

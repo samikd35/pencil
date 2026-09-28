@@ -1,0 +1,41 @@
+{
+  "text": "Ref!",
+  "voice": "am_puck",
+  "speed": 1.1,
+  "sample_rate": 24000,
+  "duration_seconds": 0.572,
+  "load_and_generate_seconds": 3.3940951250042417,
+  "runtime": "/Users/samikd/MyProjects/PyBlend/Episode 1/production/voice_runtime",
+  "model_sha256": {
+    "kokoro-v1.0.fp16.onnx": "f3a290d384fbb27966d462905c71a46cef9e5fd00516b40df32a0b4afe77ac96",
+    "voices-v1.0.bin": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+  },
+  "phonemes": [
+    {
+      "phoneme": "\u0279",
+      "start": 0.07933333333333334,
+      "end": 0.15433333333333332
+    },
+    {
+      "phoneme": "\u02c8",
+      "start": 0.15433333333333332,
+      "end": 0.25433333333333336
+    },
+    {
+      "phoneme": "\u025b",
+      "start": 0.25433333333333336,
+      "end": 0.3293333333333333
+    },
+    {
+      "phoneme": "f",
+      "start": 0.3293333333333333,
+      "end": 0.512
+    },
+    {
+      "phoneme": "!",
+      "start": 0.512,
+      "end": 0.512
+    }
+  ],
+  "listening_review": "Not heard by assistant; technical smoke test only."
+}

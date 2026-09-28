@@ -1,0 +1,127 @@
+{
+  "changed_owners": [
+    "README.md",
+    "pipeline/skill/SKILL.md",
+    "pipeline/README.md",
+    "pipeline/motion-planning.md",
+    "pipeline/styles/construction.md",
+    "pipeline/checkpoints.py",
+    "pipeline/test_workflow.py",
+    "productions/README.md",
+    "productions/Samtoons/README.md"
+  ],
+  "preserved": [
+    {
+      "path": "pipeline/revisions/performance-workflow-v002/plan.md",
+      "bytes": 27330,
+      "sha256": "a9b3a7bef9e7ffe80b334ecbb5b6124ab36effe9efb137c7c9e2296240d9b2cc"
+    },
+    {
+      "path": "productions/Samtoons/benchmark-v002.md",
+      "bytes": 9182,
+      "sha256": "47b0ab4e07ca6727ca44227a6aee4fcd3c2113374cffa346c8044112c855505c"
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/README.md",
+      "bytes": 3880,
+      "sha256": "f3e94ea70255552e13f8e97ab0a0bb2dd145afb3363ac8e4b56ec3c89d8dcde3"
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/manifest.json",
+      "bytes": 4478,
+      "sha256": "bff582b2c33d134f3e9feda7e5f97b0844bc0d1c4d5e01fedbb7010d079cc23d"
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/samtoons-logo.png",
+      "bytes": 451811,
+      "sha256": "68ba8ed462330e5b77f65e46ad509c29090b053d3b8385849af92c94e8e6592f"
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/voices/oliver-raw.wav",
+      "bytes": 148694,
+      "sha256": "19dd37f1d45ff4a218efa2403a8740a96be43afce876e86f1ff90a0480ec7300"
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/voices/takes.json",
+      "bytes": 3704,
+      "sha256": "a1c18b5e4af78e53420a82f9d5f20eb9d788f5a1fcfbea6096784e326c4a9d08"
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/voices/oliver.wav",
+      "bytes": 434064,
+      "sha256": "7113136f76c81f30d2958820a2d0930046fbedfe087896ee6be4fba63916600d"
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/voices/carrick-raw.wav",
+      "bytes": 60374,
+      "sha256": "20f9a4786c0bf8e3ddf5b4b8506d9b73debb9901a2581aeaac810868919ed773"
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/voices/bruno-raw.wav",
+      "bytes": 60374,
+      "sha256": "ac723f756e85052e1888ac3718bf24a577c3649e44b7078ea7c8d7f01d3bdcff"
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/voices/carrick.wav",
+      "bytes": 158322,
+      "sha256": "52954c899f277a4473710f9434cead14cf969887b03518c325b1a561dc77d160"
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/voices/bruno.wav",
+      "bytes": 154284,
+      "sha256": "48e802d3bac62f3e8cc8e8fa143a8b1e64928295ce858ee5e8d78ee27e8a02f9"
+    },
+    {
+      "path": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/samtoons-final.blend",
+      "bytes": 191503644,
+      "sha256": "db0cc869f1c6c691c2415688d5fa7b60cb580fe24b591428bd944fc6719c96dc"
+    },
+    {
+      "path": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/samtoons-final-1080p.mp4",
+      "bytes": 41602220,
+      "sha256": "4cb9cca4f8da2a3e2938e7fdea11624fb0edaf9cfa6700b936d04948fc3cf239"
+    },
+    {
+      "path": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/samtoons-final-1080p.mp4",
+      "bytes": 60087829,
+      "sha256": "4e047c703a5c496dfdab38f60cd0bef9c9897fdc3d94b975d8bc687d336657bd"
+    },
+    {
+      "path": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/defence.blend",
+      "bytes": 59806890,
+      "sha256": "10d05293acbb77d2c89b8cf7325b46335b5989fb4e063ae6985d0e925e5428c5"
+    },
+    {
+      "path": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/opening-motion.blend",
+      "bytes": 28286767,
+      "sha256": "e5c5e011acb7c36c50a1e5286da627c2ed0330968f71002cf22dc83e110ef24a"
+    },
+    {
+      "path": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/remaining.blend",
+      "bytes": 88644028,
+      "sha256": "c97c34f47cfe01623c84a4da80a4a0c30bfe1c266f5f1b4567ba9f5acf3697b9"
+    },
+    {
+      "path": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/opening-dialogue.blend",
+      "bytes": 28371989,
+      "sha256": "3964284af0e26cc2b4ff55d3a38dfff90aabc7c853c3ea4a6ad07aacbe9ec081"
+    }
+  ],
+  "model_weight_metadata": [
+    {
+      "path": ".runtime/qwen-voice/base-model/model.safetensors",
+      "bytes": 1024490700,
+      "mtime_ns": 1789750983570697279
+    },
+    {
+      "path": ".runtime/qwen-voice/model/model.safetensors",
+      "bytes": 3833402589,
+      "mtime_ns": 1789482900248994286
+    },
+    {
+      "path": ".runtime/qwen-voice/model/speech_tokenizer/model.safetensors",
+      "bytes": 682293092,
+      "mtime_ns": 1789483144730111373
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Pep passing-pose correction
+
+The initial passing poses read as high-knee marching. `managers-low.png` is the selected v002 sheet. Built-in image edit, using `managers.png` as input. Other attempts remain preserved.
+
+EDIT only PEP'S RAISED LEGS in bottom row columns2and4. These currently look like a high-knee march. Need casual low relaxed WALK: lifted thigh nearly VERTICAL DOWN, knee only slightly forward (at roughly same height as supporting knee), lifted FOOT ONLY 5-10 pixels above ground, next to the supporting ankle, not near the calf or knee. Both trouser legs hang almost vertically in these narrow passing poses. Draw the supporting leg straight, other leg crosses very close behind it with a gently bent knee. Shoe must stay near the GROUND, NOT raised toward the other knee. Preserve every other pixel, same heads/hands in pockets, same poses1and3, whole top Arteta row, transparent RGBA background and4x2 layout. No changes in overall character size. This is slow casual stroll animation, not marching, sprinting or hopping.

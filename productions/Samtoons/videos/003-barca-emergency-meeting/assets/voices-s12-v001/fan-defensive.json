@@ -1,0 +1,23 @@
+{
+  "text": "That was before we hired their coach.",
+  "direction": "",
+  "seed": 241202,
+  "sample_rate": 24000,
+  "duration_seconds": 1.84,
+  "load_seconds": 2.896722375000536,
+  "generation_seconds": 1.2059641659980116,
+  "peak_memory_bytes": 3776037737,
+  "model_source": {
+    "repository": "mlx-community/Qwen3-TTS-12Hz-0.6B-Base-4bit",
+    "revision": "0d6bb6fe33f92d47a507e23b9148940e8366ab5b",
+    "tokenizer": "Shared existing Qwen12Hz tokenizer, model speech_tokenizer symlink",
+    "method": "Reference-conditioned synthetic character voice; original opening B02 remains identity anchor"
+  },
+  "sha256": "bc086ab8248270706a7a368b48aef27f14bf0820176b984415be92e6aa3034ba",
+  "heard_by_agent": false,
+  "processing": "Unprocessed local model output; no gain or pitch change",
+  "reference_wav": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/003-barca-emergency-meeting/assets/voices-s12-v001/fan-delighted.wav",
+  "reference_text": "Now you know what it feels like!",
+  "reference_sha256": "4dabd263b4a7348262783ba6c674c56578c4280699411054addfd1512ccff6bb",
+  "direction_applied": false
+}

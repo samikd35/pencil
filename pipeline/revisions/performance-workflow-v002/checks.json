@@ -1,0 +1,139 @@
+{
+  "status": "passed",
+  "protected_files": [
+    {
+      "path": "pipeline/revisions/performance-workflow-v002/plan.md",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/benchmark-v002.md",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/README.md",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/manifest.json",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/samtoons-logo.png",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/voices/oliver-raw.wav",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/voices/takes.json",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/voices/oliver.wav",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/voices/carrick-raw.wav",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/voices/bruno-raw.wav",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/voices/carrick.wav",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/assets/reuse-v001/voices/bruno.wav",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/samtoons-final.blend",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/samtoons-final-1080p.mp4",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/samtoons-final-1080p.mp4",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/defence.blend",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/opening-motion.blend",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/remaining.blend",
+      "unchanged": true
+    },
+    {
+      "path": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/opening-dialogue.blend",
+      "unchanged": true
+    }
+  ],
+  "model_weight_metadata": [
+    {
+      "path": ".runtime/qwen-voice/base-model/model.safetensors",
+      "metadata_unchanged": true
+    },
+    {
+      "path": ".runtime/qwen-voice/model/model.safetensors",
+      "metadata_unchanged": true
+    },
+    {
+      "path": ".runtime/qwen-voice/model/speech_tokenizer/model.safetensors",
+      "metadata_unchanged": true
+    }
+  ],
+  "catalogue_verified_references": 23,
+  "previous_packaged_selections_verified": 8,
+  "tests": {
+    "checkpoints_self_test": "passed",
+    "test_workflow": "passed including source switch, malformed current inputs, adoption and sound isolation",
+    "pose_geometry": "passed",
+    "test_styles": "passed"
+  },
+  "runtime": {
+    "blender": "5.2.0 LTS",
+    "source": "/Users/samikd/MyProjects/Pencil/pipeline/revisions/performance-workflow-v002/runtime-check/source-copy.blend",
+    "scene": "S002_B01_v016_unveiling",
+    "frame": 220,
+    "camera": "B01 carpet reveal",
+    "property": "camera.data.ortho_scale",
+    "original": 13.800000190734863,
+    "expected": 13.937999725341797,
+    "keyframe_insert": true,
+    "interactive_window": true,
+    "scope": "Copied existing source; saved-file-owned native camera correction and render route only.",
+    "reopened_value": 13.937999725341797,
+    "action_slots": 2,
+    "saved_correction_preserved": true,
+    "render_finished": true,
+    "preview": "/Users/samikd/MyProjects/Pencil/pipeline/revisions/performance-workflow-v002/runtime-check/after-reopen.png",
+    "no_authoring_registry_loaded_by_check": true
+  },
+  "render_comparison": {
+    "same_png_bytes": false,
+    "before_sha256": "52f795a4bd2b25cdd090cc5cb7ea8953ec74242765487c9bbbb26101e9c499a4",
+    "after_sha256": "550e57c3b85b01961343f23c998efb763ea59519aef50cf1cb9d702718e0d3a3",
+    "scope": "Same existing frame and camera correction before/after native save/reopen; no performance or listening review.",
+    "same_decoded_pixels": true,
+    "different_channels": 0,
+    "maximum_channel_difference": 0,
+    "decoded_rgb_sha256": [
+      "d5a84bb2a298764570a6670f6f0bf7829a1f5527843a487e3061e9dba368c576",
+      "d5a84bb2a298764570a6670f6f0bf7829a1f5527843a487e3061e9dba368c576"
+    ]
+  },
+  "local_links": {
+    "checked": 129,
+    "errors": []
+  }
+}

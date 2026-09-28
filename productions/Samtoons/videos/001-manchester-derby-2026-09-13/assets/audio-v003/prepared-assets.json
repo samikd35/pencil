@@ -1,0 +1,94 @@
+{
+  "paper-handoff": {
+    "path": "../../assets/audio-v003/paper-handoff.wav",
+    "sha256": "4881e483b8b698397afb1fe87b5988886dd54d46388648130b2a4cd3cbf6959e",
+    "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "paper by Ezcah \u2014 https://freesound.org/people/Ezcah/sounds/248178/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed.",
+    "notes": "{\"start\": 0.12, \"source_seconds\": 0.55, \"filters\": \"highpass=f=140,afade=t=in:d=0.01,afade=t=out:st=0.45:d=0.1,alimiter=limit=0.5:level=false\", \"download\": \"https://cdn.freesound.org/previews/248/248178_1900515-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+  },
+  "paper-crumple": {
+    "path": "../../assets/audio-v003/paper-crumple.wav",
+    "sha256": "aec7d37ae05bb3a9fd306c730dd07070f4927f6e2d134ee4594f0950e3c80501",
+    "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "paper by Ezcah \u2014 https://freesound.org/people/Ezcah/sounds/248178/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed.",
+    "notes": "{\"start\": 0.4, \"source_seconds\": 1.6, \"filters\": \"atempo=1.6,highpass=f=120,afade=t=in:d=0.02,afade=t=out:st=0.85:d=0.15,alimiter=limit=0.55:level=false\", \"download\": \"https://cdn.freesound.org/previews/248/248178_1900515-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+  },
+  "card-flick": {
+    "path": "../../assets/audio-v003/card-flick.wav",
+    "sha256": "ed7eed8b26c2ea8414abb0f03f02db4db34972197a95ed8eafdc764664f2fcb5",
+    "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "paper by Ezcah \u2014 https://freesound.org/people/Ezcah/sounds/248178/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed.",
+    "notes": "{\"start\": 1.6, \"source_seconds\": 0.16, \"filters\": \"highpass=f=800,afade=t=in:d=0.003,afade=t=out:st=0.08:d=0.08\", \"download\": \"https://cdn.freesound.org/previews/248/248178_1900515-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+  },
+  "shirt-move": {
+    "path": "../../assets/audio-v003/shirt-move.wav",
+    "sha256": "c06498b9e083f4fc3c3c2d577827fc4af6d0caf237afe8f326350f767fcdcfe3",
+    "source": "https://freesound.org/people/NachtmahrTV/sounds/556711/",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "cloth by NachtmahrTV \u2014 https://freesound.org/people/NachtmahrTV/sounds/556711/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed.",
+    "notes": "{\"start\": 0.56, \"source_seconds\": 0.65, \"filters\": \"highpass=f=120,afade=t=in:d=0.02,afade=t=out:st=0.5:d=0.15\", \"download\": \"https://cdn.freesound.org/previews/556/556711_5620304-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+  },
+  "ball-strike": {
+    "path": "../../assets/audio-v003/ball-strike.wav",
+    "sha256": "a5670c8592b954ae9d5336e7fbc84c0ddb7c785467a911bb9db4e4936c297ec1",
+    "source": "https://freesound.org/people/volivieri/sounds/37157/",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "kick by volivieri \u2014 https://freesound.org/people/volivieri/sounds/37157/ \u2014 https://creativecommons.org/licenses/by/4.0/; excerpted and processed.",
+    "notes": "{\"start\": 0.32, \"source_seconds\": 0.55, \"filters\": \"highpass=f=55,afade=t=in:d=0.003,afade=t=out:st=0.35:d=0.2\", \"download\": \"https://cdn.freesound.org/previews/37/37157_374422-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+  },
+  "glove-parry": {
+    "path": "../../assets/audio-v003/glove-parry.wav",
+    "sha256": "8a57001aee01f0da23ca6ec6f9055115650a0639387c11d336b8234d0c0aae9e",
+    "source": "https://freesound.org/people/volivieri/sounds/37157/",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "kick by volivieri \u2014 https://freesound.org/people/volivieri/sounds/37157/ \u2014 https://creativecommons.org/licenses/by/4.0/; excerpted and processed.",
+    "notes": "{\"start\": 0.33, \"source_seconds\": 0.35, \"filters\": \"highpass=f=180,lowpass=f=5200,afade=t=in:d=0.003,afade=t=out:st=0.18:d=0.17\", \"download\": \"https://cdn.freesound.org/previews/37/37157_374422-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+  },
+  "sob-A": {
+    "path": "../../assets/audio-v003/sob-A.wav",
+    "sha256": "559bdecc0eaf2a1c8f92a876041ee615e76dc6efe33654ef7c173fdaa2548f57",
+    "source": "https://freesound.org/people/jacobmathiassen/sounds/254869/",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "sob by jacobmathiassen \u2014 https://freesound.org/people/jacobmathiassen/sounds/254869/ \u2014 https://creativecommons.org/licenses/by/4.0/; excerpted and processed.",
+    "notes": "{\"start\": 0.65, \"source_seconds\": 3.35, \"filters\": \"highpass=f=100,lowpass=f=8000,afade=t=in:d=0.05,afade=t=out:st=2.95:d=0.4,alimiter=limit=0.65:level=false\", \"download\": \"https://cdn.freesound.org/previews/254/254869_173571-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+  },
+  "sob-B": {
+    "path": "../../assets/audio-v003/sob-B.wav",
+    "sha256": "b3a39b4a9e707daf628df41dd3ab3fa2f9d4dabc0dd0e3d153e9c0fb4f8b4cd4",
+    "source": "https://freesound.org/people/jacobmathiassen/sounds/254869/",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "sob by jacobmathiassen \u2014 https://freesound.org/people/jacobmathiassen/sounds/254869/ \u2014 https://creativecommons.org/licenses/by/4.0/; excerpted and processed.",
+    "notes": "{\"start\": 2.05, \"source_seconds\": 3.1, \"filters\": \"rubberband=pitch=1.12,highpass=f=130,afade=t=in:d=0.05,afade=t=out:st=2.7:d=0.4,alimiter=limit=0.65:level=false\", \"download\": \"https://cdn.freesound.org/previews/254/254869_173571-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+  },
+  "innocent-chime": {
+    "path": "../../assets/audio-v003/innocent-chime.wav",
+    "sha256": "cc9adf91a89d9079da33a004997027a238f8acb42793fcff8b52e5579b7eeefd",
+    "source": "Original graphic synthesis in scripts/prepare_sound_audition.py",
+    "license": "Original production synthesis",
+    "attribution": ""
+  },
+  "comic-recoil": {
+    "path": "../../assets/audio-v003/comic-recoil.wav",
+    "sha256": "c554a4a49afb79f766611bdc4be6155de0c440603e4896dcdd414b2ad9211f43",
+    "source": "Original graphic synthesis in scripts/prepare_sound_audition.py",
+    "license": "Original production synthesis",
+    "attribution": ""
+  },
+  "dry-impact": {
+    "path": "../../assets/audio-v002/dry-impact.wav",
+    "sha256": "e63d24f9c2d3f2028256cf1baa274b1b891514e5d110919f904e14cc4618d84e",
+    "source": "Original synthesis in scripts/prepare_action_audio.py; new audition only",
+    "license": "Original production synthesis",
+    "attribution": ""
+  },
+  "whistle": {
+    "path": "../../assets/audio-v002/ref-whistle.wav",
+    "sha256": "989cdfce394bd2efa2939da2fdbf29a8eed84a0192322162d707bac51b8db781",
+    "source": "Original synthesis in scripts/prepare_action_audio.py; new audition only",
+    "license": "Original production synthesis",
+    "attribution": ""
+  }
+}

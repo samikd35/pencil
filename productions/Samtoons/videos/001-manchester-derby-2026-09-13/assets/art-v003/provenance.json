@@ -1,0 +1,27 @@
+{
+  "kind": "Original generated animation heads; prepared by native UV cropping; original raster pixels retained",
+  "files": {
+    "bruno-foden-oliver-carrick.png": "f09b868a4004cf69009ca06c5300f1f74d05108afbba6d297391a971fa1f566c",
+    "donnarumma-mbeumo.png": "9b4932022673eed367bef3b758f8a30818cee10643bf5789f3c0df5bd50427c4",
+    "drawing-bounds.json": "e1a2059f099cf3f2e54437367290093092ad74bc56aefbdf4b9882c4a8a3a649"
+  },
+  "generation_prompts": [
+    "cast-generation-prompt.txt",
+    "save-initial-prompt.txt",
+    "save-correction-prompt.txt"
+  ],
+  "source_art": [
+    "assets/art-v002/head-expressions.png"
+  ],
+  "likeness_references": [
+    "artifacts/staging-v003/carrick-reference.webp",
+    "artifacts/staging-v003/donnarumma-reference.jpg",
+    "research/visual-references/official-highlights-picture.mp4"
+  ],
+  "rejected_generation": "exec-7d06cf6b-a435-4930-9b34-25f131469ea7.png \u2014 Donnarumma likeness too close to Bruno; not used in scene",
+  "selected_generated_files": [
+    "exec-99bc8bbf-8032-4b6e-bd3c-6cdc409dcf86.png",
+    "exec-ca02484f-5f0d-4c57-923c-c9c5b09901a4.png"
+  ],
+  "review_limits": "New action cast pending user staging acceptance; no final all-angle character approval."
+}

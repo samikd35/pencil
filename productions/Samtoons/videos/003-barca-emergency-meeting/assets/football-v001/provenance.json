@@ -1,0 +1,28 @@
+{
+  "method": "Built-in image_gen for new reference artwork, existing VTracer parser for native contours, Blender-authored connected joints and keyed drawings for action. No raster character layers in the movie.",
+  "references": [
+    {
+      "path": "assets/reference-redraw-v003/canonical-busts.png",
+      "role": "Selected drawing-family reference"
+    }
+  ],
+  "generated": [
+    {
+      "file": "players-reference.png",
+      "sha256": "8539e0a1ffb533dce53f88f96377ef1efac1d8310fb9e3d02ade53dd295f9e2c",
+      "source_generation": "exec-7349dff4-01e7-4a27-bfad-dbdb32201523.png",
+      "prompt_summary": "Three full-body Raphinha, Pedri and Lamine Yamal caricatures; separated athletic A poses, navy/garnet Barcelona kits, closed neutral mouths, source reference for editable anatomy.",
+      "tool": "image_gen built-in",
+      "selection": "scene candidate, not user approval"
+    },
+    {
+      "file": "defenders-reference.png",
+      "sha256": "bdfb7781632767dbc8d467370bed7fb2089b70ebdf2702f5ea2bc8a39e14c051",
+      "source_generation": "exec-7c0ff20d-cce8-4f50-a566-460e8ee8f9b1.png",
+      "prompt_summary": "Three original fictional practice-defender heads; bald/bearded olive-skinned man, dark-skinned short flat-top man and fair red-haired man, looking left. Same clean caricature style, isolated transparent source art.",
+      "tool": "image_gen built-in",
+      "selection": "scene candidate, not user approval"
+    }
+  ],
+  "limits": "Source poses are not motion approval; new local limb silhouettes and native facial controls are evaluated in the S06 staging movie."
+}

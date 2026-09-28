@@ -1,0 +1,17 @@
+{
+  "L": {
+    "rest_error": 1.1102230246251565e-16,
+    "segment_lengths": [
+      0.7029440700414997,
+      1.3458699647295698
+    ]
+  },
+  "R": {
+    "rest_error": 5.551115123125783e-17,
+    "segment_lengths": [
+      0.7408667209548017,
+      1.3306440893307019
+    ]
+  },
+  "scope": "Geometry correction only; rejected animation unchanged and not approved."
+}

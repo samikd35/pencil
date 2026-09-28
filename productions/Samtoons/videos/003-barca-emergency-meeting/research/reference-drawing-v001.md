@@ -1,0 +1,87 @@
+# Reference-based native drawing for Video 003
+
+Research date: 22 September 2026. Scope: reconstruct the current Pérez–Müller artwork while preserving the useful body, eye and mouth performance. This note is research and an implementation recommendation; it does not certify an unseen reconstruction or alter production builders.
+
+## Finding
+
+The problem is not that Python cannot author an editable drawing. The current call builders define facial contours from manually guessed coordinates, while the selected likeness exists in a separate illustrated reference. The two therefore have no measured geometric correspondence. The local construction guide already records that coincident joint controls do not prove continuous visible skin, clothing, shadows or outlines. More facial decoration and more joint caps do not repair those two missing relationships. Evidence inspected: `scripts/build_call_performance_v001.py`, `scripts/build_call_performance_v002.py`, and `pipeline/styles/construction.md`.
+
+**Recommended repair:** use one coherent, pose-matched whole-character drawing as the source; trace or convert its actual shapes to editable native geometry; preserve semantic facial controls; fit all visible surfaces to a common source-to-pose deformation. Keep the current acting/timing as the performance specification, not the old guessed face geometry or source-independent bone lengths.
+
+## What the sources establish
+
+- **Blender supports reference tracing, but its automatic image trace is not a production rig.** Trace Image converts an image to black and white and extracts strokes using a luminance threshold. It can produce dense geometry. It does not infer an eyelid, jaw, hidden shoulder, grip or replacement mouth. It is suitable for selected cleaned linework, not a one-click color-character reconstruction. [Blender 5.2 Trace Image manual](https://docs.blender.org/manual/en/latest/grease_pencil/modes/object/trace_image.html).
+- **SVG is a usable geometry bridge.** Blender imports SVG as curves or Grease Pencil. The curve-import documentation warns that only path geometry is supported; do not assume every SVG paint/stroke/filter or semantic group survives. Materials, ordering and registration must be checked against the rendered source. The GP importer exposes scale, resolution and recentering options; uncontrolled recentering of individual face parts breaks their alignment. [SVG curves](https://docs.blender.org/manual/en/latest/files/import_export/svg_curve.html), [SVG Grease Pencil](https://docs.blender.org/manual/en/5.2/files/import_export/grease_pencil_svg.html).
+- **VTracer preserves color-region shapes, not animation semantics.** Its source describes segmentation, fitted region paths and compositing. This supports extracting editable source contours, but joint ownership and hidden overlap still need authoring. The installed runtime is **0.6.15**. Upstream's assertion that cutout produces a true gapless mosaic with shared boundaries is a **1.0 change**, not a guarantee for our installed version. Do not upgrade the production runtime merely for this repair. [VTracer source](https://github.com/visioncortex/vtracer/blob/master/crates/vtracer/src/lib.rs), [version changes](https://github.com/visioncortex/vtracer/blob/master/CHANGELOG.md).
+- **Layering must follow the acting.** Blender Studio's Baby Suzanne separates eyes to adjust darts and separates other moving facial elements as needed. Its lesson is purposeful editable parts, not an arbitrary layer count. [Baby Suzanne](https://studio.blender.org/blog/baby-suzanne-in-grease-pencil/).
+- **Clean drawings build on established performance.** Blender Studio's boxing experiment begins with rough key poses and timing, refines volumes, separates head/neck, torso and arms, then cleans lines and colors. Difficult glove volumes were established with a rigged 3D guide before drawing over them. The author reports that cleanup and maintaining form were substantial artistic work; switching tools did not eliminate them. [Fighting with Grease Pencil](https://studio.blender.org/blog/fighting-grease-pencil/).
+- **Deformation is available, but requires fitted weights.** Blender's GP Armature modifier deforms points through corresponding vertex groups and weights. Native GP layers can also inherit a parent object's transform, useful for rigid parts. These features do not determine a correct anatomical boundary or silhouette automatically. [GP Armature](https://docs.blender.org/manual/en/5.0/grease_pencil/modifiers/deform/armature.html), [layers](https://docs.blender.org/manual/en/4.5/grease_pencil/properties/layers.html).
+
+## Minimal achievable reconstruction
+
+This is our implementation inference from those sources and the recorded production failures, not a published automatic likeness algorithm.
+
+1. **Make the reference match the actual first pose.** Select a coherent Müller bust with the raised picture grip and Pérez with the bent pen arm. Keep head, neck, torso, sleeves and hands in the same drawing language. A generic A-pose is a poor source for these already tightly bent arms. Use the user's Bruno example for simplified contours, recognizable proportions and coherent head-to-toe finish; it is not a template face for the other characters.
+2. **Align once in source coordinates.** Record source dimensions, visible crop, scale and origin. Mark skull, eye centres, ear roots, nose tip, jaw, neck sides, collar, shoulder, elbow and wrist landmarks on that exact source. Compare the trace over the source at the delivery size. Do not independently normalize each part by its bounding box.
+3. **Preserve identity before adding motion.** Trace the silhouette, hairline, ear placement, nose profile, eye spacing and cheek/jaw masses. Native Bézier paths are sufficient. Existing VTracer can accelerate color-region extraction, followed by deliberate cleanup of important contours. Reject unnecessary speckles and excessively detailed shading. Do not replace distinctive features with convenient circles.
+4. **Separate only what must act.** Retain controlled eyes/pupils, lids, brows and mouth drawings, registered to the new head landmarks. Remove or mask their original painted counterparts. Keep the face mass, nose, ears and hair coordinated; a face swap registered only by mouth bounds can jump during speech. A blink changes lids without shrinking the whole eye/face design. A new view or palm orientation needs an appropriate drawing, not just a rotation of the old one.
+5. **Fit the accepted motion to the new rest geometry.** Measure this drawing's rest shoulder/elbow/wrist positions and limb lengths. Apply the intended motion as deltas from those rest transforms. Preserve beat timing, gaze lead, picture lowering and pen emphasis. Do not force the source into inherited joint positions as if all character drawings had the same anatomy.
+6. **Use one deformation field across visible joins.** Every fill, outline and shadow crossing neck/shoulder/elbow/wrist follows the same local mapping or weights. The neck joins moving jaw/skull anchors to collar anchors, with coverage underneath both. Keep shared surface contours continuous; overlap hidden fills under sleeves/collars and suppress interior seam outlines. Independent rigid shadow or outline overlays can expose a hole even when joint coordinates agree. Large bends may require a corrective contour at the existing action extremes.
+7. **Persist actual animation data.** Save geometry, materials, keys and drawing replacements in the `.blend`; use native shape keys/GP frames or baked geometry where necessary. A live Python frame handler alone is not a portable result. Reopen the saved file in a fresh process and render the same diagnostic frames. Compare actual decoded pixels or geometry, then visually inspect the clip at normal speed.
+
+The bounded review should include the original rest pose, maximum pen gesture, picture-lowering midpoint/end, a blink, and an open-mouth frame, with neck/shoulder/wrist closeups and the full composition. Numerical control continuity and source likeness are different checks. Neither alone certifies the final movement.
+
+## Blender 5.2 API facts verified locally
+
+Verified in a **separate factory-startup background process**, not by changing the production scene: `/Applications/Blender.app/Contents/MacOS/Blender`, **5.2.0 LTS**, build hash `fbe6228777e7`. Transient test datablocks were discarded at exit.
+
+| Purpose | Verified entry points |
+| --- | --- |
+| Native GP data | `bpy.data.grease_pencils.new(name)`; `bpy.data.objects.new(name, data)` |
+| Semantic layers and drawings | `gp.layers.new(name, set_active=True)`; `layer.frames.new(frame).drawing` |
+| Stroke geometry | `drawing.add_strokes([point_count])`; `drawing.attributes['position']`; `drawing.tag_positions_changed()` |
+| Small explicit stroke edits | `drawing.strokes[i].cyclic`, `.material_index`; `.points[j].position`, `.radius`, `.opacity`, `.handle_left`, `.handle_right` |
+| Weighted GP deformation | `object.vertex_groups.new(name=...)`; `drawing.set_vertex_weights(name, indices, weights)`; modifier type `GREASE_PENCIL_ARMATURE` |
+| Rigid semantic GP parts | `layer.parent`, `layer.parent_bone`, `layer.matrix_parent_inverse`; layer translation/rotation/scale |
+| Native Bézier paths | `bpy.data.curves.new(name, 'CURVE')`; `curve.dimensions='2D'`; `curve.fill_mode='BOTH'`; `curve.splines.new('BEZIER')`; `bezier_points.add(...)`; control positions/handles; `spline.use_cyclic_u=True` |
+| SVG to GP | `bpy.ops.wm.grease_pencil_import_svg(filepath=..., resolution=..., scale=..., use_scene_unit=..., recenter_bounds=...)` |
+| B/W automatic trace | `bpy.ops.grease_pencil.trace_image(target=..., threshold=..., turnpolicy=..., mode=..., use_current_frame=..., frame_number=...)` |
+| GP material data | `bpy.data.materials.create_gpencil_data(material)` |
+
+The GP drawing API recommends attribute access for performance-sensitive work and warns that stored stroke slices become invalid after changing point/curve counts. Acquire the stroke again after structural edits. [Drawing API](https://docs.blender.org/api/main/bpy.types.GreasePencilDrawing.html), [5.2 data collection](https://docs.blender.org/api/5.2/bpy.types.BlendData.html), [5.2 layers](https://docs.blender.org/api/5.2/bpy.types.GreasePencilLayer.html), [Bézier point API](https://docs.blender.org/api/main/bpy.types.BezierSplinePoint.html).
+
+**Choose the existing native-curve route for this repair unless the actual drawing needs GP-specific editing.** Traced Bézier curves and filled meshes are editable native vector artwork; they are not Grease Pencil. Raster surfaces, native vectors and GP strokes must be described accurately. Renaming an asset or converting its type does not improve its draftsmanship.
+
+## What caricature research adds—and does not
+
+[WarpGAN (CVPR 2019)](https://arxiv.org/abs/1811.10100) treats identity-preserving geometric exaggeration and appearance/style as linked but controllable concerns. [Modeling Caricature Expressions by 3D Blendshape and Dynamic Texture (ACM MM 2020)](https://arxiv.org/abs/2008.05714) explicitly addresses preserving an artist-drawn caricature's identity exaggeration while changing expression. These support the design principle that **identity shape and expression change must be separated deliberately**. They do not provide a ready Blender production rig, proof of our characters' likeness, or a reason to add a new ML model to this repair.
+
+The research supports reference-grounded reconstruction and a combined likeness/movement review. It does not support claiming that tracing alone, a procedural face template, or a more elaborate rig guarantees benchmark-quality animation.
+
+## Addendum: why the whole traced mesh still folded
+
+Follow-up research after the reported v003 deformation failure: the pictured prop/arm region pulled the scarf and neck, and smoothing the spatial weights did not resolve the fold. That concrete report is evidence of incorrect deformation ownership and insufficient source construction, not proof that the selected likeness or acting should be discarded.
+
+**Clarification of the earlier common-field recommendation:** share a deformation field among the fills, shadows and outlines of the **same continuous anatomical surface**. Do not apply one proximity field indiscriminately across overlapping arms, neck, scarf and props. Coincident screen coordinates can belong to different surfaces at different depths. A color region is not an anatomical part.
+
+### Five relevant production references
+
+1. Toon Boom's [classical articulation guide](https://docs.toonboom.com/help/harmony-25/premium/rigging/create-classical-articulation.html) constructs overlapping color coverage and removes the interior line. It explicitly warns that excessive bending can still produce gaps and require drawing corrections. **Application:** trace and complete the shoulder/elbow/sleeve overlap itself; a mask or circular cap is not an unrestricted joint solution.
+2. The official [interior-sleeve exercise](https://learn.toonboom.com/modules/deformer-arm-animation/topic/activity-5-adding-interior-sleeves) adds a drawn inside to a sleeve. **Application:** reconstruct the torso/scarf behind the lifted picture and the sleeve material revealed by the arm before moving the foreground artwork. Missing hidden artwork cannot be recovered by a weight calculation.
+3. Toon Boom's [deformer-baking guide](https://helpcentre.toonboom.com/hc/en-ca/articles/41869142491155-How-do-I-bake-a-deformer) supports creating a new substitution drawing with its own deformation chain and avoids applying the original deformation twice. **Application:** when a bend exceeds the source drawing's useful range, author a clean alternate arm/hand contour at that pose, then animate within its supported range. In Blender this can be a corrected native shape or a replacement drawing; merely baking an already distorted frame preserves the error.
+4. Its [substitution-drawing guide](https://helpcentre.toonboom.com/hc/en-ca/articles/44835394414995-How-do-I-add-a-substitution-drawing-while-animating-a-rig) requires consistent line style and artwork registered to the existing pivot. **Application:** corrective artwork keeps the approved design and contact registration; changing pivots or re-centering each substitute would regress movement.
+5. The official [cut-out animation course](https://learn.toonboom.com/courses/cut-out-animation-2) treats head turns, front/behind arms, deforming arms with interior sleeves, and prop pickup with drawing substitutions as different operations. **Application:** one three-quarter illustration supports modest acting in that view; it does not contain a profile jaw/nose, the hidden eye/ear, or the back of a hand. A genuine turn needs matching view drawings and readable transition poses. Do not sell a flat shear or pupil slide as that turn.
+
+### Smallest repair that addresses this failure
+
+**Semantic masks are necessary here but insufficient alone.** Their boundaries must follow the source artwork, and the geometry must respect those boundaries. A triangle or traced region spanning two independently moving parts must be split or reconstructed, not merely assigned mixed labels. Smooth normalized weights can still fold a poorly fitted surface; they are not an injectivity or volume guarantee.
+
+Separate picture and pen as rigid props; separate each complete arm at its actual occlusion; complete the underlying torso/neck/scarf. Permit each piece only its intended transforms: torso/scarf exclude arm and prop influences; an arm excludes the opposite arm; a rigid prop follows its grip without skinning. Within each permitted deforming piece, reuse a consistent mapping for fill, shading and linework. Fit the rest geometry to measured source joints, and use a corrective drawing at an extreme if the silhouette or volume fails.
+
+Check three things before another review export: (1) moving only the picture/pen leaves unrelated neck/scarf/torso vertices unchanged; (2) hiding the moving foreground arm/prop reveals complete underlying artwork; (3) every frame through the largest bend retains a non-folded mesh and a visually plausible silhouette, including the contact and recovery. The third check requires rendered inspection alongside geometric checks. Retain the liked identity, gaze, mouth controls and beat timing while repairing ownership and geometry.
+
+## Implementation evidence, 22 September 2026
+
+The [v004 reconstruction report](../artifacts/staging-v001/call-performance-v004/README.md) records the actual failures, repairs and limitations. Semantic separation alone initially still failed: a constructed sleeve envelope crossed itself, a world-space pole flipped the elbow, and tubular ink penetrated a foreground hand. Those executable causes were repaired and checked. The later grip/cuff feedback exposed source-mask fragments and independently closed wrist boundaries; the revised native open connection is checked through the selected gestures.
+
+All-frame geometry checks, focused hand crops, consecutive encoded frames and exact saved-file/source-rebuild comparisons now exist. This evidence supports bounded use of the repaired method. It does not establish arbitrary views, extreme poses, heard dialogue quality, full-film acceptance or benchmark parity. The latest user instruction to begin with the weakest frame and defective region is now part of the shared review workflow.

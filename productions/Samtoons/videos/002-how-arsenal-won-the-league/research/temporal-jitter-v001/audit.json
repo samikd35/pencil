@@ -1,0 +1,170 @@
+{
+  "native_sample_count": 192,
+  "encoded_sample_count": 192,
+  "encoded_frame_interval_seconds": [
+    0.041665999999999315,
+    0.04166700000000034
+  ],
+  "steady_run_frames": [
+    29,
+    100
+  ],
+  "root_world_step_range": [
+    0.0,
+    0.5360193252563477
+  ],
+  "camera_pixel_step_range": [
+    30.98929321747666,
+    63.02512139976231
+  ],
+  "actor_screen_step_range_pixels": [
+    -40.966339111328125,
+    59.49409484863281
+  ],
+  "background_screen_step_range_pixels": [
+    -63.025054931640625,
+    -30.989303588867188
+  ],
+  "camera_direction_reversals_during_full_clip": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "frozen_camera_counterfactual": {
+    "background_step_pixels": 0,
+    "actor_step_range_pixels": [
+      0.0,
+      122.51870500221771
+    ]
+  },
+  "constant_speed_camera_counterfactual": {
+    "background_step_pixels": -48.44446416128283,
+    "actor_step_range_pixels": [
+      -48.44446416128283,
+      74.07424084093489
+    ]
+  },
+  "example_frames": [
+    {
+      "frame": 29,
+      "pose": 0,
+      "root_x": 3.0981268882751465,
+      "root_z": 0.9879512190818787,
+      "camera_x": 2.6437599658966064,
+      "actor_screen_x": 743.8552856445312,
+      "background_screen_x": 35.71199655532837,
+      "delta_root_x": 0.22427701950073242,
+      "delta_camera_x": 0.2446591854095459,
+      "delta_actor_screen_x": -4.6588134765625,
+      "delta_background_screen_x": -55.92210531234741
+    },
+    {
+      "frame": 30,
+      "pose": 0,
+      "root_x": 3.0981268882751465,
+      "root_z": 0.9879512190818787,
+      "camera_x": 2.802788496017456,
+      "actor_screen_x": 707.5059509277344,
+      "background_screen_x": -0.637381449341774,
+      "delta_root_x": 0.0,
+      "delta_camera_x": 0.1590285301208496,
+      "delta_actor_screen_x": -36.349334716796875,
+      "delta_background_screen_x": -36.34937800467014
+    },
+    {
+      "frame": 31,
+      "pose": 1,
+      "root_x": 3.4359824657440186,
+      "root_z": 1.0236879587173462,
+      "camera_x": 3.0244061946868896,
+      "actor_screen_x": 734.0745544433594,
+      "background_screen_x": -51.2928581237793,
+      "delta_root_x": 0.33785557746887207,
+      "delta_camera_x": 0.2216176986694336,
+      "delta_actor_screen_x": 26.568603515625,
+      "delta_background_screen_x": -50.65547667443752
+    },
+    {
+      "frame": 32,
+      "pose": 1,
+      "root_x": 3.4359824657440186,
+      "root_z": 1.0236879587173462,
+      "camera_x": 3.1684579849243164,
+      "actor_screen_x": 701.1484527587891,
+      "background_screen_x": -84.21897888183594,
+      "delta_root_x": 0.0,
+      "delta_camera_x": 0.14405179023742676,
+      "delta_actor_screen_x": -32.92610168457031,
+      "delta_background_screen_x": -32.92612075805664
+    },
+    {
+      "frame": 33,
+      "pose": 2,
+      "root_x": 3.8684847354888916,
+      "root_z": 1.027325987815857,
+      "camera_x": 3.4134671688079834,
+      "actor_screen_x": 744.0039825439453,
+      "background_screen_x": -140.2210807800293,
+      "delta_root_x": 0.43250226974487305,
+      "delta_camera_x": 0.245009183883667,
+      "delta_actor_screen_x": 42.85552978515625,
+      "delta_background_screen_x": -56.00210189819336
+    },
+    {
+      "frame": 34,
+      "pose": 2,
+      "root_x": 3.8684847354888916,
+      "root_z": 1.027325987815857,
+      "camera_x": 3.572723388671875,
+      "actor_screen_x": 707.6026153564453,
+      "background_screen_x": -176.62250518798828,
+      "delta_root_x": 0.0,
+      "delta_camera_x": 0.1592562198638916,
+      "delta_actor_screen_x": -36.4013671875,
+      "delta_background_screen_x": -36.401424407958984
+    },
+    {
+      "frame": 35,
+      "pose": 3,
+      "root_x": 4.312065124511719,
+      "root_z": 1.0314512252807617,
+      "camera_x": 3.8314931392669678,
+      "actor_screen_x": 749.8450469970703,
+      "background_screen_x": -235.76988220214844,
+      "delta_root_x": 0.44358038902282715,
+      "delta_camera_x": 0.2587697505950928,
+      "delta_actor_screen_x": 42.242431640625,
+      "delta_background_screen_x": -59.147377014160156
+    },
+    {
+      "frame": 36,
+      "pose": 3,
+      "root_x": 4.533855438232422,
+      "root_z": 1.0079669952392578,
+      "camera_x": 4.077320098876953,
+      "actor_screen_x": 744.3509674072266,
+      "background_screen_x": -291.9589042663574,
+      "delta_root_x": 0.22179031372070312,
+      "delta_camera_x": 0.24582695960998535,
+      "delta_actor_screen_x": -5.49407958984375,
+      "delta_background_screen_x": -56.189022064208984
+    },
+    {
+      "frame": 37,
+      "pose": 4,
+      "root_x": 4.755645751953125,
+      "root_z": 0.9674515724182129,
+      "camera_x": 4.314733982086182,
+      "actor_screen_x": 740.7798004150391,
+      "background_screen_x": -346.22493743896484,
+      "delta_root_x": 0.22179031372070312,
+      "delta_camera_x": 0.23741388320922852,
+      "delta_actor_screen_x": -3.5711669921875,
+      "delta_background_screen_x": -54.26603317260742
+    }
+  ],
+  "diagnosis": "Root translation inherits held pose/contact resets; camera chases that discontinuous root. Smooth filtering propagates speed pulses, while character/background update at conflicting cadence. Pose drawings also switch without in-between silhouettes; residual drawing registration is not quantified by these root probes."
+}

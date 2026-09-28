@@ -1,0 +1,10 @@
+{
+  "seconds": 287.610013961792,
+  "frame_count": 720,
+  "fps": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "renderer": "BLENDER_EEVEE"
+}

@@ -1,0 +1,1 @@
+Sequential exact-frame extraction; exit 0. stderr:

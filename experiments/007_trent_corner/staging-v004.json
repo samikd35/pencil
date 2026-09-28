@@ -1,0 +1,216 @@
+{
+  "revision": "film-v003",
+  "scope": "Representative arrangement; not tracked historical coordinates or exact visible player count.",
+  "reference": "https://www.youtube.com/watch?v=Ik-DhHJM8eo&t=432s",
+  "visual_facts": [
+    "Liverpool red",
+    "Barcelona fluorescent yellow",
+    "Barcelona goalkeeper black"
+  ],
+  "cast": [
+    {
+      "id": "Trent",
+      "team": "Liverpool",
+      "role": "corner taker",
+      "head_row": 0,
+      "kit": "#d83f49",
+      "number": "66",
+      "position": [
+        12.45,
+        0.65,
+        0
+      ]
+    },
+    {
+      "id": "Origi",
+      "team": "Liverpool",
+      "role": "unmarked receiver",
+      "head_row": 1,
+      "kit": "#d83f49",
+      "number": "27",
+      "position": [
+        2.55,
+        3.8,
+        0
+      ]
+    },
+    {
+      "id": "Shaqiri",
+      "team": "Liverpool",
+      "role": "approaching alternative taker",
+      "head_row": 2,
+      "kit": "#d83f49",
+      "number": "23",
+      "position": [
+        10,
+        5.6,
+        0
+      ]
+    },
+    {
+      "id": "Defender A",
+      "team": "Barcelona",
+      "role": "organizing near the goal",
+      "head_row": 2,
+      "kit": "#e3f348",
+      "number": "",
+      "position": [
+        -1.8,
+        3.9,
+        0
+      ]
+    },
+    {
+      "id": "Defender B",
+      "team": "Barcelona",
+      "role": "watching another attacker",
+      "head_row": 2,
+      "kit": "#e3f348",
+      "number": "",
+      "position": [
+        4.4,
+        7.3,
+        0
+      ]
+    },
+    {
+      "id": "Defender C",
+      "team": "Barcelona",
+      "role": "representative comedy defender",
+      "head_row": 2,
+      "kit": "#e3f348",
+      "number": "",
+      "position": [
+        5.7,
+        5.5,
+        0
+      ]
+    },
+    {
+      "id": "Keeper",
+      "team": "Barcelona",
+      "role": "goalkeeper",
+      "head_row": 2,
+      "kit": "#262d36",
+      "number": "1",
+      "position": [
+        0,
+        -0.2,
+        0
+      ]
+    },
+    {
+      "id": "Attacker A",
+      "team": "Liverpool",
+      "role": "waiting far-side attacker",
+      "head_row": 2,
+      "kit": "#d83f49",
+      "number": "",
+      "position": [
+        -5,
+        2.7,
+        0
+      ]
+    },
+    {
+      "id": "Attacker B",
+      "team": "Liverpool",
+      "role": "waiting central attacker",
+      "head_row": 2,
+      "kit": "#d83f49",
+      "number": "",
+      "position": [
+        -3,
+        5.3,
+        0
+      ]
+    },
+    {
+      "id": "Attacker C",
+      "team": "Liverpool",
+      "role": "waiting edge-of-box attacker",
+      "head_row": 2,
+      "kit": "#d83f49",
+      "number": "",
+      "position": [
+        0,
+        7.2,
+        0
+      ]
+    },
+    {
+      "id": "Attacker D",
+      "team": "Liverpool",
+      "role": "supporting attacker",
+      "head_row": 2,
+      "kit": "#d83f49",
+      "number": "",
+      "position": [
+        -5,
+        10.5,
+        0
+      ]
+    },
+    {
+      "id": "Defender D",
+      "team": "Barcelona",
+      "role": "marking far-side attacker",
+      "head_row": 2,
+      "kit": "#e3f348",
+      "number": "",
+      "position": [
+        -4.6,
+        7.8,
+        0
+      ]
+    },
+    {
+      "id": "Defender E",
+      "team": "Barcelona",
+      "role": "marking central attacker",
+      "head_row": 2,
+      "kit": "#e3f348",
+      "number": "",
+      "position": [
+        0,
+        5.8,
+        0
+      ]
+    },
+    {
+      "id": "Defender F",
+      "team": "Barcelona",
+      "role": "watching edge-of-box attacker",
+      "head_row": 2,
+      "kit": "#e3f348",
+      "number": "",
+      "position": [
+        2.4,
+        7.5,
+        0
+      ]
+    },
+    {
+      "id": "Defender G",
+      "team": "Barcelona",
+      "role": "covering supporting attacker",
+      "head_row": 2,
+      "kit": "#e3f348",
+      "number": "",
+      "position": [
+        -2,
+        2.7,
+        0
+      ]
+    }
+  ],
+  "deliberately_offscreen": "Remaining players are outside this compressed corner view. Henderson described organizing protection against a counterattack; do not infer he was an extra attacker in this box.",
+  "required_shared_shot_roles": [
+    "corner taker",
+    "unmarked receiver",
+    "goalkeeper",
+    "Liverpool waiting attackers",
+    "Barcelona markers"
+  ],
+  "opening_constraint": "Keep the taker-to-Origi pass corridor empty. Surrounding pairs explain where attention is directed."
+}

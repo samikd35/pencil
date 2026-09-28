@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 240,
+    "sample_rate": 48000
+  },
+  "shots": [
+    {
+      "id": "box",
+      "start_frame": 1,
+      "events": {
+        "start": 0,
+        "release": 145
+      }
+    }
+  ],
+  "assets": {
+    "existing-mix": {
+      "path": "assets/soundtrack.wav",
+      "sha256": "84d4b3f381989416e5399e5e15a55f8e958fde90aed7c1b0d6fe6819a6fd9af3",
+      "source": "Preserved Heavy Box finish-v002 original synthesized soundtrack",
+      "license": "Original project production",
+      "attribution": ""
+    }
+  },
+  "cues": [
+    {
+      "id": "existing-sound",
+      "shot": "box",
+      "event": "start",
+      "intent": "Preserve the accepted box-action sound and synchronization",
+      "asset": "existing-mix",
+      "stem": "original-mix",
+      "in_seconds": 0,
+      "duration_seconds": 10,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": 0,
+      "pan": 0,
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0
+    }
+  ],
+  "mix_gain_db": 0,
+  "visual_style": {
+    "id": "parallax",
+    "catalog_version": 1,
+    "settings": {
+      "design": "human",
+      "finish": "flat",
+      "presentation": "parallax"
+    },
+    "reviewer": "assistant",
+    "reason": "Representative style chosen under the user\u2019s delegated eight-step workflow implementation authority",
+    "files": {
+      "recipe.md": {
+        "path": "assets/style-selections/v001/recipe.md",
+        "sha256": "3521561e2d3c5e9e991768008299afc9a59651db96f1390ff5f2ce5d73de5ee8"
+      },
+      "construction.md": {
+        "path": "assets/style-selections/v001/construction.md",
+        "sha256": "4c9c3fcf02590e5ed499e026e88ab7b3416e6bf248338f28acb9328d7a60a88d"
+      },
+      "sample.png": {
+        "path": "assets/style-selections/v001/sample.png",
+        "sha256": "02af8f73442743ac0c4d74c4eb35ad773fbefdac395a9c60cdcd9553f652cb29"
+      },
+      "option.json": {
+        "path": "assets/style-selections/v001/option.json",
+        "sha256": "b5b556f6be82639bb36a354d164d8e8daad6bfa18869761fe9d4c332dcc32e35"
+      },
+      "build_samples.py": {
+        "path": "assets/style-selections/v001/build_samples.py",
+        "sha256": "3d0cd75ae132eb78cdec3c5c15657eea57e5b467779f0c7f4a6dfb675dd80b83"
+      }
+    },
+    "selection_path": "assets/style-selection.json",
+    "selection_sha256": "388211452a9e0d4ceca9875f5e89c51ad50f2b40442763020df5035d1b42128c"
+  }
+}

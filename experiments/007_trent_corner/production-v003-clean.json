@@ -1,0 +1,364 @@
+{
+  "version": 1,
+  "title": "Barcelona wasn't ready. Trent was. / advanced stickman",
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 912,
+    "sample_rate": 48000
+  },
+  "shots": [
+    {
+      "id": "opening",
+      "start_frame": 1,
+      "events": {
+        "start": 0,
+        "freeze": 48
+      }
+    },
+    {
+      "id": "gags",
+      "start_frame": 49,
+      "events": {
+        "head_sleep": 0,
+        "knee_sleep": 48,
+        "back_to_match": 96
+      }
+    },
+    {
+      "id": "read",
+      "start_frame": 145,
+      "events": {
+        "wide": 0,
+        "walk": 72,
+        "notice": 144,
+        "eye": 192
+      }
+    },
+    {
+      "id": "play",
+      "start_frame": 361,
+      "events": {
+        "pivot": 0,
+        "corner_contact": 42,
+        "origi_contact": 72,
+        "net_contact": 87,
+        "cheer": 90
+      }
+    },
+    {
+      "id": "celebrate",
+      "start_frame": 481,
+      "events": {
+        "start": 0,
+        "wake": 48
+      }
+    },
+    {
+      "id": "replay",
+      "start_frame": 577,
+      "events": {
+        "start": 0,
+        "corner_contact": 56,
+        "origi_contact": 96,
+        "net_contact": 116
+      }
+    },
+    {
+      "id": "payoff",
+      "start_frame": 745,
+      "events": {
+        "title": 0,
+        "trent": 48,
+        "through": 96,
+        "fade": 156
+      }
+    }
+  ],
+  "assets": {
+    "turf": {
+      "path": "assets/audio-v001/turf.wav",
+      "sha256": "d9b77366ad9ce3bac54ae7efede230587d86a25c17a986d6231038cb77ca1195",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Pencil step, seed 11, 0.16 s",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "net": {
+      "path": "assets/audio-v001/net.wav",
+      "sha256": "4eecf3c5e0d194732676a5a0c79524ff0d3edef18b57893f2ff921cc91a5debc",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Pencil scrape, seed 33, 0.48 s",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "corner": {
+      "path": "assets/audio-v001/corner.wav",
+      "sha256": "5dc4aecf3f4aa6b531d295434b7a285b3b552e153ef50994000b691279c4ed70",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Boot/ball impact, 108 Hz falling membrane and filtered contact noise, seed 55",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "finish": {
+      "path": "assets/audio-v001/finish.wav",
+      "sha256": "6664f0cec227e09b2baeba62a678d714a79d88370ea50f47cfceb8e710677e60",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Boot/ball impact, 145 Hz falling membrane and filtered contact noise, seed 66",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "snore": {
+      "path": "assets/audio-v001/snore.wav",
+      "sha256": "a5a8d703f01f4fbc4d0aa956eea596ed982278107503b26e5507a480e30eda46",
+      "source": "Original deterministic NumPy breath and nasal partial synthesis, scripts/sound_advanced.py; seed 2019; 48 kHz stereo.",
+      "license": "Original generated production audio, available for this production and revisions.",
+      "attribution": "",
+      "notes": "Fictional nonverbal cartoon snore; no match recording."
+    },
+    "crowd-bed": {
+      "path": "assets/audio-v002/crowd-bed.wav",
+      "sha256": "c427aef0de7e5c0b17d1b1572f541696ba9ae6ac81cd7dcd257d25c2532f8c96",
+      "source": "https://freesound.org/people/D.jones/sounds/528799/; public HQ preview acquired 2026-09-12; original preview retained in assets/audio-v002.",
+      "license": "CC0 1.0, per individual sound page; page snapshot retained locally.",
+      "attribution": "D.jones / Freesound (voluntary credit)",
+      "notes": "Candidate, not yet auditioned by the user. First 16 seconds; highpass 120 Hz, lowpass 7 kHz; loudnorm -30 LUFS / -3 dBTP / LRA 8; 48 kHz stereo. Not archival Anfield audio."
+    },
+    "crowd-goal": {
+      "path": "assets/audio-v002/crowd-goal.wav",
+      "sha256": "ba9525c914dded27d61dd4ea1ffd22ae0b4a92f8ce9bf838efb01b11fac3f485",
+      "source": "https://freesound.org/people/Krizin/sounds/651646/; public HQ preview acquired 2026-09-12; original preview retained in assets/audio-v002.",
+      "license": "CC0 1.0, per individual sound page; page snapshot retained locally.",
+      "attribution": "Krizin / Freesound (voluntary credit)",
+      "notes": "Candidate, not yet auditioned by the user. First 6.3 seconds; highpass 120 Hz, lowpass 7 kHz; loudnorm -20 LUFS / -3 dBTP / LRA 8; 48 kHz stereo. Not archival Anfield audio."
+    }
+  },
+  "cues": [
+    {
+      "id": "shoulder-snore",
+      "shot": "gags",
+      "event": "head_sleep",
+      "intent": "shoulder snore",
+      "asset": "snore",
+      "stem": "editorial",
+      "in_seconds": 0,
+      "duration_seconds": 1.1,
+      "onset_seconds": 0,
+      "offset_frames": 3,
+      "gain_db": -9,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "knee-snore",
+      "shot": "gags",
+      "event": "knee_sleep",
+      "intent": "knee snore",
+      "asset": "snore",
+      "stem": "editorial",
+      "in_seconds": 0,
+      "duration_seconds": 1.1,
+      "onset_seconds": 0,
+      "offset_frames": 4,
+      "gain_db": -14,
+      "pan": -0.15,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "walk-step-0",
+      "shot": "read",
+      "event": "walk",
+      "intent": "walk step 0",
+      "asset": "turf",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.16,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -18,
+      "pan": 0.2,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "walk-step-1",
+      "shot": "read",
+      "event": "walk",
+      "intent": "walk step 1",
+      "asset": "turf",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.16,
+      "onset_seconds": 0,
+      "offset_frames": 40,
+      "gain_db": -18,
+      "pan": 0.2,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "pivot-plant",
+      "shot": "play",
+      "event": "pivot",
+      "intent": "pivot plant",
+      "asset": "turf",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.16,
+      "onset_seconds": 0,
+      "offset_frames": 22,
+      "gain_db": -17,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "play-corner",
+      "shot": "play",
+      "event": "corner_contact",
+      "intent": "play corner",
+      "asset": "corner",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.32,
+      "onset_seconds": 0.008,
+      "offset_frames": 0,
+      "gain_db": -6,
+      "pan": 0.05,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "play-finish",
+      "shot": "play",
+      "event": "origi_contact",
+      "intent": "play finish",
+      "asset": "finish",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.42,
+      "onset_seconds": 0.008,
+      "offset_frames": 0,
+      "gain_db": -3,
+      "pan": -0.1,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "play-net",
+      "shot": "play",
+      "event": "net_contact",
+      "intent": "play net",
+      "asset": "net",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.48,
+      "onset_seconds": 0.008,
+      "offset_frames": 0,
+      "gain_db": -10,
+      "pan": -0.3,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "replay-corner",
+      "shot": "replay",
+      "event": "corner_contact",
+      "intent": "replay corner",
+      "asset": "corner",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.32,
+      "onset_seconds": 0.008,
+      "offset_frames": 0,
+      "gain_db": -11,
+      "pan": 0.05,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "replay-finish",
+      "shot": "replay",
+      "event": "origi_contact",
+      "intent": "replay finish",
+      "asset": "finish",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.42,
+      "onset_seconds": 0.008,
+      "offset_frames": 0,
+      "gain_db": -8,
+      "pan": -0.1,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "replay-net",
+      "shot": "replay",
+      "event": "net_contact",
+      "intent": "replay net",
+      "asset": "net",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.48,
+      "onset_seconds": 0.008,
+      "offset_frames": 0,
+      "gain_db": -15,
+      "pan": -0.3,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "recorded-goal-reaction",
+      "shot": "play",
+      "event": "cheer",
+      "intent": "recorded goal reaction",
+      "asset": "crowd-goal",
+      "stem": "atmosphere",
+      "in_seconds": 0,
+      "duration_seconds": 5.2,
+      "offset_frames": 0,
+      "gain_db": 0,
+      "pan": 0,
+      "fade_in_seconds": 0.04,
+      "fade_out_seconds": 0.6
+    },
+    {
+      "id": "recorded-final-reaction",
+      "shot": "payoff",
+      "event": "title",
+      "intent": "recorded final reaction",
+      "asset": "crowd-goal",
+      "stem": "atmosphere",
+      "in_seconds": 0,
+      "duration_seconds": 6.2,
+      "offset_frames": 0,
+      "gain_db": -5,
+      "pan": 0,
+      "fade_in_seconds": 0.04,
+      "fade_out_seconds": 1.5
+    }
+  ],
+  "mix_gain_db": 0,
+  "script": "script-v004.md",
+  "revision": "film-v003",
+  "staging": "staging-v004.json",
+  "review_status": "awaiting staging and sound checkpoint",
+  "rejected_audio": {
+    "stadium": "f078544e7af5c5270d1d8939d5969eec0d1909bce75d5d472924a510f0c678e0",
+    "hush": "3f2f3456517754bf29769a067aeba1a87bdf3bd6464a7635d202e70a1325f861",
+    "cheer": "9a285976c51d12563e062f08f3e08cd666a78e7dda8ce70ba33d274ef39f635b",
+    "tension": "abfc6b3fae5912ff315f6a123e1d868244f9f77d569f9cc50023ce14407b73e7",
+    "notice": "1130ec9550436ec8a30d2486bdbc4009a5ea4a9b5b4782edc5a098657dc5a0eb",
+    "resolve": "f19c24e896cdca33fbe05267962b2911c763c1e2f84a4b0ce8a66301970b7d7f"
+  },
+  "audio_direction": {
+    "status": "Checkpoint candidates, awaiting actual listening",
+    "change": "Remove all synthetic continuous atmosphere and music beds; compare sparse foreground with recorded crowd.",
+    "comparison": "Identical foreground gain in both versions; crowd is the only changing layer.",
+    "source_provenance": "Recorded crowd is CC0 library material, not the 2019 match recording."
+  },
+  "candidate": "clean"
+}

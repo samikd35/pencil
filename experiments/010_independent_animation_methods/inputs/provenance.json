@@ -1,0 +1,17 @@
+[
+  {
+    "file": "reference.png",
+    "source": "productions/Samtoons/videos/003-barca-emergency-meeting/assets/reference-redraw-v003/canonical-busts.png",
+    "sha256": "ef244e2846dd72a5f08fe1268e82c474703b6e30e4aebdbb8183b800b368d452"
+  },
+  {
+    "file": "voice.wav",
+    "source": "productions/Samtoons/videos/003-barca-emergency-meeting/assets/voices-v001/muller-call.wav",
+    "sha256": "2ecf7c478d36fc0154f80a2db8af29d388a194feaa0ae572eed443567f5aa0f6"
+  },
+  {
+    "file": "voice-source.json",
+    "source": "productions/Samtoons/videos/003-barca-emergency-meeting/assets/voices-v001/muller-call.json",
+    "sha256": "95264057fcc9e609e988d115319fce751e7642a89de0fcbc4e0f8dc074dcabf7"
+  }
+]

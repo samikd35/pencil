@@ -1,0 +1,90 @@
+{
+  "checked_utc": "2026-09-14T18:05:54Z",
+  "source_url": "https://www.youtube.com/watch?v=g3oku3-4-2A",
+  "versions": {
+    "ffmpeg": "ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers",
+    "recovery_downloader": "2026.08.19"
+  },
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "30/1",
+        "nb_frames": "3489"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "r_frame_rate": "0/0",
+        "nb_frames": "5454"
+      }
+    ],
+    "format": {
+      "duration": "116.327000",
+      "size": "25161998"
+    }
+  },
+  "files": {
+    "source.mp4": {
+      "bytes": 25161998,
+      "sha256": "eb487d930b0275ce46c1f362849d9aaff7024ce3cd03cda804b4d4bfda934aae"
+    },
+    "source-audio.webm": {
+      "bytes": 1862075,
+      "sha256": "d35af38f3f0db99846fbffdfce8023c38a97388bb09856ed3bda5ac3eae2e077"
+    }
+  },
+  "study_copy_full_decode": {
+    "exit_code": 0,
+    "stderr": ""
+  },
+  "study_copy_loudness": {
+    "input_i": "-11.39",
+    "input_tp": "1.90",
+    "input_lra": "5.50",
+    "input_thresh": "-21.39"
+  },
+  "copy_method": "Downloaded H.264 video and Opus audio, copied picture and transcoded audio to AAC 160k stereo using FFmpeg. One Opus packet-header warning occurred during conversion; complete resulting MP4 subsequently decodes without error. Retain original compressed audio for later listening verification.",
+  "inspection": {
+    "overview": "59 samples, frame n mod 60 = 0 at 30fps, source 0-116s",
+    "selected_frames_seconds": [
+      0,
+      4,
+      6,
+      26,
+      38,
+      44,
+      50,
+      56.8,
+      72,
+      84,
+      92,
+      108
+    ],
+    "motion_sequences_seconds": [
+      [
+        4.8,
+        6.7
+      ],
+      [
+        56.1,
+        58
+      ],
+      [
+        70.9,
+        72.8
+      ]
+    ],
+    "motion_sample_interval_seconds": 0.1,
+    "normal_speed_audiovisual_review": false,
+    "subjective_listening_review": false,
+    "transcript": "YouTube unavailable; local MLX Whisper tiny output rejected as unreliable. No transcript delivered."
+  }
+}

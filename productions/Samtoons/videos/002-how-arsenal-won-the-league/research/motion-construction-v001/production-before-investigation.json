@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "scope": "TR02 motion-proof excerpt only; full-film timeline remains unassembled",
+  "status": "pending_review",
+  "film_runtime_target_seconds": [
+    240,
+    300
+  ],
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 192,
+    "sample_rate": 48000
+  },
+  "shots": [
+    {
+      "id": "TR02",
+      "start_frame": 1,
+      "events": {
+        "flag_reveal": 35,
+        "reaction_cut": 63,
+        "shrug_peak": 68,
+        "arteta_reply_nod": 128,
+        "wide_return": 131,
+        "deflation": 166
+      }
+    }
+  ],
+  "native_scene": "artifacts/unveiling-motion-v001/unveiling-motion-v001.blend",
+  "picture": "artifacts/unveiling-motion-v001/unveiling-motion-v001.mp4",
+  "audio_status": "intentionally absent for this diagnostic proof; final film sound unselected",
+  "assets": {},
+  "cues": []
+}

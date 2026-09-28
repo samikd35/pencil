@@ -1,0 +1,20 @@
+[
+  {
+    "file": "canonical-busts.png",
+    "sha256": "ef244e2846dd72a5f08fe1268e82c474703b6e30e4aebdbb8183b800b368d452",
+    "tool": "image_gen.imagegen",
+    "original_output": "/Users/samikd/.codex/generated_images/01a0c8d1-7919-78f2-a177-af7ad445305d/exec-483dd75a-5293-4cb0-9d12-287bebbb3b57.png",
+    "matches_original": true,
+    "purpose": "Reference-only recognizable caricature construction source",
+    "exact_prompt": "Not persisted in the available result; see task history. No verbatim prompt reconstructed."
+  },
+  {
+    "file": "call-pose.png",
+    "sha256": "e3540a9655510b44f7eb04f48fb69742ddec1a4b4f8e0bd10c6d02ee712a20be",
+    "tool": "image_gen.imagegen",
+    "original_output": "/Users/samikd/.codex/generated_images/01a0c8d1-7919-78f2-a177-af7ad445305d/exec-6f625fea-e3d4-4457-bd6d-c1005f7f2391.png",
+    "matches_original": true,
+    "purpose": "Reference-only recognizable caricature construction source",
+    "exact_prompt": "Not persisted in the available result; see task history. No verbatim prompt reconstructed."
+  }
+]

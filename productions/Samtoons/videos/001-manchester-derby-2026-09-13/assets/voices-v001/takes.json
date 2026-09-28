@@ -1,0 +1,80 @@
+[
+  {
+    "id": "bruno-1",
+    "text": "Ref!",
+    "voice": "am_puck",
+    "speed": 1.1,
+    "intent": "Quick indignant burst, then let the pose carry the outrage.",
+    "duration_seconds": 0.572,
+    "path": "assets/voices-v001/bruno-1.wav",
+    "sha256": "78d34a07078579479d3612b31deeed65e350a093b7b89001d1752a32dbf33c4d",
+    "generation": "assets/voices-v001/bruno-1-raw.json",
+    "processing": "highpass=f=85,loudnorm=I=-21:TP=-3:LRA=9,afade=t=in:d=0.008",
+    "heard_by_agent": false
+  },
+  {
+    "id": "oliver-1",
+    "text": "I'm so... so sorry!",
+    "voice": "bm_fable",
+    "speed": 1.02,
+    "intent": "Hesitation before the repeated so, then the selected sob takes over.",
+    "duration_seconds": 2.162,
+    "path": "assets/voices-v001/oliver-1.wav",
+    "sha256": "fe041f97334dbf28b5333ddc9b69645729f47f3fe0a85c58e774334518898e08",
+    "generation": "assets/voices-v001/oliver-1-raw.json",
+    "processing": "highpass=f=85,loudnorm=I=-21:TP=-3:LRA=9,afade=t=in:d=0.008",
+    "heard_by_agent": false
+  },
+  {
+    "id": "carrick-1",
+    "text": "Any points with that?",
+    "voice": "bm_george",
+    "speed": 1.0,
+    "intent": "British, understated question after the paper lands.",
+    "duration_seconds": 1.5346666666666666,
+    "path": "assets/voices-v001/carrick-1.wav",
+    "sha256": "e81de48720c0e1308be353c9b352643508acc4d9118e175637b7b7dbf70590af",
+    "generation": "assets/voices-v001/carrick-1-raw.json",
+    "processing": "highpass=f=85,loudnorm=I=-21:TP=-3:LRA=9,afade=t=in:d=0.008",
+    "heard_by_agent": false
+  },
+  {
+    "id": "bruno-2",
+    "text": "Ref! Ref!",
+    "voice": "bm_lewis",
+    "speed": 1.12,
+    "intent": "Two impatient calls, escalating the same complaint.",
+    "duration_seconds": 0.9046666666666666,
+    "path": "assets/voices-v001/bruno-2.wav",
+    "sha256": "d58d51bd0c4ce4566e2448e813ed7a85146fc581e2a45f658263478df35a3c21",
+    "generation": "assets/voices-v001/bruno-2-raw.json",
+    "processing": "highpass=f=85,loudnorm=I=-21:TP=-3:LRA=9,afade=t=in:d=0.008",
+    "heard_by_agent": false
+  },
+  {
+    "id": "oliver-2",
+    "text": "I'm... so, so sorry!",
+    "voice": "am_eric",
+    "speed": 1.04,
+    "intent": "Hesitates immediately, then rushes to apologize.",
+    "duration_seconds": 1.6,
+    "path": "assets/voices-v001/oliver-2.wav",
+    "sha256": "2aca09c75c4d62bedfc4c89615f4b4f1108fb8d89cda41599dbf87b36a965b0d",
+    "generation": "assets/voices-v001/oliver-2-raw.json",
+    "processing": "highpass=f=85,loudnorm=I=-21:TP=-3:LRA=9,afade=t=in:d=0.008",
+    "heard_by_agent": false
+  },
+  {
+    "id": "carrick-2",
+    "text": "Any points with that?",
+    "voice": "bm_daniel",
+    "speed": 0.96,
+    "intent": "Alternative British voice with a slightly slower deadpan question.",
+    "duration_seconds": 1.6313333333333333,
+    "path": "assets/voices-v001/carrick-2.wav",
+    "sha256": "30f16eb6f2c754cc6bec80d845075789e2204f6cb2ca26609521afdcddaddb8f",
+    "generation": "assets/voices-v001/carrick-2-raw.json",
+    "processing": "highpass=f=85,loudnorm=I=-21:TP=-3:LRA=9,afade=t=in:d=0.008",
+    "heard_by_agent": false
+  }
+]

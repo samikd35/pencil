@@ -1,0 +1,60 @@
+{
+  "version": 3,
+  "date": "2026-09-22",
+  "profile": "Samtoons profile v005",
+  "inherits": {
+    "kind": "catalogue_reference",
+    "source": "productions/Samtoons/assets/reuse-v002/manifest.json",
+    "sha256": "1e84fcf1346f181c82633d37639f061bb70d35ca7a158a133468c8d812a2bc3d",
+    "bytes": 11384,
+    "scope": "All v002 voice, construction, film and limitation records remain applicable."
+  },
+  "records": [
+    {
+      "id": "animated-branding-v002-intro",
+      "kind": "rendered_segment",
+      "source": "productions/Samtoons/branding/animated-v002/samtoons-intro-1080p.mp4",
+      "sha256": "1bb36669784fe4490a170781748eb98c9d5045ba30bae234e1a644b73fd936b3",
+      "bytes": 619263,
+      "scope": "Current default 3-second channel intro; exact user-reviewed audio/picture; reuse unchanged."
+    },
+    {
+      "id": "animated-branding-v002-outro",
+      "kind": "rendered_segment",
+      "source": "productions/Samtoons/branding/animated-v002/samtoons-outro-1080p.mp4",
+      "sha256": "53d66beb89b1e81ae96a2910be6165e67d7e6ef09d9048f9b6ff62445b8055b0",
+      "bytes": 1889171,
+      "scope": "Current default 12-second channel outro/end screen; exact user-reviewed audio/picture; add clickable elements in YouTube Studio."
+    },
+    {
+      "id": "animated-branding-v002-assembler",
+      "kind": "assembly_tool",
+      "source": "productions/Samtoons/branding/animated-v002/assemble.py",
+      "sha256": "4e00ca9206e9b1eb456b8290bb63f6c19910c18299b3f0e1eeb00d9e2661417b",
+      "bytes": 6948,
+      "scope": "Creates a separate branded 1080p24 stereo48k delivery and optionally shifts external SRT cues."
+    },
+    {
+      "id": "animated-branding-v002-package",
+      "kind": "delivery_archive",
+      "source": "productions/Samtoons/branding/animated-v002/samtoons-branding-v002.zip",
+      "sha256": "ae64fd98119f29c09f9f3ed2045b484453db13aa67971fb852bec5ef771dc9c9",
+      "bytes": 9816856,
+      "scope": "Self-contained ready-to-use clips, stems, assembler, guide and checks."
+    }
+  ],
+  "review_events": [
+    "8c30394e-d529-4cb8-a823-c43f98b2916d"
+  ],
+  "provenance": {
+    "music": "User-generated Gemini/Lyria output; selected excerpts and processing are documented in productions/Samtoons/branding/music-v001/.",
+    "google_help": "https://support.google.com/gemini/answer/16901237?hl=en-GH",
+    "google_terms": "https://policies.google.com/terms?hl=en-US#toc-content"
+  },
+  "default_adoption": "Snapshot this manifest and animated-v002 package into each new Samtoons video. Preserve the unbranded master and record the authored branding_intro boundary.",
+  "known_limits": [
+    "1920x1080, 24 fps, stereo 48 kHz delivery input only.",
+    "Clickable YouTube end-screen elements are added during publishing, not burned into the clip.",
+    "Any changed picture, music, CTA, prop or layout requires applicable video-local review."
+  ]
+}

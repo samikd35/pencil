@@ -1,0 +1,156 @@
+{
+  "version": 2,
+  "status": "current reusable Samtoons branding package",
+  "user_selection": "I love the motion in the music.",
+  "review_identity": {
+    "intro_matches_review": true,
+    "outro_matches_review": true,
+    "intro_review_sha256": "1bb36669784fe4490a170781748eb98c9d5045ba30bae234e1a644b73fd936b3",
+    "outro_review_sha256": "53d66beb89b1e81ae96a2910be6165e67d7e6ef09d9048f9b6ff62445b8055b0"
+  },
+  "files": {
+    "samtoons-intro-1080p.mp4": {
+      "sha256": "1bb36669784fe4490a170781748eb98c9d5045ba30bae234e1a644b73fd936b3",
+      "bytes": 619263,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "24/1",
+            "nb_frames": "72"
+          },
+          {
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 2,
+            "r_frame_rate": "0/0",
+            "nb_frames": "142"
+          }
+        ],
+        "format": {
+          "duration": "3.000000"
+        }
+      }
+    },
+    "samtoons-outro-1080p.mp4": {
+      "sha256": "53d66beb89b1e81ae96a2910be6165e67d7e6ef09d9048f9b6ff62445b8055b0",
+      "bytes": 1889171,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "video",
+            "width": 1920,
+            "height": 1080,
+            "r_frame_rate": "24/1",
+            "nb_frames": "288"
+          },
+          {
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 2,
+            "r_frame_rate": "0/0",
+            "nb_frames": "564"
+          }
+        ],
+        "format": {
+          "duration": "12.000000"
+        }
+      }
+    },
+    "audio/intro-music.wav": {
+      "sha256": "618eb7d855074c5f43bfc5201688d474b0845676365e860258e556c84947c09e",
+      "bytes": 553482,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "1.921458"
+        }
+      }
+    },
+    "audio/outro-music.wav": {
+      "sha256": "4064796a874b3fa9ac582608397945ebc955efcfa179f2c620353db0e86cd4ee",
+      "bytes": 3456102,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "12.000000"
+        }
+      }
+    },
+    "audio/intro-mix.wav": {
+      "sha256": "59a8997a153b4ea07325727fc12383527256075bc84a85e735d85df3923e9cfd",
+      "bytes": 864102,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "3.000000"
+        }
+      }
+    },
+    "audio/outro-mix.wav": {
+      "sha256": "3ea03bc0a297c23487fd50f6aa61be206149a3cc7e31ffc5bbdad563f6477eb2",
+      "bytes": 3456102,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_type": "audio",
+            "sample_rate": "48000",
+            "channels": 2,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "12.000000"
+        }
+      }
+    },
+    "assemble.py": {
+      "sha256": "4e00ca9206e9b1eb456b8290bb63f6c19910c18299b3f0e1eeb00d9e2661417b",
+      "bytes": 6948
+    },
+    "README.md": {
+      "sha256": "d2be3d78c5182ee508b033885c1b9825e1ddc507511b0b10589f128e60b10d78",
+      "bytes": 2492
+    }
+  },
+  "checks": {
+    "asset_self_check": "passed",
+    "assembly_smoke_test": "passed: 2s 1080p24 stereo48k episode, intro inserted at 0.75s, branded duration 17.024s",
+    "complete_decode": "passed"
+  }
+}

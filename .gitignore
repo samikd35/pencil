@@ -1,0 +1,9 @@
+.DS_Store
+.runtime/
+**/__pycache__/
+*.py[cod]
+*.blend1
+*.log
+tmp/
+output/
+**/artifacts/

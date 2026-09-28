@@ -1,0 +1,29 @@
+{
+  "id": "parallax",
+  "name": "Layered 2.5D / parallax",
+  "category": "Presentation",
+  "description": "Flat character among separated foreground and background layers.",
+  "limitation": "Depth comes from layered motion; it does not create new character viewing angles.",
+  "recipe": "recipes/parallax.md",
+  "sample": "samples/parallax.png",
+  "settings": {
+    "design": "human",
+    "finish": "flat",
+    "presentation": "parallax"
+  },
+  "status": "Still tested \u00b7 motion pending",
+  "evidence": [
+    {
+      "label": "Native project",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v002/parallax/character.blend"
+    },
+    {
+      "label": "240-frame connection check",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v002/parallax/checks.json"
+    }
+  ],
+  "sources": [
+    "https://helpx.adobe.com/animate/desktop/using/layer-depth.html"
+  ],
+  "motion_tested": false
+}

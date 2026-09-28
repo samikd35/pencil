@@ -1,0 +1,2873 @@
+[
+  {
+    "beat": "S01",
+    "scene": "FILM S01 / Morning Pep",
+    "frames": 192,
+    "start_frame": 1,
+    "fps": 24.0,
+    "camera": [
+      {
+        "path": "location",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 0.5,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": 0.5,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 120.0,
+            "value": 0.5,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 192.0,
+            "value": 0.48655903339385986,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": -7.0,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": -4.699999809265137,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 120.0,
+            "value": -4.699999809265137,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 192.0,
+            "value": -4.5420684814453125,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 2.299999952316284,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": 2.0999999046325684,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 120.0,
+            "value": 2.0999999046325684,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 192.0,
+            "value": 2.078158378601074,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 1.401289463043213,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": 1.43385910987854,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 2.0275132683877928e-09,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": -6.436001953602499e-09,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 0.05708079785108566,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": 0.08490180224180222,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "A Haaland 1 / ROOT",
+        "skin_vertices": 8483,
+        "skin_faces": 16453,
+        "native_arm_objects": [
+          "A Haaland 1 / ROOT native L fill",
+          "A Haaland 1 / ROOT native L ink",
+          "A Haaland 1 / ROOT native R fill",
+          "A Haaland 1 / ROOT native R ink",
+          "A Haaland 1 / ROOT palm L",
+          "A Haaland 1 / ROOT palm R",
+          "A Haaland 1 / ROOT upper L fill",
+          "A Haaland 1 / ROOT upper L ink",
+          "A Haaland 1 / ROOT upper R fill",
+          "A Haaland 1 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            17.71
+          ],
+          [
+            108,
+            23.55
+          ],
+          [
+            120,
+            23.55
+          ],
+          [
+            192,
+            24.07
+          ]
+        ]
+      },
+      {
+        "name": "A Maresca 1 / ROOT",
+        "skin_vertices": 8553,
+        "skin_faces": 16599,
+        "native_arm_objects": [
+          "A Maresca 1 / ROOT native L fill",
+          "A Maresca 1 / ROOT native L ink",
+          "A Maresca 1 / ROOT native R fill",
+          "A Maresca 1 / ROOT native R ink",
+          "A Maresca 1 / ROOT palm L",
+          "A Maresca 1 / ROOT palm R",
+          "A Maresca 1 / ROOT upper L fill",
+          "A Maresca 1 / ROOT upper L ink",
+          "A Maresca 1 / ROOT upper R fill",
+          "A Maresca 1 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            17.65
+          ],
+          [
+            108,
+            23.18
+          ],
+          [
+            120,
+            23.18
+          ],
+          [
+            192,
+            23.67
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "beat": "S02",
+    "scene": "S02 / kick and overreaction",
+    "frames": 336,
+    "start_frame": 193,
+    "fps": 24.0,
+    "camera": [
+      {
+        "path": "location",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 0.4000000059604645,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 150.0,
+            "value": 0.5,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 209.0,
+            "value": 0.4000000059604645,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 225.0,
+            "value": 0.44999998807907104,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 275.0,
+            "value": 0.4000000059604645,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": -8.800000190734863,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 150.0,
+            "value": -4.0,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 209.0,
+            "value": -8.800000190734863,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 225.0,
+            "value": -4.400000095367432,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 275.0,
+            "value": -8.800000190734863,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 2.299999952316284,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 150.0,
+            "value": 2.1500000953674316,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 209.0,
+            "value": 2.299999952316284,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 225.0,
+            "value": 2.0999999046325684,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 275.0,
+            "value": 2.299999952316284,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 1.4243186712265015,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 150.0,
+            "value": 1.4173637628555298,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 209.0,
+            "value": 1.4243186712265015,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 225.0,
+            "value": 1.4358184337615967,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 275.0,
+            "value": 1.4243186712265015,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": -3.990696662015125e-11,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 150.0,
+            "value": 2.8165019205772523e-09,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 209.0,
+            "value": -3.990696662015125e-11,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 225.0,
+            "value": 8.688066266415717e-09,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 275.0,
+            "value": -3.990696662015125e-11,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 0.051091864705085754,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 150.0,
+            "value": 0.06739776581525803,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 209.0,
+            "value": 0.051091864705085754,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 225.0,
+            "value": 0.09065987914800644,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 275.0,
+            "value": 0.051091864705085754,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "A Drama Foden / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            14.48
+          ],
+          [
+            150,
+            28.6
+          ],
+          [
+            209,
+            14.48
+          ],
+          [
+            225,
+            25.69
+          ],
+          [
+            275,
+            14.48
+          ]
+        ]
+      },
+      {
+        "name": "A Drama Bruno / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            14.46
+          ],
+          [
+            150,
+            27.8
+          ],
+          [
+            209,
+            14.46
+          ],
+          [
+            225,
+            25.08
+          ],
+          [
+            275,
+            14.46
+          ]
+        ]
+      },
+      {
+        "name": "A Drama Oliver / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            13.51
+          ],
+          [
+            150,
+            24.81
+          ],
+          [
+            209,
+            13.51
+          ],
+          [
+            225,
+            22.62
+          ],
+          [
+            275,
+            13.51
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "beat": "S02",
+    "scene": "FILM S02 / Gone fishing",
+    "frames": 240,
+    "start_frame": 529,
+    "fps": 24.0,
+    "camera": [
+      {
+        "path": "location",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 168.0,
+            "value": 0.5,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 240.0,
+            "value": 0.4910028576850891,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 168.0,
+            "value": -7.0,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 240.0,
+            "value": -6.842549800872803,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 168.0,
+            "value": 2.299999952316284,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 240.0,
+            "value": 2.2730085849761963,
+            "interpolation": "BEZIER"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "A Foden 3 / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            168,
+            20.6
+          ],
+          [
+            240,
+            30.04
+          ]
+        ]
+      },
+      {
+        "name": "A Bruno 3 / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            168,
+            17.79
+          ],
+          [
+            240,
+            17.97
+          ]
+        ]
+      },
+      {
+        "name": "A Oliver 3 / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            168,
+            16.56
+          ],
+          [
+            240,
+            16.69
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "beat": "S03",
+    "scene": "FILM S03 / The first post",
+    "frames": 288,
+    "start_frame": 769,
+    "fps": 24.0,
+    "camera": [
+      {
+        "path": "location",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 4.0,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": 2.799999952316284,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 198.0,
+            "value": -0.10000000149011612,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 216.0,
+            "value": -0.10000000149011612,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 288.0,
+            "value": -0.1022174060344696,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": -4.0,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": -0.5,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 198.0,
+            "value": 4.699999809265137,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 216.0,
+            "value": 4.699999809265137,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 288.0,
+            "value": 4.858913898468018,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 3.299999952316284,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": 2.0999999046325684,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 198.0,
+            "value": 1.7000000476837158,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 216.0,
+            "value": 1.7000000476837158,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 288.0,
+            "value": 1.6815216541290283,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 1.3640551567077637,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": 1.362145185470581,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 198.0,
+            "value": 1.4550483226776123,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": -1.610048538935871e-09,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": -1.947777494848424e-10,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 198.0,
+            "value": 9.061726369274936e-10,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 0.04995839670300484,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": -0.060532037168741226,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 198.0,
+            "value": 0.013952580280601978,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "A Rashford 4 / ROOT",
+        "skin_vertices": 8518,
+        "skin_faces": 16526,
+        "native_arm_objects": [
+          "A Rashford 4 / ROOT native L fill",
+          "A Rashford 4 / ROOT native L ink",
+          "A Rashford 4 / ROOT native R fill",
+          "A Rashford 4 / ROOT native R ink",
+          "A Rashford 4 / ROOT palm L",
+          "A Rashford 4 / ROOT palm R",
+          "A Rashford 4 / ROOT upper L fill",
+          "A Rashford 4 / ROOT upper L ink",
+          "A Rashford 4 / ROOT upper R fill",
+          "A Rashford 4 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            25.51
+          ],
+          [
+            108,
+            34.06
+          ],
+          [
+            198,
+            54.41
+          ],
+          [
+            216,
+            54.41
+          ],
+          [
+            288,
+            52.39
+          ]
+        ]
+      },
+      {
+        "name": "A Donnarumma 4 / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            14.92
+          ],
+          [
+            108,
+            14.91
+          ],
+          [
+            198,
+            49.93
+          ],
+          [
+            216,
+            49.93
+          ],
+          [
+            288,
+            51.18
+          ]
+        ]
+      },
+      {
+        "name": "A Wall 0 corrected / ROOT",
+        "skin_vertices": 8483,
+        "skin_faces": 16453,
+        "native_arm_objects": [
+          "A Wall 0 corrected / ROOT native L fill",
+          "A Wall 0 corrected / ROOT native L ink",
+          "A Wall 0 corrected / ROOT native R fill",
+          "A Wall 0 corrected / ROOT native R ink",
+          "A Wall 0 corrected / ROOT palm L",
+          "A Wall 0 corrected / ROOT palm R",
+          "A Wall 0 corrected / ROOT upper L fill",
+          "A Wall 0 corrected / ROOT upper L ink",
+          "A Wall 0 corrected / ROOT upper R fill",
+          "A Wall 0 corrected / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            18.54
+          ],
+          [
+            108,
+            18.79
+          ],
+          [
+            198,
+            81.38
+          ],
+          [
+            216,
+            81.38
+          ],
+          [
+            288,
+            85.23
+          ]
+        ]
+      },
+      {
+        "name": "A Wall 1 corrected / ROOT",
+        "skin_vertices": 9015,
+        "skin_faces": 17525,
+        "native_arm_objects": [
+          "A Wall 1 corrected / ROOT native L fill",
+          "A Wall 1 corrected / ROOT native L ink",
+          "A Wall 1 corrected / ROOT native R fill",
+          "A Wall 1 corrected / ROOT native R ink",
+          "A Wall 1 corrected / ROOT palm L",
+          "A Wall 1 corrected / ROOT palm R",
+          "A Wall 1 corrected / ROOT upper L fill",
+          "A Wall 1 corrected / ROOT upper L ink",
+          "A Wall 1 corrected / ROOT upper R fill",
+          "A Wall 1 corrected / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            19.09
+          ],
+          [
+            108,
+            19.17
+          ],
+          [
+            198,
+            81.86
+          ],
+          [
+            216,
+            81.86
+          ],
+          [
+            288,
+            85.21
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "beat": "S04",
+    "scene": "FILM S04 / Post saves again",
+    "frames": 288,
+    "start_frame": 1057,
+    "fps": 24.0,
+    "camera": [
+      {
+        "path": "location",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 4.0,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": -0.20000000298023224,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 216.0,
+            "value": -0.20000000298023224,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 236.0,
+            "value": 0.5,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 288.0,
+            "value": -0.19230033457279205,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": -4.0,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": 4.699999809265137,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 216.0,
+            "value": 4.699999809265137,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 236.0,
+            "value": 4.199999809265137,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 288.0,
+            "value": 4.857842922210693,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 3.299999952316284,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": 1.899999976158142,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 216.0,
+            "value": 1.899999976158142,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 236.0,
+            "value": 2.0,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 288.0,
+            "value": 1.8749760389328003,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 1.3640551567077637,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": 1.4137520790100098,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 236.0,
+            "value": 1.4415521621704102,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": -1.610048538935871e-09,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": -3.1665565725091938e-09,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 236.0,
+            "value": 6.201440694297844e-09,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 0.04995839670300484,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 108.0,
+            "value": -0.04874185472726822,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 236.0,
+            "value": -0.1566019207239151,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "A Mainoo 5 / ROOT",
+        "skin_vertices": 8553,
+        "skin_faces": 16562,
+        "native_arm_objects": [
+          "A Mainoo 5 / ROOT native L fill",
+          "A Mainoo 5 / ROOT native L ink",
+          "A Mainoo 5 / ROOT native R fill",
+          "A Mainoo 5 / ROOT native R ink",
+          "A Mainoo 5 / ROOT palm L",
+          "A Mainoo 5 / ROOT palm R",
+          "A Mainoo 5 / ROOT upper L fill",
+          "A Mainoo 5 / ROOT upper L ink",
+          "A Mainoo 5 / ROOT upper R fill",
+          "A Mainoo 5 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            25.51
+          ],
+          [
+            108,
+            55.77
+          ],
+          [
+            216,
+            55.77
+          ],
+          [
+            236,
+            59.86
+          ],
+          [
+            288,
+            53.73
+          ]
+        ]
+      },
+      {
+        "name": "A Donnarumma 5 / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            14.92
+          ],
+          [
+            108,
+            51.14
+          ],
+          [
+            216,
+            51.14
+          ],
+          [
+            236,
+            43.2
+          ],
+          [
+            288,
+            52.29
+          ]
+        ]
+      },
+      {
+        "name": "A Post Bruno / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            14.71
+          ],
+          [
+            108,
+            43.25
+          ],
+          [
+            216,
+            43.25
+          ],
+          [
+            236,
+            34.59
+          ],
+          [
+            288,
+            44.22
+          ]
+        ]
+      },
+      {
+        "name": "A Chasing defender corrected / ROOT",
+        "skin_vertices": 9015,
+        "skin_faces": 17525,
+        "native_arm_objects": [
+          "A Chasing defender corrected / ROOT native L fill",
+          "A Chasing defender corrected / ROOT native L ink",
+          "A Chasing defender corrected / ROOT native R fill",
+          "A Chasing defender corrected / ROOT native R ink",
+          "A Chasing defender corrected / ROOT palm L",
+          "A Chasing defender corrected / ROOT palm R",
+          "A Chasing defender corrected / ROOT upper L fill",
+          "A Chasing defender corrected / ROOT upper L ink",
+          "A Chasing defender corrected / ROOT upper R fill",
+          "A Chasing defender corrected / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            71.48
+          ],
+          [
+            108,
+            17.44
+          ],
+          [
+            216,
+            17.44
+          ],
+          [
+            236,
+            21.07
+          ],
+          [
+            288,
+            17.37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "beat": "S05",
+    "scene": "FILM S05 / Goal then flag",
+    "frames": 264,
+    "start_frame": 1345,
+    "fps": 24.0,
+    "camera": [
+      {
+        "path": "location",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 12.0,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 145.0,
+            "value": 5.800000190734863,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 192.0,
+            "value": 5.800000190734863,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 264.0,
+            "value": 5.796243667602539,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": -3.0,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 145.0,
+            "value": 3.299999952316284,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 192.0,
+            "value": 3.299999952316284,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 264.0,
+            "value": 3.4577794075012207,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 5.0,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 145.0,
+            "value": 2.0999999046325684,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 192.0,
+            "value": 2.0999999046325684,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 264.0,
+            "value": 2.0737032890319824,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 1.2582687139511108,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 145.0,
+            "value": 1.405693769454956,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 1.3959505773541991e-10,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 145.0,
+            "value": 6.578686484459695e-10,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 0.7568345665931702,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 145.0,
+            "value": 0.023805124685168266,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "A Haaland 6 / ROOT",
+        "skin_vertices": 8483,
+        "skin_faces": 16453,
+        "native_arm_objects": [
+          "A Haaland 6 / ROOT native L fill",
+          "A Haaland 6 / ROOT native L ink",
+          "A Haaland 6 / ROOT native R fill",
+          "A Haaland 6 / ROOT native R ink",
+          "A Haaland 6 / ROOT palm L",
+          "A Haaland 6 / ROOT palm R",
+          "A Haaland 6 / ROOT upper L fill",
+          "A Haaland 6 / ROOT upper L ink",
+          "A Haaland 6 / ROOT upper R fill",
+          "A Haaland 6 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            22.13
+          ],
+          [
+            145,
+            38.81
+          ],
+          [
+            192,
+            38.81
+          ],
+          [
+            264,
+            39.17
+          ]
+        ]
+      },
+      {
+        "name": "A Fernandez 6 / ROOT",
+        "skin_vertices": 9015,
+        "skin_faces": 17525,
+        "native_arm_objects": [
+          "A Fernandez 6 / ROOT native L fill",
+          "A Fernandez 6 / ROOT native L ink",
+          "A Fernandez 6 / ROOT native R fill",
+          "A Fernandez 6 / ROOT native R ink",
+          "A Fernandez 6 / ROOT palm L",
+          "A Fernandez 6 / ROOT palm R",
+          "A Fernandez 6 / ROOT upper L fill",
+          "A Fernandez 6 / ROOT upper L ink",
+          "A Fernandez 6 / ROOT upper R fill",
+          "A Fernandez 6 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            19.58
+          ],
+          [
+            145,
+            22.0
+          ],
+          [
+            192,
+            22.0
+          ],
+          [
+            264,
+            22.3
+          ]
+        ]
+      },
+      {
+        "name": "A Martinez 6 / ROOT",
+        "skin_vertices": 9048,
+        "skin_faces": 17628,
+        "native_arm_objects": [
+          "A Martinez 6 / ROOT native L fill",
+          "A Martinez 6 / ROOT native L ink",
+          "A Martinez 6 / ROOT native R fill",
+          "A Martinez 6 / ROOT native R ink",
+          "A Martinez 6 / ROOT palm L",
+          "A Martinez 6 / ROOT palm R",
+          "A Martinez 6 / ROOT upper L fill",
+          "A Martinez 6 / ROOT upper L ink",
+          "A Martinez 6 / ROOT upper R fill",
+          "A Martinez 6 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            19.85
+          ],
+          [
+            145,
+            22.83
+          ],
+          [
+            192,
+            22.83
+          ],
+          [
+            264,
+            23.01
+          ]
+        ]
+      },
+      {
+        "name": "A Lammens 6 / ROOT",
+        "skin_vertices": 8949,
+        "skin_faces": 17421,
+        "native_arm_objects": [
+          "A Lammens 6 / ROOT native L fill",
+          "A Lammens 6 / ROOT native L ink",
+          "A Lammens 6 / ROOT native R fill",
+          "A Lammens 6 / ROOT native R ink",
+          "A Lammens 6 / ROOT palm L",
+          "A Lammens 6 / ROOT palm R",
+          "A Lammens 6 / ROOT upper L fill",
+          "A Lammens 6 / ROOT upper L ink",
+          "A Lammens 6 / ROOT upper R fill",
+          "A Lammens 6 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            19.3
+          ],
+          [
+            145,
+            23.75
+          ],
+          [
+            192,
+            23.75
+          ],
+          [
+            264,
+            23.65
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "beat": "S05",
+    "scene": "FILM S05 / VAR office",
+    "frames": 216,
+    "start_frame": 1609,
+    "fps": 24.0,
+    "camera": [],
+    "actors": []
+  },
+  {
+    "beat": "S05",
+    "scene": "FILM S05 / What about him",
+    "frames": 216,
+    "start_frame": 1825,
+    "fps": 24.0,
+    "camera": [
+      {
+        "path": "location",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 144.0,
+            "value": 0.5,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 216.0,
+            "value": 0.4910028576850891,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 144.0,
+            "value": -7.0,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 216.0,
+            "value": -6.842549800872803,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 144.0,
+            "value": 2.299999952316284,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 216.0,
+            "value": 2.2730085849761963,
+            "interpolation": "BEZIER"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "A Martinez 8 / ROOT",
+        "skin_vertices": 9048,
+        "skin_faces": 17628,
+        "native_arm_objects": [
+          "A Martinez 8 / ROOT native L fill",
+          "A Martinez 8 / ROOT native L ink",
+          "A Martinez 8 / ROOT native R fill",
+          "A Martinez 8 / ROOT native R ink",
+          "A Martinez 8 / ROOT palm L",
+          "A Martinez 8 / ROOT palm R",
+          "A Martinez 8 / ROOT upper L fill",
+          "A Martinez 8 / ROOT upper L ink",
+          "A Martinez 8 / ROOT upper R fill",
+          "A Martinez 8 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            144,
+            17.51
+          ],
+          [
+            216,
+            17.67
+          ]
+        ]
+      },
+      {
+        "name": "A Fernandez 8 / ROOT",
+        "skin_vertices": 9015,
+        "skin_faces": 17525,
+        "native_arm_objects": [
+          "A Fernandez 8 / ROOT native L fill",
+          "A Fernandez 8 / ROOT native L ink",
+          "A Fernandez 8 / ROOT native R fill",
+          "A Fernandez 8 / ROOT native R ink",
+          "A Fernandez 8 / ROOT palm L",
+          "A Fernandez 8 / ROOT palm R",
+          "A Fernandez 8 / ROOT upper L fill",
+          "A Fernandez 8 / ROOT upper L ink",
+          "A Fernandez 8 / ROOT upper R fill",
+          "A Fernandez 8 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            144,
+            17.78
+          ],
+          [
+            216,
+            17.96
+          ]
+        ]
+      },
+      {
+        "name": "A Haaland 8 / ROOT",
+        "skin_vertices": 8483,
+        "skin_faces": 16453,
+        "native_arm_objects": [
+          "A Haaland 8 / ROOT native L fill",
+          "A Haaland 8 / ROOT native L ink",
+          "A Haaland 8 / ROOT native R fill",
+          "A Haaland 8 / ROOT native R ink",
+          "A Haaland 8 / ROOT palm L",
+          "A Haaland 8 / ROOT palm R",
+          "A Haaland 8 / ROOT upper L fill",
+          "A Haaland 8 / ROOT upper L ink",
+          "A Haaland 8 / ROOT upper R fill",
+          "A Haaland 8 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            144,
+            17.67
+          ],
+          [
+            216,
+            17.84
+          ]
+        ]
+      },
+      {
+        "name": "A Bruno 8 / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            144,
+            15.66
+          ],
+          [
+            216,
+            15.76
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "beat": "S06",
+    "scene": "FILM S06 / Ours works too",
+    "frames": 168,
+    "start_frame": 2041,
+    "fps": 24.0,
+    "camera": [
+      {
+        "path": "location",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 4.0,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 96.0,
+            "value": 4.0,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 98.0,
+            "value": 3.700000047683716,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 168.0,
+            "value": 3.992180109024048,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": -4.0,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 96.0,
+            "value": -4.0,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 98.0,
+            "value": 4.599999904632568,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 168.0,
+            "value": -3.8436026573181152,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 3.299999952316284,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 96.0,
+            "value": 3.299999952316284,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 98.0,
+            "value": 2.0999999046325684,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 168.0,
+            "value": 3.2671566009521484,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 1.3640551567077637,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 98.0,
+            "value": 1.3874664306640625,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": -1.610048538935871e-09,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 98.0,
+            "value": -4.03730204823205e-09,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 0.04995839670300484,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 98.0,
+            "value": 0.057080790400505066,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "A Fernandez 9 / ROOT",
+        "skin_vertices": 9015,
+        "skin_faces": 17525,
+        "native_arm_objects": [
+          "A Fernandez 9 / ROOT native L fill",
+          "A Fernandez 9 / ROOT native L ink",
+          "A Fernandez 9 / ROOT native R fill",
+          "A Fernandez 9 / ROOT native R ink",
+          "A Fernandez 9 / ROOT palm L",
+          "A Fernandez 9 / ROOT palm R",
+          "A Fernandez 9 / ROOT upper L fill",
+          "A Fernandez 9 / ROOT upper L ink",
+          "A Fernandez 9 / ROOT upper R fill",
+          "A Fernandez 9 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            25.11
+          ],
+          [
+            96,
+            25.11
+          ],
+          [
+            98,
+            52.72
+          ],
+          [
+            168,
+            25.38
+          ]
+        ]
+      },
+      {
+        "name": "A Lammens 9 / ROOT",
+        "skin_vertices": 8949,
+        "skin_faces": 17421,
+        "native_arm_objects": [
+          "A Lammens 9 / ROOT native L fill",
+          "A Lammens 9 / ROOT native L ink",
+          "A Lammens 9 / ROOT native R fill",
+          "A Lammens 9 / ROOT native R ink",
+          "A Lammens 9 / ROOT palm L",
+          "A Lammens 9 / ROOT palm R",
+          "A Lammens 9 / ROOT upper L fill",
+          "A Lammens 9 / ROOT upper L ink",
+          "A Lammens 9 / ROOT upper R fill",
+          "A Lammens 9 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            15.15
+          ],
+          [
+            96,
+            15.15
+          ],
+          [
+            98,
+            30.69
+          ],
+          [
+            168,
+            15.2
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "beat": "S07",
+    "scene": "FILM S07 / Square head",
+    "frames": 216,
+    "start_frame": 2209,
+    "fps": 24.0,
+    "camera": [
+      {
+        "path": "location",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 4.0,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 127.0,
+            "value": 4.199999809265137,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 144.0,
+            "value": 4.199999809265137,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 216.0,
+            "value": 4.19100284576416,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": -4.0,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 127.0,
+            "value": 3.0,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 144.0,
+            "value": 3.0,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 216.0,
+            "value": 3.157449960708618,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 3.4000000953674316,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 127.0,
+            "value": 2.0999999046325684,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 144.0,
+            "value": 2.0999999046325684,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 216.0,
+            "value": 2.0730085372924805,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 1.3545079231262207,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 127.0,
+            "value": 1.401289463043213,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": -1.9909982551524763e-09,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 127.0,
+            "value": 3.8545100444764557e-10,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 0.049958404153585434,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 127.0,
+            "value": 0.05708073079586029,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "A Maguire 10 / ROOT",
+        "skin_vertices": 8916,
+        "skin_faces": 17352,
+        "native_arm_objects": [
+          "A Maguire 10 / ROOT native L fill",
+          "A Maguire 10 / ROOT native L ink",
+          "A Maguire 10 / ROOT native R fill",
+          "A Maguire 10 / ROOT native R ink",
+          "A Maguire 10 / ROOT palm L",
+          "A Maguire 10 / ROOT palm R",
+          "A Maguire 10 / ROOT upper L fill",
+          "A Maguire 10 / ROOT upper L ink",
+          "A Maguire 10 / ROOT upper R fill",
+          "A Maguire 10 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            17.84
+          ],
+          [
+            127,
+            30.84
+          ],
+          [
+            144,
+            30.84
+          ],
+          [
+            216,
+            31.67
+          ]
+        ]
+      },
+      {
+        "name": "A Donnarumma 10 / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            15.12
+          ],
+          [
+            127,
+            21.13
+          ],
+          [
+            144,
+            21.13
+          ],
+          [
+            216,
+            21.44
+          ]
+        ]
+      },
+      {
+        "name": "A Corner 0 / ROOT",
+        "skin_vertices": 8553,
+        "skin_faces": 16562,
+        "native_arm_objects": [
+          "A Corner 0 / ROOT native L fill",
+          "A Corner 0 / ROOT native L ink",
+          "A Corner 0 / ROOT native R fill",
+          "A Corner 0 / ROOT native R ink",
+          "A Corner 0 / ROOT palm L",
+          "A Corner 0 / ROOT palm R",
+          "A Corner 0 / ROOT upper L fill",
+          "A Corner 0 / ROOT upper L ink",
+          "A Corner 0 / ROOT upper R fill",
+          "A Corner 0 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            18.48
+          ],
+          [
+            127,
+            36.93
+          ],
+          [
+            144,
+            36.93
+          ],
+          [
+            216,
+            38.14
+          ]
+        ]
+      },
+      {
+        "name": "A Corner 1 / ROOT",
+        "skin_vertices": 8518,
+        "skin_faces": 16526,
+        "native_arm_objects": [
+          "A Corner 1 / ROOT native L fill",
+          "A Corner 1 / ROOT native L ink",
+          "A Corner 1 / ROOT native R fill",
+          "A Corner 1 / ROOT native R ink",
+          "A Corner 1 / ROOT palm L",
+          "A Corner 1 / ROOT palm R",
+          "A Corner 1 / ROOT upper L fill",
+          "A Corner 1 / ROOT upper L ink",
+          "A Corner 1 / ROOT upper R fill",
+          "A Corner 1 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            17.3
+          ],
+          [
+            127,
+            30.36
+          ],
+          [
+            144,
+            30.36
+          ],
+          [
+            216,
+            31.26
+          ]
+        ]
+      },
+      {
+        "name": "A Corner 3 / ROOT",
+        "skin_vertices": 9015,
+        "skin_faces": 17525,
+        "native_arm_objects": [
+          "A Corner 3 / ROOT native L fill",
+          "A Corner 3 / ROOT native L ink",
+          "A Corner 3 / ROOT native R fill",
+          "A Corner 3 / ROOT native R ink",
+          "A Corner 3 / ROOT palm L",
+          "A Corner 3 / ROOT palm R",
+          "A Corner 3 / ROOT upper L fill",
+          "A Corner 3 / ROOT upper L ink",
+          "A Corner 3 / ROOT upper R fill",
+          "A Corner 3 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            16.3
+          ],
+          [
+            127,
+            25.11
+          ],
+          [
+            144,
+            25.11
+          ],
+          [
+            216,
+            25.67
+          ]
+        ]
+      },
+      {
+        "name": "A Corner 2 corrected / ROOT",
+        "skin_vertices": 8483,
+        "skin_faces": 16453,
+        "native_arm_objects": [
+          "A Corner 2 corrected / ROOT native L fill",
+          "A Corner 2 corrected / ROOT native L ink",
+          "A Corner 2 corrected / ROOT native R fill",
+          "A Corner 2 corrected / ROOT native R ink",
+          "A Corner 2 corrected / ROOT palm L",
+          "A Corner 2 corrected / ROOT palm R",
+          "A Corner 2 corrected / ROOT upper L fill",
+          "A Corner 2 corrected / ROOT upper L ink",
+          "A Corner 2 corrected / ROOT upper R fill",
+          "A Corner 2 corrected / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            17.04
+          ],
+          [
+            127,
+            28.41
+          ],
+          [
+            144,
+            28.41
+          ],
+          [
+            216,
+            29.09
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "beat": "S08",
+    "scene": "FILM S08 / Surely now",
+    "frames": 120,
+    "start_frame": 2425,
+    "fps": 24.0,
+    "camera": [
+      {
+        "path": "location",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 48.0,
+            "value": 0.5,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 120.0,
+            "value": 0.4910028576850891,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 48.0,
+            "value": -7.0,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 120.0,
+            "value": -6.842549800872803,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 48.0,
+            "value": 2.299999952316284,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 120.0,
+            "value": 2.2730085849761963,
+            "interpolation": "BEZIER"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "A Bruno 11 / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            48,
+            17.8
+          ],
+          [
+            120,
+            17.97
+          ]
+        ]
+      },
+      {
+        "name": "A Mbeumo 11 / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            48,
+            17.65
+          ],
+          [
+            120,
+            17.82
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "beat": "S08",
+    "scene": "S08 / hope and parry",
+    "frames": 168,
+    "start_frame": 2545,
+    "fps": 24.0,
+    "camera": [],
+    "actors": [
+      {
+        "name": "A Save Mbeumo / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            20.96
+          ]
+        ]
+      },
+      {
+        "name": "A Save Donnarumma / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            13.44
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "beat": "S08",
+    "scene": "FILM S08 / Good wolf",
+    "frames": 120,
+    "start_frame": 2713,
+    "fps": 24.0,
+    "camera": [
+      {
+        "path": "location",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 48.0,
+            "value": 4.0,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 120.0,
+            "value": 3.9798033237457275,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 48.0,
+            "value": 4.199999809265137,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 120.0,
+            "value": 4.353494167327881,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 48.0,
+            "value": 2.299999952316284,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 120.0,
+            "value": 2.2596068382263184,
+            "interpolation": "BEZIER"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "A Donnarumma 13 / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            48,
+            30.12
+          ],
+          [
+            120,
+            30.68
+          ]
+        ]
+      },
+      {
+        "name": "A Haaland 13 / ROOT",
+        "skin_vertices": 8483,
+        "skin_faces": 16453,
+        "native_arm_objects": [
+          "A Haaland 13 / ROOT native L fill",
+          "A Haaland 13 / ROOT native L ink",
+          "A Haaland 13 / ROOT native R fill",
+          "A Haaland 13 / ROOT native R ink",
+          "A Haaland 13 / ROOT palm L",
+          "A Haaland 13 / ROOT palm R",
+          "A Haaland 13 / ROOT upper L fill",
+          "A Haaland 13 / ROOT upper L ink",
+          "A Haaland 13 / ROOT upper R fill",
+          "A Haaland 13 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            48,
+            30.65
+          ],
+          [
+            120,
+            31.2
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "beat": "S09",
+    "scene": "FILM S09 / Pep two point oh",
+    "frames": 288,
+    "start_frame": 2833,
+    "fps": 24.0,
+    "camera": [
+      {
+        "path": "location",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 216.0,
+            "value": 0.5,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 288.0,
+            "value": 0.4910028576850891,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 216.0,
+            "value": -7.0,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 288.0,
+            "value": -6.842549800872803,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 216.0,
+            "value": 2.299999952316284,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 288.0,
+            "value": 2.2730085849761963,
+            "interpolation": "BEZIER"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "A Haaland 14 / ROOT",
+        "skin_vertices": 8483,
+        "skin_faces": 16453,
+        "native_arm_objects": [
+          "A Haaland 14 / ROOT native L fill",
+          "A Haaland 14 / ROOT native L ink",
+          "A Haaland 14 / ROOT native R fill",
+          "A Haaland 14 / ROOT native R ink",
+          "A Haaland 14 / ROOT palm L",
+          "A Haaland 14 / ROOT palm R",
+          "A Haaland 14 / ROOT upper L fill",
+          "A Haaland 14 / ROOT upper L ink",
+          "A Haaland 14 / ROOT upper R fill",
+          "A Haaland 14 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            216,
+            17.69
+          ],
+          [
+            288,
+            17.86
+          ]
+        ]
+      },
+      {
+        "name": "A Maresca 14 / ROOT",
+        "skin_vertices": 8553,
+        "skin_faces": 16599,
+        "native_arm_objects": [
+          "A Maresca 14 / ROOT native L fill",
+          "A Maresca 14 / ROOT native L ink",
+          "A Maresca 14 / ROOT native R fill",
+          "A Maresca 14 / ROOT native R ink",
+          "A Maresca 14 / ROOT palm L",
+          "A Maresca 14 / ROOT palm R",
+          "A Maresca 14 / ROOT upper L fill",
+          "A Maresca 14 / ROOT upper L ink",
+          "A Maresca 14 / ROOT upper R fill",
+          "A Maresca 14 / ROOT upper R ink"
+        ],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            216,
+            17.77
+          ],
+          [
+            288,
+            17.94
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "beat": "S10",
+    "scene": "S10 / tears and umbrella",
+    "frames": 264,
+    "start_frame": 3121,
+    "fps": 24.0,
+    "camera": [
+      {
+        "path": "location",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 0.25,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 82.0,
+            "value": 0.25,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 83.0,
+            "value": 0.5,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": -4.699999809265137,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 82.0,
+            "value": -4.699999809265137,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 83.0,
+            "value": -7.0,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 2.049999952316284,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 82.0,
+            "value": 2.049999952316284,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 83.0,
+            "value": 2.299999952316284,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 1.4230213165283203,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 82.0,
+            "value": 1.4230213165283203,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 83.0,
+            "value": 1.408111810684204,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": -8.359228864662782e-10,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 82.0,
+            "value": -8.359228864662782e-10,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 83.0,
+            "value": 2.110055463688809e-09,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      },
+      {
+        "path": "rotation_euler",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 1.0,
+            "value": 0.031904079020023346,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 82.0,
+            "value": 0.031904079020023346,
+            "interpolation": "CONSTANT"
+          },
+          {
+            "frame": 83.0,
+            "value": 0.042830940335989,
+            "interpolation": "CONSTANT"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "A Apology Oliver / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            22.99
+          ],
+          [
+            82,
+            22.99
+          ],
+          [
+            83,
+            17.79
+          ]
+        ]
+      },
+      {
+        "name": "A Apology Carrick / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            1,
+            23.15
+          ],
+          [
+            82,
+            23.15
+          ],
+          [
+            83,
+            17.79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "beat": "S10",
+    "scene": "FILM S10 / They are biting",
+    "frames": 216,
+    "start_frame": 3385,
+    "fps": 24.0,
+    "camera": [
+      {
+        "path": "location",
+        "index": 0,
+        "keys": [
+          {
+            "frame": 144.0,
+            "value": 1.0,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 216.0,
+            "value": 0.9829206466674805,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 1,
+        "keys": [
+          {
+            "frame": 144.0,
+            "value": -9.0,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 216.0,
+            "value": -8.846285820007324,
+            "interpolation": "BEZIER"
+          }
+        ]
+      },
+      {
+        "path": "location",
+        "index": 2,
+        "keys": [
+          {
+            "frame": 144.0,
+            "value": 3.4000000953674316,
+            "interpolation": "BEZIER"
+          },
+          {
+            "frame": 216.0,
+            "value": 3.3590097427368164,
+            "interpolation": "BEZIER"
+          }
+        ]
+      }
+    ],
+    "actors": [
+      {
+        "name": "A Foden 16 / ROOT",
+        "skin_vertices": 9709,
+        "skin_faces": 19008,
+        "native_arm_objects": [],
+        "bone_parent_count": 0,
+        "bone_count": 14,
+        "camera_to_art_plane_normal_degrees": [
+          [
+            144,
+            18.72
+          ],
+          [
+            216,
+            18.78
+          ]
+        ]
+      }
+    ]
+  }
+]

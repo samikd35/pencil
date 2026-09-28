@@ -1,0 +1,71 @@
+{
+  "text": "Ref! Ref!",
+  "voice": "bm_lewis",
+  "speed": 1.12,
+  "sample_rate": 24000,
+  "duration_seconds": 0.9046666666666666,
+  "load_and_generate_seconds": 2.782889833993977,
+  "runtime": "/Users/samikd/MyProjects/PyBlend/Episode 1/production/voice_runtime",
+  "model_sha256": {
+    "kokoro-v1.0.fp16.onnx": "f3a290d384fbb27966d462905c71a46cef9e5fd00516b40df32a0b4afe77ac96",
+    "voices-v1.0.bin": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+  },
+  "phonemes": [
+    {
+      "phoneme": "\u0279",
+      "start": 0.08366666666666667,
+      "end": 0.13366666666666666
+    },
+    {
+      "phoneme": "\u02c8",
+      "start": 0.13366666666666666,
+      "end": 0.23366666666666666
+    },
+    {
+      "phoneme": "\u025b",
+      "start": 0.23366666666666666,
+      "end": 0.30866666666666664
+    },
+    {
+      "phoneme": "f",
+      "start": 0.30866666666666664,
+      "end": 0.4086666666666667
+    },
+    {
+      "phoneme": "!",
+      "start": 0.4086666666666667,
+      "end": 0.45866666666666667
+    },
+    {
+      "phoneme": " ",
+      "start": 0.45866666666666667,
+      "end": 0.5336666666666666
+    },
+    {
+      "phoneme": "\u0279",
+      "start": 0.5336666666666666,
+      "end": 0.5836666666666667
+    },
+    {
+      "phoneme": "\u02c8",
+      "start": 0.5836666666666667,
+      "end": 0.6836666666666666
+    },
+    {
+      "phoneme": "\u025b",
+      "start": 0.6836666666666666,
+      "end": 0.7586666666666667
+    },
+    {
+      "phoneme": "f",
+      "start": 0.7586666666666667,
+      "end": 0.8746666666666667
+    },
+    {
+      "phoneme": "!",
+      "start": 0.8746666666666667,
+      "end": 0.8746666666666667
+    }
+  ],
+  "listening_review": "Not heard by assistant; technical smoke test only."
+}

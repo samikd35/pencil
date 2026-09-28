@@ -1,0 +1,15 @@
+{
+  "title": "Dawn Training",
+  "completed_local_date": "2026-09-08",
+  "status": "complete_first_cut_pending_artistic_review",
+  "duration": 30,
+  "fps": 24,
+  "video_frames": 720,
+  "native_project": true,
+  "sha256": {
+    "Dawn_Training.blend": "1b28b247549777d263001648ad3081cfb7430d458f611e58ee923682ded4fcdf",
+    "Dawn_Training.mp4": "5026af3b2920f0ecf008543f6bfae8d754ba01ccea8c9550f077ec632ef8008d",
+    "Dawn_Training_Sound.wav": "141faf527a5acdc4d433f02298f7e46698a234d2358eb0a69bdc855e0a0aaa29"
+  },
+  "render_seconds": 287.610013961792
+}

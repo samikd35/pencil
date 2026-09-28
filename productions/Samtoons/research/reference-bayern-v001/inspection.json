@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-17",
+  "source_frames": 3788,
+  "fps": 30,
+  "consecutive_sheet_coverage": [
+    {
+      "reviewer": "bayern_first_half_frames",
+      "frames": [
+        0,
+        1919
+      ],
+      "sheets": [
+        1,
+        24
+      ],
+      "notes": "first-half-visual-notes.md"
+    },
+    {
+      "reviewer": "main assistant",
+      "frames": [
+        1920,
+        3787
+      ],
+      "sheets": [
+        25,
+        48
+      ],
+      "notes": "analysis.md"
+    }
+  ],
+  "main_overview_sheets": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "main_native_detail_frames": [
+    60,
+    150,
+    432,
+    648,
+    783,
+    930,
+    1089,
+    1228,
+    1620,
+    1711,
+    2071,
+    2269,
+    2340,
+    2410,
+    2594,
+    2769,
+    3192,
+    3558
+  ],
+  "limits": [
+    "All frames inspected as contact-sheet thumbnails, not all at native resolution.",
+    "18 selected native frames inspected; no assertion that every native pixel was reviewed.",
+    "No subjective listening; automatic captions and measurements are not auditory evidence."
+  ],
+  "extraction": "Native images re-extracted by sequential select(n) after input seeking emitted decoder warnings; final sequential extraction had no stderr."
+}

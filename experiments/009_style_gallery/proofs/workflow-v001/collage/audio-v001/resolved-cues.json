@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "plan": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/proofs/workflow-v001/collage/production.json",
+  "plan_sha256": "be40ddbc8d264b05e408cf578eb2797f1cc1178e0b8fcdc5113c3128766274fd",
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 240,
+    "sample_rate": 48000
+  },
+  "samples": 480000,
+  "assets": {
+    "existing-mix": {
+      "path": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/proofs/workflow-v001/collage/assets/soundtrack.wav",
+      "sha256": "84d4b3f381989416e5399e5e15a55f8e958fde90aed7c1b0d6fe6819a6fd9af3",
+      "source": "Preserved Heavy Box finish-v002 original synthesized soundtrack",
+      "license": "Original project production",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "10",
+        "codec": "pcm_s16le"
+      }
+    }
+  },
+  "cues": [
+    {
+      "id": "existing-sound",
+      "shot": "box",
+      "event": "start",
+      "intent": "Preserve the accepted box-action sound and synchronization",
+      "asset": "existing-mix",
+      "stem": "original-mix",
+      "in_seconds": 0,
+      "duration_seconds": 10,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": 0.0,
+      "pan": 0.0,
+      "fade_in_seconds": 0,
+      "fade_out_seconds": 0,
+      "event_frame": "1",
+      "event_sample": 0,
+      "start_sample": 0,
+      "source_start_sample": 0,
+      "samples": 480000,
+      "onset_samples": 0,
+      "fade_in_samples": 0,
+      "fade_out_samples": 0,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    }
+  ],
+  "mix_gain_db": 0.0
+}

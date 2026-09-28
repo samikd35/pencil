@@ -1,0 +1,405 @@
+{
+  "source_url": "https://www.youtube.com/watch?v=KD9ry6zWjjQ",
+  "sha256": "143b6d176f3c95582a0b8c2896f2f9241125d22ee9b5c8ca2ed805056ac8d746",
+  "probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1088,
+        "has_b_frames": 1,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 3,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1939456,
+        "duration": "126.266667",
+        "bit_rate": "1640275",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "3788",
+        "nb_read_frames": "3788",
+        "extradata_size": 45,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "ISO Media file produced by Google Inc.",
+          "vendor_id": "[0][0][0][0]"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "opus",
+        "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+        "codec_type": "audio",
+        "codec_tag_string": "Opus",
+        "codec_tag": "0x7375704f",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 312,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 6062448,
+        "duration": "126.301000",
+        "bit_rate": "120989",
+        "nb_frames": "6315",
+        "nb_read_frames": "6315",
+        "extradata_size": 19,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/research/reference-bayern-v001/source.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "126.301000",
+      "size": "27924293",
+      "bit_rate": "1768745",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf62.3.100"
+      }
+    }
+  },
+  "frames": 3788,
+  "fps": "30",
+  "picture_seconds": 126.26666666666667,
+  "pages": [
+    {
+      "path": "sheets/all-01.jpg",
+      "first_frame": 0,
+      "last_frame": 79
+    },
+    {
+      "path": "sheets/all-02.jpg",
+      "first_frame": 80,
+      "last_frame": 159
+    },
+    {
+      "path": "sheets/all-03.jpg",
+      "first_frame": 160,
+      "last_frame": 239
+    },
+    {
+      "path": "sheets/all-04.jpg",
+      "first_frame": 240,
+      "last_frame": 319
+    },
+    {
+      "path": "sheets/all-05.jpg",
+      "first_frame": 320,
+      "last_frame": 399
+    },
+    {
+      "path": "sheets/all-06.jpg",
+      "first_frame": 400,
+      "last_frame": 479
+    },
+    {
+      "path": "sheets/all-07.jpg",
+      "first_frame": 480,
+      "last_frame": 559
+    },
+    {
+      "path": "sheets/all-08.jpg",
+      "first_frame": 560,
+      "last_frame": 639
+    },
+    {
+      "path": "sheets/all-09.jpg",
+      "first_frame": 640,
+      "last_frame": 719
+    },
+    {
+      "path": "sheets/all-10.jpg",
+      "first_frame": 720,
+      "last_frame": 799
+    },
+    {
+      "path": "sheets/all-11.jpg",
+      "first_frame": 800,
+      "last_frame": 879
+    },
+    {
+      "path": "sheets/all-12.jpg",
+      "first_frame": 880,
+      "last_frame": 959
+    },
+    {
+      "path": "sheets/all-13.jpg",
+      "first_frame": 960,
+      "last_frame": 1039
+    },
+    {
+      "path": "sheets/all-14.jpg",
+      "first_frame": 1040,
+      "last_frame": 1119
+    },
+    {
+      "path": "sheets/all-15.jpg",
+      "first_frame": 1120,
+      "last_frame": 1199
+    },
+    {
+      "path": "sheets/all-16.jpg",
+      "first_frame": 1200,
+      "last_frame": 1279
+    },
+    {
+      "path": "sheets/all-17.jpg",
+      "first_frame": 1280,
+      "last_frame": 1359
+    },
+    {
+      "path": "sheets/all-18.jpg",
+      "first_frame": 1360,
+      "last_frame": 1439
+    },
+    {
+      "path": "sheets/all-19.jpg",
+      "first_frame": 1440,
+      "last_frame": 1519
+    },
+    {
+      "path": "sheets/all-20.jpg",
+      "first_frame": 1520,
+      "last_frame": 1599
+    },
+    {
+      "path": "sheets/all-21.jpg",
+      "first_frame": 1600,
+      "last_frame": 1679
+    },
+    {
+      "path": "sheets/all-22.jpg",
+      "first_frame": 1680,
+      "last_frame": 1759
+    },
+    {
+      "path": "sheets/all-23.jpg",
+      "first_frame": 1760,
+      "last_frame": 1839
+    },
+    {
+      "path": "sheets/all-24.jpg",
+      "first_frame": 1840,
+      "last_frame": 1919
+    },
+    {
+      "path": "sheets/all-25.jpg",
+      "first_frame": 1920,
+      "last_frame": 1999
+    },
+    {
+      "path": "sheets/all-26.jpg",
+      "first_frame": 2000,
+      "last_frame": 2079
+    },
+    {
+      "path": "sheets/all-27.jpg",
+      "first_frame": 2080,
+      "last_frame": 2159
+    },
+    {
+      "path": "sheets/all-28.jpg",
+      "first_frame": 2160,
+      "last_frame": 2239
+    },
+    {
+      "path": "sheets/all-29.jpg",
+      "first_frame": 2240,
+      "last_frame": 2319
+    },
+    {
+      "path": "sheets/all-30.jpg",
+      "first_frame": 2320,
+      "last_frame": 2399
+    },
+    {
+      "path": "sheets/all-31.jpg",
+      "first_frame": 2400,
+      "last_frame": 2479
+    },
+    {
+      "path": "sheets/all-32.jpg",
+      "first_frame": 2480,
+      "last_frame": 2559
+    },
+    {
+      "path": "sheets/all-33.jpg",
+      "first_frame": 2560,
+      "last_frame": 2639
+    },
+    {
+      "path": "sheets/all-34.jpg",
+      "first_frame": 2640,
+      "last_frame": 2719
+    },
+    {
+      "path": "sheets/all-35.jpg",
+      "first_frame": 2720,
+      "last_frame": 2799
+    },
+    {
+      "path": "sheets/all-36.jpg",
+      "first_frame": 2800,
+      "last_frame": 2879
+    },
+    {
+      "path": "sheets/all-37.jpg",
+      "first_frame": 2880,
+      "last_frame": 2959
+    },
+    {
+      "path": "sheets/all-38.jpg",
+      "first_frame": 2960,
+      "last_frame": 3039
+    },
+    {
+      "path": "sheets/all-39.jpg",
+      "first_frame": 3040,
+      "last_frame": 3119
+    },
+    {
+      "path": "sheets/all-40.jpg",
+      "first_frame": 3120,
+      "last_frame": 3199
+    },
+    {
+      "path": "sheets/all-41.jpg",
+      "first_frame": 3200,
+      "last_frame": 3279
+    },
+    {
+      "path": "sheets/all-42.jpg",
+      "first_frame": 3280,
+      "last_frame": 3359
+    },
+    {
+      "path": "sheets/all-43.jpg",
+      "first_frame": 3360,
+      "last_frame": 3439
+    },
+    {
+      "path": "sheets/all-44.jpg",
+      "first_frame": 3440,
+      "last_frame": 3519
+    },
+    {
+      "path": "sheets/all-45.jpg",
+      "first_frame": 3520,
+      "last_frame": 3599
+    },
+    {
+      "path": "sheets/all-46.jpg",
+      "first_frame": 3600,
+      "last_frame": 3679
+    },
+    {
+      "path": "sheets/all-47.jpg",
+      "first_frame": 3680,
+      "last_frame": 3759
+    },
+    {
+      "path": "sheets/all-48.jpg",
+      "first_frame": 3760,
+      "last_frame": 3787
+    }
+  ],
+  "frame_index": "zero-based; source time = frame / 30",
+  "coverage": "All frames decoded and represented consecutively. Rendering sheets is not visual review. Inspection ledger records actual viewed sheets/details.",
+  "loudness": {
+    "input_i": "-9.26",
+    "input_tp": "3.67",
+    "input_lra": "7.10",
+    "input_thresh": "-19.49",
+    "output_i": "-15.92",
+    "output_tp": "-2.53",
+    "output_lra": "7.40",
+    "output_thresh": "-26.07",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.08"
+  },
+  "audio_scope": "Measurements and unverified automatic captions only; no subjective listening claimed."
+}

@@ -1,0 +1,97 @@
+{
+  "checked_at": "2026-09-11T12:58:05.458451+00:00",
+  "repositories": [
+    {
+      "repository": "Stability-AI/stable-audio-3",
+      "source": "https://api.github.com/repos/Stability-AI/stable-audio-3",
+      "archived": false,
+      "pushed_at": "2026-09-05T08:33:10Z",
+      "default_branch": "main",
+      "license_id": "MIT"
+    },
+    {
+      "repository": "hkchengrex/MMAudio",
+      "source": "https://api.github.com/repos/hkchengrex/MMAudio",
+      "archived": false,
+      "pushed_at": "2026-02-23T06:09:19Z",
+      "default_branch": "main",
+      "license_id": "MIT"
+    },
+    {
+      "repository": "Tencent-Hunyuan/HunyuanVideo-Foley",
+      "source": "https://api.github.com/repos/Tencent-Hunyuan/HunyuanVideo-Foley",
+      "archived": false,
+      "pushed_at": "2025-09-28T17:48:49Z",
+      "default_branch": "main",
+      "license_id": "NOASSERTION"
+    },
+    {
+      "repository": "xiaomi-research/controlfoley",
+      "source": "https://api.github.com/repos/xiaomi-research/controlfoley",
+      "archived": false,
+      "pushed_at": "2026-08-28T01:54:55Z",
+      "default_branch": "main",
+      "license_id": "Apache-2.0"
+    },
+    {
+      "repository": "declare-lab/TangoFlux",
+      "source": "https://api.github.com/repos/declare-lab/TangoFlux",
+      "archived": false,
+      "pushed_at": "2026-01-28T08:32:17Z",
+      "default_branch": "main",
+      "license_id": "NOASSERTION"
+    },
+    {
+      "repository": "open-mmlab/FoleyCrafter",
+      "source": "https://api.github.com/repos/open-mmlab/FoleyCrafter",
+      "archived": false,
+      "pushed_at": "2026-06-15T04:39:18Z",
+      "default_branch": "main",
+      "license_id": "Apache-2.0"
+    },
+    {
+      "repository": "belangeo/pyo",
+      "source": "https://api.github.com/repos/belangeo/pyo",
+      "archived": false,
+      "pushed_at": "2026-07-20T17:13:45Z",
+      "default_branch": "master",
+      "license_id": "LGPL-3.0"
+    },
+    {
+      "repository": "SkAT-VG/SDT",
+      "source": "https://api.github.com/repos/SkAT-VG/SDT",
+      "archived": false,
+      "pushed_at": "2024-03-27T16:47:36Z",
+      "default_branch": "main",
+      "license_id": "NOASSERTION"
+    },
+    {
+      "repository": "spotify/pedalboard",
+      "source": "https://api.github.com/repos/spotify/pedalboard",
+      "archived": false,
+      "pushed_at": "2026-09-09T22:06:36Z",
+      "default_branch": "master",
+      "license_id": "GPL-3.0"
+    },
+    {
+      "repository": "csound/csound",
+      "error": "HTTP Error 403: rate limit exceeded",
+      "source": "https://api.github.com/repos/csound/csound"
+    }
+  ],
+  "pyo_pypi": {
+    "source": "https://pypi.org/pypi/pyo/json",
+    "version": "1.0.5",
+    "mac_wheels": [
+      "pyo-1.0.5-cp310-cp310-macosx_12_0_x86_64.whl",
+      "pyo-1.0.5-cp310-cp310-macosx_13_0_arm64.whl",
+      "pyo-1.0.5-cp311-cp311-macosx_12_0_x86_64.whl",
+      "pyo-1.0.5-cp311-cp311-macosx_13_0_arm64.whl",
+      "pyo-1.0.5-cp37-cp37m-macosx_12_0_x86_64.whl",
+      "pyo-1.0.5-cp38-cp38-macosx_12_0_x86_64.whl",
+      "pyo-1.0.5-cp38-cp38-macosx_13_0_arm64.whl",
+      "pyo-1.0.5-cp39-cp39-macosx_12_0_x86_64.whl",
+      "pyo-1.0.5-cp39-cp39-macosx_13_0_arm64.whl"
+    ]
+  }
+}

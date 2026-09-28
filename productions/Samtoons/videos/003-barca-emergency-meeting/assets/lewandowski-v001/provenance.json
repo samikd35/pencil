@@ -1,0 +1,14 @@
+{
+  "tool": "Built-in image_gen.imagegen",
+  "style_reference": "assets/reference-redraw-v003/canonical-busts.png",
+  "selected": "reference-supported.png",
+  "initial_rejected_for": "Cup/wrist arrangement unsuitable for set-down to shared table height",
+  "prompts": "prompts.md",
+  "files": {
+    "reference.png": "3772cf05b8cd3c58e422150a6013ced4e0a7d802ce77ea3592d72ccb96a1e0b3",
+    "reference-supported.png": "475460334ef543610bcd859ddef61c643d6cd2ffb912eb2592f809e37ea78f9f",
+    "robert.json": "13b6fa5ccf07cc0d0e194b5622384d7ec25685a6f4779bfd7b75c453d16ca593",
+    "prompts.md": "293be335a4aebbbd6c863a8145421dd8512684ce038245d4fa7b32e286644d0e"
+  },
+  "status": "Candidate construction art for S09; not user-approved likeness or motion"
+}

@@ -1,0 +1,11 @@
+{
+  "tool": "image_gen",
+  "foden": {
+    "prompt": "Use case: identity-preserve. Editable cartoon animation source asset. Redraw this exact Phil Foden cartoon character in a seated fishing pose, viewed three-quarter facing LEFT. Preserve recognizable short dark haircut, face silhouette, simple connected body, Manchester City sky blue kit, white shorts number 47, sky blue socks and purple boots, same black outlines and restrained flat shading. Seated on an invisible low stool with both knees bent naturally and boots touching a common floor; one elbow rests near knee, both hands gently grip an invisible fishing-rod handle in front of waist pointing up-left. Actual stool, rod and water will be Blender geometry: DO NOT DRAW those props. Complete isolated coherent figure with exactly two arms and two legs, one elbow per arm; no stray fragments. Keep eye sockets, brows and mouth areas blank skin for native facial animation, preserve nose and ears. Transparent background, full body with margin, 1024x1536 portrait. This is a matching production drawing, not a scene or concept board.",
+    "asset": "foden-seated.png"
+  },
+  "maresca": {
+    "prompt": "Use case: identity-preserve. Produce ONLY the bald bearded football coach Enzo Maresca (second figure from left in reference), same recognizable cartoon identity, navy zip tracksuit, black trainers and coherent full-body clean outlined artwork. New pose: relaxed reclining in an invisible deckchair, body and head in three-quarter view facing LEFT toward a teammate offscreen. His back reclines naturally, hips bent and knees extended forward left, boots near floor. One arm relaxed on chair arm, the other bent with hand naturally gripping a small WHITE TEACUP at chest height. Do draw cup as part of this pose. Do not draw chair, background or additional characters; these will be native Blender objects. Preserve black beard and nose but leave eye/brow/mouth areas blank for native animation (mouth blank inside beard). Two arms with exactly one elbow each, two legs, no extra parts. Entire character with margins, transparent background. Landscape 1536x1024 source art, continuous body construction, same simple cartoon style and color, no realism.",
+    "asset": "maresca-reclining.png"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "reference": {
+    "path": "coaches-reference.png",
+    "sha256": "cc604b06e94e52b97deb064f9689154eb3837ca47fe115c0cf48c7bb9c4d7905",
+    "source": "Built-in image generation; exact prompt in prompt.txt",
+    "usage": "Tracing reference; native head/garment/shoe contours in Blender. Not a flattened animated portrait."
+  },
+  "tracing": "scripts/trace_coaches_v001.py",
+  "user_direction": "Recognizable Flick; original fictional assistant; performance over manual editability."
+}

@@ -1,0 +1,239 @@
+{
+  "version": 2,
+  "date": "2026-09-22",
+  "profile": "Samtoons profile v004",
+  "paths": "All source paths are relative to the Pencil workspace. This index stores references, not extracted rig packages.",
+  "records": [
+    {
+      "id": "existing-voice-brand-selections",
+      "kind": "catalogue_reference",
+      "source": "productions/Samtoons/assets/reuse-v001/manifest.json",
+      "sha256": "bff582b2c33d134f3e9feda7e5f97b0844bc0d1c4d5e01fedbb7010d079cc23d",
+      "bytes": 4478,
+      "scope": "Existing exact voice takes and logo; retain their provenance and review limits. No binary duplication."
+    },
+    {
+      "id": "video001-whole-character",
+      "kind": "scene_bound_reference",
+      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/samtoons-final.blend",
+      "sha256": "db0cc869f1c6c691c2415688d5fa7b60cb580fe24b591428bd944fc6719c96dc",
+      "bytes": 191503644,
+      "owner": "Saved native file; inspect film-local dependency and repair records before extraction.",
+      "scope": "Delivered full-body design/construction and specific reviewed performances, not arbitrary new views or a portable rig."
+    },
+    {
+      "id": "video002-opening-motion",
+      "kind": "scene_bound_reference",
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/opening-motion.blend",
+      "sha256": "e5c5e011acb7c36c50a1e5286da627c2ed0330968f71002cf22dc83e110ef24a",
+      "bytes": 28286767,
+      "owner": "Saved native file. Use delivery-v027/edit.json for scene/local range; do not reconstruct from session-only builder mappings.",
+      "scenes": [
+        "S002_B01_v016_narrator",
+        "S002_B01_v016_opening",
+        "S002_B01_v016_unveiling",
+        "S002_B02_v017_training"
+      ],
+      "scope": "Scoped physical action and dimensional setting reused from v017.",
+      "review_events": [
+        "a398810b-ffa0-45ee-b7f0-32c74b50db7c"
+      ]
+    },
+    {
+      "id": "video002-opening-dialogue",
+      "kind": "scene_bound_reference",
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/opening-dialogue.blend",
+      "sha256": "3964284af0e26cc2b4ff55d3a38dfff90aabc7c853c3ea4a6ad07aacbe9ec081",
+      "bytes": 28371989,
+      "owner": "Saved native file. Use delivery-v027/edit.json for scene/local range; do not reconstruct from session-only builder mappings.",
+      "scenes": [
+        "S002_B01_v016_opening",
+        "S002_B01_v016_unveiling",
+        "S002_B02_v017_training"
+      ],
+      "scope": "v018 character fitting/dialogue surfaces and retiming; later acting audit still applies.",
+      "review_events": [
+        "a398810b-ffa0-45ee-b7f0-32c74b50db7c"
+      ]
+    },
+    {
+      "id": "video002-defence",
+      "kind": "scene_bound_reference",
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/defence.blend",
+      "sha256": "10d05293acbb77d2c89b8cf7325b46335b5989fb4e063ae6985d0e925e5428c5",
+      "bytes": 59806890,
+      "owner": "Saved native file. Use delivery-v027/edit.json for scene/local range; do not reconstruct from session-only builder mappings.",
+      "scenes": [
+        "S002_defence_v021",
+        "S002_defence_v022_City",
+        "S002_defence_v022_coach_reactions",
+        "S002_narrator_v020"
+      ],
+      "scope": "v022 football contacts, wall, set scale, cameos and notification. New performances need review.",
+      "review_events": [
+        "a398810b-ffa0-45ee-b7f0-32c74b50db7c"
+      ]
+    },
+    {
+      "id": "video002-remaining",
+      "kind": "scene_bound_reference",
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/remaining.blend",
+      "sha256": "c97c34f47cfe01623c84a4da80a4a0c30bfe1c266f5f1b4567ba9f5acf3697b9",
+      "bytes": 88644028,
+      "owner": "Saved native file. Use delivery-v027/edit.json for scene/local range; do not reconstruct from session-only builder mappings.",
+      "scenes": [
+        "S002_clarity_v024_CP00",
+        "S002_clarity_v024_CP01",
+        "S002_clarity_v024_CP02_far",
+        "S002_clarity_v024_CP02_near",
+        "S002_clarity_v024_CP03_panic",
+        "S002_clarity_v024_CP03_pep",
+        "S002_clarity_v024_CP04_courier",
+        "S002_clarity_v024_CP04_reply",
+        "S002_clarity_v024_CP05",
+        "S002_clarity_v024_FR01",
+        "S002_clarity_v024_FR02",
+        "S002_clarity_v024_FR03_complain",
+        "S002_clarity_v024_FR03_cross",
+        "S002_clarity_v024_FR04",
+        "S002_clarity_v024_FR05",
+        "S002_clarity_v024_N03",
+        "S002_clarity_v024_N04_dark",
+        "S002_clarity_v024_N04_meltdown",
+        "S002_clarity_v024_N04_reveal",
+        "S002_clarity_v024_N04_tap",
+        "S002_clarity_v024_N04_trophy",
+        "S002_clarity_v024_VH01",
+        "S002_clarity_v024_VH02",
+        "S002_clarity_v024_VH03",
+        "S002_clarity_v024_VH03_answer",
+        "S002_clarity_v024_VH04_button",
+        "S002_clarity_v024_VH04_mikel",
+        "S002_clarity_v024_VH04_operator",
+        "S002_clarity_v024_VH04_two",
+        "S002_clarity_v024_VH05"
+      ],
+      "scope": "v025 native hand/forearm reconstruction, chase and finale. Generic acting/facing is a known weakness, not a target.",
+      "review_events": [
+        "81418351-6d13-4530-aea9-1e7d7be88ad1",
+        "a398810b-ffa0-45ee-b7f0-32c74b50db7c"
+      ]
+    },
+    {
+      "id": "whole-character-action",
+      "kind": "scene_bound_reference",
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/pose-action-v003/pose-action-v003.blend",
+      "sha256": "1711b486913bbbc1ec3524e9516262be681d8d870712b28626e771c3f6d579b8",
+      "bytes": 11884299,
+      "owner": "Saved native file; pose selector, travel, camera and bounded support compensation. See its README.",
+      "scope": "Accepted fixed-view Bruno run/jump and temporal correction; no approval of later chase adaptations or ordinary acting.",
+      "review_events": [
+        "b928ddc3-30ae-46cb-990b-e45b96d5bb79"
+      ]
+    },
+    {
+      "id": "channel-branding",
+      "kind": "scene_bound_reference",
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/samtoons-branding.blend",
+      "sha256": "2e20368edb14ef7c09b9cf340f109fa02dca162583c4ab2bdc986990e84efe94",
+      "bytes": 1700437,
+      "owner": "Saved native intro/outro scenes; approved mixes and cue records remain in the source video.",
+      "scope": "Accepted v028 channel mascot/timing/sound rendered as v029. Episode paper gag and end-card placement are adaptable, not mandatory.",
+      "review_events": [
+        "a906c386-7b01-4750-a8bf-eb4334c81d82",
+        "0a6a4e05-090e-4f38-a256-5618b78c0584",
+        "1395be85-69ca-4d20-8485-77db06bf011d"
+      ]
+    },
+    {
+      "id": "intro-clip",
+      "kind": "rendered_segment",
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/intro-1080p.mp4",
+      "sha256": "7c85f60a981ce95ad5677f8316d6ae8c3dab1d31cba81d2ac02943e8917d04ab",
+      "bytes": 616136,
+      "scope": "Rendered branding segment; assess fit and publication end-screen needs for the new film."
+    },
+    {
+      "id": "outro-clip",
+      "kind": "rendered_segment",
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/outro-1080p.mp4",
+      "sha256": "2afdbcdaf34a2f2bc53780f9f4edb48b7e543fd8b00b6fb48552e1acb4e52753",
+      "bytes": 1709543,
+      "scope": "Rendered branding segment; assess fit and publication end-screen needs for the new film."
+    }
+  ],
+  "supporting_files": [
+    {
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/README.md",
+      "sha256": "a6a3b341b17bf6f4e2855c9b27d1918d3246bae7f915297032b58d1568f9780d",
+      "bytes": 7758
+    },
+    {
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/edit.json",
+      "sha256": "82ed6b90ca1cb7cf84fa291ede827bd5b06705ac990110d4abe74497a0e86690",
+      "bytes": 8724
+    },
+    {
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources.json",
+      "sha256": "9c33254dde7fb00cac2795ff4bcac3c826b8bc83fb4bf36cdd02491d2f4f271f",
+      "bytes": 647
+    },
+    {
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/source-dependencies.json",
+      "sha256": "26d47c4d4bc8c2df98c49a8a3c53a4c2885f4e5e69bae4fc0af9faff8ddec18e",
+      "bytes": 699
+    },
+    {
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/README.md",
+      "sha256": "0809f277d979f470f7717a14437c664a2176b542f48f11af048c9ccae534bd2a",
+      "bytes": 3538
+    },
+    {
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/pose-action-v003/README.md",
+      "sha256": "178bc7b760161097dba1768c92b73213dbc11db571066923cbf359098ae7d676",
+      "bytes": 3711
+    },
+    {
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/pose-action-v003/poses.json",
+      "sha256": "388b404ad2e2617fa34b66b0e2b99a4c1b63f47eb25c4d4edf107aa1b4e3eee3",
+      "bytes": 5597
+    },
+    {
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/pose-action-v003/provenance.json",
+      "sha256": "ba558ae78327b2b7a899b66e96f96e1c3d26fe130fdf2d346c6fbe663e8328e8",
+      "bytes": 1611
+    },
+    {
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/hand-repair-v025/README.md",
+      "sha256": "13fe5000e172335c61290c140b5ee53b45e03425cf954eb2915a26c222b70ccb",
+      "bytes": 5327
+    },
+    {
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/scripts/render_delivery_v027.py",
+      "sha256": "93d95cebc1f9e2f32f5d66e00001283f7413cdacee482b0d3639c1b6fa76f510",
+      "bytes": 3494
+    },
+    {
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/scripts/check_temporal_continuity.py",
+      "sha256": "4663f45e28bea7d8a5ba77c6f9968f38abff5e384323512f8c52f1a4270ba415",
+      "bytes": 3490
+    },
+    {
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/research/benchmark-audit-v001/report.md",
+      "sha256": "07ea14d293a241185c473339749ced094794ca9218eed4c9add6cb683cab0e45",
+      "bytes": 15570
+    },
+    {
+      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/research/acting-root-cause-and-next-production.md",
+      "sha256": "42c1a58af0e02377fd583721dcfc201fbc63922d6de806d34977ae24a2b8d04c",
+      "bytes": 11215
+    }
+  ],
+  "review_journal": "productions/Samtoons/videos/002-how-arsenal-won-the-league/events.jsonl",
+  "known_limitations": [
+    "No new artistic or listening review performed for this catalogue.",
+    "Whole-cut user acceptance does not establish benchmark parity; later feedback rejects repetitive acting as the future standard.",
+    "Only the opening-dialogue source received the Phase A copied-scene key/save/reopen/render check; this is not an extraction or performance test.",
+    "Reference paths may be used to locate assets; adopt needed files into a new film and bind their selected versions before review."
+  ]
+}

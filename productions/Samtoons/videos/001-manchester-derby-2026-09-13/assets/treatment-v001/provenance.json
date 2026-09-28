@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "date": "2026-09-15",
+  "reference_sources": [
+    "assets/reference-board.jpg",
+    "research/critique-2026-09-15/red-sequence.jpg",
+    "research/critique-2026-09-15/save-sequence.jpg"
+  ],
+  "outputs": [
+    {
+      "file": "A-clean-caricature.png",
+      "generated_source": "/Users/samikd/.codex/generated_images/01a0a10c-1df6-7cf3-a6e1-e959b8d7314e/exec-f7401ae4-196f-434e-82a6-16d3566a164c.png",
+      "tool": "built-in image_gen",
+      "model": "not exposed by tool",
+      "prompt": "A-prompt.txt",
+      "edit_prompt": "A-revision-prompt.txt",
+      "status": "proposed for user style selection",
+      "motion": "untested; design board only",
+      "sha256": "61151483f986e5a531afa218cdbc21932c16f0d1b0365c1e4080763ef7b34852"
+    },
+    {
+      "file": "B-rounded-comic.png",
+      "generated_source": "/Users/samikd/.codex/generated_images/01a0a10c-1df6-7cf3-a6e1-e959b8d7314e/exec-d6cdb57c-0ce3-4bbb-ab90-f1e3b4354fc2.png",
+      "tool": "built-in image_gen",
+      "model": "not exposed by tool",
+      "prompt": "B-prompt.txt",
+      "edit_prompt": "B-revision-prompt.txt",
+      "status": "proposed for user style selection",
+      "motion": "untested; design board only",
+      "sha256": "b2828583b70fc4f667e390f64776bcdced84173ef33f7dcca31e0aa9be72db86"
+    },
+    {
+      "file": "A-initial.png",
+      "generated_source": "/Users/samikd/.codex/generated_images/01a0a10c-1df6-7cf3-a6e1-e959b8d7314e/exec-0dc627dc-6f45-4e9a-a668-2edc26010b7d.png",
+      "tool": "built-in image_gen",
+      "model": "not exposed by tool",
+      "prompt": "A-prompt.txt",
+      "edit_prompt": null,
+      "status": "superseded: background too detailed and goal cropped",
+      "motion": "untested; design board only",
+      "sha256": "5fb7b01b9b76dbb8cd8804ff64ea8bf90f16cca43d10e4394606f90751c754a0"
+    },
+    {
+      "file": "B-initial.png",
+      "generated_source": "/Users/samikd/.codex/generated_images/01a0a10c-1df6-7cf3-a6e1-e959b8d7314e/exec-00f88f19-6a04-4faf-923a-b2427f5da887.png",
+      "tool": "built-in image_gen",
+      "model": "not exposed by tool",
+      "prompt": "B-prompt.txt",
+      "edit_prompt": null,
+      "status": "superseded: background too detailed and goal cropped",
+      "motion": "untested; design board only",
+      "sha256": "f50647af74b4b4cc86f7d472b19db76c09d3900d9937a3cdeffcdacf1c1e1ab7"
+    }
+  ]
+}

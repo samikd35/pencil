@@ -1,0 +1,531 @@
+{
+  "file": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v001/samtoons-final.blend",
+  "blender": "5.2.0 LTS",
+  "shots": [
+    {
+      "scene": "FILM S01 / Morning Pep",
+      "armature_skins": 2,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Restored Haaland 1 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-1.png"
+          ]
+        },
+        {
+          "name": "A Restored Maresca 1 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-1.png.001"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "S02 / kick and overreaction",
+      "armature_skins": 3,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Drama Foden / continuous artwork.005",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "foden-underpainting.png.008"
+          ]
+        },
+        {
+          "name": "A Drama Bruno / continuous artwork.005",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "bruno-underpainting.png.008"
+          ]
+        },
+        {
+          "name": "A Drama Oliver / continuous artwork.004",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "oliver.png.007"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "FILM S02 / Gone fishing",
+      "armature_skins": 3,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Foden 3 / continuous artwork.001",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "foden-underpainting.png.001"
+          ]
+        },
+        {
+          "name": "A Bruno 3 / continuous artwork.001",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "bruno-underpainting.png.001"
+          ]
+        },
+        {
+          "name": "A Oliver 3 / continuous artwork.001",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "oliver.png.009"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "REPAIR S03 / strike and scratch",
+      "armature_skins": 11,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Repair Rashford / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "neutral.png"
+          ]
+        },
+        {
+          "name": "A Repair keeper / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "donnarumma.png"
+          ]
+        },
+        {
+          "name": "A Repair wall A / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-1.png.015"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "FILM S04 / Post saves again",
+      "armature_skins": 4,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Donnarumma 5 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "donnarumma.png.005"
+          ]
+        },
+        {
+          "name": "A Post Bruno / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "bruno-underpainting.png.009"
+          ]
+        },
+        {
+          "name": "A Restored Mainoo 5 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-1.png.016"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "FILM S05 / Goal then flag",
+      "armature_skins": 4,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Restored Haaland 6 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-1.png.017"
+          ]
+        },
+        {
+          "name": "A Restored Fernandez 6 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-2.png.014"
+          ]
+        },
+        {
+          "name": "A Restored Martinez 6 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-2.png.015"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "FILM S05 / VAR office",
+      "armature_skins": 0,
+      "grease_pencil_objects": 0,
+      "examples": []
+    },
+    {
+      "scene": "FILM S05 / What about him",
+      "armature_skins": 4,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Bruno 8 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "bruno-underpainting.png.010"
+          ]
+        },
+        {
+          "name": "A Restored Martinez 8 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-2.png.017"
+          ]
+        },
+        {
+          "name": "A Restored Fernandez 8 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-2.png.018"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "FILM S06 / Ours works too",
+      "armature_skins": 2,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Restored Fernandez 9 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-2.png.019"
+          ]
+        },
+        {
+          "name": "A Restored Lammens 9 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-2.png.020"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "FILM S07 / Square head",
+      "armature_skins": 6,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Donnarumma 10 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "donnarumma.png.006"
+          ]
+        },
+        {
+          "name": "A Restored Maguire 10 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-2.png.021"
+          ]
+        },
+        {
+          "name": "A Restored Corner 0 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-1.png.019"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "FILM S08 / Surely now",
+      "armature_skins": 2,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Bruno 11 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "bruno-underpainting.png.011"
+          ]
+        },
+        {
+          "name": "A Mbeumo 11 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "mbeumo-left.png.003"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "S08 / hope and parry",
+      "armature_skins": 2,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Save Mbeumo / continuous artwork.003",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "mbeumo-left.png.002"
+          ]
+        },
+        {
+          "name": "A Save Donnarumma / continuous artwork.003",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "donnarumma.png.003"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "FILM S08 / Good wolf",
+      "armature_skins": 2,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Restored Haaland 13 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-1.png.022"
+          ]
+        },
+        {
+          "name": "A Wolf keeper left / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "keeper-left.png.001"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "FILM S09 / Pep two point oh",
+      "armature_skins": 2,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Restored Haaland 14 / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "cast-1.png.023"
+          ]
+        },
+        {
+          "name": "A Reclining Maresca / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "maresca-reclining.png"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "S10 / tears and umbrella",
+      "armature_skins": 2,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Apology Oliver / continuous artwork.002",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "oliver.png.006"
+          ]
+        },
+        {
+          "name": "A Apology Carrick / continuous artwork.002",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "carrick.png.002"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "REVISION S10 / Foden exits VAR Room",
+      "armature_skins": 1,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A VAR exit Foden / continuous artwork.003",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "foden-underpainting.png.005"
+          ]
+        }
+      ]
+    },
+    {
+      "scene": "REPAIR S10 / roof waterfall and fishing",
+      "armature_skins": 1,
+      "grease_pencil_objects": 0,
+      "examples": [
+        {
+          "name": "A Fishing Foden / continuous artwork",
+          "vertices": 9709,
+          "groups": 14,
+          "preserve_volume": [
+            true
+          ],
+          "image_textures": [
+            "foden-seated.png"
+          ]
+        }
+      ]
+    }
+  ]
+}

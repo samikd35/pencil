@@ -1,0 +1,2813 @@
+{
+  "version": 1,
+  "scope": "Animation rebuild after v004 rejection; retain approved motion and sound, choose construction per actual shot.",
+  "status": "rough_cut_in_batches",
+  "film_runtime_target_seconds": [
+    240,
+    300
+  ],
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 5954,
+    "sample_rate": 48000
+  },
+  "shots": [
+    {
+      "id": "N01",
+      "start_frame": 1,
+      "events": {
+        "N01_B01": 31,
+        "N01_switch": 0,
+        "N01_question-motif": 4
+      }
+    },
+    {
+      "id": "OP01_banner",
+      "start_frame": 181,
+      "events": {}
+    },
+    {
+      "id": "OP01_year",
+      "start_frame": 229,
+      "events": {
+        "OP01_year_B02": 18,
+        "OP01_year_paper-handoff": 1
+      }
+    },
+    {
+      "id": "OP02_truck",
+      "start_frame": 330,
+      "events": {
+        "OP02_truck_reverse": 0
+      }
+    },
+    {
+      "id": "OP02_arteta",
+      "start_frame": 386,
+      "events": {
+        "OP02_arteta_B03": 7
+      }
+    },
+    {
+      "id": "OP02_driver",
+      "start_frame": 446,
+      "events": {
+        "OP02_driver_B04": 6
+      }
+    },
+    {
+      "id": "OP03_phone",
+      "start_frame": 518,
+      "events": {
+        "OP03_phone_B05": 8,
+        "OP03_phone_switch": 68
+      }
+    },
+    {
+      "id": "TR01",
+      "start_frame": 590,
+      "events": {
+        "TR01_L07_6": 24
+      }
+    },
+    {
+      "id": "TR02_flag",
+      "start_frame": 782,
+      "events": {
+        "TR02_flag_applause_additional": 0
+      }
+    },
+    {
+      "id": "TR02_reaction",
+      "start_frame": 878,
+      "events": {
+        "TR02_reaction_L08_7": 12,
+        "TR02_reaction_L09_8": 62
+      }
+    },
+    {
+      "id": "TR03_warning",
+      "start_frame": 1022,
+      "events": {
+        "TR03_warning_L10_9": 7
+      }
+    },
+    {
+      "id": "TR03_kick",
+      "start_frame": 1118,
+      "events": {
+        "TR03_kick_ball-strike_68": 4
+      }
+    },
+    {
+      "id": "TR03_praise",
+      "start_frame": 1190,
+      "events": {
+        "TR03_praise_L11_10": 10
+      }
+    },
+    {
+      "id": "TR04",
+      "start_frame": 1274,
+      "events": {}
+    },
+    {
+      "id": "CD01_cross",
+      "start_frame": 1322,
+      "events": {
+        "CD01_cross_L12_11": 7,
+        "CD01_cross_ball-strike_69": 4
+      }
+    },
+    {
+      "id": "CD01_header",
+      "start_frame": 1519,
+      "events": {
+        "CD01_header_ball-strike_71": 2,
+        "CD01_header_goal-cheer_72": 10
+      }
+    },
+    {
+      "id": "CD02",
+      "start_frame": 1591,
+      "events": {
+        "CD02_L13_12": 5
+      }
+    },
+    {
+      "id": "CD03",
+      "start_frame": 1713,
+      "events": {
+        "CD03_dry-impact_76": 96
+      }
+    },
+    {
+      "id": "CD04",
+      "start_frame": 1833,
+      "events": {
+        "CD04_L14_13": 12
+      }
+    },
+    {
+      "id": "CD05",
+      "start_frame": 2033,
+      "events": {
+        "CD05_L15_14": 7,
+        "CD05_L16_15": 67
+      }
+    },
+    {
+      "id": "N02",
+      "start_frame": 2177,
+      "events": {
+        "N02_question-motif_48": 0,
+        "N02_paper_49": 20
+      }
+    },
+    {
+      "id": "CD05_proud",
+      "start_frame": 2225,
+      "events": {
+        "CD05_proud_L17_16": 5
+      }
+    },
+    {
+      "id": "CD05_ping",
+      "start_frame": 2309,
+      "events": {
+        "CD05_ping_L18_17": 17,
+        "CD05_ping_city-ping_50": 1
+      }
+    },
+    {
+      "id": "CP01",
+      "start_frame": 2369,
+      "events": {
+        "CP01_L19_18": 17,
+        "CP01_chase-score_52": 0
+      }
+    },
+    {
+      "id": "CP02_far",
+      "start_frame": 2585,
+      "events": {
+        "CP02_far_L20_19": 17,
+        "CP02_far_chase-score_53": 0
+      }
+    },
+    {
+      "id": "CP02_near",
+      "start_frame": 2705,
+      "events": {
+        "CP02_near_city-ping_51": 1,
+        "CP02_near_chase-score_54": 0
+      }
+    },
+    {
+      "id": "CP03_panic",
+      "start_frame": 2777,
+      "events": {
+        "CP03_panic_L21_20": 14,
+        "CP03_panic_chase-score_55": 0
+      }
+    },
+    {
+      "id": "CP03_pep",
+      "start_frame": 2861,
+      "events": {
+        "CP03_pep_L22_21": 17
+      }
+    },
+    {
+      "id": "CP04_forward",
+      "start_frame": 2957,
+      "events": {
+        "CP04_forward_L23_22": 10,
+        "CP04_forward_chase-score_56": 0
+      }
+    },
+    {
+      "id": "CP04_courier",
+      "start_frame": 3080,
+      "events": {
+        "CP04_courier_L24_23": 12,
+        "CP04_courier_L25_24": 64,
+        "CP04_courier_chase-score_57": 0,
+        "CP04_courier_trolley_additional": 2
+      }
+    },
+    {
+      "id": "CP05",
+      "start_frame": 3224,
+      "events": {
+        "CP05_L26_25": 38,
+        "CP05_chase-score_58": 0
+      }
+    },
+    {
+      "id": "VH01",
+      "start_frame": 3344,
+      "events": {
+        "VH01_L27_26": 43,
+        "VH01_shirt-move_73": 2,
+        "VH01_ref-whistle_74": 24
+      }
+    },
+    {
+      "id": "VH02",
+      "start_frame": 3466,
+      "events": {
+        "VH02_L28_27": 14,
+        "VH02_hold-phone_59": 96
+      }
+    },
+    {
+      "id": "VH03",
+      "start_frame": 3610,
+      "events": {
+        "VH03_telephone_additional": 2
+      }
+    },
+    {
+      "id": "VH03_answer",
+      "start_frame": 3658,
+      "events": {
+        "VH03_answer_L29_28": 14
+      }
+    },
+    {
+      "id": "VH04_mikel",
+      "start_frame": 3768,
+      "events": {
+        "VH04_mikel_L30_29": 17
+      }
+    },
+    {
+      "id": "VH04_operator",
+      "start_frame": 3864,
+      "events": {
+        "VH04_operator_L31_30": 12
+      }
+    },
+    {
+      "id": "VH04_two",
+      "start_frame": 3972,
+      "events": {
+        "VH04_two_L32_31": 10
+      }
+    },
+    {
+      "id": "VH04_button",
+      "start_frame": 4032,
+      "events": {
+        "VH04_button_city-ping_77": 6,
+        "VH04_button_confirmation_additional": 6
+      }
+    },
+    {
+      "id": "VH05",
+      "start_frame": 4080,
+      "events": {
+        "VH05_L33_32": 10,
+        "VH05_L34_33": 77,
+        "VH05_hold-phone_60": 0
+      }
+    },
+    {
+      "id": "VH05_wait",
+      "start_frame": 4236,
+      "events": {
+        "VH05_wait_hold-phone_61": 0
+      }
+    },
+    {
+      "id": "FR01",
+      "start_frame": 4308,
+      "events": {
+        "FR01_L35_34": 24
+      }
+    },
+    {
+      "id": "FR02",
+      "start_frame": 4508,
+      "events": {
+        "FR02_L36_35": 12,
+        "FR02_L37_36": 74
+      }
+    },
+    {
+      "id": "N03",
+      "start_frame": 4652,
+      "events": {
+        "N03_L38_37": 14,
+        "N03_question-motif_62": 2
+      }
+    },
+    {
+      "id": "FR03_cross",
+      "start_frame": 4745,
+      "events": {
+        "FR03_cross_ball-strike_70": 4
+      }
+    },
+    {
+      "id": "FR03_complain",
+      "start_frame": 4817,
+      "events": {
+        "FR03_complain_L39_38": 14
+      }
+    },
+    {
+      "id": "FR03_bonk",
+      "start_frame": 4923,
+      "events": {
+        "FR03_bonk_dry-impact_78": 1
+      }
+    },
+    {
+      "id": "FR03_goal",
+      "start_frame": 4947,
+      "events": {
+        "FR03_goal_goal-cheer_79": 5
+      }
+    },
+    {
+      "id": "FR04",
+      "start_frame": 5019,
+      "events": {
+        "FR04_L40_39": 14,
+        "FR04_L41_40": 55,
+        "FR04_ref-whistle_80": 128
+      }
+    },
+    {
+      "id": "FR05",
+      "start_frame": 5163,
+      "events": {
+        "FR05_L42_41": 14,
+        "FR05_L43_42": 67,
+        "FR05_paper-handoff_82": 127,
+        "FR05_trolley_additional": 132,
+        "FR05_medal_additional": 118
+      }
+    },
+    {
+      "id": "VH06",
+      "start_frame": 5307,
+      "events": {
+        "VH06_L44_43": 12,
+        "VH06_L45_44": 45
+      }
+    },
+    {
+      "id": "N04_trophy",
+      "start_frame": 5475,
+      "events": {
+        "N04_trophy_goal-cheer_81": 0
+      }
+    },
+    {
+      "id": "N04_dark",
+      "start_frame": 5595,
+      "events": {
+        "N04_dark_question-motif_63": 55
+      }
+    },
+    {
+      "id": "N04_reveal",
+      "start_frame": 5691,
+      "events": {
+        "N04_reveal_switch_64": 0,
+        "N04_reveal_answer-note_65": 0
+      }
+    },
+    {
+      "id": "N04_meltdown",
+      "start_frame": 5727,
+      "events": {
+        "N04_meltdown_meltdown_45": 2
+      }
+    },
+    {
+      "id": "N04_tap",
+      "start_frame": 5895,
+      "events": {
+        "N04_tap_paper_66": 0,
+        "N04_tap_tiny-tap_67": 19
+      }
+    }
+  ],
+  "picture": "artifacts/opening-v002/arsenal-animatic-v002.mp4",
+  "audio_status": "Original full animatic audio approved; revised Bottle FC opening accepted in audiovisual context. Preserve these takes. New full-score additions remain outside existing approvals.",
+  "assets": {
+    "narrator": {
+      "path": "artifacts/animatic-v001/sounds/narrator.wav",
+      "sha256": "7ea9f13e9478e4ee1c4569668faedd960920d717127b5b4773f853071e36546e",
+      "source": "Local Qwen VoiceDesign; exact text, direction, seed, model provenance in narrator-raw.json",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": ""
+    },
+    "arteta": {
+      "path": "artifacts/animatic-v001/sounds/arteta.wav",
+      "sha256": "cf7ef4a3d6aa156e2cebf9c0e8fcb9ec158f2101651e835f53ca4c2d038b6b98",
+      "source": "Local Qwen VoiceDesign; exact text, direction, seed, model provenance in arteta-raw.json",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": ""
+    },
+    "pep": {
+      "path": "artifacts/animatic-v001/sounds/pep.wav",
+      "sha256": "632036ad030adcba5bfd2f272c7af52d64ee98a08eb1c4200526d29b00f0387b",
+      "source": "Local Qwen VoiceDesign; exact text, direction, seed, model provenance in pep-raw.json",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": ""
+    },
+    "hold": {
+      "path": "artifacts/animatic-v001/sounds/hold.wav",
+      "sha256": "e82cf06817f692f7cda674f76a32c5ecf62680141031b7de21ebe55281d9ccad",
+      "source": "Local Qwen; original menu performance with telephone-band processing",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": ""
+    },
+    "ref": {
+      "path": "artifacts/animatic-v001/sounds/ref.wav",
+      "sha256": "42fd15257c3579488bd6d828cc17067714b77d883139f64c2f56de4bf8c919a3",
+      "source": "Local Qwen VoiceDesign; exact text, direction, seed, model provenance in ref-raw.json",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": ""
+    },
+    "meltdown": {
+      "path": "artifacts/animatic-v001/sounds/meltdown.wav",
+      "sha256": "6287781e66a0e969070928e77fac567a258a6ec83313831c5b59f59563e09cf8",
+      "source": "Exact selected sound-direction A combined meltdown",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "question-motif": {
+      "path": "artifacts/animatic-v001/sounds/question-motif.wav",
+      "sha256": "d0aeef3fa6d16357f15e96449053e2bc63d20072e8b1aa11e3771013ec65f919",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "answer-note": {
+      "path": "artifacts/animatic-v001/sounds/answer-note.wav",
+      "sha256": "617f6e28c03d9118b0280fe10fe05ce0206912ccdbe53400283bdf682b8ab56b",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "city-ping": {
+      "path": "artifacts/animatic-v001/sounds/city-ping.wav",
+      "sha256": "0a0091a3079c5fc77a2b5941ffa572b65f1f5e43f0915fa624e413c5301b52a3",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "switch": {
+      "path": "artifacts/animatic-v001/sounds/switch.wav",
+      "sha256": "38a8432760ac3205588a6ac226a396285a16e25ad20ccc278e09a87158c93152",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "tiny-tap": {
+      "path": "artifacts/animatic-v001/sounds/tiny-tap.wav",
+      "sha256": "9aa3abd25e956d458bed7a029be1c1ca6ee9a612b5be1372d6dbd7457c05d554",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "hold-tune": {
+      "path": "artifacts/animatic-v001/sounds/hold-tune.wav",
+      "sha256": "85a20f4cea0c2201a9c96250a8c33f579901e9e8fd745fd0e116fad7af86352a",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "hold-phone": {
+      "path": "artifacts/animatic-v001/sounds/hold-phone.wav",
+      "sha256": "ad7f60b5bd1a08fb5cfd76c99a92ffec7b33314816c780ba0edf3bd4c7622d49",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "chase-score": {
+      "path": "artifacts/animatic-v001/sounds/chase-score.mp3",
+      "sha256": "f2f20d0737560a2dec0d82119810757326b1eec7eae211f2d3e056e9754834a9",
+      "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100085",
+      "license": "CC BY 4.0",
+      "attribution": "Scheming Weasel (faster version) by Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ . Excerpted and faded."
+    },
+    "boot": {
+      "path": "artifacts/animatic-v001/sounds/boot.wav",
+      "sha256": "8a0a021e90900cca49cceca0182e41b8f9354cdfb17609e6b2a8437c8ec29ae8",
+      "source": "Original episode 001 seeded boot-contact synthesis, prepare_revision_audio.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "paper": {
+      "path": "artifacts/animatic-v001/sounds/paper.wav",
+      "sha256": "aec7d37ae05bb3a9fd306c730dd07070f4927f6e2d134ee4594f0950e3c80501",
+      "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+      "license": "CC0",
+      "attribution": "Paper by Ezcah, Freesound 248178; processed excerpt."
+    },
+    "L01": {
+      "path": "artifacts/animatic-v001/voices/L01-mix.wav",
+      "sha256": "7ea9f13e9478e4ee1c4569668faedd960920d717127b5b4773f853071e36546e",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L02": {
+      "path": "artifacts/animatic-v001/voices/L02-mix.wav",
+      "sha256": "15cdb91a4ca12053684fdc9ec141c6ad92953a580a27446d93a5f322a0cddfd7",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L03": {
+      "path": "artifacts/animatic-v001/voices/L03-mix.wav",
+      "sha256": "a8a05ae3af595c815ee06d9c31677c325df93595c2e8e1043b8c94fa2203119a",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L04": {
+      "path": "artifacts/animatic-v001/voices/L04-mix.wav",
+      "sha256": "27df52f251b1fa8dc96469a3a438ee5f557f93f0824a9cb9ac5ce59f64572016",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L05": {
+      "path": "artifacts/animatic-v001/voices/L05-mix.wav",
+      "sha256": "16e69e8023e050fafa4bb0f40b13d391162c414c9421754f45a47ac62f33c182",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L06": {
+      "path": "artifacts/animatic-v001/voices/L06-mix.wav",
+      "sha256": "72e36136d3e01ed8f76d147c6c016c23b8c9482a11976b2878cf1c2289add560",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L07": {
+      "path": "artifacts/animatic-v001/voices/L07-mix.wav",
+      "sha256": "6ae5be7cc3726b4c2d3b83d1f03df51b1d8856ac3a1bda8d986a28287743696b",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L08": {
+      "path": "artifacts/animatic-v001/voices/L08-mix.wav",
+      "sha256": "f09c26a9b03e1be5d216d76f56da6858baa38b7c7b41148bae85df1a8102e6b7",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L09": {
+      "path": "artifacts/animatic-v001/voices/L09-mix.wav",
+      "sha256": "409f763339f5c38cff10c69ab67f3dd58b4b287f89bf739e7160c40004d890b2",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L10": {
+      "path": "artifacts/animatic-v001/voices/L10-mix.wav",
+      "sha256": "4bb2262746177f377c0ed6b62b57d184ccedaaf80a434a851aa9bc0386df2d06",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L11": {
+      "path": "artifacts/animatic-v001/voices/L11-mix.wav",
+      "sha256": "c0bd09bb3d65a4f2773b5a5006642073f285e5c677d3e5cc70994e5af9c73338",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L12": {
+      "path": "artifacts/animatic-v001/voices/L12-mix.wav",
+      "sha256": "b79ff6fb9f72d5348fb41862ea51473de811c3874655c495ed55f8504cd4cdf3",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L13": {
+      "path": "artifacts/animatic-v001/voices/L13-mix.wav",
+      "sha256": "af26676c36116532a12e81499fb228eaee8d8ba1782dc31ab8b692d0bffbf50a",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L14": {
+      "path": "artifacts/animatic-v001/voices/L14-mix.wav",
+      "sha256": "dfb6416183ddb29246fedb89eaf6dfbdf57713d56201a586c3f24d8e2259b762",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L15": {
+      "path": "artifacts/animatic-v001/voices/L15-mix.wav",
+      "sha256": "3409e6769bfb17b0e17cfe813360745c45781ac472e1c874a158f7273bc0bda3",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L16": {
+      "path": "artifacts/animatic-v001/voices/L16-mix.wav",
+      "sha256": "a981dc5341296460192adee56bc26a9cbe1dd92c2d7d3b3821b14468848aa0ca",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L17": {
+      "path": "artifacts/animatic-v001/voices/L17-mix.wav",
+      "sha256": "3e97582b7a2c71069efdb9e07311bb672741e60aa64b6b122a98c8d82e8e1580",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L18": {
+      "path": "artifacts/animatic-v001/voices/L18-mix.wav",
+      "sha256": "81107a385bb01a54557b009e313be4d9b69d5c6debe20a32fbad90eeb4e75b22",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L19": {
+      "path": "artifacts/animatic-v001/voices/L19-mix.wav",
+      "sha256": "90f92f6e269a26ffc55eb92e81617cac43aa8b074c25fbc517d15f0611372c3a",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L20": {
+      "path": "artifacts/animatic-v001/voices/L20-mix.wav",
+      "sha256": "91cb1a327924973eaff088635f2d73cf022dcc64f57f7bed7415ef456447766f",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L21": {
+      "path": "artifacts/animatic-v001/voices/L21-mix.wav",
+      "sha256": "b740d070f479b44c50edec7236cf4a2e97e7121d66c33a0bc5e18bcf10c65abb",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L22": {
+      "path": "artifacts/animatic-v001/voices/L22-mix.wav",
+      "sha256": "632036ad030adcba5bfd2f272c7af52d64ee98a08eb1c4200526d29b00f0387b",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L23": {
+      "path": "artifacts/animatic-v001/voices/L23-mix.wav",
+      "sha256": "568069ddceee315b3d454005131a979ffd4e40197b165b5c566d085736d2ff29",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L24": {
+      "path": "artifacts/animatic-v001/voices/L24-mix.wav",
+      "sha256": "c48d313a784e72757a59c29b910abe0daa892cc047b87bac41d5612911f19608",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L25": {
+      "path": "artifacts/animatic-v001/voices/L25-mix.wav",
+      "sha256": "8e260b7e0a6f6ac001ef9b88eebda56b968c608671c7dac8dfa6c8026a2bce3f",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L26": {
+      "path": "artifacts/animatic-v001/voices/L26-mix.wav",
+      "sha256": "c26f97756695b5c24e54a1d22ddd6653105d7cd905c463cae621bd9024620194",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L27": {
+      "path": "artifacts/animatic-v001/voices/L27-mix.wav",
+      "sha256": "3613fc7c213dd81c2d3a713ed89d121c01b3ef2b980952dcede0c4fd7c936a3b",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L28": {
+      "path": "artifacts/animatic-v001/voices/L28-mix.wav",
+      "sha256": "112aa67285ab6f4dbd9a519489167c1ad211b96d67ae54de97c93349c3f983d9",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L29": {
+      "path": "artifacts/animatic-v001/voices/L29-mix.wav",
+      "sha256": "92cf189ced0ef37ee0d14f1154cfbea354944338b749f6239cf9079606ddbfc6",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L30": {
+      "path": "artifacts/animatic-v001/voices/L30-mix.wav",
+      "sha256": "6f88f899a3ffda472ad141186cecad7c55f5bbf5c3a7e5d48f4c259c4d4c87dc",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L31": {
+      "path": "artifacts/animatic-v001/voices/L31-mix.wav",
+      "sha256": "6cc62ea46a537fa286962654e7043d064488d8f5ada858ef4e1036e879491256",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L32": {
+      "path": "artifacts/animatic-v001/voices/L32-mix.wav",
+      "sha256": "a25b46dc011d56f4bf1462590db8b07f89e35722f0e8695cbffad9926fad52dd",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L33": {
+      "path": "artifacts/animatic-v001/voices/L33-mix.wav",
+      "sha256": "42fd15257c3579488bd6d828cc17067714b77d883139f64c2f56de4bf8c919a3",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L34": {
+      "path": "artifacts/animatic-v001/voices/L34-mix.wav",
+      "sha256": "7becf47e59956eb5d52e0e20f414b3ecf34ee1b6f04e3025e22a45d8bfbb25dc",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L35": {
+      "path": "artifacts/animatic-v001/voices/L35-mix.wav",
+      "sha256": "8010a45081604e881b18ba5fe2f8e24585ec1ab28cdbdc143304345dd5227256",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L36": {
+      "path": "artifacts/animatic-v001/voices/L36-mix.wav",
+      "sha256": "16f80d515f39347909af76718a1742cff7a8df4dc9ac19694ef7de8abffd7a00",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L37": {
+      "path": "artifacts/animatic-v001/voices/L37-mix.wav",
+      "sha256": "899e9a9089cc9349072454c0e1c08b11f59ec7e7e4112390d592645c11ff925d",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L38": {
+      "path": "artifacts/animatic-v001/voices/L38-mix.wav",
+      "sha256": "10f17e7eaf113c2c123553e29893531c98ee120eee7c37f2f4485c51268e2a9c",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L39": {
+      "path": "artifacts/animatic-v001/voices/L39-mix.wav",
+      "sha256": "bb064d22e09b871e5d0d4b72f39c4f80aee475055bfd66851379a9b21c9007b7",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L40": {
+      "path": "artifacts/animatic-v001/voices/L40-mix.wav",
+      "sha256": "a09227c20159e0191b3f716faec5679e84658d377393ebdd3120e5fd53e14c07",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L41": {
+      "path": "artifacts/animatic-v001/voices/L41-mix.wav",
+      "sha256": "7ec602f6892601d659460046bde861c5069adb2852a5e419ffab4157c5f58e2b",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L42": {
+      "path": "artifacts/animatic-v001/voices/L42-mix.wav",
+      "sha256": "6fe8e8da70b7f97bb41c20b89b381fdc369e4d69e7ae0d5ed7b860f3c5d5920e",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L43": {
+      "path": "artifacts/animatic-v001/voices/L43-mix.wav",
+      "sha256": "1e760c3e580233cb34c03fc5365b5cede9502dda09d87a8b87977bf22f179129",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L44": {
+      "path": "artifacts/animatic-v001/voices/L44-mix.wav",
+      "sha256": "849d4a5e8d640dbdb730c05801753e0a4098ee9ae39aa1ca88f54b7fe3c27308",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L45": {
+      "path": "artifacts/animatic-v001/voices/L45-mix.wav",
+      "sha256": "cd904676fc377e6852413a634504cc7faef69148197ef4521a2ff976c48b850f",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L46": {
+      "path": "artifacts/animatic-v001/voices/L46-mix.wav",
+      "sha256": "aa3dba750b2aa67b2749a9c3b92a3446add4d7bd7af550e861e2ffe06511489b",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "L47": {
+      "path": "artifacts/animatic-v001/voices/L47-mix.wav",
+      "sha256": "274d3dbe8f9dd7e0d21baa8d15246c6a0c43c094bd8f11005e977cd43a39692a",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "ball-strike": {
+      "path": "artifacts/animatic-v001/sounds/ball-strike.wav",
+      "sha256": "a5670c8592b954ae9d5336e7fbc84c0ddb7c785467a911bb9db4e4936c297ec1",
+      "source": "https://freesound.org/people/volivieri/sounds/37157/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "kick by volivieri \u2014 https://freesound.org/people/volivieri/sounds/37157/ \u2014 https://creativecommons.org/licenses/by/4.0/; excerpted and processed."
+    },
+    "shirt-move": {
+      "path": "artifacts/animatic-v001/sounds/shirt-move.wav",
+      "sha256": "c06498b9e083f4fc3c3c2d577827fc4af6d0caf237afe8f326350f767fcdcfe3",
+      "source": "https://freesound.org/people/NachtmahrTV/sounds/556711/",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "cloth by NachtmahrTV \u2014 https://freesound.org/people/NachtmahrTV/sounds/556711/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed."
+    },
+    "paper-handoff": {
+      "path": "artifacts/animatic-v001/sounds/paper-handoff.wav",
+      "sha256": "4881e483b8b698397afb1fe87b5988886dd54d46388648130b2a4cd3cbf6959e",
+      "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "paper by Ezcah \u2014 https://freesound.org/people/Ezcah/sounds/248178/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed."
+    },
+    "ref-whistle": {
+      "path": "artifacts/animatic-v001/sounds/ref-whistle.wav",
+      "sha256": "989cdfce394bd2efa2939da2fdbf29a8eed84a0192322162d707bac51b8db781",
+      "source": "Original episode001 graphic synthesis",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "dry-impact": {
+      "path": "artifacts/animatic-v001/sounds/dry-impact.wav",
+      "sha256": "e63d24f9c2d3f2028256cf1baa274b1b891514e5d110919f904e14cc4618d84e",
+      "source": "Original episode001 graphic synthesis",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "goal-cheer": {
+      "path": "artifacts/animatic-v001/sounds/crowd-goal.wav",
+      "sha256": "ba9525c914dded27d61dd4ea1ffd22ae0b4a92f8ce9bf838efb01b11fac3f485",
+      "source": "https://freesound.org/people/Krizin/sounds/651646/; public HQ preview acquired 2026-09-12; original preview retained in assets/audio-v002.",
+      "license": "CC0 1.0, per individual sound page; page snapshot retained locally.",
+      "attribution": "Krizin / Freesound (voluntary credit)"
+    },
+    "applause": {
+      "path": "artifacts/animatic-v001/sounds/applause.wav",
+      "sha256": "1f7c4b24c840e6f2e7b43d9ca83eed54d97fe6fa683273f4c8da38f429285a5f",
+      "source": "https://freesound.org/people/Breviceps/sounds/462362/ ; HQ public preview, first5seconds, filtered and levelled",
+      "license": "CC0 1.0; saved source page",
+      "attribution": "Small applause by Breviceps, Freesound462362 (voluntary credit)"
+    },
+    "trolley": {
+      "path": "artifacts/animatic-v001/sounds/trolley.wav",
+      "sha256": "de5fcd69a90124da0ddc7374bcde02cab3127c98ecf9f2f83d73c73095e3924c",
+      "source": "Original graphic accent synthesis in add_animatic_cues_v001.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "telephone": {
+      "path": "artifacts/animatic-v001/sounds/telephone.wav",
+      "sha256": "216b136c9444027895c5ddedb491bd7aca56654d8251e54fa5a84fde7d08c964",
+      "source": "Original graphic accent synthesis in add_animatic_cues_v001.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "medal": {
+      "path": "artifacts/animatic-v001/sounds/medal.wav",
+      "sha256": "7cb48eb417238915c3e8523bceabd572e2b299e4625fb189dc82b2423980e33a",
+      "source": "Original graphic accent synthesis in add_animatic_cues_v001.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "confirmation": {
+      "path": "artifacts/animatic-v001/sounds/confirmation.wav",
+      "sha256": "b2dd6a6ed375b1b722104ef543e0f7d107abcf1cc7857dbdd770bae1f57d600d",
+      "source": "Original graphic accent synthesis in add_animatic_cues_v001.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "B01": {
+      "path": "artifacts/opening-v002/voices/B01-mix.wav",
+      "sha256": "748e7c8f69e0cc3ef7b0240f67c9b487dc6e143895f605da63dffe2723d91bd9",
+      "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording; highpass65Hz and RMS level matching existing takes",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "B02": {
+      "path": "artifacts/opening-v002/voices/B02-mix.wav",
+      "sha256": "b2f65c587610f4515d8c3c184e2ee8315f2d4aeaa13e602d5b75c368ded0664d",
+      "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording; highpass65Hz and RMS level matching existing takes",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "B03": {
+      "path": "artifacts/opening-v002/voices/B03-mix.wav",
+      "sha256": "2663794a6037048a24de92116273520a64ebb3745b5e351a1fa0e6f14cdd2d12",
+      "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording; highpass65Hz and RMS level matching existing takes",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "B04": {
+      "path": "artifacts/opening-v002/voices/B04-mix.wav",
+      "sha256": "e7d0795607ba7ba75e9058eda3295cfa8b72a7bd201b89c9456b031f93a2797b",
+      "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording; highpass65Hz and RMS level matching existing takes",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "B05": {
+      "path": "artifacts/opening-v002/voices/B05-mix.wav",
+      "sha256": "e0ccaa3f2edef1f5bd5a539a6a5dddbb023eee177fcf6bb6621ba5ebbfffaea2",
+      "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording; highpass65Hz and RMS level matching existing takes",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "reverse": {
+      "path": "artifacts/opening-v002/reverse.wav",
+      "sha256": "94f582a44b9a6f9c2ed445e998c80a2bece5a2829fdb90f939eeb4a35e469500",
+      "source": "Original two-beep reversing alert synthesized for truck arrival; no engine bed",
+      "license": "Original production sound",
+      "attribution": ""
+    }
+  },
+  "cues": [
+    {
+      "id": "TR01_L07_6",
+      "shot": "TR01",
+      "event": "TR01_L07_6",
+      "asset": "L07",
+      "stem": "dialogue",
+      "intent": "L07",
+      "duration_seconds": "128/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "TR02_reaction_L08_7",
+      "shot": "TR02_reaction",
+      "event": "TR02_reaction_L08_7",
+      "asset": "L08",
+      "stem": "dialogue",
+      "intent": "L08",
+      "duration_seconds": "8/5",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "TR02_reaction_L09_8",
+      "shot": "TR02_reaction",
+      "event": "TR02_reaction_L09_8",
+      "asset": "L09",
+      "stem": "dialogue",
+      "intent": "L09",
+      "duration_seconds": "26/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "TR03_warning_L10_9",
+      "shot": "TR03_warning",
+      "event": "TR03_warning_L10_9",
+      "asset": "L10",
+      "stem": "dialogue",
+      "intent": "L10",
+      "duration_seconds": "46/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "TR03_praise_L11_10",
+      "shot": "TR03_praise",
+      "event": "TR03_praise_L11_10",
+      "asset": "L11",
+      "stem": "dialogue",
+      "intent": "L11",
+      "duration_seconds": "34/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD01_cross_L12_11",
+      "shot": "CD01_cross",
+      "event": "CD01_cross_L12_11",
+      "asset": "L12",
+      "stem": "dialogue",
+      "intent": "L12",
+      "duration_seconds": "176/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD02_L13_12",
+      "shot": "CD02",
+      "event": "CD02_L13_12",
+      "asset": "L13",
+      "stem": "dialogue",
+      "intent": "L13",
+      "duration_seconds": "4",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD04_L14_13",
+      "shot": "CD04",
+      "event": "CD04_L14_13",
+      "asset": "L14",
+      "stem": "dialogue",
+      "intent": "L14",
+      "duration_seconds": "174/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD05_L15_14",
+      "shot": "CD05",
+      "event": "CD05_L15_14",
+      "asset": "L15",
+      "stem": "dialogue",
+      "intent": "L15",
+      "duration_seconds": "2",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD05_L16_15",
+      "shot": "CD05",
+      "event": "CD05_L16_15",
+      "asset": "L16",
+      "stem": "dialogue",
+      "intent": "L16",
+      "duration_seconds": "32/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD05_proud_L17_16",
+      "shot": "CD05_proud",
+      "event": "CD05_proud_L17_16",
+      "asset": "L17",
+      "stem": "dialogue",
+      "intent": "L17",
+      "duration_seconds": "38/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD05_ping_L18_17",
+      "shot": "CD05_ping",
+      "event": "CD05_ping_L18_17",
+      "asset": "L18",
+      "stem": "dialogue",
+      "intent": "L18",
+      "duration_seconds": "16/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CP01_L19_18",
+      "shot": "CP01",
+      "event": "CP01_L19_18",
+      "asset": "L19",
+      "stem": "dialogue",
+      "intent": "L19",
+      "duration_seconds": "126/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CP02_far_L20_19",
+      "shot": "CP02_far",
+      "event": "CP02_far_L20_19",
+      "asset": "L20",
+      "stem": "dialogue",
+      "intent": "L20",
+      "duration_seconds": "56/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CP03_panic_L21_20",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_L21_20",
+      "asset": "L21",
+      "stem": "dialogue",
+      "intent": "L21",
+      "duration_seconds": "46/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CP03_pep_L22_21",
+      "shot": "CP03_pep",
+      "event": "CP03_pep_L22_21",
+      "asset": "L22",
+      "stem": "dialogue",
+      "intent": "L22",
+      "duration_seconds": "5699/3000",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CP04_forward_L23_22",
+      "shot": "CP04_forward",
+      "event": "CP04_forward_L23_22",
+      "asset": "L23",
+      "stem": "dialogue",
+      "intent": "L23",
+      "duration_seconds": "96/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CP04_courier_L24_23",
+      "shot": "CP04_courier",
+      "event": "CP04_courier_L24_23",
+      "asset": "L24",
+      "stem": "dialogue",
+      "intent": "L24",
+      "duration_seconds": "42/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CP04_courier_L25_24",
+      "shot": "CP04_courier",
+      "event": "CP04_courier_L25_24",
+      "asset": "L25",
+      "stem": "dialogue",
+      "intent": "L25",
+      "duration_seconds": "28/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CP05_L26_25",
+      "shot": "CP05",
+      "event": "CP05_L26_25",
+      "asset": "L26",
+      "stem": "dialogue",
+      "intent": "L26",
+      "duration_seconds": "28/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "VH01_L27_26",
+      "shot": "VH01",
+      "event": "VH01_L27_26",
+      "asset": "L27",
+      "stem": "dialogue",
+      "intent": "L27",
+      "duration_seconds": "12/5",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "VH02_L28_27",
+      "shot": "VH02",
+      "event": "VH02_L28_27",
+      "asset": "L28",
+      "stem": "dialogue",
+      "intent": "L28",
+      "duration_seconds": "14/5",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "VH03_answer_L29_28",
+      "shot": "VH03_answer",
+      "event": "VH03_answer_L29_28",
+      "asset": "L29",
+      "stem": "dialogue",
+      "intent": "L29",
+      "duration_seconds": "78/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "VH04_mikel_L30_29",
+      "shot": "VH04_mikel",
+      "event": "VH04_mikel_L30_29",
+      "asset": "L30",
+      "stem": "dialogue",
+      "intent": "L30",
+      "duration_seconds": "38/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "VH04_operator_L31_30",
+      "shot": "VH04_operator",
+      "event": "VH04_operator_L31_30",
+      "asset": "L31",
+      "stem": "dialogue",
+      "intent": "L31",
+      "duration_seconds": "74/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "VH04_two_L32_31",
+      "shot": "VH04_two",
+      "event": "VH04_two_L32_31",
+      "asset": "L32",
+      "stem": "dialogue",
+      "intent": "L32",
+      "duration_seconds": "22/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "VH05_L33_32",
+      "shot": "VH05",
+      "event": "VH05_L33_32",
+      "asset": "L33",
+      "stem": "dialogue",
+      "intent": "L33",
+      "duration_seconds": "55327/24000",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "VH05_L34_33",
+      "shot": "VH05",
+      "event": "VH05_L34_33",
+      "asset": "L34",
+      "stem": "dialogue",
+      "intent": "L34",
+      "duration_seconds": "58/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "FR01_L35_34",
+      "shot": "FR01",
+      "event": "FR01_L35_34",
+      "asset": "L35",
+      "stem": "dialogue",
+      "intent": "L35",
+      "duration_seconds": "162/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "FR02_L36_35",
+      "shot": "FR02",
+      "event": "FR02_L36_35",
+      "asset": "L36",
+      "stem": "dialogue",
+      "intent": "L36",
+      "duration_seconds": "52/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "FR02_L37_36",
+      "shot": "FR02",
+      "event": "FR02_L37_36",
+      "asset": "L37",
+      "stem": "dialogue",
+      "intent": "L37",
+      "duration_seconds": "32/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "N03_L38_37",
+      "shot": "N03",
+      "event": "N03_L38_37",
+      "asset": "L38",
+      "stem": "dialogue",
+      "intent": "L38",
+      "duration_seconds": "12/5",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "FR03_complain_L39_38",
+      "shot": "FR03_complain",
+      "event": "FR03_complain_L39_38",
+      "asset": "L39",
+      "stem": "dialogue",
+      "intent": "L39",
+      "duration_seconds": "74/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "FR04_L40_39",
+      "shot": "FR04",
+      "event": "FR04_L40_39",
+      "asset": "L40",
+      "stem": "dialogue",
+      "intent": "L40",
+      "duration_seconds": "6/5",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "FR04_L41_40",
+      "shot": "FR04",
+      "event": "FR04_L41_40",
+      "asset": "L41",
+      "stem": "dialogue",
+      "intent": "L41",
+      "duration_seconds": "36/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "FR05_L42_41",
+      "shot": "FR05",
+      "event": "FR05_L42_41",
+      "asset": "L42",
+      "stem": "dialogue",
+      "intent": "L42",
+      "duration_seconds": "42/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "FR05_L43_42",
+      "shot": "FR05",
+      "event": "FR05_L43_42",
+      "asset": "L43",
+      "stem": "dialogue",
+      "intent": "L43",
+      "duration_seconds": "32/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "VH06_L44_43",
+      "shot": "VH06",
+      "event": "VH06_L44_43",
+      "asset": "L44",
+      "stem": "dialogue",
+      "intent": "L44",
+      "duration_seconds": "22/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "VH06_L45_44",
+      "shot": "VH06",
+      "event": "VH06_L45_44",
+      "asset": "L45",
+      "stem": "dialogue",
+      "intent": "L45",
+      "duration_seconds": "84/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "N04_meltdown_meltdown_45",
+      "shot": "N04_meltdown",
+      "event": "N04_meltdown_meltdown_45",
+      "asset": "meltdown",
+      "stem": "dialogue",
+      "intent": "meltdown",
+      "duration_seconds": "42551/8000",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "N02_question-motif_48",
+      "shot": "N02",
+      "event": "N02_question-motif_48",
+      "asset": "question-motif",
+      "stem": "music",
+      "intent": "question-motif",
+      "duration_seconds": "8/5",
+      "gain_db": -4,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "N02_paper_49",
+      "shot": "N02",
+      "event": "N02_paper_49",
+      "asset": "paper",
+      "stem": "foley",
+      "intent": "paper",
+      "duration_seconds": "1",
+      "gain_db": -10,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD05_ping_city-ping_50",
+      "shot": "CD05_ping",
+      "event": "CD05_ping_city-ping_50",
+      "asset": "city-ping",
+      "stem": "plot-effects",
+      "intent": "city-ping",
+      "duration_seconds": "1/2",
+      "gain_db": -2,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CP02_near_city-ping_51",
+      "shot": "CP02_near",
+      "event": "CP02_near_city-ping_51",
+      "asset": "city-ping",
+      "stem": "plot-effects",
+      "intent": "city-ping",
+      "duration_seconds": "1/2",
+      "gain_db": -2,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CP01_chase-score_52",
+      "shot": "CP01",
+      "event": "CP01_chase-score_52",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "9",
+      "gain_db": -24,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "in_seconds": 0.0
+    },
+    {
+      "id": "CP02_far_chase-score_53",
+      "shot": "CP02_far",
+      "event": "CP02_far_chase-score_53",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "5",
+      "gain_db": -24,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "in_seconds": 9.0
+    },
+    {
+      "id": "CP02_near_chase-score_54",
+      "shot": "CP02_near",
+      "event": "CP02_near_chase-score_54",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "3",
+      "gain_db": -24,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "in_seconds": 14.0
+    },
+    {
+      "id": "CP03_panic_chase-score_55",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_chase-score_55",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "7/2",
+      "gain_db": -24,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "in_seconds": 17.0
+    },
+    {
+      "id": "CP04_forward_chase-score_56",
+      "shot": "CP04_forward",
+      "event": "CP04_forward_chase-score_56",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "41/8",
+      "gain_db": -24,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "in_seconds": 24.5
+    },
+    {
+      "id": "CP04_courier_chase-score_57",
+      "shot": "CP04_courier",
+      "event": "CP04_courier_chase-score_57",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "6",
+      "gain_db": -24,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "in_seconds": 29.625
+    },
+    {
+      "id": "CP05_chase-score_58",
+      "shot": "CP05",
+      "event": "CP05_chase-score_58",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "5",
+      "gain_db": -24,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "in_seconds": 35.625
+    },
+    {
+      "id": "VH02_hold-phone_59",
+      "shot": "VH02",
+      "event": "VH02_hold-phone_59",
+      "asset": "hold-phone",
+      "stem": "music",
+      "intent": "hold-phone",
+      "duration_seconds": "2",
+      "gain_db": -4,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "VH05_hold-phone_60",
+      "shot": "VH05",
+      "event": "VH05_hold-phone_60",
+      "asset": "hold-phone",
+      "stem": "music",
+      "intent": "hold-phone",
+      "duration_seconds": "11/2",
+      "gain_db": -4,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "VH05_wait_hold-phone_61",
+      "shot": "VH05_wait",
+      "event": "VH05_wait_hold-phone_61",
+      "asset": "hold-phone",
+      "stem": "music",
+      "intent": "hold-phone",
+      "duration_seconds": "3",
+      "gain_db": -4,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "N03_question-motif_62",
+      "shot": "N03",
+      "event": "N03_question-motif_62",
+      "asset": "question-motif",
+      "stem": "music",
+      "intent": "question-motif",
+      "duration_seconds": "8/5",
+      "gain_db": -5,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "N04_dark_question-motif_63",
+      "shot": "N04_dark",
+      "event": "N04_dark_question-motif_63",
+      "asset": "question-motif",
+      "stem": "music",
+      "intent": "question-motif",
+      "duration_seconds": "8/5",
+      "gain_db": -2,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "N04_reveal_switch_64",
+      "shot": "N04_reveal",
+      "event": "N04_reveal_switch_64",
+      "asset": "switch",
+      "stem": "foley",
+      "intent": "switch",
+      "duration_seconds": "9/100",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "N04_reveal_answer-note_65",
+      "shot": "N04_reveal",
+      "event": "N04_reveal_answer-note_65",
+      "asset": "answer-note",
+      "stem": "music",
+      "intent": "answer-note",
+      "duration_seconds": "11/10",
+      "gain_db": -2,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "N04_tap_paper_66",
+      "shot": "N04_tap",
+      "event": "N04_tap_paper_66",
+      "asset": "paper",
+      "stem": "foley",
+      "intent": "paper",
+      "duration_seconds": "1",
+      "gain_db": -8,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "N04_tap_tiny-tap_67",
+      "shot": "N04_tap",
+      "event": "N04_tap_tiny-tap_67",
+      "asset": "tiny-tap",
+      "stem": "foley",
+      "intent": "tiny-tap",
+      "duration_seconds": "7/50",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "TR03_kick_ball-strike_68",
+      "shot": "TR03_kick",
+      "event": "TR03_kick_ball-strike_68",
+      "asset": "ball-strike",
+      "stem": "foley",
+      "intent": "ball-strike",
+      "duration_seconds": "11/20",
+      "gain_db": -6,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD01_cross_ball-strike_69",
+      "shot": "CD01_cross",
+      "event": "CD01_cross_ball-strike_69",
+      "asset": "ball-strike",
+      "stem": "foley",
+      "intent": "ball-strike",
+      "duration_seconds": "11/20",
+      "gain_db": -6,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "FR03_cross_ball-strike_70",
+      "shot": "FR03_cross",
+      "event": "FR03_cross_ball-strike_70",
+      "asset": "ball-strike",
+      "stem": "foley",
+      "intent": "ball-strike",
+      "duration_seconds": "11/20",
+      "gain_db": -6,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD01_header_ball-strike_71",
+      "shot": "CD01_header",
+      "event": "CD01_header_ball-strike_71",
+      "asset": "ball-strike",
+      "stem": "foley",
+      "intent": "ball-strike",
+      "duration_seconds": "11/20",
+      "gain_db": -7,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD01_header_goal-cheer_72",
+      "shot": "CD01_header",
+      "event": "CD01_header_goal-cheer_72",
+      "asset": "goal-cheer",
+      "stem": "crowd",
+      "intent": "goal-cheer",
+      "duration_seconds": "5/2",
+      "gain_db": -5,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "VH01_shirt-move_73",
+      "shot": "VH01",
+      "event": "VH01_shirt-move_73",
+      "asset": "shirt-move",
+      "stem": "foley",
+      "intent": "shirt-move",
+      "duration_seconds": "13/20",
+      "gain_db": -3,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "VH01_ref-whistle_74",
+      "shot": "VH01",
+      "event": "VH01_ref-whistle_74",
+      "asset": "ref-whistle",
+      "stem": "foley",
+      "intent": "ref-whistle",
+      "duration_seconds": "21/50",
+      "gain_db": -6,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD03_dry-impact_76",
+      "shot": "CD03",
+      "event": "CD03_dry-impact_76",
+      "asset": "dry-impact",
+      "stem": "foley",
+      "intent": "dry-impact",
+      "duration_seconds": "9/50",
+      "gain_db": -7,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "FR03_bonk_dry-impact_78",
+      "shot": "FR03_bonk",
+      "event": "FR03_bonk_dry-impact_78",
+      "asset": "dry-impact",
+      "stem": "foley",
+      "intent": "dry-impact",
+      "duration_seconds": "9/50",
+      "gain_db": -5,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "FR03_goal_goal-cheer_79",
+      "shot": "FR03_goal",
+      "event": "FR03_goal_goal-cheer_79",
+      "asset": "goal-cheer",
+      "stem": "crowd",
+      "intent": "goal-cheer",
+      "duration_seconds": "27/10",
+      "gain_db": -2,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "FR04_ref-whistle_80",
+      "shot": "FR04",
+      "event": "FR04_ref-whistle_80",
+      "asset": "ref-whistle",
+      "stem": "foley",
+      "intent": "ref-whistle",
+      "duration_seconds": "21/50",
+      "gain_db": -8,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "N04_trophy_goal-cheer_81",
+      "shot": "N04_trophy",
+      "event": "N04_trophy_goal-cheer_81",
+      "asset": "goal-cheer",
+      "stem": "crowd",
+      "intent": "goal-cheer",
+      "duration_seconds": "49/10",
+      "gain_db": -5,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "FR05_paper-handoff_82",
+      "shot": "FR05",
+      "event": "FR05_paper-handoff_82",
+      "asset": "paper-handoff",
+      "stem": "foley",
+      "intent": "paper-handoff",
+      "duration_seconds": "1/2",
+      "gain_db": -8,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "TR02_flag_applause_additional",
+      "shot": "TR02_flag",
+      "event": "TR02_flag_applause_additional",
+      "asset": "applause",
+      "stem": "crowd",
+      "intent": "Applause chooses the flag, cuts dead at Gyokeres reaction",
+      "duration_seconds": 3.95,
+      "gain_db": -2,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.015
+    },
+    {
+      "id": "CP04_courier_trolley_additional",
+      "shot": "CP04_courier",
+      "event": "CP04_courier_trolley_additional",
+      "asset": "trolley",
+      "stem": "foley",
+      "intent": "Recognisable courier callback",
+      "duration_seconds": 0.45,
+      "gain_db": -4,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.015
+    },
+    {
+      "id": "FR05_trolley_additional",
+      "shot": "FR05",
+      "event": "FR05_trolley_additional",
+      "asset": "trolley",
+      "stem": "foley",
+      "intent": "Recognisable courier callback",
+      "duration_seconds": 0.45,
+      "gain_db": -4,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.015
+    },
+    {
+      "id": "VH03_telephone_additional",
+      "shot": "VH03",
+      "event": "VH03_telephone_additional",
+      "asset": "telephone",
+      "stem": "foley",
+      "intent": "Privileged gold line answered promptly",
+      "duration_seconds": 0.85,
+      "gain_db": -7,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.015
+    },
+    {
+      "id": "FR05_medal_additional",
+      "shot": "FR05",
+      "event": "FR05_medal_additional",
+      "asset": "medal",
+      "stem": "foley",
+      "intent": "Unused runners-up medal callback",
+      "duration_seconds": 0.55,
+      "gain_db": -3,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.015
+    },
+    {
+      "id": "VH04_button_confirmation_additional",
+      "shot": "VH04_button",
+      "event": "VH04_button_confirmation_additional",
+      "asset": "confirmation",
+      "stem": "foley",
+      "intent": "Official play-on response",
+      "duration_seconds": 0.3,
+      "gain_db": -4,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.015
+    },
+    {
+      "id": "N01_B01",
+      "shot": "N01",
+      "event": "N01_B01",
+      "asset": "B01",
+      "stem": "dialogue",
+      "intent": "B01",
+      "duration_seconds": "4.72",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "N01_switch",
+      "shot": "N01",
+      "event": "N01_switch",
+      "asset": "switch",
+      "stem": "foley",
+      "intent": "switch",
+      "duration_seconds": "0.09",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "N01_question-motif",
+      "shot": "N01",
+      "event": "N01_question-motif",
+      "asset": "question-motif",
+      "stem": "music",
+      "intent": "question-motif",
+      "duration_seconds": "1.6",
+      "gain_db": -2,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "OP01_year_B02",
+      "shot": "OP01_year",
+      "event": "OP01_year_B02",
+      "asset": "B02",
+      "stem": "dialogue",
+      "intent": "B02",
+      "duration_seconds": "2.48",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "OP01_year_paper-handoff",
+      "shot": "OP01_year",
+      "event": "OP01_year_paper-handoff",
+      "asset": "paper-handoff",
+      "stem": "foley",
+      "intent": "Small paper detail on changed banner year",
+      "duration_seconds": "0.45",
+      "gain_db": -15,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "OP02_truck_reverse",
+      "shot": "OP02_truck",
+      "event": "OP02_truck_reverse",
+      "asset": "reverse",
+      "stem": "plot-effects",
+      "intent": "Announce bottle truck interruption",
+      "duration_seconds": "1.2",
+      "gain_db": -6,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "OP02_arteta_B03",
+      "shot": "OP02_arteta",
+      "event": "OP02_arteta_B03",
+      "asset": "B03",
+      "stem": "dialogue",
+      "intent": "B03",
+      "duration_seconds": "1.04",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "OP02_driver_B04",
+      "shot": "OP02_driver",
+      "event": "OP02_driver_B04",
+      "asset": "B04",
+      "stem": "dialogue",
+      "intent": "B04",
+      "duration_seconds": "1.92",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "OP03_phone_B05",
+      "shot": "OP03_phone",
+      "event": "OP03_phone_B05",
+      "asset": "B05",
+      "stem": "dialogue",
+      "intent": "B05",
+      "duration_seconds": "1.68",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "OP03_phone_switch",
+      "shot": "OP03_phone",
+      "event": "OP03_phone_switch",
+      "asset": "switch",
+      "stem": "foley",
+      "intent": "switch",
+      "duration_seconds": "0.09",
+      "gain_db": -7,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    }
+  ],
+  "latest_motion_diagnostic": {
+    "picture": "artifacts/pose-action-v003/pose-action-v003.mp4",
+    "native_scene": "artifacts/pose-action-v003/pose-action-v003.blend",
+    "status": "passed",
+    "finding": "Same user-liked complete pose drawings/exposures; registered continuous horizontal travel, independent camera and keyed support compensation remove measured temporal oscillation.",
+    "diagnosis": "research/body-mechanics-v001/diagnosis.md",
+    "next_step": "Baseline retained for film-character adaptations.",
+    "user_review": "User calls revised run/jump almost perfect and better than video001; authorizes Gyokeres chase adaptation.",
+    "temporal_diagnosis": "research/temporal-jitter-v001/diagnosis.md"
+  },
+  "latest_chase_excerpt": {
+    "picture": "artifacts/chase-v002/chase-v002.mp4",
+    "native_scene": "artifacts/chase-v002/chase-v002.blend",
+    "status": "revision_required_deferred_by_user",
+    "shots": "CP02/CP03 picture excerpt: 5s carrier sprint, 3s Pep walk cutaway",
+    "audio": "intentionally silent picture review",
+    "scope_limits": "Not full gap-closing gag, whole chase, or combined animatic",
+    "user_review": "Below accepted Bruno pose-action-v003 quality, especially Pep walking and the running. User requests no re-render of this excerpt; improve the movements during full-video production.",
+    "next_step": "Sound-direction audition, then full audiovisual animatic; carry movement defects into full-film revision. No new action-quality acceptance inferred."
+  },
+  "mix_gain_db": -2,
+  "latest_sound_audition": {
+    "path": "artifacts/sound-direction-v001",
+    "status": "selected",
+    "animation_feedback": "Chase-v002 defects retained",
+    "alternative": "artifacts/sound-direction-v001/audition-B.mp4",
+    "direction": "sound-direction-v001.md",
+    "heard_by_agent": false,
+    "next_step": "Build the full audiovisual animatic using A sound direction and addressing deferred chase movement feedback.",
+    "selected": "A",
+    "user_review": "I chose A",
+    "scope": "User selected the scored treatment A; no separate performance critique supplied. Future voices and movement remain subject to review."
+  },
+  "native_scene": "artifacts/opening-v002/arsenal-animatic-v002.blend",
+  "latest_animatic": {
+    "status": "passed",
+    "picture": "artifacts/opening-v002/arsenal-animatic-v002.mp4",
+    "native_scene": "artifacts/opening-v002/arsenal-animatic-v002.blend",
+    "seconds": 248.08333333333334,
+    "review_scope": "Bottle FC opening replacement and revised full-story timing; new opening performances pending review, later approved audio preserved sample-for-sample",
+    "movement": "Held storyboard; accepted Bruno motion floor remains. No continuous chase correction claimed.",
+    "next_step": "Author full-film motion, first resolving loaded sprint and Pep walk in the chase sequence; preserve approved picture/sound timing.",
+    "user_review": "User: yes it works, in response to overall pacing through Ferguson reveal."
+  },
+  "animation_preparation": {
+    "status": "authorized by accepted complete animatic; animation in progress",
+    "baseline": "artifacts/pose-action-v003/pose-action-v003.blend",
+    "method": "Complete coherent action drawings; anatomical registration; independent pose exposure, world travel, support correction and camera. New action/view needs matching drawings.",
+    "work_order": [
+      {
+        "shots": [
+          "CP01",
+          "CP02_far",
+          "CP02_near",
+          "CP03_panic",
+          "CP03_pep",
+          "CP04_forward",
+          "CP04_courier",
+          "CP05"
+        ],
+        "action": "Loaded sprint, calm walk and slip/catch",
+        "requirements": "Replace rejected gait. Plan exchanged support, stride versus distance, stable three-carrier grips and podium load. Pep gap changes only at CITY WIN; his gait stays calm. Catch transfers podium load before recovery. Preserve A reply dropout."
+      },
+      {
+        "shots": [
+          "TR03",
+          "TR04",
+          "CD01_cross",
+          "CD01_header",
+          "CD02",
+          "CD03",
+          "CD04",
+          "CD05",
+          "FR03_cross",
+          "FR03_complain",
+          "FR03_bonk",
+          "FR03_goal"
+        ],
+        "action": "Kick, header, retreat and accidental winner",
+        "requirements": "Establish support before kicks/jumps; coherent flight and landing absorption. Formation has nine outfield defenders plus Raya; Gyokeres stays upfield. Final cross, missed header, backside contact and net entry share one ball path; reveal contact before goal reaction."
+      },
+      {
+        "shots": [
+          "N01",
+          "N02",
+          "N03",
+          "N04_dark",
+          "N04_reveal",
+          "N04_meltdown",
+          "N04_tap"
+        ],
+        "action": "Hidden narration, reveal, rise and paper throw",
+        "requirements": "Use matching whole-character poses for new views. No early facial exposure. Separate authored camera from pose changes. Rise pushes through support; paper leaves hand at release and follows through to tiny tap. Preserve accepted voice and recognition beat."
+      },
+      {
+        "shots": [
+          "OP01",
+          "OP02",
+          "OP03",
+          "TR01",
+          "TR02",
+          "VH01",
+          "VH02",
+          "VH03",
+          "VH04",
+          "VH05",
+          "VH06",
+          "FR04",
+          "FR05",
+          "N04_trophy"
+        ],
+        "action": "Remaining acting, phones, trolley and celebration",
+        "requirements": "Map to exact split shots in edit.json. Prioritize gaze, gesture, contact and reaction; hold deliberately rather than blanket camera drift. Add mouth drawings consistent with each approved whole face; preserve voice takes."
+      }
+    ],
+    "checks": "Compare actual action with accepted Bruno at normal speed and comparable framing; inspect evaluated contact, consecutive anatomical landmarks and background motion, clothes/shoes/head coherence, and encoded timestamps. Numerical checks do not establish creative acceptance.",
+    "music_remaining": "Current approved mix has partial score coverage. Full scene-by-scene music remains development work and requires listening to changed passages."
+  },
+  "selected_script": "script-v004.md",
+  "latest_opening_review": {
+    "picture": "artifacts/opening-v002/bottle-fc-opening-v002.mp4",
+    "seconds": 42.541666666666664,
+    "status": "passed",
+    "script": "script-v004.md",
+    "user_review": "User answered yes to whether the Bottle FC opening lands better and flows naturally into the corner-flag joke."
+  },
+  "latest_animation_progress": {
+    "picture": "artifacts/animation-v004/arsenal-progress-v004.mp4",
+    "native_scene": "artifacts/animation-v004/arsenal-progress-v004.blend",
+    "body_motion_shots": [
+      "CP01",
+      "CP03_pep"
+    ],
+    "status": "rejected_by_user_static_pose_sequence",
+    "next_work": "Rebuild with shot-specific native rigs, fitted illustrated skins and demanding-action drawings; author in visible Blender. Use one shared environment per recurring location.",
+    "approved_body_motion_shots": [
+      "CP01",
+      "CP03_pep"
+    ],
+    "latest_candidate": "artifacts/animation-v004/arsenal-progress-v004.mp4",
+    "review_cadence": "Substantial sequence/full-cut reviews; no per-movement approval loop",
+    "native_acting_scenes": "artifacts/animation-v004/acting-batch-v004.blend",
+    "acting_prop_pass_shots": [],
+    "remaining_board_shots": [
+      "TR03_kick",
+      "CD01_cross",
+      "CD01_header",
+      "CD02",
+      "CD03",
+      "CD04",
+      "CD05",
+      "CP02_far",
+      "CP02_near",
+      "CP03_panic",
+      "CP04_forward",
+      "CP04_courier",
+      "CP05",
+      "VH01",
+      "FR01",
+      "FR02",
+      "FR03_cross",
+      "FR03_complain",
+      "FR03_bonk",
+      "FR03_goal"
+    ],
+    "rejection": "User rejected v004 as connected images rather than animation; do not count its 34 updated shots as completed animation."
+  },
+  "shot_construction": [
+    {
+      "shot": "N01",
+      "construction": "fitted_seated_skin_rig",
+      "reason": "Small seated torso/head/arm movements fit the demonstrated video001 joint-skin approach; no full-pose swapping for ordinary acting.",
+      "environment": "narrator_room",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "OP01_banner",
+      "construction": "native_layered_rig",
+      "reason": "Continuous gestures and facial acting; articulated sleeves, hands and torso preserve clothing joins.",
+      "environment": "training_ground",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "OP01_year",
+      "construction": "native_layered_rig",
+      "reason": "Continuous gestures and facial acting; articulated sleeves, hands and torso preserve clothing joins.",
+      "environment": "training_ground",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "OP02_truck",
+      "construction": "native_prop_and_upper_body_rig",
+      "reason": "Vehicle movement is native prop animation; driver/Arteta gestures need articulated performance, not translated whole images.",
+      "environment": "training_ground",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "OP02_arteta",
+      "construction": "native_prop_and_upper_body_rig",
+      "reason": "Vehicle movement is native prop animation; driver/Arteta gestures need articulated performance, not translated whole images.",
+      "environment": "training_ground",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "OP02_driver",
+      "construction": "native_prop_and_upper_body_rig",
+      "reason": "Vehicle movement is native prop animation; driver/Arteta gestures need articulated performance, not translated whole images.",
+      "environment": "training_ground",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "OP03_phone",
+      "construction": "native_layered_rig",
+      "reason": "Continuous gestures and facial acting; articulated sleeves, hands and torso preserve clothing joins.",
+      "environment": "training_ground",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "TR01",
+      "construction": "native_layered_rig",
+      "reason": "Continuous gestures and facial acting; articulated sleeves, hands and torso preserve clothing joins.",
+      "environment": "training_ground",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "TR02_flag",
+      "construction": "native_layered_rig",
+      "reason": "Continuous gestures and facial acting; articulated sleeves, hands and torso preserve clothing joins.",
+      "environment": "training_ground",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "TR02_reaction",
+      "construction": "native_layered_rig",
+      "reason": "Continuous gestures and facial acting; articulated sleeves, hands and torso preserve clothing joins.",
+      "environment": "training_ground",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "TR03_warning",
+      "construction": "native_layered_rig",
+      "reason": "Continuous gestures and facial acting; articulated sleeves, hands and torso preserve clothing joins.",
+      "environment": "training_ground",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "TR03_kick",
+      "construction": "hybrid_rig_and_action_drawings",
+      "reason": "Support, contact and full-body action dictate construction; use matched extremes and authored in-betweens with registered ball/boot/head/backside paths.",
+      "environment": "training_ground",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "TR03_praise",
+      "construction": "native_layered_rig",
+      "reason": "Continuous gestures and facial acting; articulated sleeves, hands and torso preserve clothing joins.",
+      "environment": "training_ground",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "TR04",
+      "construction": "native_layered_rig",
+      "reason": "Continuous gestures and facial acting; articulated sleeves, hands and torso preserve clothing joins.",
+      "environment": "training_ground",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "CD01_cross",
+      "construction": "hybrid_rig_and_action_drawings",
+      "reason": "Support, contact and full-body action dictate construction; use matched extremes and authored in-betweens with registered ball/boot/head/backside paths.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "CD01_header",
+      "construction": "hybrid_rig_and_action_drawings",
+      "reason": "Support, contact and full-body action dictate construction; use matched extremes and authored in-betweens with registered ball/boot/head/backside paths.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "CD02",
+      "construction": "native_layered_rig",
+      "reason": "Articulated defenders/keeper with planted or stepping feet, coordinated centre of mass and distinct reactions. Use a corrective drawing only for a proven silhouette limit.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "CD03",
+      "construction": "native_layered_rig",
+      "reason": "Articulated defenders/keeper with planted or stepping feet, coordinated centre of mass and distinct reactions. Use a corrective drawing only for a proven silhouette limit.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "CD04",
+      "construction": "native_layered_rig",
+      "reason": "Articulated defenders/keeper with planted or stepping feet, coordinated centre of mass and distinct reactions. Use a corrective drawing only for a proven silhouette limit.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "CD05",
+      "construction": "native_layered_rig",
+      "reason": "Articulated defenders/keeper with planted or stepping feet, coordinated centre of mass and distinct reactions. Use a corrective drawing only for a proven silhouette limit.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "N02",
+      "construction": "fitted_seated_skin_rig",
+      "reason": "Small seated torso/head/arm movements fit the demonstrated video001 joint-skin approach; no full-pose swapping for ordinary acting.",
+      "environment": "narrator_room",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "CD05_proud",
+      "construction": "native_layered_rig",
+      "reason": "Natural phone/pointing/dialogue/reaction motion with retained face and clothing quality; no generic pose-swap acting.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "CD05_ping",
+      "construction": "native_layered_rig",
+      "reason": "Natural phone/pointing/dialogue/reaction motion with retained face and clothing quality; no generic pose-swap acting.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "CP01",
+      "construction": "preserve_approved_motion",
+      "reason": "Keep exact approved CP01/Pep performance; its proof applies to this action and view.",
+      "environment": "table_road",
+      "status": "approved_existing"
+    },
+    {
+      "shot": "CP02_far",
+      "construction": "hybrid_action",
+      "reason": "Reuse proven gait where action/view match; rig reactions, trolley and load contact; draw unsupported catch/foreshortened poses only where needed.",
+      "environment": "table_road",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "CP02_near",
+      "construction": "hybrid_action",
+      "reason": "Reuse proven gait where action/view match; rig reactions, trolley and load contact; draw unsupported catch/foreshortened poses only where needed.",
+      "environment": "table_road",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "CP03_panic",
+      "construction": "hybrid_action",
+      "reason": "Reuse proven gait where action/view match; rig reactions, trolley and load contact; draw unsupported catch/foreshortened poses only where needed.",
+      "environment": "table_road",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "CP03_pep",
+      "construction": "preserve_approved_motion",
+      "reason": "Keep exact approved CP01/Pep performance; its proof applies to this action and view.",
+      "environment": "table_road",
+      "status": "approved_existing"
+    },
+    {
+      "shot": "CP04_forward",
+      "construction": "hybrid_action",
+      "reason": "Reuse proven gait where action/view match; rig reactions, trolley and load contact; draw unsupported catch/foreshortened poses only where needed.",
+      "environment": "table_road",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "CP04_courier",
+      "construction": "hybrid_action",
+      "reason": "Reuse proven gait where action/view match; rig reactions, trolley and load contact; draw unsupported catch/foreshortened poses only where needed.",
+      "environment": "table_road",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "CP05",
+      "construction": "hybrid_action",
+      "reason": "Reuse proven gait where action/view match; rig reactions, trolley and load contact; draw unsupported catch/foreshortened poses only where needed.",
+      "environment": "table_road",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "VH01",
+      "construction": "hybrid_rig_and_action_drawings",
+      "reason": "Maintain gripping hand/shirt contact; a pulled-body extreme may need a new drawing, followed by a controlled release and recovery.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "VH02",
+      "construction": "native_layered_rig",
+      "reason": "Natural phone/pointing/dialogue/reaction motion with retained face and clothing quality; no generic pose-swap acting.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "VH03",
+      "construction": "native_upper_body_rig",
+      "reason": "Rig reach, receiver grip, gaze and button press through actual hand contact; keep desk, phones and monitors in one shared set.",
+      "environment": "var_room",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "VH03_answer",
+      "construction": "native_upper_body_rig",
+      "reason": "Rig reach, receiver grip, gaze and button press through actual hand contact; keep desk, phones and monitors in one shared set.",
+      "environment": "var_room",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "VH04_mikel",
+      "construction": "native_layered_rig",
+      "reason": "Natural phone/pointing/dialogue/reaction motion with retained face and clothing quality; no generic pose-swap acting.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "VH04_operator",
+      "construction": "native_upper_body_rig",
+      "reason": "Rig reach, receiver grip, gaze and button press through actual hand contact; keep desk, phones and monitors in one shared set.",
+      "environment": "var_room",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "VH04_two",
+      "construction": "native_layered_rig",
+      "reason": "Natural phone/pointing/dialogue/reaction motion with retained face and clothing quality; no generic pose-swap acting.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "VH04_button",
+      "construction": "native_upper_body_rig",
+      "reason": "Rig reach, receiver grip, gaze and button press through actual hand contact; keep desk, phones and monitors in one shared set.",
+      "environment": "var_room",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "VH05",
+      "construction": "native_layered_rig",
+      "reason": "Natural phone/pointing/dialogue/reaction motion with retained face and clothing quality; no generic pose-swap acting.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "VH05_wait",
+      "construction": "native_layered_rig",
+      "reason": "Natural phone/pointing/dialogue/reaction motion with retained face and clothing quality; no generic pose-swap acting.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "FR01",
+      "construction": "native_layered_rig",
+      "reason": "Articulated defenders/keeper with planted or stepping feet, coordinated centre of mass and distinct reactions. Use a corrective drawing only for a proven silhouette limit.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "FR02",
+      "construction": "native_layered_rig",
+      "reason": "Articulated defenders/keeper with planted or stepping feet, coordinated centre of mass and distinct reactions. Use a corrective drawing only for a proven silhouette limit.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "N03",
+      "construction": "fitted_seated_skin_rig",
+      "reason": "Small seated torso/head/arm movements fit the demonstrated video001 joint-skin approach; no full-pose swapping for ordinary acting.",
+      "environment": "narrator_room",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "FR03_cross",
+      "construction": "hybrid_rig_and_action_drawings",
+      "reason": "Support, contact and full-body action dictate construction; use matched extremes and authored in-betweens with registered ball/boot/head/backside paths.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "FR03_complain",
+      "construction": "native_layered_rig",
+      "reason": "Natural phone/pointing/dialogue/reaction motion with retained face and clothing quality; no generic pose-swap acting.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "FR03_bonk",
+      "construction": "hybrid_rig_and_action_drawings",
+      "reason": "Support, contact and full-body action dictate construction; use matched extremes and authored in-betweens with registered ball/boot/head/backside paths.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "FR03_goal",
+      "construction": "native_layered_rig",
+      "reason": "Articulated defenders/keeper with planted or stepping feet, coordinated centre of mass and distinct reactions. Use a corrective drawing only for a proven silhouette limit.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "FR04",
+      "construction": "native_layered_rig",
+      "reason": "Natural phone/pointing/dialogue/reaction motion with retained face and clothing quality; no generic pose-swap acting.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "FR05",
+      "construction": "native_layered_rig",
+      "reason": "Natural phone/pointing/dialogue/reaction motion with retained face and clothing quality; no generic pose-swap acting.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "VH06",
+      "construction": "native_layered_rig",
+      "reason": "Natural phone/pointing/dialogue/reaction motion with retained face and clothing quality; no generic pose-swap acting.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "N04_trophy",
+      "construction": "native_layered_rig",
+      "reason": "Coordinated hands supporting the trophy and restrained celebration.",
+      "environment": "match_stadium",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "N04_dark",
+      "construction": "fitted_seated_skin_rig",
+      "reason": "Small seated torso/head/arm movements fit the demonstrated video001 joint-skin approach; no full-pose swapping for ordinary acting.",
+      "environment": "narrator_room",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "N04_reveal",
+      "construction": "fitted_seated_skin_rig",
+      "reason": "Small seated torso/head/arm movements fit the demonstrated video001 joint-skin approach; no full-pose swapping for ordinary acting.",
+      "environment": "narrator_room",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "N04_meltdown",
+      "construction": "hybrid_rig_and_action_drawings",
+      "reason": "Seated-to-standing change and foreshortened throw need matched transition drawings; rig gestures/face and animate release/flight continuously.",
+      "environment": "narrator_room",
+      "status": "rebuild_required"
+    },
+    {
+      "shot": "N04_tap",
+      "construction": "hybrid_rig_and_action_drawings",
+      "reason": "Seated-to-standing change and foreshortened throw need matched transition drawings; rig gestures/face and animate release/flight continuously.",
+      "environment": "narrator_room",
+      "status": "rebuild_required"
+    }
+  ],
+  "active_rebuild": {
+    "version": "v012",
+    "native_work": "artifacts/batch01-v012/batch01-v012.blend",
+    "visible_authoring": true,
+    "environment_policy": "Each recurring location uses a shared native collection; per-shot cameras/lights and intentional prop actions must preserve physical layout.",
+    "status": "v012 rejected: robotic motion and sleeve/body deformation. Reconstructing from earlier consistent native body/motion, preserving likeness separately.",
+    "review_scope": {
+      "movement": "Preserve earlier accepted action methodology; new batch actions remain review candidates.",
+      "appearance": "Video 1 whole-character floor remains required across the cast; new complete illustrated Arteta/Gyokeres rigs await review.",
+      "speech": "Native mouth shapes and drawn-eye blink deformation; rough viseme timing, fixed source brows/gaze."
+    },
+    "review_candidate": "artifacts/batch01-v012/batch01-review-v012.mp4"
+  },
+  "batch_plan": {
+    "method": "Chronological batches, then complete animated rough cut",
+    "batch01": {
+      "frames": [
+        1,
+        1343
+      ],
+      "duration_seconds": 55.958333333333336,
+      "shots": [
+        "N01",
+        "OP01_banner",
+        "OP01_year",
+        "OP02_truck",
+        "OP02_arteta",
+        "OP02_driver",
+        "OP03_phone",
+        "TR01",
+        "TR02_flag",
+        "TR02_reaction"
+      ],
+      "status": "v018 user approved"
+    },
+    "next_batch_start_frame": 1670,
+    "batch02": {
+      "frames": [
+        1344,
+        1669
+      ],
+      "shots": [
+        "TR03_warning",
+        "TR03_kick",
+        "TR03_praise",
+        "TR04"
+      ],
+      "duration_seconds": 13.583333333333334,
+      "status": "v018 user approved"
+    },
+    "continuation": {
+      "revision": "v022",
+      "description": "Next chronological review batch requested as 2nd batch: corner goal, wall, isolated striker, City ping",
+      "shots": [
+        "CD01_cross",
+        "CD01_header",
+        "CD02",
+        "CD03",
+        "CD04",
+        "CD05",
+        "N02",
+        "CD05_proud",
+        "CD05_ping"
+      ],
+      "status": "pending_user_review",
+      "previous_candidate": "artifacts/defence-v021/batch02-review-v021.mp4",
+      "feedback": "User liked v021 animation and requested the coach reactions, clearer City pursuit setup and purposeful sound. Authorized quality-first implementation. v022 not yet user reviewed.",
+      "frames": [
+        1670,
+        2992
+      ],
+      "duration_seconds": 55.125,
+      "next_shot": "CP01"
+    }
+  },
+  "current_character_proof": {
+    "character": "Gyokeres",
+    "revision": "v015-review2",
+    "movie": "artifacts/gyokeres-proof-v015/gyokeres-proof-v015-review2.mp4",
+    "native": "artifacts/gyokeres-proof-v015/gyokeres-proof-v015-review2.blend",
+    "status": "user_selected_for_continuation_with_scoped_fixes",
+    "scope": "User liked likeness and run/jump/motion improvements; requested better front-view walk, settled legs and gesture palms, then authorized chronological batches."
+  },
+  "current_script": "script-v008.md",
+  "current_batch_review": {
+    "revision": "v025",
+    "status": "pending_user_review",
+    "native": "artifacts/hand-repair-v025/hand-repair-v025.blend",
+    "script": "script-v008.md",
+    "edit": "artifacts/hand-repair-v025/edit.json",
+    "audio_plan": "artifacts/clarity-v024/audio-plan.json",
+    "movie": "artifacts/hand-repair-v025/final-batch-review-v025.mp4",
+    "cumulative_movie": "artifacts/hand-repair-v025/samtoons-complete-review-v025.mp4",
+    "focused_hand_review": "artifacts/hand-repair-v025/hands-review-v025.mp4",
+    "notes": "artifacts/hand-repair-v025/README.md",
+    "frames": 6634,
+    "fps": 24,
+    "hand_fixes_approval": {
+      "status": "user_approved",
+      "revision": "v025",
+      "event_id": "81418351-6d13-4530-aea9-1e7d7be88ad1",
+      "scope": "Hands and body movement in focused review; full-film delivery review remains separate."
+    }
+  },
+  "voice_identity_policy": {
+    "Arteta_reference": "artifacts/opening-v002/voices/B02.wav",
+    "method": "reference-conditioned Base generation; do not redesign each take",
+    "keep_model_weights": true
+  },
+  "previous_approved_batch_review": {
+    "revision": "v018",
+    "native": "artifacts/dialogue-v018/batches01-02-v018.blend",
+    "movie": "artifacts/dialogue-v018/batches01-02-review-v018.mp4",
+    "audio_plan": "artifacts/dialogue-v018/audio-plan.json",
+    "status": "user_approved",
+    "visual_baseline": "v017 selected by user",
+    "scope": "69.54-second first two batches; revised dialogue, reference-conditioned Arteta, title and speaker subtitles"
+  },
+  "latest_script_revision": "script-v008.md",
+  "accepted_prefix": {
+    "revision": "v022",
+    "native": "artifacts/defence-v022/batch02-v022.blend",
+    "movie": "artifacts/defence-v022/batch02-review-v022.mp4",
+    "cumulative_movie": "artifacts/defence-v022/opening-through-defence-v022.mp4",
+    "audio_plan": "artifacts/defence-v022/audio-plan.json",
+    "status": "user_approved",
+    "scope": "Three animated coach cameos, expanded City pursuit dialogue/acting, purposeful score/foley, and retimed speaker captions; seven other picture clips and selected earlier voices preserved."
+  },
+  "current_delivery_review": {
+    "revision": "v026",
+    "status": "user_approved",
+    "movie": "artifacts/delivery-review-v026/samtoons-complete-v026.mp4",
+    "subtitles": "artifacts/delivery-review-v026/samtoons-complete-v026.srt",
+    "notes": "artifacts/delivery-review-v026/README.md",
+    "native": "artifacts/hand-repair-v025/hand-repair-v025.blend",
+    "event_id": "fb6baa21-c3b6-4b08-ba25-1fd63521bc9b",
+    "hand_fixes": "v025 user approved",
+    "resolution": [
+      1280,
+      720
+    ],
+    "frames": 6634,
+    "fps": 24,
+    "approval_event_id": "a398810b-ffa0-45ee-b7f0-32c74b50db7c"
+  },
+  "current_delivery": {
+    "revision": "v029",
+    "status": "delivered",
+    "movie": "artifacts/delivery-v029/samtoons-final-1080p.mp4",
+    "subtitles": "artifacts/delivery-v029/samtoons-final.srt",
+    "branding_kit": "artifacts/delivery-v029/samtoons-branding-kit.zip",
+    "notes": "artifacts/delivery-v029/README.md",
+    "technical_checks": "passed",
+    "approved_cut": "v028",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "frames": 6994,
+    "export_review": "pending_user",
+    "original_editable_film_package": "artifacts/delivery-v027/samtoons-delivery-1080p.zip"
+  },
+  "branding_review": {
+    "revision": "v028",
+    "status": "user_approved",
+    "short": "artifacts/branding-v028/intro-outro-review.mp4",
+    "complete_preview": "artifacts/branding-v028/samtoons-branded-review.mp4",
+    "native": "artifacts/branding-v028/samtoons-branding.blend",
+    "preserved_delivery": "v027"
+  }
+}

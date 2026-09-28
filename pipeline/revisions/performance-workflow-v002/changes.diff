@@ -1,0 +1,825 @@
+--- before/README.md
++++ after/README.md
+@@ -8,9 +8,11 @@
+ 
+ Visual treatment selection: the [image style menu](pipeline/styles/gallery.html) has 19 researched directions, one attributed external artwork reference per option, concise recipes and explicit evidence limits. Earlier native stills and motion proofs remain separate construction evidence. After the story is understood, choose a treatment for that film; the production workflow pins the selection and reuses it on resume. [Implementation and tests](experiments/009_style_gallery/README.md).
+ 
+-Current construction exploration: [cartoon appearance on the working stickman controls](experiments/008_cartoon_skin/README.md). The user clarified that good static cartoon drawings had repeatedly broken during movement, motivating the return to stickman. A small [10-second comparison](experiments/008_cartoon_skin/artifacts/proof-v002/stickman-to-cartoon.mp4) tests fuller cartoon surfaces while preserving Heavy Box's exact control motion. The working reference and this proof use native Blender curves/meshes; they do not validate a Grease Pencil armature. This is an experiment for review, not a change to the selected character direction for existing films.
++Current workflow: the [Phase A implementation record](pipeline/revisions/performance-workflow-v002/implementation.md) tracks the prepared authoring/review improvements. New Samtoons work adopts the current [profile](productions/Samtoons/README.md), benchmark and scoped reuse catalogue. Improved creative quality must still be demonstrated using the next story's representative sequence; preparing the workflow does not establish benchmark parity.
+ 
+-Current football revision: [Barcelona wasn't ready. Trent was.](experiments/007_trent_corner/README.md). The completed 38-second [film-v004](experiments/007_trent_corner/artifacts/film-v004/barcelona-wasnt-ready-trent-was.mp4) uses the user-accepted expanded player arrangement and sparse sound A, varied supporting faces and clearer close-ups. The user delegated remaining checkpoint decisions for this film. [Revision and system-wide workflow notes](experiments/007_trent_corner/artifacts/film-v004/review.md). Earlier exports and the A/B checkpoint remain preserved. The shared skill now uses concrete staging, sound, animatic and delivery reviews, supports explicit delegation, and separates numerical checks from creative acceptance.
++Historical construction exploration: [cartoon appearance on the working stickman controls](experiments/008_cartoon_skin/README.md). A [10-second comparison](experiments/008_cartoon_skin/artifacts/proof-v002/stickman-to-cartoon.mp4) tested fuller cartoon surfaces while preserving Heavy Box's controls. Its native curves/meshes demonstrate that limited construction, not a required starting point or a Grease Pencil armature. Use each current film's accepted design and intended performance.
++
++Historical football revision: [Barcelona wasn't ready. Trent was.](experiments/007_trent_corner/README.md). The completed 38-second [film-v004](experiments/007_trent_corner/artifacts/film-v004/barcelona-wasnt-ready-trent-was.mp4) uses the user-accepted expanded player arrangement and sparse sound A, varied supporting faces and clearer close-ups. The user delegated remaining checkpoint decisions for this film. [Revision and workflow notes](experiments/007_trent_corner/artifacts/film-v004/review.md). Its choices and delegation stay scoped to that film.
+ 
+ Previous animation test: [Just Five Minutes](experiments/006_just_five_minutes/artifacts/film-v001/just-five-minutes.mp4), a 30-second landscape comedy that reconstructs the user-supplied Meesha video's character designs, ruled-paper environment, desk, and limited-animation treatment with a new script. Editable native Blender artwork and original sound, with no voiceover. [Production notes, comparison and checks](experiments/006_just_five_minutes/README.md). This is a reference-replication test, not a final channel-niche selection.
+ 
+--- before/pipeline/skill/SKILL.md
++++ after/pipeline/skill/SKILL.md
+@@ -35,20 +35,20 @@
+ 
+ | Checkpoint | Concrete review artifact | Decision before proceeding |
+ |---|---|---|
+-| Story and staging | Short audiovisual script plus native representative framing plus a playable proof of the most demanding movement in the production. Include a cast/role map and relevant reference. | Does the scene contain the people/objects needed to explain the event, with the key relationships and action readable? Review before detailed animation. |
++| Story and staging | Audiovisual script, rough layouts, unified visual treatment and a small representative sequence from this film. Include a role map, relevant reference and finished native coverage of the actual performance/construction risks. | Do the meaning, acting/motion, composition and look work together? Cover ordinary acting and demanding mechanics when both are needed, before propagating detailed construction. |
+ | Sound direction | Short playable candidates in context, plus an isolated foreground/background comparison when needed; for an intentionally silent film, record that choice with the staging artifact. | Does the sound or deliberate silence serve the scene? Compare audible alternatives at similar perceived loudness before carrying a bed or motif through the film. Do not generate audio for a silent brief. |
+ | Combined animatic | Complete inexpensive movie with actual cuts, blocking, captions and selected sound or intentional silence. | Are pacing, spatial continuity, information/role coverage and picture/sound relationships convincing for this brief? User acceptance precedes the full-quality render. |
+ | Delivery review | The exact encoded movie and concise technical results. | Playback review covers sound and motion; technical checks cover the file. Keep an unreviewed export labeled a review candidate. |
+ 
+ Do all authorized work needed to make the next checkpoint concrete before asking for a decision. Continue independent work while a checkpoint is pending, but do not perform dependent polish or a full-quality render. Present the artifact, what changed, one focused review question and what its acceptance unlocks. Do not replace a listening or motion checkpoint with screenshots, a waveform, a decibel value or a statement that quality is unknown and then call the film finished.
+ 
+-Record checkpoint requests, exact artifacts, inputs, user feedback and approval/revision in the existing production journal. In this workspace, use `pipeline/checkpoints.py` and the journal's optional `reviewer` field: `checkpoint/<revision>/<staging|sound|animatic|delivery>`. Only actual user acceptance records `status="passed", reviewer="user"`; an unanswered question, agent review or technical pass cannot supply that acceptance. An explicit user waiver is a separate `status="selected", reviewer="user", decision="waived"` event with the actual waiver quoted in the result; it permits proceeding but does not claim creative acceptance. Bind the reviewed files and material inputs by hash. Changed inputs invalidate the affected checkpoint; do not reopen unrelated ones. New full-render scripts must call `require_checkpoint` for the relevant staging, sound and animatic checkpoints. Short proofs remain available while staging/sound decisions are pending; the combined animatic follows those decisions, and full-quality rendering follows animatic acceptance or an explicit waiver. Do not retrofit these gates onto preserved finished films.
++Record checkpoint requests, exact artifacts, inputs, user feedback and approval/revision in the existing production journal. In this workspace, use `pipeline/checkpoints.py` and the journal's optional `reviewer` field: `checkpoint/<revision>/<staging|sound|animatic|delivery>`. Only actual user acceptance records `status="passed", reviewer="user"`; an unanswered question, agent review or technical pass cannot supply that acceptance. An explicit user waiver is a separate `status="selected", reviewer="user", decision="waived"` event with the actual waiver quoted in the result; it permits proceeding but does not claim creative acceptance. Bind the reviewed files and material inputs by hash. Changed inputs invalidate the affected checkpoint; do not reopen unrelated ones. New full-render scripts must call `require_checkpoint` for the relevant staging, sound and animatic checkpoints, supplying decision-relevant `required_inputs` from the current source/edit selection as described in [execution conventions](../README.md#current-selections-and-correction-ownership). Short proofs remain available while staging/sound decisions are pending; the combined animatic follows those decisions, and full-quality rendering follows animatic acceptance or an explicit waiver. Do not retrofit these gates onto preserved finished films.
+ 
+ ## Plan picture and sound together
+ 
+-Write the film's brief and audiovisual script in its film root. For each consequential beat, record: intended audience understanding, visible action, audible action, focus/emotional change, event or interval to synchronize, and a review question. Group ordinary repeated actions rather than writing a separate creative essay for each footstep. Use stable beat and shot IDs.
++Write the film's brief and audiovisual script in its film root. For each consequential beat, record a compact entry: audience understanding; trigger and starting state → response → ending state; visible/audible action; viewer focus and camera; meaningful poses/contacts/holds; sound timing; required asset capability and missing work; review question and actual proof interval/result. For character interaction, distinguish body/head facing, gaze, expression and relevant listener response. For other subjects, describe the visible state change without imposing human acting. Group routine actions rather than writing an entry for every footstep. Use stable beat and shot IDs in the existing script/plan; keep creative prose outside strict audio timing/cue records.
+ 
+-Plan camera coverage alongside the action and sound, before detailed animation. For each consequential shot, state the viewer focus, opening and ending composition, shot size and angle, movement or deliberate hold, screen direction, required subject views, and the event that triggers a cut or move. A close-up or reaction cut is a different choice from a moving camera. Choose movement to follow action or reveal information; do not add a blanket drift to fill held endings. Check that the selected construction supports every planned view.
++Block rough compositions alongside action and sound before final asset generation. Establish silhouettes, overlaps, scale, eye-lines, negative space, opening/ending framing, screen direction, required views and the event triggering a cut or move. Test the visible cause and response with temporary drawings/shapes before polishing surfaces. A close-up or reaction cut is a different choice from a moving camera; a held camera can be the strongest staging. Check that the selected construction supports the planned views and occlusion.
+ 
+ Select construction and review criteria for the actual subjects and medium. For character acting or illustrated view changes, read `pipeline/styles/construction.md` → **Character facing, faces and anatomy**. For a diagram or mechanism, check the relevant shapes, relationships and motion instead. Carry user-identified defects into subsequent uses of the affected technique; control alignment or small contact sheets alone cannot certify visible construction.
+ 
+@@ -70,9 +70,9 @@
+ 
+ Use the production evaluation guidance in `pipeline/styles/construction.md`: judge the actual film against its brief and selected visual and relevant motion references. The guide also maps proven construction mechanisms to existing helpers. The Heavy Box sample builder is an optional technical regression test for related construction changes, or a way to reproduce earlier evidence. Do not run it as a routine requirement for a style or film; its result cannot establish another production's quality or creative acceptance.
+ 
+-At the staging checkpoint, select the current film’s most demanding movement and relevant camera view, not merely its easiest gesture, to check unresolved construction and performance risks. A still or endpoint pass does not establish motion quality. At the existing staging checkpoint, show the selected reference beside a film-specific native frame with its intended finish at comparable viewing size. Review the reference's specific quality targets, subject coherence, line quality, palette/texture and whole-scene composition, applying the relevant technique guide's detailed checks. Record visible gaps and revise the art before detailed animation. Recheck design quality through the animatic's required movements and encoded delivery. A working control system, matching category label or generic shader does not fulfill the visual target. Adapt to the story without treating reference artwork as movie assets. Bind the film-local `assets/style-selection.json` when present so a changed choice invalidates the affected visual review while retaining unrelated sound decisions. No separate style approval database or new creative checkpoint is needed.
++Make a compact visual treatment within the staging material: subjects and setting together, line/shapes, palette/value hierarchy, shading/light intent, scale/depth and camera language. Compare representative native frames with the selected references at comparable viewing size, then inspect the actual sequence. Use the construction guide's [whole-result review](../styles/construction.md#evaluate-the-current-production); isolated attractive sheets, a working rig or a matching style label are insufficient. Bind the film-local `assets/style-selection.json` when present. Record and resolve gaps before propagating detailed work, retaining unrelated sound decisions.
+ 
+-Use references to establish the requested character, environment, readable silhouettes and sound palette. Image generation can supply designs, textures or backgrounds; rebuild or prepare the needed editable assets rather than treating a concept image as a finished rig. Use the relevant available image-generation tool/skill when creating raster artwork.
++Derive artwork requirements from the staged performance. Distinguish identity/design, construction sources and performance drawings, following [asset requirements](../styles/construction.md#asset-requirements-from-performance). Image generation can supply designs, textures or backgrounds; inspect its actual output and prepare the needed editable components. A neutral sheet is not proof of acting range. Use the relevant image-generation tool/skill for raster creation; do not treat external reference artwork as production assets.
+ 
+ Audition actual sound candidates against rough poses and cuts early enough to change either. Follow `pipeline/sound-planning-method.md` for source selection, perceptual fit, temporary and rejected assets, and quiet alternatives. Preserve the selected files and their provenance; a sound label or numerical check does not establish listening quality.
+ 
+@@ -80,11 +80,13 @@
+ 
+ When expanding an approved excerpt into new subjects, views or actions, preserve the accepted construction quality explicitly. Review the changed construction through the new shot's demanding motion before propagating it. Earlier approval does not validate new surfaces or views. Technical alignment cannot clear visible discontinuities, mismatched appearance or implausible contact; these are unresolved construction, not deferred polish. Record changed asset/view/action, inspected intervals, result and outstanding limits in the existing shot plan/journal. Assess energy at normal playback speed; more in-between frames or longer eased transitions do not establish good timing.
+ 
+-Before detailed animation, the existing staging review must include a short playable proof covering the production’s most demanding action, including anticipation, peak movement, contact and recovery where applicable. A blink, shrug or still does not validate running, jumping or other intense action. Reuse evidence only when its construction, action and view cover the current demand; otherwise make the smallest useful excerpt with the current assets. Quiet films and non-character work use their most demanding actual movement or transition; do not invent unrelated action. Follow the construction guide’s demanding-motion review. This strengthens the existing checkpoint; it does not add a separate proof film or approval process.
++Select the smallest representative sequence from the actual story that exposes its unresolved risks: ordinary acting/interaction, demanding physical action where present, a meaningful edit/camera relationship, and the intended environment/look. Finish enough of it to test the chosen artwork through performance; use rough surrounding coverage to judge continuity. An excellent run cannot certify dialogue acting, and a blink cannot certify a jump. Reuse evidence only within its demonstrated scope. No fixed cast, duration, unrelated exercise, separate proof film or additional approval gate is required. Short finished proofs are permitted at staging; full-film quality rendering still follows the animatic decision.
+ 
+ ## Author editable motion and resolve sound events
+ 
+-Before generating consequential motion, apply [motion planning](../motion-planning.md): inspect a relevant action reference, establish causes and contacts, block complete poses, then author transitions and overlap. Repeated local curve adjustments without improved motion require returning to that sequence and checking construction limits. A working rig, unchanged artwork or passing contact test does not establish convincing body mechanics. Use this within the existing staging review; no additional approval gate.
++Apply the [authoring passes](../motion-planning.md#authoring-passes): rough layout and treatment → meaningful key poses → breakdowns/contact → facial/body and editorial timing → purposeful secondary action → cleanup and final look. Iterate when evidence requires an earlier change; these are internal passes, not approval gates. Python authors the chosen drawings, keys, constraints and previews; interpolation cannot choose a performance. Repeated curve tweaks without improvement require revisiting intention, poses and construction limits.
++
++Before editing, identify whether the selected builder or saved native file owns each changed component, following [source ownership](../README.md#current-selections-and-correction-ownership). Approved corrections must survive save/reopen and the intended next operation on a versioned copy. Do not let a rebuild overwrite file-authored work, or present session-only mappings as portable assets.
+ 
+ Use visible Blender authoring and preview playback by default for this user's Blender productions. Follow `pipeline/README.md` → **Visible Blender authoring** to open and verify the interactive connection, preserve the current work and make scene changes in short batches the user can see. Use the actual visible instance for those edits; an open window does not mirror a separate background build. Heavy renders may run separately from a saved revision, with progress reported and their actual results shown afterward. Keep existing creative checkpoints and scoped delegation; watching a viewport is not delivery acceptance or evidence of listening.
+ 
+@@ -102,7 +104,7 @@
+ 
+ Separate creative judgments from technical evidence. Verify format, frame count, duration, decoding, synchronization, sound presence, tails and the chosen loudness/true-peak specification after final encoding. Record expected quiet so silence is not automatically treated as failure. Technical success cannot certify comprehension, humor, emotional impact or “world-class” quality.
+ 
+-When feedback rejects an output, record the observed symptom, the selection/staging decision that caused it, and the missing review that let it through. Update the reusable workflow where the failure generalizes, then apply the correction in the next checkpoint artifact. Revise the concrete failure, preserving unrelated accepted work. Select cues and variations explicitly so inserting an earlier cue does not randomize later selections. A timeline change reruns resolution; replacing an asset or processing changes its recorded hash. Never regenerate a chosen AI sound merely because a shot moved.
++When feedback rejects an output, record the symptom, established cause or remaining uncertainty, and the missed review. Name the rejected property and the accepted properties to preserve. Compare equivalent framing/speed through entry, peak, recovery and affected adjacent cuts; check appearance, connected construction, acting, timing, contact and sound relationship together. Repair the responsible layer, reconstructing it when it cannot support the shot. A fix that regresses another required quality remains unresolved. Update the maintained owner where the lesson generalizes. Select cues/variations explicitly so an earlier insertion does not randomize later choices. Retiming reruns resolution; asset/processing changes update hashes. Never regenerate a chosen AI sound merely because a shot moved.
+ 
+ ## Deliver and record
+ 
+--- before/pipeline/README.md
++++ after/pipeline/README.md
+@@ -16,7 +16,7 @@
+ 
+ ## Movement planning and geometry
+ 
+-Use [motion-planning.md](motion-planning.md) for reference-based action blocking, causal contacts and physical consistency before writing limb curves. `python3 pipeline/pose_geometry.py` checks the optional planar two-bone helper; it does not test creative quality. The [Samtoons 002 diagnosis](../productions/Samtoons/videos/002-how-arsenal-won-the-league/research/body-mechanics-v001/diagnosis.md) records the failed method, reproducible neutral-pose defect and current recovery plan. Historical builders remain reproducible but are not endorsed motion recipes.
++Use [motion-planning.md](motion-planning.md) for authored layout, posing, breakdowns, face/body timing, secondary action and cleanup. `python3 pipeline/pose_geometry.py` checks the optional planar two-bone helper; it does not supply gait, balance or creative quality. The [Samtoons 002 diagnosis](../productions/Samtoons/videos/002-how-arsenal-won-the-league/research/body-mechanics-v001/diagnosis.md) preserves the earlier failed method and recovery investigation. Historical builders are evidence, not automatically current recipes.
+ 
+ ## Choose the visual treatment
+ 
+@@ -35,7 +35,7 @@
+ 
+ Open the film's pinned reference image and read its quality targets, selected recipe and [shared construction guide](styles/construction.md). Evaluate the actual production using the guide's [frame comparison, motion review, combined animatic and delivery review](styles/construction.md#evaluate-the-current-production). Select relevant shots and references from this film's requirements; metadata or a mechanically sound rig alone does not establish quality. `styles/build_samples.py` remains an optional fixed-view Heavy Box adapter for reproducing earlier evidence or checking related construction changes. It is not required for style selection or production acceptance. A new story supplies its own poses, camera, action and audio; the recipes retain construction examples and their actual evidence limits.
+ 
+-The default demonstrated implementation uses native curves and flat meshes over simple editable controls. A style choice does not switch to a Grease Pencil armature. Existing GP experiments remain renderer comparisons, with their own evidence. See [implementation and validation](../experiments/009_style_gallery/README.md).
++Demonstrated routes include native curves/meshes, fitted illustrated surfaces and matched drawings over editable controls. Their useful scope differs by shot. A style choice does not switch to a Grease Pencil armature or provide missing expressions/views. Existing GP experiments retain their own evidence. See [implementation and validation](../experiments/009_style_gallery/README.md).
+ 
+ The shared builder now separates the foreground arm, sleeve and hand with `character_layers.py`, and matches the derived shoulder sides to the source hand paths. New selections pin this helper too. The [corrected box-push comparison](../experiments/009_style_gallery/artifacts/hand-layer-v006/chibi/before-after.mp4) preserves all original controls and sound; earlier scenes and menu evidence remain archived as their original versions.
+ 
+@@ -46,12 +46,18 @@
+ 1. **Open and verify:** use the available app control to open/raise Blender (`cua.getApp("Blender")` on this desktop). Inspect the connected file with `get_blendfile_summary_path_info`, then verify the interactive instance, active scene and window before editing. On this Mac the existing `bl_ext.lab_blender_org.mcp` add-on auto-starts at `localhost:9876`; that is machine setup, not a portable project dependency. Discover the installed connector on another machine. Do not assume that an open window proves the connection works or that the connection targets the intended film.
+ 2. **Preserve and select the work:** check the file path and unsaved changes before opening a different scene. Preserve existing work in an appropriate versioned file; clarify only if its ownership or save destination cannot be resolved. Load the selected film's working revision without overwriting delivered versions. Reinspect after user edits or scene changes, and avoid competing writes to the same scene. Unsaved work is a reason to preserve a copy before editing, not to silently move authoring into a background instance. Reverify the active visible scene after selecting it.
+ 3. **Author visibly:** send short, coherent edit batches to the interactive Blender connector, using purpose-built tools where available and `execute_blender_code` for scene authoring when needed. Keep reproducible build/edit scripts under the film's `scripts/`. Show the relevant camera/viewport and let Blender redraw between batches. Do not run an old full-scene builder without checking for scene resets, file loads, automatic renders or quit calls. Long operations can temporarily freeze the interface; do not describe batch updates as continuous drawing strokes.
+-4. **Preview and inspect:** use the production’s most demanding actual movement for the existing staging review, following the [construction guide](styles/construction.md#demanding-motion-before-detailed-animation). Keep the complete action and its contacts visible; a minimal gesture is insufficient evidence for intense movement. Play the current timeline in the visible window, and use actual viewport captures or rendered previews to inspect changes. Use native app capture if the connector's screenshot tool fails. If playback drops frames, judge timing with an encoded preview. A simplified viewport does not establish the final lighting, compositing, sound or delivery quality. Retain the existing staging, sound, animatic and delivery reviews.
++4. **Preview and inspect:** use the actual representative sequence for the existing staging review, following the [construction guide](styles/construction.md#demanding-motion-before-detailed-animation). Cover ordinary acting as well as hard mechanics where needed, keeping contacts and transitions visible. Play the current timeline and inspect actual viewport captures or rendered previews. Use native app capture if the connector's screenshot tool fails. If playback drops frames, judge timing with an encoded preview. A simplified viewport does not establish final lighting, compositing, sound or delivery quality. Retain the four existing reviews.
+ 5. **Render separately when useful:** save a versioned scene, then run heavy rendering in a separate background Blender process with dedicated output paths and a log. Keep the interactive scene available; do not start another interactive bridge in the render process or overwrite its saved input during the render. Report real progress from the job, then show its actual output. Background edits do not appear automatically in the visible scene; loading a newer saved result is an explicit refresh after preserving unsaved work. Full-quality rendering still follows the existing accepted checkpoints or scoped waiver.
+ 
+ When streaming rendered stills into an encoder, remove the temporary frame before rendering and check that the render operator returned `FINISHED` before reading it. An interrupted render can otherwise reuse the previous frame. Cache validity should bind the native source hash, scene, frame range and output settings, rather than checking frame count alone. Samtoons 002 native delivery v027 applies these checks while retaining accepted creative inputs.
+ 
+ If the live connection fails, report that condition and restore it when possible. A visible saved-result preview can be used as a clearly identified fallback; do not silently claim a background job is being shown live. Journal meaningful scene revisions and render results under the current film root. Launching playback or capturing a screenshot alone does not constitute a creative motion or listening review.
++
++### Runtime checks before adopting a new mechanism
++
++Inspect the installed version, actual window/scene and connection first. On a versioned copy, verify only the API/control, preview/render operation and save/reopen behavior needed for the intended change. The [Phase A check](revisions/performance-workflow-v002/runtime-check/verify.json) demonstrates a saved native camera key and interactive render on Blender 5.2; it does not validate a new character rig or Grease Pencil authoring. The earlier failed background launch in the [research](../productions/Samtoons/research/python-animation-practice-v001.md) remains unexplained; the working live route is separate evidence.
++
++Use supported Action slots/channelbags rather than legacy `action.fcurves` access on Blender 5.0+. Prefer `keyframe_insert()` for ordinary property keys. Verify exact Grease Pencil drawing/fill APIs before adopting new GP code; older scripts are not drop-in replacements. Mesh/curve/lattice shape keys do not establish native GP shape-key support. Viewport rendering needs the appropriate UI context; do not assume a headless operator is equivalent. Consult the installed API and the linked official references for the actual operation. Do not migrate working scenes simply because a new technique exists.
+ 
+ ## Start or resume a production
+ 
+@@ -64,6 +70,22 @@
+ For reusable production assets and applicable parent context, follow the layout's local snapshot convention before binding reviews. Earlier videos retain their chosen versions; shared updates require explicit adoption into the affected video. These are ordinary files, not a new project-management service.
+ 
+ The script describes **what the audience should understand and see/hear**. `production.json` holds **what was selected and when it happens**. An audio render writes a resolved copy with exact samples and asset hashes. These records serve different purposes; changing an output report does not change the input plan.
++
++## Current selections and correction ownership
++
++Keep one unambiguous current selection in the existing brief/plan: checkpoint revision(s), selected script, native source(s), edit/scene/frame map, sound plan/mix and review artifact. Use existing top-level metadata for these paths; the audio schema does not interpret arbitrary creative metadata. Resolve aliases such as `selected_script` versus `current_script` before a new operation; do not choose a source by newest filename. Read the delivered source map for completed work and preserve its historical plan and approvals. An active revision adopts changes explicitly into its own versioned records.
++
++For each component being changed, state its authoritative source and next operation:
++
++- **Builder-owned:** selected code/inputs reproduce the authored keys/drawings and approved corrections.
++- **File-owned:** the selected `.blend` holds the animation; subsequent scripts operate on it without regenerating the corrected components.
++- **Split ownership:** name a concrete boundary, such as builder-owned set and file-owned character action. Two independent sources must not overwrite the same property.
++
++After a relevant correction, save/reopen and run the intended next operation on a versioned copy; compare the corrected interval and unchanged qualities. Live registries or extracted functions from older film scripts are not portable unless the loading route recreates them. Read all callers/dependencies before extracting or changing a helper. Do not execute historical builders blindly or overwrite delivered sources. Keep the selected voice model, voice references and cached takes intact.
++
++Before a full operation, derive its required input paths from the **current selection**, then supply the decision-relevant paths to `require_checkpoint(..., required_inputs=[...])`. Record those files as checkpoint `inputs` when presenting the review. This catches a switch to an unreviewed filename even if the previous file remains unchanged. Bind any edit/selection record that selects scene ranges or dependencies, along with the relevant actual sources. Keep visual and sound inputs scoped; a picture-only change need not invalidate sound acceptance. The guard cannot discover undeclared dependencies or infer creative coverage. Do not fill `required_inputs` by copying the old approval's list.
++
++Legacy calls remain compatible and delivered builders stay preserved. When a new native packaging step derives a file from an accepted source after review, record and verify that derivation/source mapping; do not label the new file user-approved merely to satisfy the check. Short technical proofs are not full-film delivery renders.
+ 
+ ## Executable sound plan
+ 
+@@ -158,7 +180,8 @@
+ 
+ ```python
+ from pipeline.checkpoints import require_checkpoint
+-require_checkpoint(film_root, revision, "animatic")
++# These paths must come from what this operation will actually consume.
++require_checkpoint(film_root, revision, "animatic", required_inputs=current_picture_inputs)
+ ```
+ 
+-Read-only CLI: `python3 pipeline/checkpoints.py FILM_ROOT REVISION animatic`. Run the behavioral self-check with `python3 pipeline/checkpoints.py --self-test`. This is a journal-backed guard, not an additional production database. Preserve older delivered films and their original scripts.
++Read-only CLI: `python3 pipeline/checkpoints.py FILM_ROOT REVISION animatic` checks the recorded bindings only; it does not know the pending operation's selection. Use the Python keyword above for that comparison. Run `python3 pipeline/checkpoints.py --self-test` and `python3 pipeline/test_workflow.py` for approval, source-switch and review-isolation behavior. An explicit scoped waiver still bypasses acceptance without claiming review. Preserve older delivered films and their original scripts.
+--- before/pipeline/motion-planning.md
++++ after/pipeline/motion-planning.md
+@@ -7,13 +7,32 @@
+ Record the construction choice and its action/view limit in the existing shot plan. A successful technique is an option with demonstrated scope, not a replacement for every other technique.
+ 
+ - Use native articulated drawings/layers for gestures, reaches and other movement whose silhouette and clothing joins the rig can support.
+-- Use a fitted illustrated skin for bounded movement that preserves its artwork; video001 demonstrates this alongside native shapes. Do not extrapolate a small gesture into unsupported extreme bends.
+-- Use matched action drawings, corrective shapes or a hybrid when pose extremes, perspective or overlap exceed the rig's range. The Bruno run/jump proof establishes that particular demanding-action solution, not a static-pose method for all dialogue.
++- Use a fitted illustrated skin for bounded movement that preserves its artwork and required view. Do not extrapolate a small gesture into unsupported extreme bends.
++- Use matched drawings, corrective shapes or a hybrid when the required expression, gesture, view, pose or overlap exceeds the rig's range. Replacements can serve quiet acting as well as intense action; their timing and transitions still need authorship.
+ 
+ Whichever construction is chosen, author the performance between meaningful poses: timing, trajectories, support, overlap and recovery. Pose swaps, camera movement, mouth pulses and moving props do not by themselves fulfill a requested character performance. Preserve intentional holds; do not add arbitrary motion to make every frame different. Verify the actual sequence before describing shots as animated.
+ 
+ For dialogue, volume-driven deformation of one painted mouth is not lip sync. Use separately controllable mouth artwork/geometry with speech closures and vowel shapes timed to the chosen recording. Author body gestures from phrase intent and stress, with independent joints, preparation and recovery; generic coupled arm angles and torso sway do not establish acting. Review speech and body together at normal speed before claiming the dialogue shot works.
+ 
++
++## Authoring passes
++
++Use these passes within the existing shot work, iterating when a later finding requires an earlier change. They are not new approval gates.
++
++| Pass | Author and inspect |
++|---|---|
++| Rough layout and treatment | Focus, silhouettes, scale, coverage, screen direction, depth and intended palette/shading. Test visual cause and response before final assets. |
++| Meaningful key poses | Starting attitude, noticed event, response and ending attitude. Design the complete pose and purposeful holds before interpolation. |
++| Breakdowns and contact | Trajectories, support, reachable joints, arcs, acceleration, force transfer and overlap; add drawings/correctives where deformation fails. |
++| Face/body and editorial timing | Attention and expression changes, gesture accents, anticipation/recovery and cuts against actual sound. Offset parts deliberately rather than moving all controls together. |
++| Secondary action | Relevant listeners, eyes, clothing, props and effects, subordinate to the focus. No mandatory constant sway or synchronized blink cycle. |
++| Cleanup and final look | Surface continuity, contours, masks, layer order, pops, contacts, shadows and color/shot continuity. Recheck the surrounding edit. |
++
++Codex chooses and revises the performance. Python can set explicit native drawings/keys, controls, exposure, curve handles, camera/material choices and previews; it does not obtain acting from an automatic curve. Use constant holds, linear travel or shaped easing only where they implement intended timing. More in-betweens and uniformly eased transitions are not a default quality improvement.
++
++For ordinary dialogue, determine who notices what, where they look, what they want and how their attitude changes. Author the listener as well as the speaker when their response matters. Coordinate brows/lids/gaze and mouth shape with the chosen view; avoid stacking animated features over conflicting painted ones. Supply closures and vowel shapes for selected speech, but judge expression and articulation separately. A head need not turn continually: an intentional small gaze/lid change can carry the thought.
++
++Give hands a task and suitable palm/back/edge view, grip and contact. For walk-in dialogue, design support transfer, passing feet and a settled speaking stance in the actual 2D projection; sliding a frontal rest drawing sideways is not walking. Preserve purposeful holds and vary the response by scene intention, not by randomizing controls. The following mechanics sequence applies when physical action is needed.
+ 
+ ## Work from cause to pose to curve
+ 
+@@ -62,7 +81,7 @@
+ 
+ For pose substitutions, do not derive the camera target directly from a changing drawing's opaque-pixel centre or discontinuous contact-placement root. Keep planned world travel, local pose/contact offsets and camera framing distinct. Choose drawing, translation and camera cadence together. A drawing held on twos can work; a continuously chasing camera can turn held world poses into unintended screen-space oscillation. Smoothing the camera alone does not repair discontinuous character travel, and smoothing a rigid planted drawing can create foot sliding. Use registered breakdown drawings or suitable local deformation when continuous travel requires it.
+ 
+-Inspect successive screen-space character landmarks and stationary background landmarks as well as world-space contacts. Separate camera-induced pulses from pose changes and check encoded frame timestamps. The [Samtoons jitter diagnosis](../productions/Samtoons/videos/002-how-arsenal-won-the-league/research/temporal-jitter-v001/diagnosis.md) demonstrates this failure; its correction is not yet playback-accepted.
++Inspect successive screen-space character landmarks and stationary background landmarks as well as world-space contacts. Separate camera-induced pulses from pose changes and check encoded frame timestamps. The [Samtoons jitter diagnosis](../productions/Samtoons/videos/002-how-arsenal-won-the-league/research/temporal-jitter-v001/diagnosis.md) demonstrates this failure; the later v003 acceptance and scoped evidence are recorded below.
+ 
+ ## Reusable whole-character action proof
+ 
+@@ -80,4 +99,4 @@
+ When layering native corrective shape keys, explicitly initialize each correction from the same Basis coordinates. A newly added key may otherwise inherit another correction's geometry, coupling axes or controls. Evaluate the actual deformed contact vertices in the demanding-motion check; target coordinates alone missed this during the Samtoons chase adaptation.
+ 
+ 
+-When replacing a pose library on a reused control, reset the selector property’s hard and soft limits to the new drawing count. Blender can clamp keyed values to inherited limits even when the F-curves contain the requested indices. Evaluate every intended pose index and visible drawing across both stride halves; checking only travel/contact targets misses an unvisited drawing. Samtoons002’s CP03 Pep adaptation reproduced a four-pose limit suppressing indices4and5; resetting the range to0–5 restored all96 intended frame selections. See the [saved-scene regression](../productions/Samtoons/videos/002-how-arsenal-won-the-league/scripts/check_pep_shot_v001.py) and [captured selector check](../productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v001/CP03_pep/selector-check.json). This fixes that adaptation’s selector, not the earlier rejected chase’s artistic gait.
++When replacing a pose library on a reused control, reset the selector property’s hard and soft limits to the new drawing count. Blender can clamp keyed values to inherited limits even when the F-curves contain the requested indices. Evaluate every intended pose index and visible drawing across both stride halves; checking only travel/contact targets misses an unvisited drawing. Samtoons002’s CP03 Pep adaptation reproduced a four-pose limit suppressing indices 4 and 5; resetting the range to 0–5 restored all 96 intended frame selections. See the [saved-scene regression](../productions/Samtoons/videos/002-how-arsenal-won-the-league/scripts/check_pep_shot_v001.py) and [captured selector check](../productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v001/CP03_pep/selector-check.json). This fixes that adaptation’s selector, not the earlier rejected chase’s artistic gait.
+--- before/pipeline/styles/construction.md
++++ after/pipeline/styles/construction.md
+@@ -1,6 +1,6 @@
+ # Connected artwork over simple controls
+ 
+-Read this with the selected option's recipe. Curves and flat meshes are the demonstrated default; dedicated Grease Pencil remains an optional renderer with its own proof. Choosing a visual style does not silently switch the construction backend.
++Read this with the selected option's recipe. Existing routes include native curves/meshes, fitted illustrated surfaces and matched drawings. Choose the route for the actual performance, view, occlusion and finish. A new Grease Pencil or other construction route needs its own scoped runtime and visual proof; a style label does not switch the backend.
+ 
+ ## The selected image sets the visual target
+ 
+@@ -17,30 +17,54 @@
+ 
+ This distinction follows Toon Boom's separation of [character master templates and action templates](https://docs.toonboom.com/help/harmony-20/premium/library/about-template.html), with [replacement drawings added during animation](https://helpcentre.toonboom.com/hc/en-ca/articles/41014001536275-How-do-I-add-a-substitution-drawing-while-animating-a-rig). These are workflow references, not evidence that our current builder supports every action or view.
+ 
++## Asset requirements from performance
++
++Block the intended interaction/action and coverage before finalizing detailed assets. Record required views, expressions, hand/prop relationships, support and transitions in the existing shot plan. Reuse identity artwork separately from animation. A standing neutral drawing is a construction source, not a performance to stretch across the film.
++
++Give each image request a purpose: **identity/design** (coherent whole subject and finish), **construction** (source view, separable parts, hidden surfaces and registration), or **performance** (the needed expression, silhouette, contact or transition). One image may serve several purposes when it actually meets them. Derive prompts from the shot's intent and selected design, not dialogue alone. Identify reference-only artwork versus artwork intended to appear in the render.
++
++Inspect generated results before rigging: identity, proportions, pose meaning, hand orientation/grip, ownership of overlapping limbs, opposite stride phases, cropped/missing parts, markings and continuity with adjacent drawings. Prompt wording is not proof of compliance. Correct a failed component or use suitable native construction; repeated generation of a larger all-purpose sheet is not the default repair.
++
++Use deformation where the actual surface supports it. Supply coherent alternate views, facial/hand drawings, breakdowns or full poses where it does not; ordinary acting can require new drawings too. Preserve line, palette, proportion and head-to-toe finish across representations. A fixed face cannot become a profile through in-plane rotation, and a painted open palm cannot become a grip through wrist rotation alone. Intentional held drawings remain valid when their transitions and meaning serve the scene.
++
+ ## Evaluate the current production
+ 
+-Evaluate the actual film against its brief and chosen references. Select representative shots and demanding moments from its storyboard or animatic to cover unresolved risks; do not substitute an unrelated test scene. Build only the missing capability those shots need, consistent with [professional rigging guidance](https://www.toonboom.com/training-punk-rig).
++Evaluate this film against its brief and chosen references. After style `resolve`, read the pinned `sample.png`, `option.json` reference/credit/quality targets and recipe. The references establish craft and visual language, not reusable movie artwork. Compare relevant excerpts at comparable viewing size; stills alone cannot establish motion or sound quality.
+ 
+-After `resolve`, open the film's pinned `sample.png` and read `option.json` → `reference` for the source, credit and visible `quality_targets`. These are stored with the recipe under `visual_style.files`; use those film-local copies on resume. The reference establishes craft and visual language, not a requirement to reuse its characters, logos, setting or exact composition as movie assets.
++Create a compact **unified visual treatment** inside the staging material: subjects and environment together, line/shapes, palette/value hierarchy, shading/light intent, scale/depth and camera language. Use rough layouts to test focus, negative space, overlaps, required views and screen direction. Choose drawn shading, flat color, masks or actual lights to suit the medium; lights cannot relight detail baked into an unlit image. Check foreground/middle/background, grounding and adjacent-shot color/shadow continuity. A held camera may be stronger than added drift or parallax.
+ 
+-1. **Visual design:** translate the reference into the brief: silhouette/proportions, expressions, face/body consistency, line quality, palette, finish and composition. Describe story-driven changes and any combination of character, finish and environment. Compare a representative native frame with its intended finish beside the selected reference at comparable viewing size in the existing staging checkpoint. Record and fix visible gaps before detailed animation; a matching style label or working rig is insufficient.
+-2. **Movement and construction:** inspect a short preview of the actual shot from its intended camera, using relevant motion references when needed to judge timing, weight or acting. Check readable poses and expressions, contact, deformation, attachments and layering through the required action. For example, dialogue may need facial acting and gestures; a football kick needs ball contact and readable follow-through. Review normal-speed playback and successive frames where a defect needs diagnosis. Save/reopen the native assets and check the controls or drawing changes that the shot needs to remain editable. Add missing drawings or construction where needed.
+-3. **Story and performance:** watch the complete inexpensive animatic with the selected sound. Assess whether action, emotion, meaning, staging and pacing work together across cuts. A successful isolated shot cannot establish that the complete film works. Use the existing sound and combined-animatic checkpoints and their scoped delegation rules.
+-4. **Final quality:** review the actual encoded delivery at its intended viewing size for visual finish, motion, sound and story clarity, alongside the workflow's technical file checks. Rough previews support decisions; they do not establish delivery quality. Record actual review results and leave unreviewed qualities unknown.
++Use the following whole-result review within the existing checkpoints, recording the actual artifact/interval, finding and remaining gap for applicable rows. It is not an automatic quality score or a requirement that every shot use every technique.
+ 
+-Save comparisons, relevant references and findings in the current film's existing files/journal, and bind `assets/style-selection.json` to the visual checkpoints. If the design is weaker than the reference, revise the artwork or staging; do not quietly lower the target. Any user-directed reduction in scope belongs in the brief and affected review. These evaluations use the existing creative checkpoints without an additional approval process or separate proof film. A reference still cannot establish motion quality, and technical checks cannot certify creative success.
++| Quality | Visible evidence |
++|---|---|
++| Art direction | Subjects, setting, lines, shapes, palette and shading belong together. |
++| Character/subject design | Readable silhouette and identity; proportions, clothes and finish survive the required poses. |
++| Expressive movement | Motivation, weight, anticipation, contact and recovery fit the chosen style. |
++| Timing | Holds, accents, overlaps, reactions and cuts fit the moment and selected sound. |
++| Poses and expressions | The intended thought/state reads; body, gaze and face agree through transitions. |
++| Composition | Clear focus and purposeful framing/cuts; readable overlaps and spatial relationships. |
++| Color and lighting | Controlled value hierarchy, intentional shading/light and consistency across adjacent shots. |
++| Environment and depth | Perspective, scale, occlusion, grounding and relevant layers work in the actual camera. |
++| Clean animation | No unintended contour changes, disconnected parts, pops, sliding, jitter or mask/shadow errors. |
++| Visual storytelling | The consequential cause and response are visible; speech does not conceal missing action. |
++| Secondary details | Relevant listeners, eyes, clothing, props and effects support focus rather than moving mechanically. |
++| Distinctive style | The selected production's identity is coherent; references inform craft rather than replace it. |
++
++For non-character work, judge the corresponding subject/state relationships; anatomy, likeness and facial acting are conditional. Inspect normal-speed playback for intention/timing, successive frames for transitions/contact, native-size crops for surface defects and the complete cut for continuity. An independent reviewer can challenge an assessment, but must state exactly what they viewed/heard. A launched player, waveform or contact sheet is not a playback/listening review.
++
++For a repair, state what failed and what must remain good. Compare equivalent framing/speed through entry, peak, recovery and affected adjacent cuts. Check appearance, anatomy/surfaces, acting, timing, contact and sound relationship together. Save/reopen and run the intended next operation using the [source-ownership convention](../README.md#current-selections-and-correction-ownership). A new source must not silently replace the corrected file. Technical passes do not clear an appearance or performance regression.
++
++Bind local selected context, construction sources and `assets/style-selection.json` when present. Recheck design through the animatic and encoded delivery; use actual observed evidence and leave unreviewed qualities unknown. These are the existing staging, sound, animatic and delivery decisions, with no separate style database or approval process.
+ 
+ ## Demanding motion before detailed animation
+ 
+-Author the action with the [motion-planning method](../motion-planning.md) before refining deformation: reference, causal contact sequence, complete poses, then breakdowns and curves. Calibrate neutral and extreme poses; do not infer limb bend directions from a generic left/right convention.
++Select the smallest representative sequence **from the actual story** that exposes unresolved performance, construction and look risks. Cover ordinary acting/interaction and demanding mechanics where both occur; also include enough camera/edit and environment coverage to judge continuity. Finish enough native coverage to test the artwork in action and use rough surrounding shots for context. No old player, fixed duration or unrelated test film is required.
+ 
+-The existing staging checkpoint must show the most demanding movement the current production needs. Use a short playable excerpt with its current artwork and intended camera: enough to see anticipation, the action, contact and recovery. A minimal gesture cannot validate intense action. An explicitly requested stress test may use an illustrative action with the current characters without changing the script.
++Author it with [motion planning](../motion-planning.md): intention/reference, complete key poses, contact and breakdowns, then timing, secondary action and cleanup. A convincing jump cannot certify listening or facial expression; a blink cannot certify a run. For intense action, show preparation, contact/release, travel and recovery with readable support, weight and silhouettes. Quiet films and mechanisms use their own consequential changes.
+ 
+-For characters, choose the actual challenge: running strides and planted feet, jumping and landing compression, a kick or throw with follow-through, a turn, or interacting bodies. Inspect full-body silhouettes, limb bends, weight shifts, surface deformation, attachments and overlap order through the entire action. Keep consequential contacts visible; cuts or camera movement must not hide construction failures. Add corrective drawings, views or controls when needed before propagating the construction.
++Inspect actual evaluated surfaces and intermediate poses, not just endpoints or control counts. Keep contacts visible; camera moves must not hide construction failures. Add missing views, correctives or controls before propagation, while preserving accepted whole-subject design. Check energy at normal speed, then contact/bend intervals frame by frame. Save/reopen native edits and verify the selected operation preserves corrections. Record the reviewed scope and unknowns.
+ 
+-Review normal-speed playback for energy and timing, then successive frames and full-size extreme/contact poses for defects. Record which reviews actually happened and any remaining limits; contact sheets and numerical checks alone do not establish motion acceptance. Comparable reviewed evidence can support reuse, but a new demanding action or view needs coverage. For diagrams, mechanisms or gentle productions, use their hardest actual motion/transition rather than imposing a running or jumping test. Duration follows the action; eight seconds is an excerpt choice, not a universal requirement. Preserve earlier films and use the existing staging review, not an extra approval gate.
+-
+-Reuse accepted appearance and construction as a quality floor, then evaluate the new performance separately. A familiar rig does not validate a new run or jump. For those actions, coordinate root travel with planted feet, pelvis height with available leg reach, arm swings with the stride, and push-off/flight/landing with distinct timing. Check overlap order at bent joints and contacts; matching control positions alone cannot clear surface artifacts. Preserve a before/after excerpt and record which change improved the result, which failed, and what remains unapproved.
++Reuse earlier evidence only within its demonstrated construction/action/view limits. New actors, views, poses and relationships need relevant coverage. Short finished proofs remain possible at staging; full-film quality rendering follows animatic acceptance or scoped waiver. No additional approval gate is introduced.
+ 
+ ## Character facing, faces and anatomy
+ 
+--- before/pipeline/checkpoints.py
++++ after/pipeline/checkpoints.py
+@@ -5,7 +5,13 @@
+ import sys
+ 
+ 
+-def require_checkpoint(root, revision, stage):
++def require_checkpoint(root, revision, stage, *, required_inputs=()):
++    """Verify acceptance and, when supplied, the caller's current source selection.
++
++    required_inputs are film-local paths consumed by the pending operation, not
++    a list recovered from the old approval. Legacy calls retain their behavior.
++    An explicit user waiver still bypasses acceptance, without claiming review.
++    """
+     root = Path(root).resolve()
+     if stage not in ('staging', 'sound', 'animatic', 'delivery') or not revision or '/' in revision:
+         raise ValueError('Use a revision name and staging, sound, animatic or delivery')
+@@ -19,6 +25,15 @@
+         raise RuntimeError(f'{key}: waiting for explicit user acceptance of the review artifact')
+     if not event.get('outputs'):
+         raise RuntimeError(f'{key}: approval has no bound review artifact')
++    if isinstance(required_inputs, (str, Path)):
++        raise ValueError('required_inputs must be a collection of film-local paths')
++    bound_inputs = {(root / ref['path']).resolve() for ref in event.get('inputs', [])}
++    for name in required_inputs:
++        path = (root / name).resolve()
++        if not path.is_relative_to(root) or not path.is_file():
++            raise RuntimeError(f'{key}: missing or invalid current input {name}')
++        if path not in bound_inputs:
++            raise RuntimeError(f'{key}: current input {name} was not bound to this review')
+     for ref in event.get('inputs', []) + event['outputs']:
+         path = (root / ref['path']).resolve()
+         if not path.is_relative_to(root) or not path.is_file():
+--- before/pipeline/test_workflow.py
++++ after/pipeline/test_workflow.py
+@@ -97,7 +97,43 @@
+         (mechanism / mechanism_refs[1]).write_text('changed local diagram guidance')
+         blocked(mechanism)
+ 
+-    print('PASS: canonical skill; isolated sibling reviews; preserved asset/profile/guide snapshots; explicit adoption invalidates only the affected video; changed selected guidance blocks stale approval. Niche selection is explicit, not automated.')
++        # A new filename leaves the old reviewed bytes intact. Check the inputs
++        # the next operation will actually use, not only the previous manifest.
++        (first / 'source-A.blend').write_bytes(b'first selected source')
++        (first / 'source-B.blend').write_bytes(b'new selected source')
++        (first / 'mix.wav').write_bytes(b'unchanged selected sound')
++        for stage, names in [('animatic', ['source-A.blend']), ('sound', ['mix.wav'])]:
++            append_event(first, stage='checkpoint/switch/' + stage, status='passed', reviewer='user',
++                         intent='Test current input selection', method='Disposable source-switch fixture',
++                         result='Simulated acceptance', inputs=names, outputs=['preview.txt'])
++        require_checkpoint(first, 'switch', 'animatic', required_inputs=['source-A.blend'])
++        try:
++            require_checkpoint(first, 'switch', 'animatic', required_inputs='source-A.blend')
++        except ValueError:
++            pass
++        else:
++            raise AssertionError('A bare path was treated as a collection of inputs')
++        for names in (['source-B.blend'], ['missing.blend'], ['../outside.blend']):
++            try:
++                require_checkpoint(first, 'switch', 'animatic', required_inputs=names)
++            except RuntimeError:
++                pass
++            else:
++                raise AssertionError('An unbound or invalid current source passed')
++        require_checkpoint(first, 'switch', 'sound', required_inputs=['mix.wav'])
++        append_event(first, stage='checkpoint/switch/animatic', status='passed', reviewer='user',
++                     intent='Test adoption of changed source', method='Disposable fixture',
++                     result='Simulated new acceptance', inputs=['source-B.blend'], outputs=['preview.txt'])
++        require_checkpoint(first, 'switch', 'animatic', required_inputs=['source-B.blend'])
++        (first / 'source-B.blend').write_bytes(b'changed after review')
++        try:
++            require_checkpoint(first, 'switch', 'animatic', required_inputs=['source-B.blend'])
++        except RuntimeError:
++            pass
++        else:
++            raise AssertionError('Changed selected source retained acceptance')
++
++    print('PASS: canonical skill; isolated reviews; preserved asset/profile/guide snapshots; explicit adoption and changed sources invalidate affected reviews; a switch to an unbound source blocks while unchanged sound remains valid. Niche selection is explicit, not automated.')
+ 
+ 
+ if __name__ == '__main__':
+--- before/productions/README.md
++++ after/productions/README.md
+@@ -35,7 +35,9 @@
+ 
+ On a new video, read its production profile and current user direction, then record the effective choices in its brief. On resume, start from the video's adopted context, assets and approvals; compare newer parent guidance only when an update is requested or needed. Explicit video choices refine defaults; do not silently override an explicit constraint or invent a waiver. Clarify only material unresolved conflicts.
+ 
+-In the existing brief or top-level `production.json` metadata, record the applicable profile/source version, selected domain/technique guides with a short reason, and deliberate video exceptions. Use ordinary text and local snapshots rather than an automatic inheritance engine. Record review coverage in the shot plan/journal: changed asset/view/action, demanding interval, inspection performed, outcome and unresolved limitation. Do not infer coverage from a successful sibling shot.
++In the existing brief or top-level `production.json` metadata, record the applicable profile/source version, selected domain/technique guides with a short reason, and deliberate video exceptions. Follow [current selections and correction ownership](../pipeline/README.md#current-selections-and-correction-ownership): identify the selected script, native source/edit, sound, review revision and the source that owns each changed component. Resolve competing current aliases before operating. Use ordinary records and snapshots rather than an inheritance engine or another database.
++
++Record review coverage in the shot plan/journal: intended audience understanding, changed asset/view/action, required capability, actual inspected interval/method, outcome and unresolved limitation. Cover ordinary performance and hard mechanics where applicable, plus the actual look, environment and edit. A successful sibling shot or a good run/jump does not establish another shot's acting. The small representative sequence belongs to the current story and existing staging review, without a required cast or duration.
+ 
+ Load only guidance required by the actual work:
+ 
+@@ -58,7 +60,7 @@
+ 
+ Reusable characters, environments, props and sounds may live in the production's `assets/`, with a version recorded for each actual selection. Preserve source, license, attribution, tested uses and limitations alongside the asset. Reusing a character or set does not establish shared story continuity.
+ 
+-An asset record distinguishes an independently reusable file from a scene-bound extraction reference. Include the actual file/hash, required dependencies, review evidence and supported actions/views; mark untested adaptations explicitly. A rendered film or attractive neutral drawing alone is not a reusable rig. Preserve accepted performances when retiming; review new acting separately.
++An asset record distinguishes an independently reusable file, a scene-bound extraction reference and a technique demonstrated by a specific shot. Include actual source/hash, dependencies, review evidence, supported actions/views and the authoritative builder/file; mark untested adaptations explicitly. A rendered film or attractive neutral drawing alone is not a reusable rig. Check selected reuse after save/reopen and the intended next operation. Preserve accepted performances when retiming; author and review new acting separately.
+ 
+ Before binding a review, copy selected shared assets into the video's `assets/` and record their original paths, versions and hashes in its plan or journal. Keep the applicable production README snapshot as `assets/production-context.md`, noting its source and adoption in the video journal. Snapshot selected domain/technique guidance that materially defines the reviewed construction or treatment alongside that context, recording its source and version/hash; do not copy every guide. The current journal/checkpoint helpers bind files within the film root, so direct references to the parent production are insufficient for those reviews.
+ 
+--- before/productions/Samtoons/README.md
++++ after/productions/Samtoons/README.md
+@@ -1,80 +1,56 @@
+ # Samtoons — production profile
+ 
+-Profile v003 · adopted 17 September 2026. Samtoons is the user's continuing **football-comedy** production, established on 14 September and confirmed as exclusively football comedy in the [channel kit](branding/v001/README.md). The recurring format is authorized; shared plot continuity and continuing fictional arcs are not selected. Each video should work independently.
++Profile v004 · maintained 22 September 2026. Samtoons is the user's continuing **football-comedy** production. Its recurring format is authorized; each video should work independently. Shared plot continuity and continuing fictional arcs have not been selected.
+ 
+-This profile supplies defaults for new Samtoons work. Each existing video retains its adopted context, assets, approvals and explicit exceptions. The [shared pipeline](../../pipeline/SKILL.md) owns production/review; Samtoons owns the creative direction below. Other niches and other football productions do not inherit it automatically.
++This profile supplies defaults for new work. Existing videos retain their adopted context, assets, decisions and explicit exceptions. The [shared pipeline](../../pipeline/SKILL.md) owns the production steps and four reviews; Samtoons owns the creative direction below. Other productions do not inherit these preferences automatically.
+ 
+ ## Audience and creative promise
+ 
+-Original animated football comedy for fans: a recognizable football story, character-driven jokes, escalating reactions and a clear payoff. Entertainment leads; research establishes the underlying event. Invent exaggerated dialogue, impossible visual gags and performances freely while preserving the event's essential actions and outcome. Present the work as animated parody in the appropriate publication context. Keep internal labels such as “comic fantasy” out of the picture unless they help the audience or the user requests them.
++Original animated football comedy for fans: recognizable football personalities, readable situations, contrasting attitudes, escalating reactions and a clear payoff. Research relevant incidents, personas and useful fan jokes, then create original scenes. Avoid turning one episode's jokes into a recurring formula.
+ 
+-Research player, coach and club personas alongside the incident. Choose useful habits, gestures and fan memes that can support original jokes; do not add every researched joke or repeat a previous episode's ending automatically. The referee apology, VAR-door reveal and fishing payoff belong to episode 001, not a required formula.
++The default incident-based treatment verifies essential actions, participants and outcome while freely exaggerating dialogue and visual comedy. An explicitly fictional brief can depart from that default: video 002 authorized invented season satire. Record the chosen treatment in each new brief; neither that exception nor another video's verified premise silently governs the next story. Distinguish parody from factual allegations in the appropriate publication context, without unnecessary internal labels inside the entertainment picture.
+ 
+-## Visual and sound direction
++## Visual target
+ 
+-Use recognizable cartoon faces, hair and kits with simple expressive bodies, coherent anatomy, readable poses and intentional timing. The accepted derby treatment is a local reference, not permission to copy body weights blindly. Plan required character views before changing camera angle. Characters, environments and surface finish are separate creative decisions; consult the general style menu only when a new treatment is unresolved.
++**Expressive characters + readable exaggerated poses + excellent comic timing + deliberate camera work + attractive environments + coherent color/shading + polished motion + purposeful reaction details.**
+ 
+-Carry forward the last accepted whole-character finish—including head/body coherence, kit, shoes and connected joints—as the visual floor. Improve performance on top of it. Episode 002 feedback accepted the reused Bruno drawing/construction but rejected the run and jump; that distinction must survive reuse. Review any new demanding action before adapting it to the next player, and retain the comparison and failed attempts in that video’s journal.
++Use the [active benchmark v003](benchmark-v003.md) and the shared [whole-result review](../../pipeline/styles/construction.md#evaluate-the-current-production). Establish a compact visual treatment with character and environment together: silhouettes, line/shapes, palette/value hierarchy, shading/light, depth and camera language. Samtoons should retain a recognizable identity while learning craft from the references. Realism, maximum drawing detail and constant movement are not the goal.
+ 
+-Apply that floor to **every named character**, not only the most recently reviewed example. Reuse control mechanics without reusing one generic face: compare each character’s head and jaw shape, hairline and hairstyle, brow/eye spacing, nose, facial hair, build, outfit details and footwear with its selected identity artwork and Video 1’s finished cast. A recolored head or different shirt number is not a new likeness. Review the full body and a dialogue/reaction view at comparable size, then inspect the same design through the required movement. Positive movement feedback does not clear an appearance regression. Episode 002’s Arteta/Gyökeres feedback explicitly applies across the cast and future character creation.
++Preserve the strongest accepted whole-character qualities from videos 001 and 002: recognizable face/hair, coherent head and body, character-specific proportions, kit/clothing, footwear and connected joints. Apply this standard across the cast. Reusing control mechanics does not justify a generic recolored face or artwork thresholds copied onto a different body. Compare whole-body and face views, then their actual transitions. Likeness and motion must survive together.
+ 
+-Construction clarification from video002: Video1's finished cast used coherent illustrated meshes on fitted native rigs with separate facial geometry; it was not exclusively hand-drawn Grease Pencil. The user selected this foundation for video002's first batch after that clarification. Preserve coherent complete-character artwork and choose rigging, native drawing or matched action drawings according to the shot. A backend label is not a quality target, and a traced head on unrelated body artwork does not reproduce Video1's construction.
++Video 001 and the accepted parts of video 002 use a hybrid of fitted illustrated meshes, editable native rigs/vector geometry, facial components and matched drawings. They are not entirely Grease Pencil films. Choose construction for the complete intended shot; do not convert everything to one method or use a static source pose as the entire performance. Describe the actual assets honestly.
+ 
+-Hand acting also needs the appropriate drawn orientation and grip. Video 002's v024 wrist patches were rejected; do not reuse them as an accepted asset. The [v025 reconstruction record](videos/002-how-arsenal-won-the-league/artifacts/hand-repair-v025/README.md) preserves the sleeve-to-fingertip repair, actual inspected intervals and remaining review limits. Reuse its technique only where it suits the shot; keep the accepted complete-character finish as the floor.
++The complete video 002 cut received approval, but later user feedback and the [post-film audit](videos/002-how-arsenal-won-the-league/research/benchmark-audit-v001/report.md) identify weak/repetitive acting and facing. Its accepted construction is useful evidence; its generic choreography is not the target to propagate. The [reuse catalogue v002](assets/reuse-v002/README.md) records the supported mechanisms, acceptance scope and limits together.
+ 
+-Direct speech for its moment: outrage, pleading, dry sarcasm or restrained frustration. Accent/timbre distinguishes a character but does not supply acting. Nationality-related accents are preferences only where suitable voices exist; use distinct comic performances rather than forcing an unsupported accent. Preserve selected takes. Music is optional, must leave dialogue clear and, under the current user preference, be free to use for the intended publication with required attribution recorded separately. Do not burn music credits into video frames; provide them with publication copy.
++## Performance and comedy
+ 
+-Duration, aspect ratio and pacing are selected per video. Episode 001's 2:30–3:00 direction, landscape format and later end card are not mandatory defaults. No publishing schedule or production-time promise is set. The reusable channel identity is documented in the [branding kit](branding/v001/README.md).
++Stage each consequential beat as expectation/attention → trigger → response → changed attitude. Use original key poses and timing, then prepare the needed views, expressions and hands. Ordinary acting needs deliberate gaze, lids/brows, mouth and body agreement; listeners should react when their response matters. A repeated mouth pulse, outward palm and torso sway do not establish thought. The [supplemental Short study](research/reference-ijvy-v001/analysis.md) shows how small facial changes and distinct body poses can communicate without constant head turns.
+ 
+-## Football-specific research and staging
++Give gestures a purpose: an earpiece touch, phone grip, point and button press require different orientation and contact. Review the entire sleeve-to-fingertip chain, approach and recovery. Choose a hold, snap, pause or overlapping reaction for its comic purpose. Body timing must fit the performance rather than defaulting to slow, eased motion. Reuse character construction separately from the animation of a new scene.
+ 
+-Choose the actual event before developing its treatment. Verify participants, result, important actions, event-specific kits, spatial relationships and what relevant footage shows. Separate verified incidents, disputed reports and invented jokes; do not present a fan theory or parody accusation as an established fact. Cite sources in the video research, and distinguish historical appearance from any deliberately selected cartoon simplification.
++Apply [motion planning](../../pipeline/motion-planning.md) to support transfer, force, contacts, arcs and recovery. The accepted whole-character run/jump example is an option for suitable movement, not a required eight-second test, cast or pose-swap method for every scene. A good action test cannot certify dialogue or listening. Choose a representative sequence from the new story that exposes its actual acting, mechanics, environment and editing risks before extending the construction.
+ 
+-For match action, map the necessary attackers, defenders, keeper, ball and offscreen roles. A corner needs plausible supporting participants as well as taker and receiver, not a mechanically complete 22-player lineup. Do not invent exact historical positions; record representative simplification. Check team identity, screen direction, ball trajectory and readable contact at viewing size. Inspect kicks as coordinated support-foot, pelvis, knee, ankle, boot and ball action; a matching point in one frame is not sufficient.
++## Football environments and action
+ 
+-These domain checks supplement the common workflow. Apply [character construction](../../pipeline/styles/construction.md#character-facing-faces-and-anatomy) for character shots and [sound direction](../../pipeline/sound-planning-method.md) when sound is used. Tool choice follows the actual shot; Blender/FFmpeg and the available voice runtime are current implementations, not the definition of football comedy.
++For event-based stories, verify event-specific appearance, relevant footage and important relationships without inventing exact historic positions. Map the attackers, defenders, keeper, ball and offscreen roles needed to explain the action. Representative simplification is allowed; a mechanical 22-player quota is unnecessary.
+ 
+-## Applying benchmarks to every new video
++Build pitch, goal, net depth, penalty-area lines, byline, touchline, corner flags, ball and cast in one coordinate system before framing. Establish scale in a wide view and retain it across shots; a flag belongs at a corner, not beside the nearest visible goalpost. Use perspective, grounding, occlusion, contact shadows and relevant layers to create depth around drawn characters. Reuse the same physical set for the same location and its reveal/reverse angles.
+ 
+-For physical comedy, analyze the cause, whole-body pose and response visible in the selected action interval. Apply [motion planning](../../pipeline/motion-planning.md); benchmark-like heads and kits do not compensate for unconvincing movement. Retire rejected cycles as sources for new animation until they are re-authored and reviewed. Preserve the existing visual floor during that work.
++Author support, wind-up, visible boot/forehead contact, ball release/trajectory, follow-through and reaction as one event. Coordinate opponents and recipients; do not animate an independent ball path and hope it meets a character. Inspect consecutive frames around actual contact and the whole action at normal speed. Intentional impossible gags need clear cause and readable staging; accidental reversals, sliding and incorrect scale do not count as exaggeration.
+ 
+-Read the active benchmark below alongside this profile. In the existing brief/shot plan, map selected moments from both references to their craft principle, our original application, planned action/camera/sound and eventual rendered proof. Choose relevant lessons rather than copying plots or requiring every device. At the existing staging, sound, animatic and delivery checkpoints, compare actual output with those selected references and record gaps. Unheard audio remains unverified. Snapshot the selected benchmark version with the video's production context; completed videos keep their adopted versions.
++## Sound and presentation
+ 
+-## References and reusable selections
++Direct each line for its moment—outrage, pleading, dry sarcasm, calm authority or restrained frustration. Keep each selected character voice identity consistent while varying performance. Nationality-related accents are preferences where suitable voices exist, not a reason to force an unsupported voice. Preserve the installed voice runtime/models, selected references and cached takes. Retiming alone does not require regeneration.
+ 
+-- **[Active benchmark v002](benchmark-v002.md)**: combined Clásico and Barcelona–Bayern craft requirements, original adaptation and proof at existing checkpoints. [Bayern detailed study/player](research/reference-bayern-v001/review.html) and [analysis](research/reference-bayern-v001/analysis.md) preserve observations and audio evidence limits.
+-- [Historical benchmark v001](benchmark-v001.md), [reference analysis](research/reference-analysis.md) and [reference board](research/reference-v001/reference-board.jpg): the initial 442oons craft study. Preserve as evidence; its initial proposed duration does not override a later brief.
+-- [Source/creator research](research/source-context.md): source context and evidence limits. The local study movie and reference frames are analysis material, not reusable production artwork or sound.
+-- [Camera research from episode 001](videos/001-manchester-derby-2026-09-13/research/camera-planning-audit-v001.md): sourced coverage vocabulary and film-specific proposals; choose coverage for the new story rather than copying every move.
+-- [Reusable asset catalogue v001](assets/reuse-v001/README.md): selected voice/brand files, hashes, provenance, review scope and scene-bound character extraction references. New actions, views and lines still need their own review.
+-- [Episode 001](videos/001-manchester-derby-2026-09-13/brief.md): brief and journal own that video's decisions. Its [delivery v003](videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/README.md) identifies the editable delivered work. Consult the journal for exact acceptance scope rather than treating every later revision as separately user-approved.
++Plan voice, effects, music, silence, visual causes and reactions together using the [sound guide](../../pipeline/sound-planning-method.md). Let dialogue clarify necessary context without replacing visible action. Audition actual output; meters and subtitles do not prove emotional delivery. Music is optional and, under current user preference, must be free to use for the intended publication with required attribution supplied outside the picture. Speaker-labelled captions, when selected, follow meaningful speech phrases without accidental one-word flashes.
+ 
+-Use the [production layout and snapshot convention](../README.md) when selecting these resources for another video. Copy only applicable files, record versions/hashes and keep sibling approvals isolated. The old parent README is preserved in [the workflow revision archive](../../pipeline/revisions/production-profiles-v001/before/productions/Samtoons/README.md); its dated restart status is historical, not current resume direction.
++Duration, aspect ratio and pacing belong to each video's brief. No publishing schedule or turnaround promise is set. Use the [branding kit](branding/v001/README.md) and the catalogue's accepted intro/outro references where suitable; an old end-card gag is not compulsory for future videos.
+ 
+-## Adopted action-proof lesson — video 002
++## References and adoption
+ 
+-The user liked video 002's complete-character eight-second run/jump review and explicitly asked to preserve the approach for future projects. Use [whole-character action blocking](../../pipeline/motion-planning.md#reusable-whole-character-action-proof) as a starting option: coherent matching action drawings, readable opposite strides, preparation/flight/contact/recovery, editable pose exposure and travel. Preserve video 001's head/body/kit/boots quality as the local visual floor. Keep body travel and camera separate from drawing registration; inspect contacts and temporal stability in the rendered action. [v003 and its evidence](videos/002-how-arsenal-won-the-league/artifacts/pose-action-v003/README.md) preserve the liked poses while correcting the measured jitter. The user subsequently accepted v003's running/jumping as almost perfect and better than video001, authorizing adaptation to Gyökeres. New adaptations retain their own review. This does not automatically approve new characters, views or future films.
++- [Benchmark v003](benchmark-v003.md): established A/B references plus the user-supplied Short, complete visual targets, relevant excerpt application and evidence limits. Earlier [v002](benchmark-v002.md) and [v001](benchmark-v001.md) remain history.
++- [Reuse catalogue v002](assets/reuse-v002/README.md): voices/brand selections, scene-bound sources, scoped motion and hand repairs, native source maps and known weaknesses. No universal rig or untested portability claim.
++- [Camera research](videos/001-manchester-derby-2026-09-13/research/camera-planning-audit-v001.md) and [Blender/Python practice](research/python-animation-practice-v001.md): methods and limits, not promises that the scripts supply artistic direction.
++- [Video 001 delivery](videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/README.md), [video 002 native sources](videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/README.md) and [branded delivery](videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/README.md): reproduction and review scope; video-local journals own progress and approval history.
+ 
+-### Football environment continuity
+-
+-For pitch action, reuse the dimensional field/goal mechanism demonstrated in video 001, adapting location identity to the current film. Put cast, ball, goal, penalty-area lines, byline, touchline and corner flags in one coordinate system before framing. Establish player/goal scale in a wide view and preserve it through camera cuts; do not independently size a goal to fill spare screen space. A flag belongs at a field corner, not beside the nearest visible goalpost. Use net depth, ground contact shadows, perspective and supporting roles to communicate depth around drawn characters. Review the rendered whole scene as well as character closeups. Video 002 v017 records the implementation and dimensions. On 18 September the user selected its visual direction and requested a dialogue/caption revision; that feedback does not approve future shots or new voices.
+-
+-### Selected visual recipe — video 002 v017
+-
+-The user explicitly liked v017’s visual direction. Reuse its complete-character source fitting and dimensional setting as an available baseline: [native scene and implementation record](videos/002-how-arsenal-won-the-league/artifacts/batch02-v017/README.md). Preserve head-to-toe drawing coherence, recognisable likeness, connected clothing, shoes, restrained facial motion, action speed, hand-to-prop contact and spatial scale together. Dialogue changes must not trigger character reconstruction. v018 demonstrates a scoped update of speech timing, mouth animation and captions while retaining that artwork and physical action. The user approved the v018 cut and authorized the next chronological batch on 19 September; that approval does not automatically apply to new shots. Keep the successful Bruno run/jump recipe for demanding action; it complements the source-fitted gesture rig rather than replacing every type of shot.
+-
+-
+-### New match-action transfer checks — video 002 v019
+-
+-[The v019 record](videos/002-how-arsenal-won-the-league/artifacts/defence-v019/README.md) identifies new-shot failures caught before review: crossing limbs cannot be weighted by a simple left/right x split; wall travel must be split into reachable alternating steps; jump height and flight duration need checking together; copied props must retain physical dimensions after camera-specific scales are removed. Verify these in consecutive rendered contact frames, alongside the existing appearance and voice floor. A standing/gesture drawing has a bounded movement range; use the accepted matched action-drawing approach where that range is exceeded. The user rejected v019’s new-player performance as static. Its technical checks do not establish an accepted acting baseline.
+-
+-### Carry acting quality across the cast
+-
+-Video 002’s v019 and v020 were rejected: controls and small movements on drawings already frozen mid-action did not reproduce the accepted first batch’s acting. Use a complete neutral drawing fitted to its own joints for a continuous gesture performance; author preparation, contact and recovery. Use matched action drawings where the intended view or extreme movement needs them, as in the Bruno proof. Keep recognizable whole-character artwork, garment joins, planted feet and timing together. v021 reconstructs all sixteen new player roles using the v016 construction, retaining the accepted Arteta/Gyokeres performances and sound. It remains a review candidate; see [its evidence and limitations](videos/002-how-arsenal-won-the-league/artifacts/defence-v021/README.md).
+-
+-
+-### Accepted complete-film baseline — video 002 v026
+-
+-On 21 September 2026 the user approved v025’s reconstructed hands and then the complete v026 cut. Retain the whole-character appearance and motion together. Use the fitted complete-character rig for gestures/dialogue, matched whole-character action drawings for movements beyond the rig’s useful range, and contextual native hand/forearm contours for gripping, pointing, earpiece contact and button presses. None is a universal substitute for the other. The cast is a hybrid of illustrated surfaces, editable native rigs and vector geometry, not an entirely Grease Pencil film.
+-
+-[Delivery and reusable lessons](videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/README.md) map the accepted native sources and reproduction steps. Preserve selected voice references and cached audio. Plan the visual cause, spoken explanation and reaction together; subtitles should split at meaningful speech phrases, not produce single-word flashes. Treat native-resolution delivery as a render of the selected sources and frame ranges, with source/frame validation before rendering all shots. New subjects, views and actions still need actual review.
++Use the [local snapshot convention](../README.md#shared-assets-and-stable-selections) when a new film adopts these resources. Preserve versions/hashes and record applicable benchmark excerpts and actual proof in its existing shot plan. A shared update does not silently change an earlier film. Record successful lessons at their maintained owner and retain their limits; failed adaptations stay evidence rather than competing current instructions.
+--- /dev/null
++++ after/productions/Samtoons/benchmark-v003.md
+@@ -0,0 +1,47 @@
++# Samtoons benchmark v003 — expressive football comedy
++
++22 September 2026 · Active for new adoptions with [profile v004](README.md). This consolidates the established benchmarks, user feedback after video 002 and the supplemental Short. It does not claim a new viewing/listening session or achieved benchmark parity. Preserve [v002](benchmark-v002.md) and its source observations.
++
++## Reference library and evidence limits
++
++| ID | Reference | Useful evidence and limits |
++|---|---|---|
++| A | [442oons: Barcelona–Real Madrid](https://www.youtube.com/watch?v=g3oku3-4-2A) | [Original analysis](research/reference-analysis.md): sampled frames/action windows establish escalation, recurring character treatment, reactions and payoffs. Not an exhaustive frame review; sound not auditioned. |
++| B | [442oons: Barcelona 4–1 Bayern](https://www.youtube.com/watch?v=KD9ry6zWjjQ) | [Analysis](research/reference-bayern-v001/analysis.md) and [study/player](research/reference-bayern-v001/review.html): 3,788 frames in consecutive thumbnail sheets and 18 selected native frames. Status reversal, motif variation, football/comedy transitions and coverage. Technical audio/caption inspection does not establish subjective sound quality. |
++| C | [User-supplied Short: Neymar and Messi are always ready](https://www.youtube.com/shorts/Ijvy_GdvzHA) | [Study](research/reference-ijvy-v001/analysis.md): selected paused browser seeks, not exhaustive motion or continuous audiovisual review. Purpose-specific poses, small gaze/lid changes, different listener reactions and body/face agreement. Original cartoon authorship and software are unconfirmed. |
++| Local | Selected work from videos 001 and 002 | [Catalogue](assets/reuse-v002/README.md): whole-character continuity, scoped action/contact, environment and hand construction. Later feedback identifies repetitive acting in 002; complete-cut approval is not a claim that every performance meets this benchmark. |
++
++Use observations within their evidence limits. Do not infer a rig, software, interpolation cadence, precise sound timing or every intermediate contact from sampled frames. Where an intended comparison needs finer playback evidence, inspect that interval during the actual production and record what was accessible. Source movies/frames are analysis material, not artwork or audio to insert into our film.
++
++## Craft to transfer into original scenes
++
++| Area | Relevant observed example | What Samtoons must demonstrate |
++|---|---|---|
++| Visual storytelling and comedy | A recurring child treatment; B opening boast becomes humiliation | Clear expectation, trigger, changed information/status and payoff. Original gags with variation; no inherited episode ending. |
++| Posing and expression | C ~0–4s lids/gaze; ~17s tense face; ~25s head-holding | The character appears to notice, think and react. Coordinate gaze, lids/brows, mouth, head and body; supply a needed drawing instead of keeping every role in its rest view. |
++| Interaction | C ~5–11s seated exchange; B ~85–90s group reactions | Appropriate body construction for the situation, differentiated attitudes, eye-lines and listeners. Sitting is not a lowered standing puppet. |
++| Physical movement | B ~14s, 21–26s, 56–57s, 75–76s; C ~30–33s sporting poses | Readable preparation, support/contact, release, follow-through and recovery. Confirm intermediate contacts with finer inspection; sampled poses alone do not prove mechanics. |
++| Timing and editorial rhythm | B rapid impacts versus held reactions; deliberate slow-footage gag ~78s | Purposeful contrast in holds, snaps, pauses, overlap and cuts. Match the actual chosen voice and scene energy; no blanket slow easing. |
++| Camera and composition | B ~64–68s pullback, ~69–71s reveal, ~80–83s close-ups; C television inserts | Clear focus and original coverage motivated by information. A cut, held frame and camera move serve different purposes. Preserve screen direction and prepare required views. |
++| Character identity and clean construction | Coherent sampled silhouettes in B/C | Recognizable whole characters, expressive silhouettes, consistent proportions, clothes and shoes through transitions; no detached-looking heads, surface folds or generic replacement limbs. |
++| Environment and depth | B pitch/net, stage and interview spaces | Economical location detail with coherent scale, perspective, layers, occlusion and ground contact. Sets support the action and remain consistent across cuts. |
++| Art direction, color and light | The references' readable figures and simplified settings | A deliberate Samtoons treatment combining subjects, environment, line/shapes, value/color and shading. Review adjacent shots; added realism or light effects are not compulsory. |
++| Secondary action and effects | B impact/prop reveals; C ~40s distinct celebration | Meaningful listener, eye, hand, clothing, crowd or effect choices that support focus. Avoid synchronized automatic motion and copied choreography. |
++| Sound and presentation | Reference sound performance remains unverified | Audition new selected voices/effects/music in context. Preserve character identity and readable captions; actual listening and full encoded checks remain required by the common workflow. |
++| Distinctive style and finish | Craft principles across A/B/C | Original Samtoons identity, polished transitions and purposeful detail. Borrow principles rather than exact characters, compositions, accents, music or jokes. |
++
++## Apply in the existing shot plan and reviews
++
++Consider A and B, with C for the relevant performance lessons. Choose useful excerpts for this story; neither all sources in every shot nor a fixed player/test duration is required. Record one compact mapping per consequential application:
++
++| Source/time and actual observation | Our original shot and intended audience understanding | Planned pose/expression, action/contact, camera and sound | Actual artifact/interval, comparison and unresolved gap |
++|---|---|---|---|
++| Select a relevant observed moment | State what changes and why | Specify enough to derive the needed artwork and controls | Fill after inspection; “benchmark used” is not evidence |
++
++At **staging**, show the unified visual treatment and a small representative sequence from the actual story. Cover ordinary acting/interaction, hard mechanics where present, the intended environment/look and meaningful coverage/edit continuity. Compare the whole result using the shared [quality matrix](../../pipeline/styles/construction.md#evaluate-the-current-production), not only a beauty frame or successful jump.
++
++At **sound direction**, hear the actual candidates against the moment or explicitly retain unverified listening. At **animatic**, review the complete rough cut for performance variety, causality, escalation, rhythm and continuity. At **delivery**, review the exact encoded result, including sound, framing, details, transitions and captions. These remain the four existing decisions, not extra approvals.
++
++Use normal-speed playback for intention/timing, consecutive frames for contact and transitions, and native-size crops for surface defects. State actual review coverage. For a fix, preserve likeness, coherent construction, acting, timing, contact and sound relationship together; a regression in another required quality keeps it unresolved. Compare new subjects/views/actions separately before propagation.
++
++Snapshot this benchmark and only the applicable supporting evidence using the [production convention](../README.md#shared-assets-and-stable-selections). Keep external craft observations, verified football facts and invented parody separate. Completed films retain their selected versions and review history.
+--- /dev/null
++++ after/productions/Samtoons/assets/reuse-v002/README.md
+@@ -0,0 +1,33 @@
++# Samtoons reusable evidence and selections v002
++
++22 September 2026. This index adds video 002's useful work and its known limits without duplicating the large assets. [manifest.json](manifest.json) pins workspace-relative source paths, hashes, ownership and review events. [v001](../reuse-v001/README.md) retains the actual selected voice/brand files and provenance. Existing movies, models and selected takes remain intact.
++
++## What can be reused
++
++| Reference | Useful scope | Required limits and next-use work |
++|---|---|---|
++| v001 selected voices and logo | Exact reviewed dialogue takes, character-energy references and channel artwork | Preserve provenance; a new line or performance is a new review. Do not silently select an old voice for the next cast. |
++| Video 001 delivered native scene | Coherent full-body illustration, fitted controls, clothes, shoes and specific reviewed performances | Scene-bound work, not standalone rigs. Identify dependencies and actual collection/control ownership before extraction. Never transfer source thresholds/weights blindly. |
++| Video 002 `opening-motion.blend` / `opening-dialogue.blend` | v017 environment/physical work and v018 character fitting, speech timing and scoped updates | Use the native source map, then author the next scene's performance. The later acting critique applies despite earlier approval. |
++| Video 002 `defence.blend` | Scoped football contacts, spatial scale, wall/cameo relationships and supporting roles | Inspect new body/ball actions, look and cut continuity separately; do not inherit generic choreography. |
++| Video 002 `remaining.blend` | v025 sleeve-to-hand reconstruction, contextual grips/earpiece/button and selected chase/finale work | File contains 30 scenes retaining older names; saved geometry includes later corrections. Open the selected file/scene rather than infer content from a scene suffix. |
++| `pose-action-v003.blend` | Accepted whole-character run/jump and correction of measured temporal jitter | Fixed-view matched drawings with bounded support deformation; not a universal rig, walk cycle or proof of dialogue acting. New characters and views need inspection. |
++| v029 branding scene and rendered segments | Accepted v028 mascot, intro/outro timing and sound, delivered at 1080p | Editable source is scene-bound. Episode paper gag and end-card arrangement are adaptable, not required story elements. |
++
++## Locate the actual selected source
++
++The [video 002 native delivery guide](../../videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/README.md) and its `edit.json` identify native file, scene, local range and film order. The four packed native files preserve the accepted construction. [Branded delivery](../../videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/README.md) adds independent channel segments; it does not contain replacement original-film sources.
++
++Treat those native snapshots as file-owned render inputs. Some authoring scripts depend on live registries and functions from earlier revisions; they are investigation references, not standalone rebuild commands. Read dependencies and destructive operations before reuse. Copy only the needed files into the new film, record source/hash and ownership, then save/reopen and run its intended next operation. Do not overwrite reviewed assets or regenerate accepted voice takes merely because an edit changes timing.
++
++The [Phase A runtime check](../../../../pipeline/revisions/performance-workflow-v002/runtime-check/verify.json) keyed an existing native camera on a copy of `opening-dialogue.blend`, saved/reopened it and rendered the same frame. [Decoded pixels matched](../../../../pipeline/revisions/performance-workflow-v002/runtime-check/comparison.json). This verifies that bounded file-owned correction/render route. It does **not** establish portable character extraction, new expressions, head turns or performance quality.
++
++## Acceptance and known weaknesses stay together
++
++The manifest cites the actual video 002 journal events: the v003 action proof; v025 hand/movement excerpt; complete v026 cut; and v028 branding staging/sound/animatic. v027/v029 exports retain those decisions without inventing new user acceptance. The original v025 README describes its state before the later scoped approval; use the journal events to resolve that chronology.
++
++Later feedback and the [acting diagnosis](../../videos/002-how-arsenal-won-the-league/research/acting-root-cause-and-next-production.md) identify repetitive facing, resting hands, weak expression changes and insufficient reactions. Do not promote these weaknesses as the accepted target. New shots must demonstrate the complete [benchmark](../../benchmark-v003.md) while retaining good identity, connected construction and contact work.
++
++Rejected v019/v020 held-action adaptations, v024 wrist patches and the early rejected chase remain historical failure evidence. A numerical correction or reused rig does not reverse an artistic rejection. No new normal-speed playback, listening or universal-rig validation is claimed by this catalogue.
++
++Use the [production snapshot convention](../../../README.md#shared-assets-and-stable-selections). Reusing a character, set or brand segment does not establish shared plot continuity, and this catalogue does not choose the next story's cast.
+--- /dev/null
++++ after/productions/Samtoons/assets/reuse-v002/manifest.json
+@@ -0,0 +1,239 @@
++{
++  "version": 2,
++  "date": "2026-09-22",
++  "profile": "Samtoons profile v004",
++  "paths": "All source paths are relative to the Pencil workspace. This index stores references, not extracted rig packages.",
++  "records": [
++    {
++      "id": "existing-voice-brand-selections",
++      "kind": "catalogue_reference",
++      "source": "productions/Samtoons/assets/reuse-v001/manifest.json",
++      "sha256": "bff582b2c33d134f3e9feda7e5f97b0844bc0d1c4d5e01fedbb7010d079cc23d",
++      "bytes": 4478,
++      "scope": "Existing exact voice takes and logo; retain their provenance and review limits. No binary duplication."
++    },
++    {
++      "id": "video001-whole-character",
++      "kind": "scene_bound_reference",
++      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/samtoons-final.blend",
++      "sha256": "db0cc869f1c6c691c2415688d5fa7b60cb580fe24b591428bd944fc6719c96dc",
++      "bytes": 191503644,
++      "owner": "Saved native file; inspect film-local dependency and repair records before extraction.",
++      "scope": "Delivered full-body design/construction and specific reviewed performances, not arbitrary new views or a portable rig."
++    },
++    {
++      "id": "video002-opening-motion",
++      "kind": "scene_bound_reference",
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/opening-motion.blend",
++      "sha256": "e5c5e011acb7c36c50a1e5286da627c2ed0330968f71002cf22dc83e110ef24a",
++      "bytes": 28286767,
++      "owner": "Saved native file. Use delivery-v027/edit.json for scene/local range; do not reconstruct from session-only builder mappings.",
++      "scenes": [
++        "S002_B01_v016_narrator",
++        "S002_B01_v016_opening",
++        "S002_B01_v016_unveiling",
++        "S002_B02_v017_training"
++      ],
++      "scope": "Scoped physical action and dimensional setting reused from v017.",
++      "review_events": [
++        "a398810b-ffa0-45ee-b7f0-32c74b50db7c"
++      ]
++    },
++    {
++      "id": "video002-opening-dialogue",
++      "kind": "scene_bound_reference",
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/opening-dialogue.blend",
++      "sha256": "3964284af0e26cc2b4ff55d3a38dfff90aabc7c853c3ea4a6ad07aacbe9ec081",
++      "bytes": 28371989,
++      "owner": "Saved native file. Use delivery-v027/edit.json for scene/local range; do not reconstruct from session-only builder mappings.",
++      "scenes": [
++        "S002_B01_v016_opening",
++        "S002_B01_v016_unveiling",
++        "S002_B02_v017_training"
++      ],
++      "scope": "v018 character fitting/dialogue surfaces and retiming; later acting audit still applies.",
++      "review_events": [
++        "a398810b-ffa0-45ee-b7f0-32c74b50db7c"
++      ]
++    },
++    {
++      "id": "video002-defence",
++      "kind": "scene_bound_reference",
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/defence.blend",
++      "sha256": "10d05293acbb77d2c89b8cf7325b46335b5989fb4e063ae6985d0e925e5428c5",
++      "bytes": 59806890,
++      "owner": "Saved native file. Use delivery-v027/edit.json for scene/local range; do not reconstruct from session-only builder mappings.",
++      "scenes": [
++        "S002_defence_v021",
++        "S002_defence_v022_City",
++        "S002_defence_v022_coach_reactions",
++        "S002_narrator_v020"
++      ],
++      "scope": "v022 football contacts, wall, set scale, cameos and notification. New performances need review.",
++      "review_events": [
++        "a398810b-ffa0-45ee-b7f0-32c74b50db7c"
++      ]
++    },
++    {
++      "id": "video002-remaining",
++      "kind": "scene_bound_reference",
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources/remaining.blend",
++      "sha256": "c97c34f47cfe01623c84a4da80a4a0c30bfe1c266f5f1b4567ba9f5acf3697b9",
++      "bytes": 88644028,
++      "owner": "Saved native file. Use delivery-v027/edit.json for scene/local range; do not reconstruct from session-only builder mappings.",
++      "scenes": [
++        "S002_clarity_v024_CP00",
++        "S002_clarity_v024_CP01",
++        "S002_clarity_v024_CP02_far",
++        "S002_clarity_v024_CP02_near",
++        "S002_clarity_v024_CP03_panic",
++        "S002_clarity_v024_CP03_pep",
++        "S002_clarity_v024_CP04_courier",
++        "S002_clarity_v024_CP04_reply",
++        "S002_clarity_v024_CP05",
++        "S002_clarity_v024_FR01",
++        "S002_clarity_v024_FR02",
++        "S002_clarity_v024_FR03_complain",
++        "S002_clarity_v024_FR03_cross",
++        "S002_clarity_v024_FR04",
++        "S002_clarity_v024_FR05",
++        "S002_clarity_v024_N03",
++        "S002_clarity_v024_N04_dark",
++        "S002_clarity_v024_N04_meltdown",
++        "S002_clarity_v024_N04_reveal",
++        "S002_clarity_v024_N04_tap",
++        "S002_clarity_v024_N04_trophy",
++        "S002_clarity_v024_VH01",
++        "S002_clarity_v024_VH02",
++        "S002_clarity_v024_VH03",
++        "S002_clarity_v024_VH03_answer",
++        "S002_clarity_v024_VH04_button",
++        "S002_clarity_v024_VH04_mikel",
++        "S002_clarity_v024_VH04_operator",
++        "S002_clarity_v024_VH04_two",
++        "S002_clarity_v024_VH05"
++      ],
++      "scope": "v025 native hand/forearm reconstruction, chase and finale. Generic acting/facing is a known weakness, not a target.",
++      "review_events": [
++        "81418351-6d13-4530-aea9-1e7d7be88ad1",
++        "a398810b-ffa0-45ee-b7f0-32c74b50db7c"
++      ]
++    },
++    {
++      "id": "whole-character-action",
++      "kind": "scene_bound_reference",
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/pose-action-v003/pose-action-v003.blend",
++      "sha256": "1711b486913bbbc1ec3524e9516262be681d8d870712b28626e771c3f6d579b8",
++      "bytes": 11884299,
++      "owner": "Saved native file; pose selector, travel, camera and bounded support compensation. See its README.",
++      "scope": "Accepted fixed-view Bruno run/jump and temporal correction; no approval of later chase adaptations or ordinary acting.",
++      "review_events": [
++        "b928ddc3-30ae-46cb-990b-e45b96d5bb79"
++      ]
++    },
++    {
++      "id": "channel-branding",
++      "kind": "scene_bound_reference",
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/samtoons-branding.blend",
++      "sha256": "2e20368edb14ef7c09b9cf340f109fa02dca162583c4ab2bdc986990e84efe94",
++      "bytes": 1700437,
++      "owner": "Saved native intro/outro scenes; approved mixes and cue records remain in the source video.",
++      "scope": "Accepted v028 channel mascot/timing/sound rendered as v029. Episode paper gag and end-card placement are adaptable, not mandatory.",
++      "review_events": [
++        "a906c386-7b01-4750-a8bf-eb4334c81d82",
++        "0a6a4e05-090e-4f38-a256-5618b78c0584",
++        "1395be85-69ca-4d20-8485-77db06bf011d"
++      ]
++    },
++    {
++      "id": "intro-clip",
++      "kind": "rendered_segment",
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/intro-1080p.mp4",
++      "sha256": "7c85f60a981ce95ad5677f8316d6ae8c3dab1d31cba81d2ac02943e8917d04ab",
++      "bytes": 616136,
++      "scope": "Rendered branding segment; assess fit and publication end-screen needs for the new film."
++    },
++    {
++      "id": "outro-clip",
++      "kind": "rendered_segment",
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/outro-1080p.mp4",
++      "sha256": "2afdbcdaf34a2f2bc53780f9f4edb48b7e543fd8b00b6fb48552e1acb4e52753",
++      "bytes": 1709543,
++      "scope": "Rendered branding segment; assess fit and publication end-screen needs for the new film."
++    }
++  ],
++  "supporting_files": [
++    {
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/README.md",
++      "sha256": "a6a3b341b17bf6f4e2855c9b27d1918d3246bae7f915297032b58d1568f9780d",
++      "bytes": 7758
++    },
++    {
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/edit.json",
++      "sha256": "82ed6b90ca1cb7cf84fa291ede827bd5b06705ac990110d4abe74497a0e86690",
++      "bytes": 8724
++    },
++    {
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/sources.json",
++      "sha256": "9c33254dde7fb00cac2795ff4bcac3c826b8bc83fb4bf36cdd02491d2f4f271f",
++      "bytes": 647
++    },
++    {
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v027/source-dependencies.json",
++      "sha256": "26d47c4d4bc8c2df98c49a8a3c53a4c2885f4e5e69bae4fc0af9faff8ddec18e",
++      "bytes": 699
++    },
++    {
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/README.md",
++      "sha256": "0809f277d979f470f7717a14437c664a2176b542f48f11af048c9ccae534bd2a",
++      "bytes": 3538
++    },
++    {
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/pose-action-v003/README.md",
++      "sha256": "178bc7b760161097dba1768c92b73213dbc11db571066923cbf359098ae7d676",
++      "bytes": 3711
++    },
++    {
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/pose-action-v003/poses.json",
++      "sha256": "388b404ad2e2617fa34b66b0e2b99a4c1b63f47eb25c4d4edf107aa1b4e3eee3",
++      "bytes": 5597
++    },
++    {
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/pose-action-v003/provenance.json",
++      "sha256": "ba558ae78327b2b7a899b66e96f96e1c3d26fe130fdf2d346c6fbe663e8328e8",
++      "bytes": 1611
++    },
++    {
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/hand-repair-v025/README.md",
++      "sha256": "13fe5000e172335c61290c140b5ee53b45e03425cf954eb2915a26c222b70ccb",
++      "bytes": 5327
++    },
++    {
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/scripts/render_delivery_v027.py",
++      "sha256": "93d95cebc1f9e2f32f5d66e00001283f7413cdacee482b0d3639c1b6fa76f510",
++      "bytes": 3494
++    },
++    {
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/scripts/check_temporal_continuity.py",
++      "sha256": "4663f45e28bea7d8a5ba77c6f9968f38abff5e384323512f8c52f1a4270ba415",
++      "bytes": 3490
++    },
++    {
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/research/benchmark-audit-v001/report.md",
++      "sha256": "07ea14d293a241185c473339749ced094794ca9218eed4c9add6cb683cab0e45",
++      "bytes": 15570
++    },
++    {
++      "source": "productions/Samtoons/videos/002-how-arsenal-won-the-league/research/acting-root-cause-and-next-production.md",
++      "sha256": "42c1a58af0e02377fd583721dcfc201fbc63922d6de806d34977ae24a2b8d04c",
++      "bytes": 11215
++    }
++  ],
++  "review_journal": "productions/Samtoons/videos/002-how-arsenal-won-the-league/events.jsonl",
++  "known_limitations": [
++    "No new artistic or listening review performed for this catalogue.",
++    "Whole-cut user acceptance does not establish benchmark parity; later feedback rejects repetitive acting as the future standard.",
++    "Only the opening-dialogue source received the Phase A copied-scene key/save/reopen/render check; this is not an extraction or performance test.",
++    "Reference paths may be used to locate assets; adopt needed files into a new film and bind their selected versions before review."
++  ]
++}

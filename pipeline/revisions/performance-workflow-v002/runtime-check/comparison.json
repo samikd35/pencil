@@ -1,0 +1,13 @@
+{
+  "same_png_bytes": false,
+  "before_sha256": "52f795a4bd2b25cdd090cc5cb7ea8953ec74242765487c9bbbb26101e9c499a4",
+  "after_sha256": "550e57c3b85b01961343f23c998efb763ea59519aef50cf1cb9d702718e0d3a3",
+  "scope": "Same existing frame and camera correction before/after native save/reopen; no performance or listening review.",
+  "same_decoded_pixels": true,
+  "different_channels": 0,
+  "maximum_channel_difference": 0,
+  "decoded_rgb_sha256": [
+    "d5a84bb2a298764570a6670f6f0bf7829a1f5527843a487e3061e9dba368c576",
+    "d5a84bb2a298764570a6670f6f0bf7829a1f5527843a487e3061e9dba368c576"
+  ]
+}

@@ -1,0 +1,53 @@
+# Layered 2.5D / parallax
+
+Layered scenery with a clear foreground, action plane and distance.
+
+This card demonstrates an environment treatment. It can be adapted to other character styles, including stickman, caricature, chibi and mascots. Keep the chosen character's construction and add layered staging; review the combination in the actual shot. The current selector records one preset, so additional environment choices belong in the film brief and authored scene. New camera angles are not supplied by this treatment.
+
+Read [the shared construction guide](../construction.md) first. Use native curves/flat meshes on simple motion controls; this choice does not require a new armature or Grease Pencil backend.
+
+## Visual quality target
+
+[Yuki 7 — Hong Kong style frame](https://chromosphere-la.com/case-study/yuki7/) — Hong Kong style frame: Elaine Lee · Yuki 7 / Chromosphere.
+
+A rich graphic scene with clear foreground vehicles, midground people and architecture, and receding streets. The still is a quality reference for layered staging; it cannot by itself demonstrate parallax, and the source production uses a more extensive 2D/3D hybrid pipeline.
+
+- Clearly separated foreground, action plane and distant environment through scale, overlap and value.
+- A controlled luminous palette that makes the intended focal area stand out.
+- Environment detail and small figures designed in one coherent graphic style.
+
+The reference is the design and finish target for the story's own artwork. Compare it with a native film frame at the existing staging checkpoint, then preserve those qualities through the required poses. The linked internal benchmark below documents reusable mechanics.
+
+## Proven construction starting point
+
+These notes describe the internal box-test construction. Adapt the mechanisms and design new artwork to the selected reference and story.
+
+- Character: Use one filled torso/hips shape, driven sleeve and shorts subcurves, a modest native head, solid hair and a simple collar/pocket.
+- Surface: Native emission colors and clean outlines; no texture dependency.
+- Presentation: Place native foreground/background shapes on separate planes and key their horizontal movement at different rates (.7 versus .15/.2 in the benchmark). Orthographic Z separation alone does not create parallax.
+
+## Reproduce the internal benchmark
+
+`build_samples.py:apply_style` consumes `{"design": "human", "finish": "flat", "presentation": "parallax"}`. It reuses the named attachment/curve helpers listed in the shared guide. `patterned` owns surface treatments; `render_sample` owns portrait framing and pixel dimensions. The box benchmark can be reproduced with:
+
+```sh
+/Applications/Blender.app/Contents/MacOS/Blender -b --python pipeline/styles/build_samples.py -- --style parallax --out NEW_OUTPUT_DIRECTORY
+```
+
+For a film, save this option with `pipeline/styles.py select`, then use `resolve` to load its pinned reference, quality targets and construction notes. Design the film's artwork and poses from that target and its own story. Review a finished representative frame beside the reference in the existing staging checkpoint, then check the design through movement.
+
+## Limits and evidence
+
+Depth comes from layered motion; it does not create new character viewing angles. New combinations or major proportion changes require a focused motion check. Use the catalogue's current evidence links for the exact build, all-frame connection check and any reviewed motion proof; the research source establishes the style, not rig compatibility.
+
+[External quality reference](../samples/parallax.png) · [Catalogue](../gallery.html)
+
+References: [Primary source](https://helpx.adobe.com/animate/desktop/using/layer-depth.html)
+
+Internal construction evidence (different artwork from the menu reference): [Native guide pose](../../../experiments/009_style_gallery/artifacts/gallery-v003/parallax/guide-pose.blend), [guide wrist/framing check](../../../experiments/009_style_gallery/artifacts/gallery-v003/parallax/guide-checks.json), [motion benchmark](../../../experiments/009_style_gallery/artifacts/gallery-v003/parallax/character.blend), [240-frame connection check](../../../experiments/009_style_gallery/artifacts/gallery-v003/parallax/checks.json). The guide uses a separate open-arm still pose; the benchmark retains the original action. Motion references below predate the hand-layer correction; this guide revision is still-only evidence.
+
+## Motion-proof lesson
+
+Foreground and background trees move at different rates while the character and box retain source motion. Staging remains readable. Camera perspective and new character views are not established.
+
+[Actual review](../../../experiments/009_style_gallery/proofs/workflow-v001/parallax/animatic-v001/review.md) · [Encoded proof](../../../experiments/009_style_gallery/proofs/workflow-v001/parallax/animatic-v001/animatic-with-sound.mp4) · [Successive-frame evidence](../../../experiments/009_style_gallery/proofs/workflow-v001/parallax/animatic-v001/release-successive-frames.png). This is a limited benchmark, not a blanket promise for every action.

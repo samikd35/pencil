@@ -1,0 +1,15 @@
+{
+  "tool": "Built-in image_gen.imagegen",
+  "generated_source": "/Users/samikd/.codex/generated_images/01a0c8d1-7919-78f2-a177-af7ad445305d/exec-b1fdef2c-1964-40dd-ab6e-d4cdc037b645.png",
+  "references": [
+    "assets/lewandowski-v001/reference-supported.png",
+    "assets/football-v001/players-reference.png"
+  ],
+  "scope": "Lewandowski Bayern caricature construction. Illustrative training memory, not match footage. Raphinha/Flick artwork reused, not their prior motion.",
+  "files": {
+    "lewandowski-reference.png": "d863e5a95463e77c63d1508ae576e661bd57e1d4c18ad037c92dddcdf8a8850a",
+    "flick.json": "d9de303f7f67eaf0e5b2ac3a96480266588b9f5f83c5685f2ce25dc4ab60d0c7",
+    "lewandowski.json": "b167569ba31075b9932a16431290178ef954b70d534c50ac88e656cabe2f0743",
+    "raphinha.json": "f43b1fb34364ac7cb14acdcf82e380cd6c1077b3cad490046c204467a7cff798"
+  }
+}

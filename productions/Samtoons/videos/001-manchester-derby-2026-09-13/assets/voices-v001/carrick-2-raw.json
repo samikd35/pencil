@@ -1,0 +1,126 @@
+{
+  "text": "Any points with that?",
+  "voice": "bm_daniel",
+  "speed": 0.96,
+  "sample_rate": 24000,
+  "duration_seconds": 1.6313333333333333,
+  "load_and_generate_seconds": 3.9853705420027836,
+  "runtime": "/Users/samikd/MyProjects/PyBlend/Episode 1/production/voice_runtime",
+  "model_sha256": {
+    "kokoro-v1.0.fp16.onnx": "f3a290d384fbb27966d462905c71a46cef9e5fd00516b40df32a0b4afe77ac96",
+    "voices-v1.0.bin": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+  },
+  "phonemes": [
+    {
+      "phoneme": "\u02cc",
+      "start": 0.108,
+      "end": 0.158
+    },
+    {
+      "phoneme": "\u025b",
+      "start": 0.158,
+      "end": 0.183
+    },
+    {
+      "phoneme": "n",
+      "start": 0.183,
+      "end": 0.258
+    },
+    {
+      "phoneme": "i",
+      "start": 0.258,
+      "end": 0.333
+    },
+    {
+      "phoneme": " ",
+      "start": 0.333,
+      "end": 0.408
+    },
+    {
+      "phoneme": "p",
+      "start": 0.408,
+      "end": 0.458
+    },
+    {
+      "phoneme": "\u02c8",
+      "start": 0.458,
+      "end": 0.533
+    },
+    {
+      "phoneme": "\u0254",
+      "start": 0.533,
+      "end": 0.583
+    },
+    {
+      "phoneme": "\u026a",
+      "start": 0.583,
+      "end": 0.633
+    },
+    {
+      "phoneme": "n",
+      "start": 0.633,
+      "end": 0.683
+    },
+    {
+      "phoneme": "t",
+      "start": 0.683,
+      "end": 0.733
+    },
+    {
+      "phoneme": "s",
+      "start": 0.733,
+      "end": 0.783
+    },
+    {
+      "phoneme": " ",
+      "start": 0.783,
+      "end": 0.833
+    },
+    {
+      "phoneme": "w",
+      "start": 0.833,
+      "end": 0.883
+    },
+    {
+      "phoneme": "\u026a",
+      "start": 0.883,
+      "end": 0.933
+    },
+    {
+      "phoneme": "\u00f0",
+      "start": 0.933,
+      "end": 0.983
+    },
+    {
+      "phoneme": " ",
+      "start": 0.983,
+      "end": 1.033
+    },
+    {
+      "phoneme": "\u00f0",
+      "start": 1.033,
+      "end": 1.083
+    },
+    {
+      "phoneme": "\u02c8",
+      "start": 1.083,
+      "end": 1.208
+    },
+    {
+      "phoneme": "a",
+      "start": 1.208,
+      "end": 1.308
+    },
+    {
+      "phoneme": "t",
+      "start": 1.308,
+      "end": 1.6213333333333333
+    },
+    {
+      "phoneme": "?",
+      "start": 1.6213333333333333,
+      "end": 1.6213333333333333
+    }
+  ],
+  "listening_review": "Not heard by assistant; technical smoke test only."
+}

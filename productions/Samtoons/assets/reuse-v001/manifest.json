@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "profile": "Samtoons profile v002",
+  "files": [
+    {
+      "path": "voices/takes.json",
+      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/assets/voices-v002/takes.json",
+      "sha256": "a1c18b5e4af78e53420a82f9d5f20eb9d788f5a1fcfbea6096784e326c4a9d08",
+      "bytes": 3704
+    },
+    {
+      "path": "voices/bruno.wav",
+      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/assets/voices-v002/bruno.wav",
+      "sha256": "48e802d3bac62f3e8cc8e8fa143a8b1e64928295ce858ee5e8d78ee27e8a02f9",
+      "bytes": 154284
+    },
+    {
+      "path": "voices/bruno-raw.wav",
+      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/assets/voices-v002/bruno-raw.wav",
+      "sha256": "ac723f756e85052e1888ac3718bf24a577c3649e44b7078ea7c8d7f01d3bdcff",
+      "bytes": 60374
+    },
+    {
+      "path": "voices/oliver.wav",
+      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/assets/voices-v002/oliver.wav",
+      "sha256": "7113136f76c81f30d2958820a2d0930046fbedfe087896ee6be4fba63916600d",
+      "bytes": 434064
+    },
+    {
+      "path": "voices/oliver-raw.wav",
+      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/assets/voices-v002/oliver-raw.wav",
+      "sha256": "19dd37f1d45ff4a218efa2403a8740a96be43afce876e86f1ff90a0480ec7300",
+      "bytes": 148694
+    },
+    {
+      "path": "voices/carrick.wav",
+      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/assets/voices-v002/carrick.wav",
+      "sha256": "52954c899f277a4473710f9434cead14cf969887b03518c325b1a561dc77d160",
+      "bytes": 158322
+    },
+    {
+      "path": "voices/carrick-raw.wav",
+      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/assets/voices-v002/carrick-raw.wav",
+      "sha256": "20f9a4786c0bf8e3ddf5b4b8506d9b73debb9901a2581aeaac810868919ed773",
+      "bytes": 60374
+    },
+    {
+      "path": "samtoons-logo.png",
+      "source": "productions/Samtoons/branding/v001/samtoons-logo.png",
+      "sha256": "68ba8ed462330e5b77f65e46ad509c29090b053d3b8385849af92c94e8e6592f",
+      "bytes": 451811
+    }
+  ],
+  "voice_review": {
+    "journal": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/events.jsonl",
+    "event_id": "6b052785-47ba-4042-86b0-a11824def730",
+    "scope": "Only the three exact directed-voices-v002 performances. New lines, emotions and contexts require review. Agent listening not performed."
+  },
+  "provenance": "Voice generation and processing metadata retained verbatim in voices/takes.json; its paths refer to the original video. Recorded Apache-2.0 describes the model. Brand provenance is in productions/Samtoons/branding/v001/README.md and generation-prompts.md.",
+  "scene_bound_references": [
+    {
+      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/samtoons-final.blend",
+      "sha256": "db0cc869f1c6c691c2415688d5fa7b60cb580fe24b591428bd944fc6719c96dc",
+      "bytes": 191503644
+    },
+    {
+      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/subscribe-card.png",
+      "sha256": "70f841aba0422bb61efad7e9668005e0cc11c2101ceaeeeb9173ae950eac52cd",
+      "bytes": 34891
+    },
+    {
+      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/samtoons-final-1080p.mp4",
+      "sha256": "4cb9cca4f8da2a3e2938e7fdea11624fb0edaf9cfa6700b936d04948fc3cf239",
+      "bytes": 41602220
+    },
+    {
+      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/scripts/repair_feedback.py",
+      "sha256": "6f681e1d84225e7ef81ae09659f007b09b58592043c6d029c32802b1a9a61db3",
+      "bytes": 6543
+    },
+    {
+      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/scripts/repair_cast.py",
+      "sha256": "3f972c491e1cad9fdb65920cc00be6d69648e724839b098bb66b45bff814bb98",
+      "bytes": 36422
+    },
+    {
+      "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/repair-v002/construction-checks.json",
+      "sha256": "3918bc821505352be72a40b3f6d9f2710b2f17d3c38abe1c65bea93da3576c6c",
+      "bytes": 359
+    }
+  ],
+  "limitations": "Scene-bound references are not standalone rigs and have not been extraction-tested. Do not run film builders on import or assume portability. Copy required dependencies into a new video and inspect actual demanded views/actions before adoption."
+}

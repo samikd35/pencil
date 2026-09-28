@@ -1,0 +1,28 @@
+[
+  {
+    "file": "perez.jpg",
+    "source_page": "https://www.realmadrid.com/en-US/the-club/board-members/florentino-perez-rodriguez",
+    "image_url": "https://publish.realmadrid.com/content/dam/portals/realmadrid-com/en-us/core-content/assemblies/pages/generic-pages/el-club/junta-directiva/01-multimedias-junta-directiva/florentino-perez.jpg",
+    "bytes": 50830,
+    "sha256": "1b6132611d9edb5829a3a111acd0c2e797b5473262bb438b7698312b4f8f0f56",
+    "use": "Identity reference only; not production artwork. Historical portrait; exact 2026 appearance unverified."
+  },
+  {
+    "file": "muller.png",
+    "error": "The read operation timed out"
+  },
+  {
+    "file": "muller-bundesliga.png",
+    "source_page": "https://www.bundesliga.com/en/bundesliga/player/thomas-muller",
+    "image_url": "https://assets.bundesliga.com/player/dfl-obj-0000ia-dfl-clu-00000g-dfl-sea-0001k9.png",
+    "sha256": "8e5a42bee36a8e446e45556c615c07b9ef7f190b01c2c1046e49a813bf7bf616",
+    "use": "Historical likeness anchor only; not current employment or kit assertion. Two official Bayern CDN downloads timed out."
+  },
+  {
+    "local": "video001-frame35.png",
+    "source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/samtoons-final-1080p.mp4",
+    "time_seconds": 35,
+    "purpose": "Established finish reference only; not this film character/pose artwork",
+    "sha256": "04e187c8adcf9045fc986113a1c74b8daa42a2e6da4e5f2080a4b6660d93069b"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "generator": "Built-in image_gen",
+  "reference": "assets/option-a-v001/bruno-underpainting.png",
+  "treatment": "Approved Option A; new whole-body underdrawings on the same native joint controls",
+  "files": [
+    {
+      "path": "cast-1.png",
+      "sha256": "151d60c95de8676b40a0ba3d06ffedb4fdcdc65d0c0fcebbe439562c37c4a0bb",
+      "source": "/Users/samikd/.codex/generated_images/01a0a10c-1df6-7cf3-a6e1-e959b8d7314e/exec-5f248042-385c-49d7-ae8f-11ab479c9dc3.png",
+      "characters": [
+        "Haaland",
+        "Maresca",
+        "Rashford",
+        "Mainoo"
+      ]
+    },
+    {
+      "path": "cast-2.png",
+      "sha256": "ec76d1289d4f64f291a80c69c4d3c8b64d45f39308a026ccdaf86f8044edccc0",
+      "source": "/Users/samikd/.codex/generated_images/01a0a10c-1df6-7cf3-a6e1-e959b8d7314e/exec-64fa0ad8-2fbc-403f-a65d-367896a0287f.png",
+      "characters": [
+        "Maguire",
+        "Martinez",
+        "Fernandez",
+        "Lammens"
+      ]
+    }
+  ],
+  "adaptation": "Native UV crops, measured landmark coordinates normalized to a 1024-unit drawing width, continuous mesh bound to joints, native eyes/brows/mouth. Reweighted torso and limbs after rendered artifact checks. Final animatic revision adds native drawn forearms/hands and rounded joints to the new cast after the raster bends failed review. Upper-arm geometry sits behind the continuous clothing artwork.",
+  "review": "New characters belong to the combined animatic candidate; not separately claimed user accepted."
+}

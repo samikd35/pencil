@@ -1,0 +1,23 @@
+{
+  "text": "The one where Barcelona scored four against you.",
+  "direction": "",
+  "seed": 241103,
+  "sample_rate": 24000,
+  "duration_seconds": 3.5200416666666667,
+  "load_seconds": 1.9227712079991761,
+  "generation_seconds": 2.579948083999625,
+  "peak_memory_bytes": 4815495077,
+  "model_source": {
+    "repository": "mlx-community/Qwen3-TTS-12Hz-0.6B-Base-4bit",
+    "revision": "0d6bb6fe33f92d47a507e23b9148940e8366ab5b",
+    "tokenizer": "Shared existing Qwen12Hz tokenizer, model speech_tokenizer symlink",
+    "method": "Reference-conditioned synthetic character voice; original opening B02 remains identity anchor"
+  },
+  "sha256": "d34acff50c3933d9a22df919960686d422602ef4d9ce10e575fdfa0e2e12a962",
+  "heard_by_agent": false,
+  "processing": "Unprocessed local model output; no gain or pitch change",
+  "reference_wav": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/003-barca-emergency-meeting/assets/voices-s09-v001/robert-answer.wav",
+  "reference_text": "Wrong question. He spent years telling me to score more.",
+  "reference_sha256": "0938fcdfcdeeccc0c09952d5dabbc6599930cbb7a245ead28c01c23f22d17bab",
+  "direction_applied": false
+}

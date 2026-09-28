@@ -1,0 +1,42 @@
+[
+  {
+    "actor": "Muller",
+    "crop": [
+      120,
+      220,
+      342,
+      519
+    ],
+    "frames": [
+      38,
+      146,
+      150,
+      154,
+      206,
+      210,
+      214,
+      215
+    ],
+    "source": "productions/Samtoons/videos/003-barca-emergency-meeting/artifacts/staging-v001/call-performance-v006/call-review.mp4"
+  },
+  {
+    "actor": "Perez",
+    "crop": [
+      781,
+      244,
+      1053,
+      521
+    ],
+    "frames": [
+      38,
+      146,
+      150,
+      154,
+      206,
+      210,
+      214,
+      215
+    ],
+    "source": "productions/Samtoons/videos/003-barca-emergency-meeting/artifacts/staging-v001/call-performance-v006/call-review.mp4"
+  }
+]

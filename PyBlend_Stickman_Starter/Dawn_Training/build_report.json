@@ -1,0 +1,102 @@
+{
+  "blender": "5.2.0 LTS",
+  "build_hash": "fbe6228777e7",
+  "scenes": [
+    "DT_01_CHARACTER_STUDIO",
+    "DT_03_DAWN_TRAINING",
+    "DT_02_POSE_TESTS"
+  ],
+  "assets": {
+    "FRONT": {
+      "object": "DT_GP_FRONT",
+      "rig": "DT_RIG_FRONT",
+      "layers": 43,
+      "bones": 25,
+      "curves": 2339
+    },
+    "BACK": {
+      "object": "DT_GP_BACK",
+      "rig": "DT_RIG_BACK",
+      "layers": 26,
+      "bones": 18,
+      "curves": 1900
+    },
+    "RUN": {
+      "object": "DT_GP_RUN",
+      "rig": "DT_RIG_RUN",
+      "layers": 26,
+      "bones": 18,
+      "curves": 1182
+    },
+    "CROUCH": {
+      "object": "DT_GP_CROUCH",
+      "rig": "DT_RIG_CROUCH",
+      "layers": 23,
+      "bones": 16,
+      "curves": 1053
+    },
+    "POWER": {
+      "object": "DT_GP_POWER",
+      "rig": "DT_RIG_POWER",
+      "layers": 23,
+      "bones": 18,
+      "curves": 1356
+    },
+    "SIT": {
+      "object": "DT_GP_SIT",
+      "rig": "DT_RIG_SIT",
+      "layers": 25,
+      "bones": 17,
+      "curves": 1364
+    },
+    "FOCUS": {
+      "object": "DT_GP_FOCUS",
+      "rig": "DT_RIG_FOCUS",
+      "layers": 18,
+      "bones": 9,
+      "curves": 816
+    }
+  },
+  "shots": [
+    {
+      "name": "01_A_NEW_DAY",
+      "start": 1,
+      "end": 120
+    },
+    {
+      "name": "02_FOCUS",
+      "start": 121,
+      "end": 240
+    },
+    {
+      "name": "03_MOVEMENT",
+      "start": 241,
+      "end": 360
+    },
+    {
+      "name": "04_POWER_UP",
+      "start": 361,
+      "end": 480
+    },
+    {
+      "name": "05_RELEASE",
+      "start": 481,
+      "end": 600
+    },
+    {
+      "name": "06_VICTORY",
+      "start": 601,
+      "end": 720
+    }
+  ],
+  "blast_origin": [
+    -2.089660167694092,
+    5.397866249084473
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": 720
+}

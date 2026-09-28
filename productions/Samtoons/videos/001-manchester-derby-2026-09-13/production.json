@@ -1,0 +1,1338 @@
+{
+  "version": 1,
+  "title": "Ten Men. Two Posts. No Points.",
+  "status": "Enzo audio correction and Subscribe end card complete; playback review ready",
+  "active_repair": {
+    "revision": "animatic-v004",
+    "duration_seconds": 157,
+    "review": "artifacts/animatic-v004/review.html",
+    "native": "artifacts/animatic-v004/combined-animatic-v004.blend",
+    "notes": "artifacts/animatic-v004/revision-notes.md"
+  },
+  "storyline": "storyline-v005.md",
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 3768,
+    "sample_rate": 48000
+  },
+  "shots": [
+    {
+      "id": "S01-01",
+      "start_frame": 1,
+      "events": {
+        "greeting": 58,
+        "badge_reveal": 113,
+        "start": 0,
+        "dialogue_0": 58,
+        "head_turn": 46
+      }
+    },
+    {
+      "id": "S02-02",
+      "start_frame": 193,
+      "events": {
+        "tussle": 19,
+        "grounded": 59,
+        "kick_out": 76,
+        "delayed_appeal": 153,
+        "innocent_halo": 213,
+        "complaint": 224,
+        "bruno_fall": 89,
+        "bruno_ground_contact": 109,
+        "bruno_rise": 130,
+        "bruno_standing": 147,
+        "red_card": 275,
+        "start": 0,
+        "dialogue_1": 153
+      }
+    },
+    {
+      "id": "S02-03",
+      "start_frame": 529,
+      "events": {
+        "stamp": 37,
+        "start": 0,
+        "dialogue_2": 8,
+        "dialogue_3": 66,
+        "dialogue_4": 179
+      }
+    },
+    {
+      "id": "S03-04",
+      "start_frame": 769,
+      "events": {
+        "strike": 38,
+        "premature": 41,
+        "post_hit": 57,
+        "realisation": 78,
+        "scratch": 96,
+        "post_imitation": 155
+      }
+    },
+    {
+      "id": "S04-05",
+      "start_frame": 985,
+      "events": {
+        "strike": 36,
+        "post_hit": 51,
+        "start": 0,
+        "dialogue_5": 145,
+        "dialogue_6": 244
+      }
+    },
+    {
+      "id": "S05-06",
+      "start_frame": 1273,
+      "events": {
+        "cross": 27,
+        "finish": 109,
+        "flag": 156,
+        "start": 0
+      }
+    },
+    {
+      "id": "S05-07",
+      "start_frame": 1537,
+      "events": {
+        "onside": 44,
+        "no_touch": 63,
+        "goal_given": 128,
+        "start": 0,
+        "dialogue_7": 44,
+        "enzo_sleeping": 88
+      }
+    },
+    {
+      "id": "S05-08",
+      "start_frame": 1753,
+      "events": {
+        "reboot": 105,
+        "start": 0,
+        "dialogue_8": 19,
+        "dialogue_9": 105
+      }
+    },
+    {
+      "id": "S06-09",
+      "start_frame": 1969,
+      "events": {
+        "strike": 23,
+        "tip": 42,
+        "post_hit": 49,
+        "start": 0,
+        "dialogue_10": 107
+      }
+    },
+    {
+      "id": "S07-10",
+      "start_frame": 2137,
+      "events": {
+        "header": 73,
+        "wide": 83,
+        "start": 0
+      }
+    },
+    {
+      "id": "S08-11",
+      "start_frame": 2353,
+      "events": {
+        "start": 0,
+        "dialogue_11": 43
+      }
+    },
+    {
+      "id": "S08-12",
+      "start_frame": 2473,
+      "events": {
+        "strike": 38,
+        "glove_parry": 67,
+        "landing": 100,
+        "start": 0
+      }
+    },
+    {
+      "id": "S08-13",
+      "start_frame": 2641,
+      "events": {
+        "start": 0,
+        "dialogue_12": 53
+      }
+    },
+    {
+      "id": "S09-14",
+      "start_frame": 2761,
+      "events": {
+        "name_bark": 105,
+        "start": 0,
+        "dialogue_13": 56,
+        "dialogue_14": 105,
+        "dialogue_15": 183
+      }
+    },
+    {
+      "id": "S10-15",
+      "start_frame": 3049,
+      "events": {
+        "collapse": 115,
+        "tears": 118,
+        "deadpan_reply": 220,
+        "letter_presented": 0,
+        "letter_handoff": 74,
+        "crumple": 150,
+        "discard": 177,
+        "bin_landing": 203,
+        "cheek_flow": 122,
+        "first_falling_drop": 135,
+        "start": 0,
+        "dialogue_16": 42,
+        "dialogue_17": 220
+      }
+    },
+    {
+      "id": "S10-VAR-exit",
+      "start_frame": 3313,
+      "events": {
+        "start": 0,
+        "door_open": 26,
+        "step_1": 64,
+        "step_2": 87,
+        "step_3": 110
+      }
+    },
+    {
+      "id": "S10-16",
+      "start_frame": 3457,
+      "events": {
+        "float_plop": 188,
+        "whistle_tail": 287,
+        "start": 0,
+        "dialogue_18": 203,
+        "roof_reveal": 0,
+        "cascade": 41,
+        "biting": 229
+      }
+    }
+  ],
+  "assets": {
+    "paper-handoff": {
+      "path": "assets/audio-v003/paper-handoff.wav",
+      "sha256": "4881e483b8b698397afb1fe87b5988886dd54d46388648130b2a4cd3cbf6959e",
+      "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "paper by Ezcah \u2014 https://freesound.org/people/Ezcah/sounds/248178/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed.",
+      "notes": "{\"start\": 0.12, \"source_seconds\": 0.55, \"filters\": \"highpass=f=140,afade=t=in:d=0.01,afade=t=out:st=0.45:d=0.1,alimiter=limit=0.5:level=false\", \"download\": \"https://cdn.freesound.org/previews/248/248178_1900515-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+    },
+    "paper-crumple": {
+      "path": "assets/audio-v003/paper-crumple.wav",
+      "sha256": "aec7d37ae05bb3a9fd306c730dd07070f4927f6e2d134ee4594f0950e3c80501",
+      "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "paper by Ezcah \u2014 https://freesound.org/people/Ezcah/sounds/248178/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed.",
+      "notes": "{\"start\": 0.4, \"source_seconds\": 1.6, \"filters\": \"atempo=1.6,highpass=f=120,afade=t=in:d=0.02,afade=t=out:st=0.85:d=0.15,alimiter=limit=0.55:level=false\", \"download\": \"https://cdn.freesound.org/previews/248/248178_1900515-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+    },
+    "card-flick": {
+      "path": "assets/audio-v003/card-flick.wav",
+      "sha256": "ed7eed8b26c2ea8414abb0f03f02db4db34972197a95ed8eafdc764664f2fcb5",
+      "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "paper by Ezcah \u2014 https://freesound.org/people/Ezcah/sounds/248178/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed.",
+      "notes": "{\"start\": 1.6, \"source_seconds\": 0.16, \"filters\": \"highpass=f=800,afade=t=in:d=0.003,afade=t=out:st=0.08:d=0.08\", \"download\": \"https://cdn.freesound.org/previews/248/248178_1900515-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+    },
+    "shirt-move": {
+      "path": "assets/audio-v003/shirt-move.wav",
+      "sha256": "c06498b9e083f4fc3c3c2d577827fc4af6d0caf237afe8f326350f767fcdcfe3",
+      "source": "https://freesound.org/people/NachtmahrTV/sounds/556711/",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "cloth by NachtmahrTV \u2014 https://freesound.org/people/NachtmahrTV/sounds/556711/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed.",
+      "notes": "{\"start\": 0.56, \"source_seconds\": 0.65, \"filters\": \"highpass=f=120,afade=t=in:d=0.02,afade=t=out:st=0.5:d=0.15\", \"download\": \"https://cdn.freesound.org/previews/556/556711_5620304-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+    },
+    "ball-strike": {
+      "path": "assets/audio-v003/ball-strike.wav",
+      "sha256": "a5670c8592b954ae9d5336e7fbc84c0ddb7c785467a911bb9db4e4936c297ec1",
+      "source": "https://freesound.org/people/volivieri/sounds/37157/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "kick by volivieri \u2014 https://freesound.org/people/volivieri/sounds/37157/ \u2014 https://creativecommons.org/licenses/by/4.0/; excerpted and processed.",
+      "notes": "{\"start\": 0.32, \"source_seconds\": 0.55, \"filters\": \"highpass=f=55,afade=t=in:d=0.003,afade=t=out:st=0.35:d=0.2\", \"download\": \"https://cdn.freesound.org/previews/37/37157_374422-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+    },
+    "glove-parry": {
+      "path": "assets/audio-v003/glove-parry.wav",
+      "sha256": "8a57001aee01f0da23ca6ec6f9055115650a0639387c11d336b8234d0c0aae9e",
+      "source": "https://freesound.org/people/volivieri/sounds/37157/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "kick by volivieri \u2014 https://freesound.org/people/volivieri/sounds/37157/ \u2014 https://creativecommons.org/licenses/by/4.0/; excerpted and processed.",
+      "notes": "{\"start\": 0.33, \"source_seconds\": 0.35, \"filters\": \"highpass=f=180,lowpass=f=5200,afade=t=in:d=0.003,afade=t=out:st=0.18:d=0.17\", \"download\": \"https://cdn.freesound.org/previews/37/37157_374422-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+    },
+    "sob-A": {
+      "path": "assets/audio-v003/sob-A.wav",
+      "sha256": "559bdecc0eaf2a1c8f92a876041ee615e76dc6efe33654ef7c173fdaa2548f57",
+      "source": "https://freesound.org/people/jacobmathiassen/sounds/254869/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "sob by jacobmathiassen \u2014 https://freesound.org/people/jacobmathiassen/sounds/254869/ \u2014 https://creativecommons.org/licenses/by/4.0/; excerpted and processed.",
+      "notes": "{\"start\": 0.65, \"source_seconds\": 3.35, \"filters\": \"highpass=f=100,lowpass=f=8000,afade=t=in:d=0.05,afade=t=out:st=2.95:d=0.4,alimiter=limit=0.65:level=false\", \"download\": \"https://cdn.freesound.org/previews/254/254869_173571-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+    },
+    "sob-B": {
+      "path": "assets/audio-v003/sob-B.wav",
+      "sha256": "b3a39b4a9e707daf628df41dd3ab3fa2f9d4dabc0dd0e3d153e9c0fb4f8b4cd4",
+      "source": "https://freesound.org/people/jacobmathiassen/sounds/254869/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "sob by jacobmathiassen \u2014 https://freesound.org/people/jacobmathiassen/sounds/254869/ \u2014 https://creativecommons.org/licenses/by/4.0/; excerpted and processed.",
+      "notes": "{\"start\": 2.05, \"source_seconds\": 3.1, \"filters\": \"rubberband=pitch=1.12,highpass=f=130,afade=t=in:d=0.05,afade=t=out:st=2.7:d=0.4,alimiter=limit=0.65:level=false\", \"download\": \"https://cdn.freesound.org/previews/254/254869_173571-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+    },
+    "innocent-chime": {
+      "path": "assets/audio-v003/innocent-chime.wav",
+      "sha256": "cc9adf91a89d9079da33a004997027a238f8acb42793fcff8b52e5579b7eeefd",
+      "source": "Original graphic synthesis in scripts/prepare_sound_audition.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "comic-recoil": {
+      "path": "assets/audio-v003/comic-recoil.wav",
+      "sha256": "c554a4a49afb79f766611bdc4be6155de0c440603e4896dcdd414b2ad9211f43",
+      "source": "Original graphic synthesis in scripts/prepare_sound_audition.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "dry-impact": {
+      "path": "assets/audio-v002/dry-impact.wav",
+      "sha256": "e63d24f9c2d3f2028256cf1baa274b1b891514e5d110919f904e14cc4618d84e",
+      "source": "Original synthesis in scripts/prepare_action_audio.py; new audition only",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "whistle": {
+      "path": "assets/audio-v002/ref-whistle.wav",
+      "sha256": "989cdfce394bd2efa2939da2fdbf29a8eed84a0192322162d707bac51b8db781",
+      "source": "Original synthesis in scripts/prepare_action_audio.py; new audition only",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "bruno-directed": {
+      "path": "assets/voices-v002/bruno.wav",
+      "sha256": "48e802d3bac62f3e8cc8e8fa143a8b1e64928295ce858ee5e8d78ee27e8a02f9",
+      "source": "Qwen3-TTS-1.7B VoiceDesign official hosted demo; see generation-requests.json and raw take metadata",
+      "license": "Apache-2.0 model; original fictional performance, no real-person recording or clone",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "A young adult male footballer with a bright, slightly raspy voice, SHOUTING furiously across a football pitch to get the referee's attention. Two explosive projected calls, the second louder and more outraged. Strong breath pressure, sharp attack and a stretched vowel. Comic theatrical indignation. This is a full-throated shout, not ordinary speech. Clean dry recording, no crowd."
+    },
+    "oliver-directed": {
+      "path": "assets/voices-v002/oliver.wav",
+      "sha256": "7113136f76c81f30d2958820a2d0930046fbedfe087896ee6be4fba63916600d",
+      "source": "Qwen3-TTS-1.7B VoiceDesign official hosted demo; see generation-requests.json and raw take metadata",
+      "license": "Apache-2.0 model; original fictional performance, no real-person recording or clone",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "An adult British English man with a thin, pinched mid-high voice. He is tearfully begging for forgiveness, on the edge of a ridiculous emotional breakdown. His breath catches before the second so, his voice trembles and cracks on sorry into a pleading whimper. Play this as an embarrassed man trying and failing to hold back tears. Urgent and compressed, about two seconds. Clean dry close microphone, no music."
+    },
+    "carrick-directed": {
+      "path": "assets/voices-v002/carrick.wav",
+      "sha256": "52954c899f277a4473710f9434cead14cf969887b03518c325b1a561dc77d160",
+      "source": "Qwen3-TTS-1.7B VoiceDesign official hosted demo; see generation-requests.json and raw take metadata",
+      "license": "Apache-2.0 model; original fictional performance, no real-person recording or clone",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "A middle-aged British English man with a low, slightly gravelly voice and a restrained northern English accent. Bone-dry sarcasm, fed up but completely controlled. Deliver this short question as a cutting comeback, stress POINTS, then let with that fall dismissively. Brisk, about one and a half seconds, no introductory breath or extra words. A deadpan comic punchline. Clean dry close microphone, no music."
+    },
+    "servo": {
+      "path": "assets/audio-v001/head-servo.wav",
+      "sha256": "7e1e1bb74755d0e587d0bfacca57b2269382b0b9603880d8b8399b148d1917db",
+      "source": "Original analytic oscillator; see prepare_staging.py. Graphic robot motion, not recorded machinery.",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "badge": {
+      "path": "assets/audio-v001/badge-pop.wav",
+      "sha256": "192985b8216257fa190d978e7eeea407b4fcf6c983911c8fa7d568fe79224956",
+      "source": "Original analytic oscillator; graphic pop on ENZO badge reveal.",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "morning": {
+      "path": "assets/film-voices-v002/morning.wav",
+      "sha256": "d5576335af0f1793e5d63cfdc6de72fca0e27f12bca73f7444cae6c016aede56",
+      "source": "New local Qwen3-TTS VoiceDesign acted take; assets/film-voices-v002; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Young adult male, bright medium-low resonant voice, light Scandinavian English accent, clipped playful robot rhythm, clear consonants. Buoyant greeting from a supremely pleased footballer: warm smiling MORNING, then affectionate confident PEP. Slight comic certainty, brief and conversational, no announcer cadence."
+    },
+    "and-him": {
+      "path": "assets/film-voices-v002/and-him.wav",
+      "sha256": "7e8cfcbeaf97cf0361cb20ebac0e4017f3150ee8ee76282159e04c06287733d3",
+      "source": "New local Qwen3-TTS VoiceDesign acted take; assets/film-voices-v002; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Young adult male, youthful light Manchester English accent, slightly nasal forward voice, cheeky and impatient. A sharp indignant stadium shout to a distant referee: AND HIM?! Fast explosive attack on HIM, genuinely outraged, upward snap at the end. Project across the pitch."
+    },
+    "fishing": {
+      "path": "assets/film-voices-v002/fishing.wav",
+      "sha256": "57d1bfd8568c5199b01766e83c8a50db06a3e1fa5c515739790ea34988f1a080",
+      "source": "New local Qwen3-TTS VoiceDesign acted take; assets/film-voices-v002; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Young adult male, youthful light Manchester English accent, slightly nasal forward voice, cheeky and impatient. Petulant cartoon footballer storming off: spit out FINE with a grumpy punch, quick irritated breath, then announce I am going FISHING with exaggerated wounded dignity. Keep it brisk."
+    },
+    "less-problem": {
+      "path": "assets/film-voices-v002/less-problem.wav",
+      "sha256": "883f13e3ece933899ed7cd1dd35f1e8e21aec3ccd8c359952ad9279031a76c8a",
+      "source": "New local Qwen3-TTS VoiceDesign acted take; assets/film-voices-v002; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Adult male, medium pitch slightly rough forward voice, light Portuguese English accent, expressive urgent football captain. An overconfident captain delighted that an opponent has gone. Exhale relieved ONE LESS, then smug satisfied PROBLEM. A private little victory, not narration."
+    },
+    "contract": {
+      "path": "assets/film-voices-v002/contract.wav",
+      "sha256": "d85f168ae7c13387359964090a866d550003ace3c11b92199a242005c17ff395",
+      "source": "New local Qwen3-TTS VoiceDesign acted take; assets/film-voices-v002; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Deep rich British male baritone with confident theatrical diction, smug experienced professional. A cartoon goalpost who believes he is the star goalkeeper. Booming theatrical TWO SAVES! A beat of smug self admiration, then an imperious brisk demand: I WANT A NEW CONTRACT. Grand and funny, strong consonants."
+    },
+    "var": {
+      "path": "assets/film-voices-v003/var.wav",
+      "sha256": "7b6a4e0b8228ebd18dcef488c1a70bea852f1b8bd7b01181f372afefdd1d4080",
+      "source": "Local Qwen3-TTS VoiceDesign VAR excuse; film-voices-v003; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Middle-aged British man, dry clipped bureaucratic diction, thin precise voice. An officious British official issuing a ludicrously overconfident verdict. ONSIDE. NO TOUCH. Then dismiss the objection with smug certainty: ENZO was SLEEPING. A short deliberate pause, then an emphatic final GOAL. Dry comic finality, crisp authoritative diction, no soft fading endings."
+    },
+    "him": {
+      "path": "assets/film-voices-v002/him.wav",
+      "sha256": "e6cf119edfa722d3e60847e39b7c2d1961fad471e5500b4733c3510fdbd47c4f",
+      "source": "New local Qwen3-TTS VoiceDesign acted take; assets/film-voices-v002; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Young adult man, light Argentine English accent, rough mid-low voice with urgent force. Angry captain yelling an urgent objection over a celebrating crowd. WHAT ABOUT HIM?! Abrupt, strongly projected and incredulous; land HIM as an accusation."
+    },
+    "yes": {
+      "path": "assets/film-voices-v002/yes.wav",
+      "sha256": "5307245ce873b6476533ffd2363e2176013ee931c7dfb3db73b75ddb932cf548",
+      "source": "New local Qwen3-TTS VoiceDesign acted take; assets/film-voices-v002; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Young adult male, bright medium-low resonant voice, light Scandinavian English accent, clipped playful robot rhythm, clear consonants. A triumphant footballer yelling at the top of his lungs after a goal. One explosive YEEEES! with a rough joyous attack, sustained ecstatic shout and forceful finish. Big celebration, not spoken agreement."
+    },
+    "ours": {
+      "path": "assets/film-voices-v002/ours.wav",
+      "sha256": "acf1ca964cc336f09c683477ccf53bfab2165db88b33e4519175dd130a26c80d",
+      "source": "New local Qwen3-TTS VoiceDesign acted take; assets/film-voices-v002; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Young adult male, light Belgian English accent, clear warm medium voice. A goalkeeper gasping in startled relief after a near miss. OURS WORKS TOO! Sudden delighted discovery, incredulous upward lilt and a smile, projected to his teammates."
+    },
+    "surely": {
+      "path": "assets/film-voices-v002/surely.wav",
+      "sha256": "4ca316ba5403165f06e770960e7a3b96c57890196bcc077c08d030e014eab54a",
+      "source": "New local Qwen3-TTS VoiceDesign acted take; assets/film-voices-v002; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Adult male, medium pitch slightly rough forward voice, light Portuguese English accent, expressive urgent football captain. A football captain holding his breath as the last chance opens up. A tense hopeful SURELY, then a very brief pause and pleading NOW. Vulnerable suspended expectation, not a bored flat murmur."
+    },
+    "wolf": {
+      "path": "assets/film-voices-v002/wolf.wav",
+      "sha256": "12b7779683bb33c993fa8ff82e755bf216e589a5b4e888204090465158c15e3f",
+      "source": "New local Qwen3-TTS VoiceDesign acted take; assets/film-voices-v002; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Young adult male, bright medium-low resonant voice, light Scandinavian English accent, clipped playful robot rhythm, clear consonants. A smug striker warmly praising his goalkeeper like a very good dog. Low playful GOOD, then affectionately amused WOLF. Short and dry, with a smile in the voice."
+    },
+    "thanks": {
+      "path": "assets/film-voices-v002/thanks.wav",
+      "sha256": "8cd5a3cef1091d0df8e1d2936122904deec59a05fac4f928c514c4b9c166222d",
+      "source": "New local Qwen3-TTS VoiceDesign acted take; assets/film-voices-v002; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Young adult male, bright medium-low resonant voice, light Scandinavian English accent, clipped playful robot rhythm, clear consonants. Cheerful victorious gratitude, completely oblivious that he has the wrong name. Bright THANKS with an affectionate pleased PEP, compact and naturally conversational."
+    },
+    "enzo": {
+      "path": "assets/film-voices-v002/enzo.wav",
+      "sha256": "5b671f400c78668297a6e170ba23299665a65e9ae77a07712743847bb8967c90",
+      "source": "New local Qwen3-TTS VoiceDesign acted take; assets/film-voices-v002; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Middle-aged man, slightly gravelly low voice, light Italian English accent, forceful clipped articulation. The wrong name again! A furious comic coach abruptly barking ENZO! with chest pressure, a gravelly explosive EHN and an emphatic ZOH. This is a sudden outburst that interrupts a relaxed scene."
+    },
+    "pep-two": {
+      "path": "assets/film-voices-v002/pep-two.wav",
+      "sha256": "9d995447dfbc34c55d3975637a0cc76fb739d7bb0a5d8904e8598164f82470db",
+      "source": "New local Qwen3-TTS VoiceDesign acted take; assets/film-voices-v002; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Young adult male, bright medium-low resonant voice, light Scandinavian English accent, clipped playful robot rhythm, clear consonants. Earnest comic robot footballer who thinks he has found a brilliant answer. Deadpan PEP, deliberate TWO POINT, then a bright proud OH! Small thoughtful pause, sincere delight, dry comic confidence."
+    },
+    "biting": {
+      "path": "assets/film-voices-v002/biting.wav",
+      "sha256": "8d5996a551d432b5f908987db395a6f74e144027deb0703b4382e00e8c6e12f6",
+      "source": "New local Qwen3-TTS VoiceDesign acted take; assets/film-voices-v002; listening review pending",
+      "license": "Apache-2.0 model; original fictional performance",
+      "attribution": "Qwen Team / https://github.com/QwenLM/Qwen3-TTS",
+      "notes": "Young adult male, youthful light Manchester English accent, slightly nasal forward voice, cheeky and impatient. Cheeky young Mancunian enjoying his secret prank. Intimate amused aside with an audible grin: KEEP GOING, REF! then a short conspiratorial pause and delighted THEY ARE BITING. Playful smug pleasure, not a flat statement."
+    },
+    "float": {
+      "path": "assets/audio-v002/float-plop.wav",
+      "sha256": "1b9549abd3784c7e64e50c67f2b077202c43b1de423ff51b7ea7467cbbbc9517",
+      "source": "Original comic effect, prepare_action_audio / preserved audio-v002",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "tail": {
+      "path": "assets/audio-v002/whistle-squeak.wav",
+      "sha256": "14c0c2da40c76dc407a2d3e6040a5cc424277fa5cc2d85bc56cf1cab238df0d3",
+      "source": "Original comic effect, prepare_action_audio / preserved audio-v002",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "post-clang": {
+      "path": "assets/rashford-v002/post-clang.wav",
+      "sha256": "df3a895cf8edc96c181a66a163a681e351d86f28dbe26d509567edb569003bd3",
+      "source": "Original synthesis in scripts/prepare_rashford_audio.py",
+      "license": "Original production synthesis",
+      "attribution": "",
+      "notes": "Metallic graphic impact for this staging audition; creative listening remains for review."
+    },
+    "roof-water": {
+      "path": "assets/audio-v002/comic-fountain.wav",
+      "sha256": "0f4871e6d13fdefd38a80a3f020ec44d686d482418b20703531a16ccf28346cf",
+      "source": "Original comic water synthesis, preserved assets/audio-v002",
+      "license": "Original production synthesis",
+      "attribution": "",
+      "notes": "New roof placement is an animatic audition; no listening acceptance claimed."
+    },
+    "boot-step": {
+      "path": "assets/door-v003/boot-step.wav",
+      "sha256": "8a0a021e90900cca49cceca0182e41b8f9354cdfb17609e6b2a8437c8ec29ae8",
+      "source": "Original seeded short boot contact synthesis in prepare_revision_audio.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    }
+  },
+  "cues": [
+    {
+      "id": "S02-tussle-shirt-move",
+      "shot": "S02-02",
+      "event": "tussle",
+      "asset": "shirt-move",
+      "stem": "foley",
+      "intent": "Clothing friction in the tussle",
+      "duration_seconds": 0.65,
+      "gain_db": -12,
+      "pan": -0.2,
+      "onset_seconds": 0,
+      "offset_frames": 0
+    },
+    {
+      "id": "S02-kick_out-dry-impact",
+      "shot": "S02-02",
+      "event": "kick_out",
+      "asset": "dry-impact",
+      "stem": "foley",
+      "intent": "One contact, followed by exaggerated reaction",
+      "duration_seconds": 0.2,
+      "gain_db": -4,
+      "pan": -0.2,
+      "onset_seconds": 0,
+      "offset_frames": 0
+    },
+    {
+      "id": "S02-bruno_ground_contact-dry-impact",
+      "shot": "S02-02",
+      "event": "bruno_ground_contact",
+      "asset": "dry-impact",
+      "stem": "foley",
+      "intent": "Soft comic landing",
+      "duration_seconds": 0.2,
+      "gain_db": -2,
+      "pan": -0.1,
+      "onset_seconds": 0,
+      "offset_frames": 0
+    },
+    {
+      "id": "S02-bruno_rise-shirt-move",
+      "shot": "S02-02",
+      "event": "bruno_rise",
+      "asset": "shirt-move",
+      "stem": "foley",
+      "intent": "Clothing shuffle on recovery",
+      "duration_seconds": 0.65,
+      "gain_db": -10,
+      "pan": 0,
+      "onset_seconds": 0,
+      "offset_frames": 0
+    },
+    {
+      "id": "S02-complaint-paper-handoff",
+      "shot": "S02-02",
+      "event": "complaint",
+      "asset": "paper-handoff",
+      "stem": "foley",
+      "intent": "Paper interrupts Bruno\u2019s dramatic outrage",
+      "duration_seconds": 0.55,
+      "gain_db": -5,
+      "pan": 0,
+      "onset_seconds": 0,
+      "offset_frames": 0
+    },
+    {
+      "id": "S02-red_card-card-flick",
+      "shot": "S02-02",
+      "event": "red_card",
+      "asset": "card-flick",
+      "stem": "foley",
+      "intent": "Flick on raised card",
+      "duration_seconds": 0.16,
+      "gain_db": -4,
+      "pan": 0.25,
+      "onset_seconds": 0,
+      "offset_frames": 0
+    },
+    {
+      "id": "S02-red_card-whistle",
+      "shot": "S02-02",
+      "event": "red_card",
+      "asset": "whistle",
+      "stem": "foley",
+      "intent": "Decision whistle",
+      "duration_seconds": 0.42,
+      "gain_db": -6,
+      "pan": 0.25,
+      "onset_seconds": 0,
+      "offset_frames": 0
+    },
+    {
+      "id": "S08-strike-ball-strike",
+      "shot": "S08-12",
+      "event": "strike",
+      "asset": "ball-strike",
+      "stem": "foley",
+      "intent": "Recorded football strike",
+      "duration_seconds": 0.55,
+      "gain_db": -2,
+      "pan": -0.3,
+      "onset_seconds": 0.03,
+      "offset_frames": 0
+    },
+    {
+      "id": "S08-glove_parry-glove-parry",
+      "shot": "S08-12",
+      "event": "glove_parry",
+      "asset": "glove-parry",
+      "stem": "foley",
+      "intent": "Short sharp deflection contact; processed ball recording, not a catch",
+      "duration_seconds": 0.35,
+      "gain_db": -2,
+      "pan": 0.25,
+      "onset_seconds": 0.02,
+      "offset_frames": 0
+    },
+    {
+      "id": "S10-letter_handoff-paper-handoff",
+      "shot": "S10-15",
+      "event": "letter_handoff",
+      "asset": "paper-handoff",
+      "stem": "foley",
+      "intent": "Letter changes hands before crying",
+      "duration_seconds": 0.55,
+      "gain_db": -5,
+      "pan": 0.1,
+      "onset_seconds": 0,
+      "offset_frames": 0
+    },
+    {
+      "id": "S10-tears-sob-B",
+      "shot": "S10-15",
+      "event": "tears",
+      "asset": "sob-B",
+      "stem": "vocal-reaction",
+      "intent": "Recorded male sobbing reaction; final speaking voice remains to cast",
+      "duration_seconds": 3.1,
+      "gain_db": -5,
+      "pan": -0.25,
+      "onset_seconds": 0,
+      "offset_frames": 0
+    },
+    {
+      "id": "S10-crumple-paper-crumple",
+      "shot": "S10-15",
+      "event": "crumple",
+      "asset": "paper-crumple",
+      "stem": "foley",
+      "intent": "Carrick crumples the apology",
+      "duration_seconds": 1.0051875,
+      "gain_db": -3,
+      "pan": 0.2,
+      "onset_seconds": 0,
+      "offset_frames": 0
+    },
+    {
+      "id": "S10-bin_landing-dry-impact",
+      "shot": "S10-15",
+      "event": "bin_landing",
+      "asset": "dry-impact",
+      "stem": "foley",
+      "intent": "Tiny bin landing accent",
+      "duration_seconds": 0.2,
+      "gain_db": -20,
+      "pan": 0.15,
+      "onset_seconds": 0,
+      "offset_frames": 0
+    },
+    {
+      "id": "S02-bruno_fall-comic-recoil",
+      "shot": "S02-02",
+      "event": "bruno_fall",
+      "asset": "comic-recoil",
+      "stem": "foley",
+      "intent": "Brief graphic recoil accent",
+      "duration_seconds": 0.28,
+      "gain_db": -8,
+      "pan": 0,
+      "onset_seconds": 0,
+      "offset_frames": 0
+    },
+    {
+      "id": "S02-innocent_halo-innocent-chime",
+      "shot": "S02-02",
+      "event": "innocent_halo",
+      "asset": "innocent-chime",
+      "stem": "comic-accents",
+      "intent": "Innocent halo chime; A leaves this quiet",
+      "duration_seconds": 0.6,
+      "gain_db": -9,
+      "pan": 0,
+      "onset_seconds": 0,
+      "offset_frames": 0
+    },
+    {
+      "id": "dialogue_0",
+      "shot": "S01-01",
+      "event": "dialogue_0",
+      "asset": "morning",
+      "stem": "dialogue",
+      "intent": "Young adult male, bright medium-low resonant voice, light Scandinavian English accent, clipped playful robot rhythm, clear consonants. Buoyant greeting from a supremely pleased footballer: warm smiling MORNING, then affectionate confident PEP. Slight comic certainty, brief and conversational, no announcer cadence.",
+      "duration_seconds": "13979/24000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_1",
+      "shot": "S02-02",
+      "event": "dialogue_1",
+      "asset": "bruno-directed",
+      "stem": "dialogue",
+      "intent": "A young adult male footballer with a bright, slightly raspy voice, SHOUTING furiously across a football pitch to get the referee's attention. Two explosive projected calls, the second louder and more outraged. Strong breath pressure, sharp attack and a stretched vowel. Comic theatrical indignation. This is a full-throated shout, not ordinary speech. Clean dry recording, no crowd.",
+      "duration_seconds": "25697/24000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_2",
+      "shot": "S02-03",
+      "event": "dialogue_2",
+      "asset": "and-him",
+      "stem": "dialogue",
+      "intent": "Young adult male, youthful light Manchester English accent, slightly nasal forward voice, cheeky and impatient. A sharp indignant stadium shout to a distant referee: AND HIM?! Fast explosive attack on HIM, genuinely outraged, upward snap at the end. Project across the pitch.",
+      "duration_seconds": "16427/24000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_3",
+      "shot": "S02-03",
+      "event": "dialogue_3",
+      "asset": "fishing",
+      "stem": "dialogue",
+      "intent": "Young adult male, youthful light Manchester English accent, slightly nasal forward voice, cheeky and impatient. Petulant cartoon footballer storming off: spit out FINE with a grumpy punch, quick irritated breath, then announce I am going FISHING with exaggerated wounded dignity. Keep it brisk.",
+      "duration_seconds": "273/200",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_4",
+      "shot": "S02-03",
+      "event": "dialogue_4",
+      "asset": "less-problem",
+      "stem": "dialogue",
+      "intent": "Adult male, medium pitch slightly rough forward voice, light Portuguese English accent, expressive urgent football captain. An overconfident captain delighted that an opponent has gone. Exhale relieved ONE LESS, then smug satisfied PROBLEM. A private little victory, not narration.",
+      "duration_seconds": "6443/6000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_5",
+      "shot": "S04-05",
+      "event": "dialogue_5",
+      "asset": "contract",
+      "stem": "dialogue",
+      "intent": "Deep rich British male baritone with confident theatrical diction, smug experienced professional. A cartoon goalpost who believes he is the star goalkeeper. Booming theatrical TWO SAVES! A beat of smug self admiration, then an imperious brisk demand: I WANT A NEW CONTRACT. Grand and funny, strong consonants.",
+      "duration_seconds": "75413/24000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_6",
+      "shot": "S04-05",
+      "event": "dialogue_6",
+      "asset": "bruno-directed",
+      "stem": "dialogue",
+      "intent": "A young adult male footballer with a bright, slightly raspy voice, SHOUTING furiously across a football pitch to get the referee's attention. Two explosive projected calls, the second louder and more outraged. Strong breath pressure, sharp attack and a stretched vowel. Comic theatrical indignation. This is a full-throated shout, not ordinary speech. Clean dry recording, no crowd.",
+      "duration_seconds": "25697/24000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_7",
+      "shot": "S05-07",
+      "event": "dialogue_7",
+      "asset": "var",
+      "stem": "dialogue",
+      "intent": "Middle-aged British man, dry clipped bureaucratic diction, thin precise voice. An officious British official issuing a ludicrously overconfident verdict. ONSIDE. NO TOUCH. Then dismiss the objection with smug certainty: ENZO was SLEEPING. A short deliberate pause, then an emphatic final GOAL. Dry comic finality, crisp authoritative diction, no soft fading endings.",
+      "duration_seconds": "100591/24000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_8",
+      "shot": "S05-08",
+      "event": "dialogue_8",
+      "asset": "him",
+      "stem": "dialogue",
+      "intent": "Young adult man, light Argentine English accent, rough mid-low voice with urgent force. Angry captain yelling an urgent objection over a celebrating crowd. WHAT ABOUT HIM?! Abrupt, strongly projected and incredulous; land HIM as an accusation.",
+      "duration_seconds": "1717/2000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_9",
+      "shot": "S05-08",
+      "event": "dialogue_9",
+      "asset": "yes",
+      "stem": "dialogue",
+      "intent": "Young adult male, bright medium-low resonant voice, light Scandinavian English accent, clipped playful robot rhythm, clear consonants. A triumphant footballer yelling at the top of his lungs after a goal. One explosive YEEEES! with a rough joyous attack, sustained ecstatic shout and forceful finish. Big celebration, not spoken agreement.",
+      "duration_seconds": "31369/24000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_10",
+      "shot": "S06-09",
+      "event": "dialogue_10",
+      "asset": "ours",
+      "stem": "dialogue",
+      "intent": "Young adult male, light Belgian English accent, clear warm medium voice. A goalkeeper gasping in startled relief after a near miss. OURS WORKS TOO! Sudden delighted discovery, incredulous upward lilt and a smile, projected to his teammates.",
+      "duration_seconds": "25421/24000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_11",
+      "shot": "S08-11",
+      "event": "dialogue_11",
+      "asset": "surely",
+      "stem": "dialogue",
+      "intent": "Adult male, medium pitch slightly rough forward voice, light Portuguese English accent, expressive urgent football captain. A football captain holding his breath as the last chance opens up. A tense hopeful SURELY, then a very brief pause and pleading NOW. Vulnerable suspended expectation, not a bored flat murmur.",
+      "duration_seconds": "28637/24000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_12",
+      "shot": "S08-13",
+      "event": "dialogue_12",
+      "asset": "wolf",
+      "stem": "dialogue",
+      "intent": "Young adult male, bright medium-low resonant voice, light Scandinavian English accent, clipped playful robot rhythm, clear consonants. A smug striker warmly praising his goalkeeper like a very good dog. Low playful GOOD, then affectionately amused WOLF. Short and dry, with a smile in the voice.",
+      "duration_seconds": "14713/8000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_13",
+      "shot": "S09-14",
+      "event": "dialogue_13",
+      "asset": "thanks",
+      "stem": "dialogue",
+      "intent": "Young adult male, bright medium-low resonant voice, light Scandinavian English accent, clipped playful robot rhythm, clear consonants. Cheerful victorious gratitude, completely oblivious that he has the wrong name. Bright THANKS with an affectionate pleased PEP, compact and naturally conversational.",
+      "duration_seconds": "24971/24000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_14",
+      "shot": "S09-14",
+      "event": "dialogue_14",
+      "asset": "enzo",
+      "stem": "dialogue",
+      "intent": "Middle-aged man, slightly gravelly low voice, light Italian English accent, forceful clipped articulation. The wrong name again! A furious comic coach abruptly barking ENZO! with chest pressure, a gravelly explosive EHN and an emphatic ZOH. This is a sudden outburst that interrupts a relaxed scene.",
+      "duration_seconds": "5971/12000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_15",
+      "shot": "S09-14",
+      "event": "dialogue_15",
+      "asset": "pep-two",
+      "stem": "dialogue",
+      "intent": "Young adult male, bright medium-low resonant voice, light Scandinavian English accent, clipped playful robot rhythm, clear consonants. Earnest comic robot footballer who thinks he has found a brilliant answer. Deadpan PEP, deliberate TWO POINT, then a bright proud OH! Small thoughtful pause, sincere delight, dry comic confidence.",
+      "duration_seconds": "9079/8000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_16",
+      "shot": "S10-15",
+      "event": "dialogue_16",
+      "asset": "oliver-directed",
+      "stem": "dialogue",
+      "intent": "An adult British English man with a thin, pinched mid-high voice. He is tearfully begging for forgiveness, on the edge of a ridiculous emotional breakdown. His breath catches before the second so, his voice trembles and cracks on sorry into a pleading whimper. Play this as an embarrassed man trying and failing to hold back tears. Urgent and compressed, about two seconds. Clean dry close microphone, no music.",
+      "duration_seconds": "24109/8000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_17",
+      "shot": "S10-15",
+      "event": "dialogue_17",
+      "asset": "carrick-directed",
+      "stem": "dialogue",
+      "intent": "A middle-aged British English man with a low, slightly gravelly voice and a restrained northern English accent. Bone-dry sarcasm, fed up but completely controlled. Deliver this short question as a cutting comeback, stress POINTS, then let with that fall dismissively. Brisk, about one and a half seconds, no introductory breath or extra words. A deadpan comic punchline. Clean dry close microphone, no music.",
+      "duration_seconds": "879/800",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "dialogue_18",
+      "shot": "S10-16",
+      "event": "dialogue_18",
+      "asset": "biting",
+      "stem": "dialogue",
+      "intent": "Young adult male, youthful light Manchester English accent, slightly nasal forward voice, cheeky and impatient. Cheeky young Mancunian enjoying his secret prank. Intimate amused aside with an audible grin: KEEP GOING, REF! then a short conspiratorial pause and delighted THEY ARE BITING. Playful smug pleasure, not a flat statement.",
+      "duration_seconds": "38993/12000",
+      "gain_db": 0,
+      "pan": 0
+    },
+    {
+      "id": "FILM S01 / Morning Pep-head_turn",
+      "shot": "S01-01",
+      "event": "head_turn",
+      "asset": "servo",
+      "stem": "foley",
+      "intent": "head turn comic action accent",
+      "duration_seconds": "17/50",
+      "gain_db": -3,
+      "pan": 0
+    },
+    {
+      "id": "FILM S01 / Morning Pep-badge_reveal",
+      "shot": "S01-01",
+      "event": "badge_reveal",
+      "asset": "badge",
+      "stem": "foley",
+      "intent": "badge reveal comic action accent",
+      "duration_seconds": "11/50",
+      "gain_db": -4,
+      "pan": 0
+    },
+    {
+      "id": "FILM S02 / Gone fishing-stamp",
+      "shot": "S02-03",
+      "event": "stamp",
+      "asset": "dry-impact",
+      "stem": "foley",
+      "intent": "stamp comic action accent",
+      "duration_seconds": "1/5",
+      "gain_db": -5,
+      "pan": 0
+    },
+    {
+      "id": "FILM S04 / Post saves again-strike",
+      "shot": "S04-05",
+      "event": "strike",
+      "asset": "ball-strike",
+      "stem": "foley",
+      "intent": "strike comic action accent",
+      "duration_seconds": "11/20",
+      "gain_db": -5,
+      "pan": 0
+    },
+    {
+      "id": "FILM S04 / Post saves again-post_hit",
+      "shot": "S04-05",
+      "event": "post_hit",
+      "asset": "post-clang",
+      "stem": "foley",
+      "intent": "post hit comic action accent",
+      "duration_seconds": ".85",
+      "gain_db": -3,
+      "pan": 0
+    },
+    {
+      "id": "FILM S05 / Goal then flag-cross",
+      "shot": "S05-06",
+      "event": "cross",
+      "asset": "ball-strike",
+      "stem": "foley",
+      "intent": "cross comic action accent",
+      "duration_seconds": "11/20",
+      "gain_db": -5,
+      "pan": 0
+    },
+    {
+      "id": "FILM S05 / Goal then flag-finish",
+      "shot": "S05-06",
+      "event": "finish",
+      "asset": "ball-strike",
+      "stem": "foley",
+      "intent": "finish comic action accent",
+      "duration_seconds": "11/20",
+      "gain_db": -5,
+      "pan": 0
+    },
+    {
+      "id": "FILM S05 / Goal then flag-flag",
+      "shot": "S05-06",
+      "event": "flag",
+      "asset": "card-flick",
+      "stem": "foley",
+      "intent": "flag comic action accent",
+      "duration_seconds": "4/25",
+      "gain_db": -5,
+      "pan": 0
+    },
+    {
+      "id": "FILM S05 / VAR office-onside",
+      "shot": "S05-07",
+      "event": "onside",
+      "asset": "card-flick",
+      "stem": "foley",
+      "intent": "onside comic action accent",
+      "duration_seconds": "4/25",
+      "gain_db": -5,
+      "pan": 0
+    },
+    {
+      "id": "FILM S05 / VAR office-no_touch",
+      "shot": "S05-07",
+      "event": "no_touch",
+      "asset": "card-flick",
+      "stem": "foley",
+      "intent": "no touch comic action accent",
+      "duration_seconds": "4/25",
+      "gain_db": -5,
+      "pan": 0
+    },
+    {
+      "id": "FILM S05 / VAR office-goal_given",
+      "shot": "S05-07",
+      "event": "goal_given",
+      "asset": "dry-impact",
+      "stem": "foley",
+      "intent": "goal given comic action accent",
+      "duration_seconds": "1/5",
+      "gain_db": -5,
+      "pan": 0
+    },
+    {
+      "id": "FILM S05 / What about him-reboot",
+      "shot": "S05-08",
+      "event": "reboot",
+      "asset": "servo",
+      "stem": "foley",
+      "intent": "reboot comic action accent",
+      "duration_seconds": "17/50",
+      "gain_db": -5,
+      "pan": 0
+    },
+    {
+      "id": "FILM S06 / Ours works too-strike",
+      "shot": "S06-09",
+      "event": "strike",
+      "asset": "ball-strike",
+      "stem": "foley",
+      "intent": "strike comic action accent",
+      "duration_seconds": "11/20",
+      "gain_db": -5,
+      "pan": 0
+    },
+    {
+      "id": "FILM S06 / Ours works too-tip",
+      "shot": "S06-09",
+      "event": "tip",
+      "asset": "glove-parry",
+      "stem": "foley",
+      "intent": "tip comic action accent",
+      "duration_seconds": "7/20",
+      "gain_db": -5,
+      "pan": 0
+    },
+    {
+      "id": "FILM S06 / Ours works too-post_hit",
+      "shot": "S06-09",
+      "event": "post_hit",
+      "asset": "post-clang",
+      "stem": "foley",
+      "intent": "post hit comic action accent",
+      "duration_seconds": ".85",
+      "gain_db": -3,
+      "pan": 0
+    },
+    {
+      "id": "FILM S07 / Square head-header",
+      "shot": "S07-10",
+      "event": "header",
+      "asset": "ball-strike",
+      "stem": "foley",
+      "intent": "header comic action accent",
+      "duration_seconds": "11/20",
+      "gain_db": -5,
+      "pan": 0
+    },
+    {
+      "id": "FILM S07 / Square head-wide",
+      "shot": "S07-10",
+      "event": "wide",
+      "asset": "comic-recoil",
+      "stem": "foley",
+      "intent": "wide comic action accent",
+      "duration_seconds": "7/25",
+      "gain_db": -5,
+      "pan": 0
+    },
+    {
+      "id": "FILM S10 / They are biting-float_plop",
+      "shot": "S10-16",
+      "event": "float_plop",
+      "asset": "float",
+      "stem": "foley",
+      "intent": "float plop comic action accent",
+      "duration_seconds": "2/5",
+      "gain_db": -10,
+      "pan": 0
+    },
+    {
+      "id": "FILM S10 / They are biting-whistle_tail",
+      "shot": "S10-16",
+      "event": "whistle_tail",
+      "asset": "tail",
+      "stem": "foley",
+      "intent": "whistle tail comic action accent",
+      "duration_seconds": "9/50",
+      "gain_db": -10,
+      "pan": 0
+    },
+    {
+      "id": "repair-strike",
+      "shot": "S03-04",
+      "event": "strike",
+      "asset": "ball-strike",
+      "stem": "foley",
+      "intent": "strike",
+      "duration_seconds": "0.55",
+      "gain_db": -2,
+      "onset_seconds": 0.03
+    },
+    {
+      "id": "repair-premature",
+      "shot": "S03-04",
+      "event": "premature",
+      "asset": "innocent-chime",
+      "stem": "comic-accents",
+      "intent": "premature",
+      "duration_seconds": "0.6",
+      "gain_db": -10,
+      "onset_seconds": 0
+    },
+    {
+      "id": "repair-post_hit",
+      "shot": "S03-04",
+      "event": "post_hit",
+      "asset": "post-clang",
+      "stem": "foley",
+      "intent": "post hit",
+      "duration_seconds": ".85",
+      "gain_db": -3,
+      "onset_seconds": 0
+    },
+    {
+      "id": "repair-realisation",
+      "shot": "S03-04",
+      "event": "realisation",
+      "asset": "comic-recoil",
+      "stem": "comic-accents",
+      "intent": "realisation",
+      "duration_seconds": "0.28",
+      "gain_db": -9,
+      "onset_seconds": 0
+    },
+    {
+      "id": "repair-scratch",
+      "shot": "S03-04",
+      "event": "scratch",
+      "asset": "shirt-move",
+      "stem": "foley",
+      "intent": "scratch",
+      "duration_seconds": "0.65",
+      "gain_db": -18,
+      "onset_seconds": 0
+    },
+    {
+      "id": "repair-post_imitation",
+      "shot": "S03-04",
+      "event": "post_imitation",
+      "asset": "innocent-chime",
+      "stem": "comic-accents",
+      "intent": "post imitation",
+      "duration_seconds": "0.6",
+      "gain_db": -8,
+      "onset_seconds": 0
+    },
+    {
+      "id": "roof-water",
+      "shot": "S10-16",
+      "event": "cascade",
+      "asset": "roof-water",
+      "stem": "foley",
+      "intent": "Roof spill splashing into the exaggerated pitch puddle",
+      "duration_seconds": "2.5",
+      "gain_db": -17,
+      "fade_in_seconds": ".12",
+      "fade_out_seconds": ".3"
+    },
+    {
+      "id": "var-exit-door_open",
+      "shot": "S10-VAR-exit",
+      "event": "door_open",
+      "asset": "dry-impact",
+      "stem": "foley",
+      "intent": "door open",
+      "duration_seconds": ".18",
+      "gain_db": -13
+    },
+    {
+      "id": "var-exit-step_1",
+      "shot": "S10-VAR-exit",
+      "event": "step_1",
+      "asset": "boot-step",
+      "stem": "foley",
+      "intent": "step 1",
+      "duration_seconds": ".17",
+      "gain_db": -4
+    },
+    {
+      "id": "var-exit-step_2",
+      "shot": "S10-VAR-exit",
+      "event": "step_2",
+      "asset": "boot-step",
+      "stem": "foley",
+      "intent": "step 2",
+      "duration_seconds": ".17",
+      "gain_db": -5
+    },
+    {
+      "id": "var-exit-step_3",
+      "shot": "S10-VAR-exit",
+      "event": "step_3",
+      "asset": "boot-step",
+      "stem": "foley",
+      "intent": "step 3",
+      "duration_seconds": ".17",
+      "gain_db": -4
+    }
+  ],
+  "mix_gain_db": 0,
+  "picture": {
+    "width": 1920,
+    "height": 1080,
+    "seconds": 150,
+    "construction": "Established stick-joint target approach with continuous textured drawing skins, native facial controls, dimensional goal/pitch and restrained stadium.",
+    "revision_request": "Restart after critique: cohesive cartoon faces and bodies; believable environment and camera staging; source-faithful kick-out and parry; correctly anchored tears; smooth authored transitions.",
+    "native_revision": "artifacts/staging-v008/natural-tears-v001.blend",
+    "staging_status": "User approved v008: I approve it. Continue.",
+    "approved_staging_event": "07fbbd85-258f-4610-9e08-909cff72fdd2",
+    "action_staging": "artifacts/staging-v008/natural-tears-v001.blend",
+    "current_review": "artifacts/staging-v008/review.html",
+    "selected_treatment": "A \u2014 Clean caricature"
+  },
+  "sound_direction": {
+    "voice": "Qwen3-TTS 1.7B VoiceDesign: three hosted v002 performances approved. Local bf16 model installed and offline-tested through pipeline/qwen_voice.py; exact selected takes are cached and must not be regenerated for timing edits.",
+    "A": "Recorded crowd, ducked for dialogue and badge silence",
+    "B": "Sparse foreground only, same dialogue and effects",
+    "listening": "User chose B from the presented clip. No agent listening claim.",
+    "music": "No continuous music selected; later heroic/VAR stings remain to audition",
+    "selection": "B \u2014 explicitly chosen by user; no crowd bed for S01",
+    "selected_source": "artifacts/staging-v001/s01-sound-B.mp4",
+    "current_audition": "artifacts/voices-v002/review.html",
+    "audition_scope": "Three explicitly directed spoken performances approved in the 32-second action excerpt; B effects retained. Other full-film lines and detailed mouth synchronization remain.",
+    "action_selection": {
+      "variant": "B",
+      "reviewer": "user",
+      "event": "ed750103-87d1-4cce-b77e-b79c04c34d4c",
+      "source": "artifacts/sound-v001/audition-B.mp4",
+      "plan": "artifacts/sound-v001/plan-B.json",
+      "scope": "Action effects, comic accents and brighter nonverbal sob; spoken dialogue still pending"
+    },
+    "voice_setup": "artifacts/voices-v002/local-setup.json",
+    "accent_direction": "Use distinct character voices, with accents informed by verified nationality/background where the available voice supports it. Carrick: British English. Nationality alone does not establish an individual accent. Do not treat speech language as a supported English accent or claim exact person imitation. Audition unsupported accents before adoption.",
+    "character_performance_direction": "Direct every consequential line to the moment: projected outraged Bruno shout, breath-catching Oliver apology into sob, restrained pointed British Carrick comeback. Timbre/accent and gain alone cannot supply acting. Apply the same performance standard to subsequent roles and implementations.",
+    "speaking_audition": {
+      "review": "artifacts/voices-v002/review.html",
+      "takes": "assets/voices-v002/takes.json",
+      "status": "User approved directed voices v002: I like it",
+      "mouth_sync": "Provisional existing picture; detailed synchronization after voice choice",
+      "approved_event": "6b052785-47ba-4042-86b0-a11824def730"
+    },
+    "selected_speaking_performances": {
+      "review": "artifacts/voices-v002/review.html",
+      "plan": "artifacts/voices-v002/plan-directed.json",
+      "takes": "assets/voices-v002/takes.json",
+      "event": "6b052785-47ba-4042-86b0-a11824def730",
+      "scope": "Bruno, Oliver and Carrick representative takes; other full-film lines not yet generated",
+      "engine": "Qwen3-TTS-1.7B VoiceDesign official hosted demo"
+    },
+    "previous_voice_setup": "artifacts/voice-setup-v001/setup-checks.json",
+    "local_voice_runtime": {
+      "path": "/Users/samikd/MyProjects/Pencil/.runtime/qwen-voice",
+      "command": "python3 pipeline/qwen_voice.py --text <line> --direction <acting direction> --out <new.wav>",
+      "test": "artifacts/voices-v002/local-setup.json"
+    }
+  },
+  "staging_excerpts": {
+    "review": "artifacts/staging-v008/action-review-v001.mp4",
+    "duration_seconds": 32,
+    "shots": [
+      "S02",
+      "S08",
+      "S10"
+    ],
+    "events_source": "artifacts/staging-v008/native-checks.json",
+    "timing_scope": "Compressed representative excerpts; full film working allocation 150 seconds within allowed 150\u2013180 seconds.",
+    "foley_candidates": "artifacts/staging-v008/sound-intentions.md",
+    "voices": "Silent diagnostic; caption timing only. New voices and foreground sound are not selected.",
+    "status": "Bruno fall/touchline and letter handoff preserved; clearer near-side red card and apology-bin reaction replace opposite-hand card and umbrella. Lower-lid pooling, cheek tears and detached droplets replace curved fountain lines."
+  },
+  "duration_range_seconds": [
+    150,
+    180
+  ],
+  "animatic_revision": "animatic-v004",
+  "next_checkpoint": "Review new reply and Subscribe ending",
+  "native_animatic": "artifacts/animatic-v004/combined-animatic-v004.blend",
+  "animatic_plan": "artifacts/animatic-v004/plan.json",
+  "review_movie": "artifacts/delivery-v003/samtoons-final-1080p.mp4",
+  "review_url": "http://127.0.0.1:8769/artifacts/delivery-v003/review.html",
+  "repair_plan": "research/animatic-audit-v001/audit-and-repair-plan.md",
+  "native_delivery": "artifacts/delivery-v003/samtoons-final.blend",
+  "delivery_revision": "delivery-v003",
+  "music_revision": {
+    "plan": "artifacts/delivery-v002/music-plan.json",
+    "ducking": "artifacts/delivery-v002/ducking.json",
+    "mix": "artifacts/delivery-v002/mix-review.wav",
+    "credits": "artifacts/delivery-v002/CREDITS.txt",
+    "no_on_screen_credits": true
+  },
+  "delivery_revision_details": {
+    "revision": "artifacts/delivery-v003/revision.json",
+    "mix": "artifacts/delivery-v003/mix-review.wav",
+    "frames": 3864,
+    "seconds": 161,
+    "picture_source": "artifacts/delivery-v001/picture-selected.mp4",
+    "independent_end_card": "artifacts/delivery-v003/subscribe-card.mp4"
+  }
+}

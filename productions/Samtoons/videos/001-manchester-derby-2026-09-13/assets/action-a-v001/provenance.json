@@ -1,0 +1,32 @@
+{
+  "generator": "Built-in imagegen",
+  "reference": "assets/treatment-v001/A-clean-caricature.png",
+  "assets": [
+    {
+      "name": "Donnarumma",
+      "prompt": "Create one full-body production underpainting matching the attached approved A clean football caricature style. Transparent background, no shadow, no caption. Portrait 2:3 canvas, generous margin. Consistent flat cartoon outlines and coordinated adult body/head proportions; recognizable cartoon head about one fifth of total height. No realistic skin texture. Upright almost-front three-quarter pose. Arms down and out 35 degrees, elbows almost straight, hands open, separated from torso. Straight separated legs, feet on same baseline. Preserve nose, ears, hair, beard and entire head/body. OMIT eyes, eyebrows and mouth marks ONLY, leaving flat skin/beard there for native editable facial features; no holes or eye sockets. This is a preparatory layer for an existing approved design, not final faceless art. All fingers and shoes completely inside canvas. Gianluigi Donnarumma: tall broad goalkeeper, dark short hair, thick dark beard, broad strong nose and chin. Magenta long-sleeve goalkeeper shirt, magenta shorts and socks, white goalkeeper gloves, pale boots; simplified Man City kit, 1 on shorts. Match keeper in reference board.",
+      "output": "/Users/samikd/.codex/generated_images/01a0a10c-1df6-7cf3-a6e1-e959b8d7314e/exec-706c2748-3ab2-4a18-93cb-b0d4e02135d7.png"
+    },
+    {
+      "name": "Mbeumo",
+      "prompt": "Create one full-body production underpainting matching the attached approved A clean football caricature style. Transparent background, no shadow, no caption. Portrait 2:3 canvas, generous margin. Consistent flat cartoon outlines and coordinated adult body/head proportions; recognizable cartoon head about one fifth of total height. No realistic skin texture. Upright almost-front three-quarter pose. Arms down and out 35 degrees, elbows almost straight, hands open, separated from torso. Straight separated legs, feet on same baseline. Preserve nose, ears, hair, beard and entire head/body. OMIT eyes, eyebrows and mouth marks ONLY, leaving flat skin/beard there for native editable facial features; no holes or eye sockets. This is a preparatory layer for an existing approved design, not final faceless art. All fingers and shoes completely inside canvas. Bryan Mbeumo: stocky athletic adult, medium brown skin, bald scalp, full short dark beard, broad nose. Manchester United red jersey, white shorts, black socks with red trim, salmon boots, number19. No captain armband.",
+      "output": "/Users/samikd/.codex/generated_images/01a0a10c-1df6-7cf3-a6e1-e959b8d7314e/exec-5adf74bc-2f08-4ac9-a197-0e90ea20c5dd.png"
+    },
+    {
+      "name": "Oliver",
+      "prompt": "Create one full-body production underpainting matching the attached approved A clean football caricature style. Transparent background, no shadow, no caption. Portrait 2:3 canvas, generous margin. Consistent flat cartoon outlines and coordinated adult body/head proportions; recognizable cartoon head about one fifth of total height. No realistic skin texture. Upright almost-front three-quarter pose. Arms down and out 35 degrees, elbows almost straight, hands open, separated from torso. Straight separated legs, feet on same baseline. Preserve nose, ears, hair, beard and entire head/body. OMIT eyes, eyebrows and mouth marks ONLY, leaving flat skin/beard there for native editable facial features; no holes or eye sockets. This is a preparatory layer for an existing approved design, not final faceless art. All fingers and shoes completely inside canvas. Michael Oliver football referee: slim adult, short dark brown hair with receding corners, long narrow clean-shaven nose/chin, light skin. Bright yellow short sleeve referee shirt with black collar/pocket trim, black shorts, black socks and black shoes; black wristwatch. Empty hands.",
+      "output": "/Users/samikd/.codex/generated_images/01a0a10c-1df6-7cf3-a6e1-e959b8d7314e/exec-c57b1e95-5eab-452d-af3f-be28a31fde99.png"
+    },
+    {
+      "name": "Carrick",
+      "prompt": "Create one full-body production underpainting matching the attached approved A clean football caricature style. Transparent background, no shadow, no caption. Portrait 2:3 canvas, generous margin. Consistent flat cartoon outlines and coordinated adult body/head proportions; recognizable cartoon head about one fifth of total height. No realistic skin texture. Upright almost-front three-quarter pose. Arms down and out 35 degrees, elbows almost straight, hands open, separated from torso. Straight separated legs, feet on same baseline. Preserve nose, ears, hair, beard and entire head/body. OMIT eyes, eyebrows and mouth marks ONLY, leaving flat skin/beard there for native editable facial features; no holes or eye sockets. This is a preparatory layer for an existing approved design, not final faceless art. All fingers and shoes completely inside canvas. Michael Carrick manager: tall slim adult, short brown hair with grey at temples, light short stubble, long straight nose and slightly tired face, light skin. Navy tracksuit zipped jacket with red trim, navy trousers, white trainers; simplified Manchester United crest. Empty hands.",
+      "output": "/Users/samikd/.codex/generated_images/01a0a10c-1df6-7cf3-a6e1-e959b8d7314e/exec-5888a581-a413-4ee6-99ee-80f206f63a71.png"
+    }
+  ],
+  "mbeumo_left": {
+    "reference": "mbeumo.png",
+    "output": "mbeumo-left.png",
+    "generator": "image_gen",
+    "intent": "Left-facing goalward strike; readable kit markings."
+  }
+}

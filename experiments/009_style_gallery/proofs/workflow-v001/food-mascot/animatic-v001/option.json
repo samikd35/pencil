@@ -1,0 +1,29 @@
+{
+  "id": "food-mascot",
+  "name": "Object / food mascot",
+  "category": "Character",
+  "description": "A toast character with expressive eyes and simple limbs.",
+  "limitation": "Other objects need their own outline and attachment positions.",
+  "recipe": "recipes/food-mascot.md",
+  "sample": "samples/food-mascot.png",
+  "settings": {
+    "design": "toast",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "status": "Still tested \u00b7 motion pending",
+  "evidence": [
+    {
+      "label": "Native project",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/food-mascot/character.blend"
+    },
+    {
+      "label": "240-frame connection check",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/food-mascot/checks.json"
+    }
+  ],
+  "sources": [
+    "https://pages.adobe.com/character/en/puppet-maker"
+  ],
+  "motion_tested": false
+}

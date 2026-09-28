@@ -1,0 +1,32 @@
+[
+  {
+    "object": "C3V6 / Muller bound wrist skin",
+    "vertex_count": 26,
+    "min_width": {
+      "frame": 116,
+      "min": 56.6126737336306,
+      "max": 71.0000083916619
+    },
+    "max_width": {
+      "frame": 41,
+      "min": 56.61270917675669,
+      "max": 71.00006694521905
+    },
+    "max_triangle_flips": 0
+  },
+  {
+    "object": "C3V6 / Perez bound wrist skin",
+    "vertex_count": 26,
+    "min_width": {
+      "frame": 139,
+      "min": 56.044586075346594,
+      "max": 72.00000678168371
+    },
+    "max_width": {
+      "frame": 141,
+      "min": 56.044613335533356,
+      "max": 72.00004069009267
+    },
+    "max_triangle_flips": 0
+  }
+]

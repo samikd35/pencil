@@ -1,0 +1,45 @@
+{
+  "workflow": {
+    "command": [
+      "python3",
+      "pipeline/test_workflow.py"
+    ],
+    "exit_code": 0,
+    "output": "PASS: canonical skill; isolated sibling reviews; preserved asset/profile/guide snapshots; explicit adoption invalidates only the affected video; changed selected guidance blocks stale approval. Niche selection is explicit, not automated.\n"
+  },
+  "checkpoints": {
+    "command": [
+      "python3",
+      "pipeline/checkpoints.py",
+      "--self-test"
+    ],
+    "exit_code": 0,
+    "output": "PASS: absent, pending, agent-only, changed and rejected reviews block; current user acceptance and explicit user waiver pass\n"
+  },
+  "skill": {
+    "command": [
+      "/opt/anaconda3/bin/python",
+      "/Users/samikd/.codex/skills/.system/skill-creator/scripts/quick_validate.py",
+      "pipeline/skill"
+    ],
+    "exit_code": 0,
+    "output": "Skill is valid!\n"
+  },
+  "preserved": {
+    "productions/Samtoons/videos/001-manchester-derby-2026-09-13/production.json": "6d56363e8335a01280d9743cb7e718804cbe86610a6575368d0f8ee142f8af0e",
+    "productions/Samtoons/videos/001-manchester-derby-2026-09-13/events.jsonl": "128e2a0d4fac771f6e9b634bf622e06f7f1364216df88ac13c047b62b419f567",
+    "productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/samtoons-final-1080p.mp4": "4cb9cca4f8da2a3e2938e7fdea11624fb0edaf9cfa6700b936d04948fc3cf239",
+    "productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/samtoons-final.blend": "db0cc869f1c6c691c2415688d5fa7b60cb580fe24b591428bd944fc6719c96dc"
+  },
+  "asset_integrity": {
+    "packaged_files": 8,
+    "scene_bound_references": 6,
+    "passed": true
+  },
+  "limitations": [
+    "Profile selection is agent-authored, not an automated resolver.",
+    "Planning forward-check did not produce films or prove rendering/creative quality.",
+    "Scene-bound character references have not been extraction-tested.",
+    "Default python3 lacked PyYAML for skill validation; existing Anaconda Python passed without installing dependencies."
+  ]
+}

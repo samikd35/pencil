@@ -1,0 +1,23 @@
+{
+  "text": "Show them the other picture.",
+  "direction": "",
+  "seed": 241101,
+  "sample_rate": 24000,
+  "duration_seconds": 3.2,
+  "load_seconds": 4.299945624999964,
+  "generation_seconds": 5.666176624999935,
+  "peak_memory_bytes": 5147453485,
+  "model_source": {
+    "repository": "mlx-community/Qwen3-TTS-12Hz-0.6B-Base-4bit",
+    "revision": "0d6bb6fe33f92d47a507e23b9148940e8366ab5b",
+    "tokenizer": "Shared existing Qwen12Hz tokenizer, model speech_tokenizer symlink",
+    "method": "Reference-conditioned synthetic character voice; original opening B02 remains identity anchor"
+  },
+  "sha256": "03c3ea9b154e467c734cad1cf7631864d6c611e9cb764d79aba72d2fda0e5bfb",
+  "heard_by_agent": false,
+  "processing": "Unprocessed local model output; no gain or pitch change",
+  "reference_wav": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/003-barca-emergency-meeting/assets/voices-s09-v001/robert-answer.wav",
+  "reference_text": "Wrong question. He spent years telling me to score more.",
+  "reference_sha256": "0938fcdfcdeeccc0c09952d5dabbc6599930cbb7a245ead28c01c23f22d17bab",
+  "direction_applied": false
+}

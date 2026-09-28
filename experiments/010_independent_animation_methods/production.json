@@ -1,0 +1,139 @@
+{
+  "id": "010_independent_animation_methods",
+  "status": "rejected by user; not selected for production",
+  "fps": 24,
+  "frames": 144,
+  "width": 1280,
+  "height": 720,
+  "character": "Thomas Muller, left subject in reference.png",
+  "sound": {
+    "source": "voice.wav",
+    "start_seconds": 2.5,
+    "text": "Eight goals. A very good night."
+  },
+  "camera": {
+    "location": [
+      0,
+      -12,
+      3.0
+    ],
+    "target": [
+      0,
+      0,
+      3.0
+    ],
+    "ortho_scale": 7.9
+  },
+  "beats": [
+    {
+      "frame": 1,
+      "action": "Notice picture on the table; relaxed open hand",
+      "wrist": [
+        -0.95,
+        0,
+        2.12
+      ],
+      "roll": -12,
+      "head_yaw": 12,
+      "grip": 0
+    },
+    {
+      "frame": 18,
+      "action": "Anticipate and reach, eyes lead",
+      "wrist": [
+        -1.32,
+        0,
+        2.0
+      ],
+      "roll": -4,
+      "head_yaw": -10,
+      "grip": 0
+    },
+    {
+      "frame": 34,
+      "action": "Fingers close around left frame edge",
+      "wrist": [
+        -1.52,
+        0,
+        1.94
+      ],
+      "roll": 0,
+      "head_yaw": -17,
+      "grip": 1
+    },
+    {
+      "frame": 49,
+      "action": "Lift begins with shoulder response",
+      "wrist": [
+        -1.54,
+        0,
+        2.4
+      ],
+      "roll": -8,
+      "head_yaw": -8,
+      "grip": 1
+    },
+    {
+      "frame": 69,
+      "action": "Proud reveal; elbow flexion and picture clears chest",
+      "wrist": [
+        -1.6,
+        0,
+        3.0
+      ],
+      "roll": -13,
+      "head_yaw": 15,
+      "grip": 1
+    },
+    {
+      "frame": 89,
+      "action": "Wrist turns, picture moves inward; head turns toward listener",
+      "wrist": [
+        -0.91,
+        0,
+        3.07
+      ],
+      "roll": 18,
+      "head_yaw": 28,
+      "grip": 1
+    },
+    {
+      "frame": 112,
+      "action": "Small overshoot and cheeky reaction",
+      "wrist": [
+        -1.42,
+        0,
+        2.98
+      ],
+      "roll": -17,
+      "head_yaw": 7,
+      "grip": 1
+    },
+    {
+      "frame": 128,
+      "action": "Settle with changed expression",
+      "wrist": [
+        -1.38,
+        0,
+        2.96
+      ],
+      "roll": -12,
+      "head_yaw": 13,
+      "grip": 1
+    },
+    {
+      "frame": 144,
+      "action": "Purposeful finish hold",
+      "wrist": [
+        -1.38,
+        0,
+        2.96
+      ],
+      "roll": -12,
+      "head_yaw": 13,
+      "grip": 1
+    }
+  ],
+  "independence": "Only this contract, the reference images (including a newly derived head-view design sheet), and unchanged voice are shared. No prior production scene, geometry, contours, rig, builder or animation imported. A and B do not import each other. A freshly traces head views; B independently models its head in 3D from visual reference.",
+  "rejection": "Both options worse than existing v006. Return to existing 2D puppet and investigate each stage."
+}

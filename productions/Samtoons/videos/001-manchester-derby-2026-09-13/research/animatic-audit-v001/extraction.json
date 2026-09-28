@@ -1,0 +1,86 @@
+{
+  "movie": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/animatic-v001/animatic.mp4",
+  "sha256": "ee23aa2df0791ac7376807b9a9cffe4d000946f26fdc1f1318848424a1ad5008",
+  "decoded_frames": 3600,
+  "fps": 24,
+  "duration_seconds": 150,
+  "pts_step_range_seconds": [
+    0.04166599999999221,
+    0.041667000000003895
+  ],
+  "overview": "every 24th frame (150 frames)",
+  "adjacent_windows_inclusive": {
+    "opening": [
+      101,
+      132
+    ],
+    "good-kick": [
+      240,
+      271
+    ],
+    "rashford-kick": [
+      805,
+      838
+    ],
+    "rashford-arm": [
+      874,
+      905
+    ],
+    "mainoo-kick": [
+      1093,
+      1126
+    ],
+    "goal": [
+      1435,
+      1458
+    ],
+    "martinez-arm": [
+      1825,
+      1856
+    ],
+    "lammens-save": [
+      2080,
+      2111
+    ],
+    "maguire-header": [
+      2268,
+      2291
+    ],
+    "good-apology": [
+      3236,
+      3267
+    ]
+  },
+  "adjacent_frame_count": 308,
+  "sheets": [
+    "overview-01.jpg",
+    "overview-02.jpg",
+    "overview-03.jpg",
+    "overview-04.jpg",
+    "overview-05.jpg",
+    "overview-06.jpg",
+    "opening-01.jpg",
+    "opening-02.jpg",
+    "good-kick-01.jpg",
+    "good-kick-02.jpg",
+    "rashford-kick-01.jpg",
+    "rashford-kick-02.jpg",
+    "rashford-kick-03.jpg",
+    "rashford-arm-01.jpg",
+    "rashford-arm-02.jpg",
+    "mainoo-kick-01.jpg",
+    "mainoo-kick-02.jpg",
+    "mainoo-kick-03.jpg",
+    "goal-01.jpg",
+    "goal-02.jpg",
+    "martinez-arm-01.jpg",
+    "martinez-arm-02.jpg",
+    "lammens-save-01.jpg",
+    "lammens-save-02.jpg",
+    "maguire-header-01.jpg",
+    "maguire-header-02.jpg",
+    "good-apology-01.jpg",
+    "good-apology-02.jpg"
+  ],
+  "limits": "Sheet generation is not visual review. Review coverage must be recorded separately."
+}

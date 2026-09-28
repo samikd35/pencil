@@ -1,0 +1,9 @@
+from pathlib import Path
+import subprocess,json
+V=Path(__file__).resolve().parents[1];O=V/'artifacts/batch02-v017';F='/opt/homebrew/bin/ffmpeg';out=O/'batches01-02-review-v017.mp4'
+subprocess.run([F,'-v','error','-y','-i',str(V/'artifacts/batch01-v016/batch01-review-v016.mp4'),'-i',str(O/'changed-picture.mp4'),'-i',str(O/'hand-pickup-final.mp4'),'-i',str(O/'mix-final/mix-premaster.wav'),'-filter_complex','[0:v]trim=end_frame=517,setpts=PTS-STARTPTS[a];[1:v]split=2[c][d];[c]trim=end_frame=257,setpts=PTS-STARTPTS[b];[2:v]setpts=PTS-STARTPTS[h];[d]trim=start_frame=360,setpts=PTS-STARTPTS[e];[a][b][h][e]concat=n=4:v=1:a=0[v]','-map','[v]','-map','3:a','-t',str(1321/24),'-c:v','libx264','-preset','fast','-crf','18','-pix_fmt','yuv420p','-c:a','aac','-b:a','192k','-movflags','+faststart',str(out)],check=True)
+subprocess.run([F,'-v','error','-y','-i',str(out),'-ss',str(1021/24),'-t','12.5','-c:v','libx264','-preset','fast','-crf','18','-c:a','aac','-b:a','192k','-movflags','+faststart',str(O/'batch02-review-v017.mp4')],check=True)
+checks={}
+for p,frames in [(out,1321),(O/'batch02-review-v017.mp4',300)]:
+ data=json.loads(subprocess.check_output(['/opt/homebrew/bin/ffprobe','-v','error','-show_streams','-show_format','-of','json',str(p)]));video=next(s for s in data['streams'] if s['codec_type']=='video');audio=next(s for s in data['streams'] if s['codec_type']=='audio');assert int(video['nb_frames'])==frames and video['avg_frame_rate']=='24/1';assert (video['width'],video['height'])==(1280,720);assert int(audio['sample_rate'])==48000;subprocess.run([F,'-v','error','-i',str(p),'-f','null','-'],check=True);checks[p.name]={'frames':frames,'seconds':frames/24,'fps':24,'resolution':[1280,720],'audio_sample_rate':48000,'decode':'passed','creative_acceptance':'pending'}
+(O/'delivery-checks.json').write_text(json.dumps(checks,indent=2));print(json.dumps(checks,indent=2))

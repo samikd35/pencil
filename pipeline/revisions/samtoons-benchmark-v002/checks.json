@@ -1,0 +1,15 @@
+{
+  "protected_files_unchanged": [
+    "productions/Samtoons/benchmark-v001.md",
+    "pipeline/skill/SKILL.md",
+    "productions/Samtoons/videos/001-manchester-derby-2026-09-13/production.json",
+    "productions/Samtoons/videos/001-manchester-derby-2026-09-13/events.jsonl",
+    "productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/samtoons-final-1080p.mp4"
+  ],
+  "consecutive_frames_covered": 3788,
+  "native_detail_frames": 18,
+  "html_local_links_exist": true,
+  "profile": "v003",
+  "active_benchmark": "v002",
+  "audio_subjective_review": "unverified"
+}
