@@ -1,0 +1,19 @@
+{
+  "id": "L07",
+  "chapter": 2,
+  "beat": "TR01",
+  "role_and_direction": "NARRATOR",
+  "text": "So they bought a striker. Someone to finish the chances.",
+  "word_count": 10,
+  "seconds": 5.12,
+  "file": "L07.wav",
+  "sha256": "2470db337d538046d4117a34b8b2eb6668757e347b086be7c81a5fd19a49d1f9",
+  "reference_start_seconds": 16.3299375,
+  "role": "NARRATOR",
+  "direction": "An elderly man, low weathered gravelly voice, restrained Scottish English accent. Original theatrical cartoon football manager voice. Natural clear character delivery; make the sentence a thought, not a reading. Clean dry microphone, no music or extra words.",
+  "seed": 42,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 5.2851269579987274,
+  "path": "artifacts/animatic-v001/voices/L07.wav"
+}

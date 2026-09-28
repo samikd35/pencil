@@ -1,0 +1,40 @@
+{
+  "changed_files": [
+    {
+      "path": "/Users/samikd/.codex/skills/produce-pencil-animation/SKILL.md",
+      "sha256": "444e1e58e4a8efde20abe445e9fe21bf7dda8d7cf6b6e444e152593b36d5e40d"
+    },
+    {
+      "path": "/Users/samikd/.codex/skills/produce-pencil-animation/agents/openai.yaml",
+      "sha256": "ea9fa99c8c4e6aba429142f9781194c015994e7d55ccf780a6167bea4497b927"
+    },
+    {
+      "path": "/Users/samikd/MyProjects/Pencil/AGENTS.md",
+      "sha256": "55969516b13d1b08df8a6e3b2d4866f2912507b8c9711788dcb429d25744d43d"
+    },
+    {
+      "path": "/Users/samikd/MyProjects/Pencil/pipeline/README.md",
+      "sha256": "f1befc65324c73b1cfe23c464d1b7f24b375dabf6aed2f6efc04ae7388d82516"
+    },
+    {
+      "path": "/Users/samikd/MyProjects/Pencil/pipeline/checkpoints.py",
+      "sha256": "7823bb3c9bd6404bedaa43c409e8952a566888e4c8e8378b9ed41c5312d6d5f1"
+    },
+    {
+      "path": "/Users/samikd/MyProjects/Pencil/experiments/001_heavy_box/journal.py",
+      "sha256": "8d87790c12a29f6ed69599774f1d20bf89fd8afced839d19c5a2dcc2da528a19"
+    },
+    {
+      "path": "/Users/samikd/MyProjects/Pencil/research/audio-tools/sound-planning-method.md",
+      "sha256": "6aa9de0fd98b10143002c0aeb95a49d03237ac1d18cae29c34683751e9bbf35a"
+    }
+  ],
+  "validation": {
+    "skill": "Passed after adding explicit delegated-review handling.",
+    "guard_self_test": "Passed after delegated-review guidance; explicit waiver path is exercised.",
+    "python_syntax": "passed all changed/new Python scripts",
+    "full_render_gate": "Blender exited 1 before rendering with --python-exit-code 1; missing staging acceptance blocked as intended"
+  },
+  "creative_acceptance": "Separate from these technical checks; recorded in checkpoint events.",
+  "current_user_direction": "User accepted staging and sparse sound A, then delegated remaining checkpoint choices for this film. Shared checkpoints remain available, with explicit scoped delegation supported."
+}

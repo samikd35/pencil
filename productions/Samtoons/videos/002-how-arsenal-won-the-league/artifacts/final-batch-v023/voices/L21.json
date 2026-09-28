@@ -1,0 +1,21 @@
+{
+  "id": "L21",
+  "chapter": 4,
+  "beat": "CP03",
+  "role_and_direction": "ARTETA \u2014 gasping",
+  "text": "WHY IS HE WALKING?",
+  "word_count": 4,
+  "seconds": 1.2800416666666667,
+  "file": "L21.wav",
+  "sha256": "5ba522b7ad2f9031e835f7af8511dc6c1fdb08d82c83d13173d0c93322019a9d",
+  "reference_start_seconds": 54.4009375,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Desperate projected shout through gasping effort. WHY explodes; panic, not conversation. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.9327280829966185,
+  "path": "artifacts/animatic-v001/voices/L21.wav",
+  "reference": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/opening-v002/voices/B02.wav",
+  "reference_sha256": "ca668129e73ddb80305bf3c65d3dfdc28682430cb6f279885f6ece800d822023"
+}

@@ -1,0 +1,36 @@
+{
+  "Jude Bellingham": {
+    "revision": "trio-jude-v004",
+    "frames": 240,
+    "seconds": 10,
+    "fps": 24,
+    "complete_decode": "passed",
+    "original_audio_identical": true,
+    "native_project": "artifacts/trio-jude-v004/cartoon-skin.blend"
+  },
+  "Kylian Mbappe": {
+    "revision": "trio-mbappe-v003",
+    "frames": 240,
+    "seconds": 10,
+    "fps": 24,
+    "complete_decode": "passed",
+    "original_audio_identical": true,
+    "native_project": "artifacts/trio-mbappe-v003/cartoon-skin.blend"
+  },
+  "Vinicius Junior": {
+    "revision": "trio-vini-v004",
+    "frames": 240,
+    "seconds": 10,
+    "fps": 24,
+    "complete_decode": "passed",
+    "original_audio_identical": true,
+    "native_project": "artifacts/trio-vini-v004/cartoon-skin.blend"
+  },
+  "comparison": {
+    "frames": 720,
+    "seconds": 30.0,
+    "sha256": "79ca6609d3b91f7db6e82e2bb524297ec6f660266d0db72f0b30720c388dca29",
+    "scope": "Three independent executions of the fictional box-action test, using the same original timing and sound.",
+    "limits": "Reference-angle head regions move as a unit; facial expression changes and head turns remain untested. Likeness awaits user review."
+  }
+}

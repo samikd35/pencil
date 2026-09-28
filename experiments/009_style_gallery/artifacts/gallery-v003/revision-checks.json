@@ -1,0 +1,230 @@
+[
+  {
+    "style": "expressive-stickman",
+    "sample_sha256": "8329c05011663e57a638c9b6f7a4d30e2303c0f875f88951d42121bf6a3a5904",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "rubber-hose",
+    "sample_sha256": "852df2919234e296d9094ceae90d8b56e790a70fb94368745805a75c6fe64587",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "flat-vector",
+    "sample_sha256": "b56bed068cce0bbc8f107741506dd1fd6fed3f10a346cc3d2213604c504f1243",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "caricature",
+    "sample_sha256": "266372743725545710085d903e10f9b3d98c2b7d01f026d9b0432bcbcf7e7495",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "chibi",
+    "sample_sha256": "c8c8d98cca55cb81c7e7a993a1619fa9f38f3568a6b90de47c915cf98250b554",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "geometric",
+    "sample_sha256": "12af2a92a23c972508e1f77f846fcba66f390c6b19b95ee7397afa4e9455e899",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "food-mascot",
+    "sample_sha256": "8d42c3c7437170c153db2cc8f739a1dce21b84ec68fff4adea4a7551dceb7e71",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "rounded-mascot",
+    "sample_sha256": "0f3beb878db96a842b1c9157449e92fa2a2aa41dc8fa862afaaea332eef84407",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "animal-mascot",
+    "sample_sha256": "ef08bef63f0edf061e1c4a5ac6e27b6ffa18f67596968e81d93a18aebf08847b",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "doodle",
+    "sample_sha256": "74de19a88e0be92bbeb0ec2924f3b24f2044d161e5cfc73fc331b90ea967d1dd",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "silhouette",
+    "sample_sha256": "75d5c78e13c1b2de38cd9044e19dc34877bdb4b8de65563f32a1b10116d60c7c",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "paper-cutout",
+    "sample_sha256": "bca852305ed5d352cbac40455de0fe1c7ddec0d3f03f7a66ac571229ae37d237",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "midcentury",
+    "sample_sha256": "77c6844a4b2d3c1acceb5db31b5630753b6c75b091cacd1a72a6646587c8e769",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "whiteboard",
+    "sample_sha256": "c3812a2438037fab2ce5d7d07d013c8e0de2c8fa3e3f57a11672d93d5cfedbc4",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "storybook",
+    "sample_sha256": "137b80d85a164d4bb89c0e8ec9e3c6e1452fa0efb01e8c1127a7c69f88e4729e",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "collage",
+    "sample_sha256": "f6b265f72f7f96ec0ec15b064100fcb06e454b847fb7cc912052d42758b3e151",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "pixelated",
+    "sample_sha256": "12eb66082110f3d1ee5078b0790a74fe1fd78f09eefa8680caea044d370b9749",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "motion-comic",
+    "sample_sha256": "f604144fbbca3743bb96822233b7504fa3ea3bda0449f816d2c0ab9ffb9e2cfe",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  },
+  {
+    "style": "parallax",
+    "sample_sha256": "86cc396e785bf60461e1298f60eb88b8e87156e1f73bc5369516f2a6db854a6f",
+    "guide_pose_check": {
+      "status": "passed",
+      "frame": 1,
+      "max_wrist_gap": 0,
+      "hands_inside_frame": true,
+      "scope": "Reopened still pose only; occlusion and appeal require visual review."
+    },
+    "motion_frames_checked": 240
+  }
+]

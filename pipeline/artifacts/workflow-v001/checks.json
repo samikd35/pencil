@@ -1,0 +1,49 @@
+{
+  "commands": [
+    {
+      "command": "python3 pipeline/test_workflow.py",
+      "result": "passed"
+    },
+    {
+      "command": "python3 pipeline/test_styles.py",
+      "result": "passed"
+    },
+    {
+      "command": "python3 pipeline/test_audio.py",
+      "result": "passed"
+    },
+    {
+      "command": "python3 pipeline/checkpoints.py --self-test",
+      "result": "passed"
+    },
+    {
+      "command": "python3 experiments/001_heavy_box/test_journal.py",
+      "result": "passed"
+    },
+    {
+      "command": "node pipeline/styles/test_gallery.cjs",
+      "result": "passed; isolated DOM fixture, not browser layout"
+    },
+    {
+      "command": "bundled Python quick_validate.py ~/.codex/skills/produce-pencil-animation",
+      "result": "passed with temporary PyYAML 6.0.3"
+    }
+  ],
+  "new_check_red_phase": "New workflow check failed against the original independently stored installed skill, then passed after linking it to the project source.",
+  "validation_environment": "System and bundled Python initially lacked PyYAML; system pip also failed loading pyexpat. Bundled Python pip installed PyYAML only into a disposable directory for the validator; it was removed afterward. No project/global dependency added.",
+  "guidance_links": "All local Markdown file targets in changed guidance resolve after final edits.",
+  "standards_review": {
+    "initial_findings": 1,
+    "fixed": "Consolidated duplicated detailed sound-selection guidance in the current sound guide.",
+    "outstanding_findings": 0
+  },
+  "spec_review": {
+    "findings": 0,
+    "dry_runs": [
+      "Standalone comedy with numbered siblings and reused cast",
+      "Explicit educational series without serial story arc",
+      "One video revision after shared asset update and sibling waiver"
+    ]
+  },
+  "git": "No Git repository/current branch exists. No repository was initialized and no commit was made."
+}

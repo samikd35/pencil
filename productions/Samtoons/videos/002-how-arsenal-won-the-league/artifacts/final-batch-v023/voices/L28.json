@@ -1,0 +1,19 @@
+{
+  "id": "L28",
+  "chapter": 5,
+  "beat": "VH02",
+  "role_and_direction": "RECORDED VOICE",
+  "text": "For a penalty against Arsenal, please hold.",
+  "word_count": 7,
+  "seconds": 2.8,
+  "file": "L28.wav",
+  "sha256": "5aae614f5e6e69b305da058056d9c059a5d5ba7d6d7d052846d9cfa8e0f38eb3",
+  "reference_start_seconds": 67.86860416666667,
+  "role": "RECORDED VOICE",
+  "direction": "Adult female telephone customer-service voice. Bright polished British English. An absurdly cheerful automatic announcement, oblivious to the callers despair. Natural clear character delivery; make the sentence a thought, not a reading. Clean dry microphone, no music or extra words.",
+  "seed": 45,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 2.8164250000045286,
+  "path": "artifacts/animatic-v001/voices/L28.wav"
+}

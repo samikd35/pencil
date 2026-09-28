@@ -1,0 +1,19 @@
+{
+  "id": "CD04",
+  "chapter": 3,
+  "panel": 4,
+  "start_frame": 1988,
+  "frames": 200,
+  "lines": [
+    14
+  ],
+  "source": "boards/chapter-3.png",
+  "camera": "hold",
+  "crop": [
+    5,
+    758,
+    674,
+    389
+  ],
+  "source_sha256": "7d8306dd42ece8b4a0678afa5e4fbe52e6c22aa6679869cab4b5a3a49dffa3a3"
+}

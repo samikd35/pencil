@@ -1,0 +1,41 @@
+{
+  "duration": 40,
+  "fps": 24,
+  "frames": 960,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "source_sha256": "24bf61f9cd4a965084153f779990b289e3ce87e7d9854986d25ea252b0697923",
+  "actors": 7,
+  "valid_original_limb_drivers": 336,
+  "corner_support_foot_max_drift": 0.0,
+  "contacts": [
+    {
+      "frame": 409,
+      "seconds": 17.0,
+      "kind": "corner kick",
+      "ball_center": [
+        1.364,
+        -3.53
+      ],
+      "contact_design": "Right boot toe meets the stationary ball before release."
+    },
+    {
+      "frame": 541,
+      "seconds": 22.5,
+      "kind": "header",
+      "ball_center": [
+        -0.27152185065873535,
+        1.7059482645908393
+      ],
+      "head_center": [
+        -0.6881179982807508,
+        1.0665000700491918
+      ],
+      "contact_design": "Ball tangent to the upper forehead at the direction change."
+    }
+  ],
+  "bake_seconds": 5.561997040989809,
+  "limits": "Spatial staging and slow motion are authored. Technical contact checks do not establish audience comprehension or creative acceptance."
+}

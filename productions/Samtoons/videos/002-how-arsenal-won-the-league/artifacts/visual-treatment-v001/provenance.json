@@ -1,0 +1,14 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "source_generated_file": "/Users/samikd/.codex/generated_images/01a0ae44-0eb9-7050-8d7b-9d8216856c01/exec-cf2f436f-3d6a-428f-83f2-975882e5d7e7.png",
+  "prompt": "image-prompt.txt",
+  "image": "gyokeres-arteta.png",
+  "reference": "reference-samtoons.png",
+  "reference_source": "productions/Samtoons/videos/001-manchester-derby-2026-09-13/assets/treatment-v001/A-clean-caricature.png",
+  "status": "proposed",
+  "photo_anchor": null,
+  "limits": "Static raster character artwork. Likeness, derivatives and motion are not approved.",
+  "image_sha256": "1b6b3b12bd74214739ef65d52a00d8c268601bd15fdc64066262f74e44c73bf4",
+  "reference_sha256": "61151483f986e5a531afa218cdbc21932c16f0d1b0365c1e4080763ef7b34852",
+  "prompt_sha256": "fd3d4465b0312f1ff908c290bed117c34200626089414c1066ea5cc2dc18db3d"
+}

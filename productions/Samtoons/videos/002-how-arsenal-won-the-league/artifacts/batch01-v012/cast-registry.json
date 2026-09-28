@@ -1,0 +1,473 @@
+{
+  "opening Arteta": {
+    "skin": "B01 / opening Arteta / v012 illustrated skin",
+    "armature": "B01 / opening Arteta / v012 fitted skeleton",
+    "source": "assets/rig-art-v012/arteta-gyokeres.png",
+    "unit": 0.6651982378854625,
+    "mirrored": false,
+    "rest": {
+      "pelvis": [
+        0.0,
+        266.07928466796875,
+        0.0
+      ],
+      "neck": [
+        -7.317180633544922,
+        474.2863464355469,
+        0.0
+      ],
+      "head": [
+        -10.643172264099121,
+        544.79736328125,
+        0.0
+      ],
+      "L shoulder": [
+        -69.18061828613281,
+        451.00439453125,
+        0.0
+      ],
+      "L elbow": [
+        -98.4493408203125,
+        376.502197265625,
+        0.0
+      ],
+      "L wrist": [
+        -136.3656463623047,
+        300.66961669921875,
+        0.0
+      ],
+      "L finger": [
+        -151.66519165039062,
+        260.7577209472656,
+        0.0
+      ],
+      "L hip": [
+        -31.26431655883789,
+        266.07928466796875,
+        0.0
+      ],
+      "L knee": [
+        -48.559471130371094,
+        159.6475830078125,
+        0.0
+      ],
+      "L ankle": [
+        -75.83259582519531,
+        43.90308380126953,
+        0.0
+      ],
+      "L toe": [
+        -107.76211547851562,
+        11.308369636535645,
+        0.0
+      ],
+      "R shoulder": [
+        70.51101684570312,
+        451.00439453125,
+        0.0
+      ],
+      "R elbow": [
+        89.80176544189453,
+        375.17181396484375,
+        0.0
+      ],
+      "R wrist": [
+        129.71365356445312,
+        300.00439453125,
+        0.0
+      ],
+      "R finger": [
+        148.33920288085938,
+        260.0924987792969,
+        0.0
+      ],
+      "R hip": [
+        37.251102447509766,
+        266.07928466796875,
+        0.0
+      ],
+      "R knee": [
+        53.88105773925781,
+        158.9823760986328,
+        0.0
+      ],
+      "R ankle": [
+        68.51541900634766,
+        41.90748977661133,
+        0.0
+      ],
+      "R toe": [
+        113.08370208740234,
+        11.308369636535645,
+        0.0
+      ]
+    },
+    "lengths": {
+      "L": [
+        107.8277766011072,
+        118.91430681681098
+      ],
+      "R": [
+        108.38036476593385,
+        117.98599412201416
+      ]
+    },
+    "controls": {
+      "character": "B01 / opening Arteta / CTRL character",
+      "pelvis": "B01 / opening Arteta / CTRL pelvis",
+      "chest": "B01 / opening Arteta / CTRL chest",
+      "head": "B01 / opening Arteta / CTRL head",
+      "L upper arm": "B01 / opening Arteta / CTRL L upper arm",
+      "L forearm": "B01 / opening Arteta / CTRL L forearm",
+      "L hand": "B01 / opening Arteta / CTRL L hand",
+      "L hand thumb": "B01 / opening Arteta / CTRL L hand thumb",
+      "L hand finger 0": "B01 / opening Arteta / CTRL L hand finger 0",
+      "L hand finger 1": "B01 / opening Arteta / CTRL L hand finger 1",
+      "L hand finger 2": "B01 / opening Arteta / CTRL L hand finger 2",
+      "L hand finger 3": "B01 / opening Arteta / CTRL L hand finger 3",
+      "L thigh": "B01 / opening Arteta / CTRL L thigh",
+      "L shin": "B01 / opening Arteta / CTRL L shin",
+      "L boot": "B01 / opening Arteta / CTRL L boot",
+      "R upper arm": "B01 / opening Arteta / CTRL R upper arm",
+      "R forearm": "B01 / opening Arteta / CTRL R forearm",
+      "R hand": "B01 / opening Arteta / CTRL R hand",
+      "R hand thumb": "B01 / opening Arteta / CTRL R hand thumb",
+      "R hand finger 0": "B01 / opening Arteta / CTRL R hand finger 0",
+      "R hand finger 1": "B01 / opening Arteta / CTRL R hand finger 1",
+      "R hand finger 2": "B01 / opening Arteta / CTRL R hand finger 2",
+      "R hand finger 3": "B01 / opening Arteta / CTRL R hand finger 3",
+      "R thigh": "B01 / opening Arteta / CTRL R thigh",
+      "R shin": "B01 / opening Arteta / CTRL R shin",
+      "R boot": "B01 / opening Arteta / CTRL R boot",
+      "L eye": "B01 / opening Arteta / CTRL L eye",
+      "L gaze": "B01 / opening Arteta / CTRL L gaze",
+      "L brow": "B01 / opening Arteta / CTRL L brow",
+      "R eye": "B01 / opening Arteta / CTRL R eye",
+      "R gaze": "B01 / opening Arteta / CTRL R gaze",
+      "R brow": "B01 / opening Arteta / CTRL R brow",
+      "mouth": "B01 / opening Arteta / CTRL mouth",
+      "mouth rest": "B01 / opening Arteta / CTRL mouth rest",
+      "mouth MBP": "B01 / opening Arteta / CTRL mouth MBP",
+      "mouth A": "B01 / opening Arteta / CTRL mouth A",
+      "mouth E": "B01 / opening Arteta / CTRL mouth E",
+      "mouth O": "B01 / opening Arteta / CTRL mouth O",
+      "mouth U": "B01 / opening Arteta / CTRL mouth U",
+      "mouth FV": "B01 / opening Arteta / CTRL mouth FV",
+      "mouth L": "B01 / opening Arteta / CTRL mouth L"
+    }
+  },
+  "unveiling Arteta": {
+    "skin": "B01 / unveiling Arteta / v012 illustrated skin",
+    "armature": "B01 / unveiling Arteta / v012 fitted skeleton",
+    "source": "assets/rig-art-v012/arteta-gyokeres.png",
+    "unit": 0.6651982378854625,
+    "mirrored": true,
+    "rest": {
+      "pelvis": [
+        0.0,
+        266.07928466796875,
+        0.0
+      ],
+      "neck": [
+        7.317180633544922,
+        474.2863464355469,
+        0.0
+      ],
+      "head": [
+        10.643172264099121,
+        544.79736328125,
+        0.0
+      ],
+      "L shoulder": [
+        -70.51101684570312,
+        451.00439453125,
+        0.0
+      ],
+      "L elbow": [
+        -89.80176544189453,
+        375.17181396484375,
+        0.0
+      ],
+      "L wrist": [
+        -129.71365356445312,
+        300.00439453125,
+        0.0
+      ],
+      "L finger": [
+        -148.33920288085938,
+        260.0924987792969,
+        0.0
+      ],
+      "L hip": [
+        -37.251102447509766,
+        266.07928466796875,
+        0.0
+      ],
+      "L knee": [
+        -53.88105773925781,
+        158.9823760986328,
+        0.0
+      ],
+      "L ankle": [
+        -68.51541900634766,
+        41.90748977661133,
+        0.0
+      ],
+      "L toe": [
+        -113.08370208740234,
+        11.308369636535645,
+        0.0
+      ],
+      "R shoulder": [
+        69.18061828613281,
+        451.00439453125,
+        0.0
+      ],
+      "R elbow": [
+        98.4493408203125,
+        376.502197265625,
+        0.0
+      ],
+      "R wrist": [
+        136.3656463623047,
+        300.66961669921875,
+        0.0
+      ],
+      "R finger": [
+        151.66519165039062,
+        260.7577209472656,
+        0.0
+      ],
+      "R hip": [
+        31.26431655883789,
+        266.07928466796875,
+        0.0
+      ],
+      "R knee": [
+        48.559471130371094,
+        159.6475830078125,
+        0.0
+      ],
+      "R ankle": [
+        75.83259582519531,
+        43.90308380126953,
+        0.0
+      ],
+      "R toe": [
+        107.76211547851562,
+        11.308369636535645,
+        0.0
+      ]
+    },
+    "lengths": {
+      "L": [
+        108.38036476593385,
+        117.98599412201416
+      ],
+      "R": [
+        107.8277766011072,
+        118.91430681681098
+      ]
+    },
+    "controls": {
+      "character": "B01 / unveiling Arteta / CTRL character",
+      "pelvis": "B01 / unveiling Arteta / CTRL pelvis",
+      "chest": "B01 / unveiling Arteta / CTRL chest",
+      "head": "B01 / unveiling Arteta / CTRL head",
+      "L upper arm": "B01 / unveiling Arteta / CTRL L upper arm",
+      "L forearm": "B01 / unveiling Arteta / CTRL L forearm",
+      "L hand": "B01 / unveiling Arteta / CTRL L hand",
+      "L hand thumb": "B01 / unveiling Arteta / CTRL L hand thumb",
+      "L hand finger 0": "B01 / unveiling Arteta / CTRL L hand finger 0",
+      "L hand finger 1": "B01 / unveiling Arteta / CTRL L hand finger 1",
+      "L hand finger 2": "B01 / unveiling Arteta / CTRL L hand finger 2",
+      "L hand finger 3": "B01 / unveiling Arteta / CTRL L hand finger 3",
+      "L thigh": "B01 / unveiling Arteta / CTRL L thigh",
+      "L shin": "B01 / unveiling Arteta / CTRL L shin",
+      "L boot": "B01 / unveiling Arteta / CTRL L boot",
+      "R upper arm": "B01 / unveiling Arteta / CTRL R upper arm",
+      "R forearm": "B01 / unveiling Arteta / CTRL R forearm",
+      "R hand": "B01 / unveiling Arteta / CTRL R hand",
+      "R hand thumb": "B01 / unveiling Arteta / CTRL R hand thumb",
+      "R hand finger 0": "B01 / unveiling Arteta / CTRL R hand finger 0",
+      "R hand finger 1": "B01 / unveiling Arteta / CTRL R hand finger 1",
+      "R hand finger 2": "B01 / unveiling Arteta / CTRL R hand finger 2",
+      "R hand finger 3": "B01 / unveiling Arteta / CTRL R hand finger 3",
+      "R thigh": "B01 / unveiling Arteta / CTRL R thigh",
+      "R shin": "B01 / unveiling Arteta / CTRL R shin",
+      "R boot": "B01 / unveiling Arteta / CTRL R boot",
+      "L eye": "B01 / unveiling Arteta / CTRL L eye",
+      "L gaze": "B01 / unveiling Arteta / CTRL L gaze",
+      "L brow": "B01 / unveiling Arteta / CTRL L brow",
+      "R eye": "B01 / unveiling Arteta / CTRL R eye",
+      "R gaze": "B01 / unveiling Arteta / CTRL R gaze",
+      "R brow": "B01 / unveiling Arteta / CTRL R brow",
+      "mouth": "B01 / unveiling Arteta / CTRL mouth",
+      "mouth rest": "B01 / unveiling Arteta / CTRL mouth rest",
+      "mouth MBP": "B01 / unveiling Arteta / CTRL mouth MBP",
+      "mouth A": "B01 / unveiling Arteta / CTRL mouth A",
+      "mouth E": "B01 / unveiling Arteta / CTRL mouth E",
+      "mouth O": "B01 / unveiling Arteta / CTRL mouth O",
+      "mouth U": "B01 / unveiling Arteta / CTRL mouth U",
+      "mouth FV": "B01 / unveiling Arteta / CTRL mouth FV",
+      "mouth L": "B01 / unveiling Arteta / CTRL mouth L"
+    }
+  },
+  "unveiling Gyokeres": {
+    "skin": "B01 / unveiling Gyokeres / v012 illustrated skin",
+    "armature": "B01 / unveiling Gyokeres / v012 fitted skeleton",
+    "source": "assets/rig-art-v012/arteta-gyokeres.png",
+    "unit": 0.6163265306122448,
+    "mirrored": false,
+    "rest": {
+      "pelvis": [
+        0.0,
+        265.6367492675781,
+        0.0
+      ],
+      "neck": [
+        0.6163265109062195,
+        479.5020446777344,
+        0.0
+      ],
+      "head": [
+        -3.6979591846466064,
+        549.7632446289062,
+        0.0
+      ],
+      "L shoulder": [
+        -80.73877716064453,
+        443.7550964355469,
+        0.0
+      ],
+      "L elbow": [
+        -101.07755279541016,
+        355.00408935546875,
+        0.0
+      ],
+      "L wrist": [
+        -134.9755096435547,
+        277.346923828125,
+        0.0
+      ],
+      "L finger": [
+        -144.2204132080078,
+        243.448974609375,
+        0.0
+      ],
+      "L hip": [
+        -35.130611419677734,
+        264.4040832519531,
+        0.0
+      ],
+      "L knee": [
+        -50.53877639770508,
+        181.1999969482422,
+        0.0
+      ],
+      "L ankle": [
+        -64.09796142578125,
+        46.840816497802734,
+        0.0
+      ],
+      "L toe": [
+        -97.99591827392578,
+        11.710204124450684,
+        0.0
+      ],
+      "R shoulder": [
+        80.73877716064453,
+        443.7550964355469,
+        0.0
+      ],
+      "R elbow": [
+        113.40408325195312,
+        354.38775634765625,
+        0.0
+      ],
+      "R wrist": [
+        139.289794921875,
+        277.346923828125,
+        0.0
+      ],
+      "R finger": [
+        149.76734924316406,
+        242.21632385253906,
+        0.0
+      ],
+      "R hip": [
+        40.06122589111328,
+        264.4040832519531,
+        0.0
+      ],
+      "R knee": [
+        59.78367233276367,
+        181.1999969482422,
+        0.0
+      ],
+      "R ankle": [
+        81.97142791748047,
+        46.840816497802734,
+        0.0
+      ],
+      "R toe": [
+        118.95101928710938,
+        11.710204124450684,
+        0.0
+      ]
+    },
+    "lengths": {
+      "L": [
+        84.61874181689778,
+        135.04162385479466
+      ],
+      "R": [
+        85.50961820700759,
+        136.17887200540346
+      ]
+    },
+    "controls": {
+      "character": "B01 / unveiling Gyokeres / CTRL character",
+      "pelvis": "B01 / unveiling Gyokeres / CTRL pelvis",
+      "chest": "B01 / unveiling Gyokeres / CTRL chest",
+      "head": "B01 / unveiling Gyokeres / CTRL head",
+      "L upper arm": "B01 / unveiling Gyokeres / CTRL L upper arm",
+      "L forearm": "B01 / unveiling Gyokeres / CTRL L forearm",
+      "L hand": "B01 / unveiling Gyokeres / CTRL L hand",
+      "L hand thumb": "B01 / unveiling Gyokeres / CTRL L hand thumb",
+      "L hand finger 0": "B01 / unveiling Gyokeres / CTRL L hand finger 0",
+      "L hand finger 1": "B01 / unveiling Gyokeres / CTRL L hand finger 1",
+      "L hand finger 2": "B01 / unveiling Gyokeres / CTRL L hand finger 2",
+      "L hand finger 3": "B01 / unveiling Gyokeres / CTRL L hand finger 3",
+      "L thigh": "B01 / unveiling Gyokeres / CTRL L thigh",
+      "L shin": "B01 / unveiling Gyokeres / CTRL L shin",
+      "L boot": "B01 / unveiling Gyokeres / CTRL L boot",
+      "R upper arm": "B01 / unveiling Gyokeres / CTRL R upper arm",
+      "R forearm": "B01 / unveiling Gyokeres / CTRL R forearm",
+      "R hand": "B01 / unveiling Gyokeres / CTRL R hand",
+      "R hand thumb": "B01 / unveiling Gyokeres / CTRL R hand thumb",
+      "R hand finger 0": "B01 / unveiling Gyokeres / CTRL R hand finger 0",
+      "R hand finger 1": "B01 / unveiling Gyokeres / CTRL R hand finger 1",
+      "R hand finger 2": "B01 / unveiling Gyokeres / CTRL R hand finger 2",
+      "R hand finger 3": "B01 / unveiling Gyokeres / CTRL R hand finger 3",
+      "R thigh": "B01 / unveiling Gyokeres / CTRL R thigh",
+      "R shin": "B01 / unveiling Gyokeres / CTRL R shin",
+      "R boot": "B01 / unveiling Gyokeres / CTRL R boot",
+      "L eye": "B01 / unveiling Gyokeres / CTRL L eye",
+      "L gaze": "B01 / unveiling Gyokeres / CTRL L gaze",
+      "L brow": "B01 / unveiling Gyokeres / CTRL L brow",
+      "R eye": "B01 / unveiling Gyokeres / CTRL R eye",
+      "R gaze": "B01 / unveiling Gyokeres / CTRL R gaze",
+      "R brow": "B01 / unveiling Gyokeres / CTRL R brow",
+      "mouth": "B01 / unveiling Gyokeres / CTRL mouth",
+      "mouth rest": "B01 / unveiling Gyokeres / CTRL mouth rest",
+      "mouth MBP": "B01 / unveiling Gyokeres / CTRL mouth MBP",
+      "mouth A": "B01 / unveiling Gyokeres / CTRL mouth A",
+      "mouth E": "B01 / unveiling Gyokeres / CTRL mouth E",
+      "mouth O": "B01 / unveiling Gyokeres / CTRL mouth O",
+      "mouth U": "B01 / unveiling Gyokeres / CTRL mouth U",
+      "mouth FV": "B01 / unveiling Gyokeres / CTRL mouth FV",
+      "mouth L": "B01 / unveiling Gyokeres / CTRL mouth L"
+    }
+  }
+}

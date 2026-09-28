@@ -1,0 +1,636 @@
+[
+  {
+    "id": "N01",
+    "chapter": 1,
+    "panel": 0,
+    "start_frame": 1,
+    "frames": 192,
+    "lines": [
+      1
+    ],
+    "source": "boards/chapter-1.png",
+    "camera": "hold"
+  },
+  {
+    "id": "OP01_enter",
+    "chapter": 1,
+    "panel": 1,
+    "start_frame": 193,
+    "frames": 192,
+    "lines": [
+      2
+    ],
+    "source": "boards/chapter-1.png",
+    "camera": "hold"
+  },
+  {
+    "id": "OP01_offer",
+    "chapter": 1,
+    "panel": 2,
+    "start_frame": 385,
+    "frames": 96,
+    "lines": [
+      3
+    ],
+    "source": "boards/chapter-1.png",
+    "camera": "hold"
+  },
+  {
+    "id": "OP02",
+    "chapter": 1,
+    "panel": 3,
+    "start_frame": 481,
+    "frames": 144,
+    "lines": [
+      4,
+      5
+    ],
+    "source": "boards/chapter-1.png",
+    "camera": "hold"
+  },
+  {
+    "id": "OP03_close",
+    "chapter": 1,
+    "panel": 4,
+    "start_frame": 625,
+    "frames": 36,
+    "lines": [],
+    "source": "boards/chapter-1.png",
+    "camera": "hold"
+  },
+  {
+    "id": "OP03_phone",
+    "chapter": 1,
+    "panel": 5,
+    "start_frame": 661,
+    "frames": 84,
+    "lines": [
+      6
+    ],
+    "source": "boards/chapter-1.png",
+    "camera": "hold"
+  },
+  {
+    "id": "TR01",
+    "chapter": 2,
+    "panel": 0,
+    "start_frame": 745,
+    "frames": 192,
+    "lines": [
+      7
+    ],
+    "source": "boards/chapter-2.png",
+    "camera": "hold"
+  },
+  {
+    "id": "TR02_flag",
+    "chapter": 2,
+    "panel": 1,
+    "start_frame": 937,
+    "frames": 96,
+    "lines": [],
+    "source": "boards/chapter-2.png",
+    "camera": "hold"
+  },
+  {
+    "id": "TR02_reaction",
+    "chapter": 2,
+    "panel": 2,
+    "start_frame": 1033,
+    "frames": 144,
+    "lines": [
+      8,
+      9
+    ],
+    "source": "boards/chapter-2.png",
+    "camera": "hold"
+  },
+  {
+    "id": "TR03_warning",
+    "chapter": 2,
+    "panel": 3,
+    "start_frame": 1177,
+    "frames": 96,
+    "lines": [
+      10
+    ],
+    "source": "boards/chapter-2.png",
+    "camera": "hold"
+  },
+  {
+    "id": "TR03_kick",
+    "chapter": 2,
+    "panel": 4,
+    "start_frame": 1273,
+    "frames": 72,
+    "lines": [],
+    "source": "boards/chapter-2.png",
+    "camera": "hold"
+  },
+  {
+    "id": "TR03_praise",
+    "chapter": 2,
+    "panel": 5,
+    "start_frame": 1345,
+    "frames": 84,
+    "lines": [
+      11
+    ],
+    "source": "boards/chapter-2.png",
+    "camera": "hold"
+  },
+  {
+    "id": "TR04",
+    "chapter": 3,
+    "panel": 0,
+    "start_frame": 1429,
+    "frames": 48,
+    "lines": [],
+    "source": "boards/chapter-3.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CD01_cross",
+    "chapter": 3,
+    "panel": 0,
+    "start_frame": 1477,
+    "frames": 197,
+    "lines": [
+      12
+    ],
+    "source": "boards/chapter-3.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CD01_header",
+    "chapter": 3,
+    "panel": 1,
+    "start_frame": 1674,
+    "frames": 72,
+    "lines": [],
+    "source": "boards/chapter-3.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CD02",
+    "chapter": 3,
+    "panel": 2,
+    "start_frame": 1746,
+    "frames": 122,
+    "lines": [
+      13
+    ],
+    "source": "boards/chapter-3.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CD03",
+    "chapter": 3,
+    "panel": 3,
+    "start_frame": 1868,
+    "frames": 120,
+    "lines": [],
+    "source": "boards/chapter-3.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CD04",
+    "chapter": 3,
+    "panel": 4,
+    "start_frame": 1988,
+    "frames": 200,
+    "lines": [
+      14
+    ],
+    "source": "boards/chapter-3.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CD05",
+    "chapter": 3,
+    "panel": 5,
+    "start_frame": 2188,
+    "frames": 144,
+    "lines": [
+      15,
+      16
+    ],
+    "source": "boards/chapter-3.png",
+    "camera": "hold"
+  },
+  {
+    "id": "N02",
+    "chapter": 1,
+    "panel": 0,
+    "start_frame": 2332,
+    "frames": 48,
+    "lines": [],
+    "source": "boards/chapter-1.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CD05_proud",
+    "chapter": 3,
+    "panel": 2,
+    "start_frame": 2380,
+    "frames": 84,
+    "lines": [
+      17
+    ],
+    "source": "boards/chapter-3.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CD05_ping",
+    "chapter": 3,
+    "panel": 2,
+    "start_frame": 2464,
+    "frames": 60,
+    "lines": [
+      18
+    ],
+    "source": "boards/chapter-3.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CP01",
+    "chapter": 4,
+    "panel": 0,
+    "start_frame": 2524,
+    "frames": 216,
+    "lines": [
+      19
+    ],
+    "source": "boards/chapter-4.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CP02_far",
+    "chapter": 4,
+    "panel": 1,
+    "start_frame": 2740,
+    "frames": 120,
+    "lines": [
+      20
+    ],
+    "source": "boards/chapter-4.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CP02_near",
+    "chapter": 4,
+    "panel": 2,
+    "start_frame": 2860,
+    "frames": 72,
+    "lines": [],
+    "source": "boards/chapter-4.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CP03_panic",
+    "chapter": 4,
+    "panel": 3,
+    "start_frame": 2932,
+    "frames": 84,
+    "lines": [
+      21
+    ],
+    "source": "boards/chapter-4.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CP03_pep",
+    "chapter": 4,
+    "panel": 2,
+    "start_frame": 3016,
+    "frames": 96,
+    "lines": [
+      22
+    ],
+    "source": "boards/chapter-4.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CP04_forward",
+    "chapter": 4,
+    "panel": 3,
+    "start_frame": 3112,
+    "frames": 123,
+    "lines": [
+      23
+    ],
+    "source": "boards/chapter-4.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CP04_courier",
+    "chapter": 4,
+    "panel": 4,
+    "start_frame": 3235,
+    "frames": 144,
+    "lines": [
+      24,
+      25
+    ],
+    "source": "boards/chapter-4.png",
+    "camera": "hold"
+  },
+  {
+    "id": "CP05",
+    "chapter": 4,
+    "panel": 5,
+    "start_frame": 3379,
+    "frames": 120,
+    "lines": [
+      26
+    ],
+    "source": "boards/chapter-4.png",
+    "camera": "hold"
+  },
+  {
+    "id": "VH01",
+    "chapter": 5,
+    "panel": 0,
+    "start_frame": 3499,
+    "frames": 122,
+    "lines": [
+      27
+    ],
+    "source": "boards/chapter-5.png",
+    "camera": "hold"
+  },
+  {
+    "id": "VH02",
+    "chapter": 5,
+    "panel": 1,
+    "start_frame": 3621,
+    "frames": 144,
+    "lines": [
+      28
+    ],
+    "source": "boards/chapter-5.png",
+    "camera": "hold"
+  },
+  {
+    "id": "VH03",
+    "chapter": 5,
+    "panel": 2,
+    "start_frame": 3765,
+    "frames": 48,
+    "lines": [],
+    "source": "boards/chapter-5.png",
+    "camera": "hold"
+  },
+  {
+    "id": "VH03_answer",
+    "chapter": 5,
+    "panel": 3,
+    "start_frame": 3813,
+    "frames": 110,
+    "lines": [
+      29
+    ],
+    "source": "boards/chapter-5.png",
+    "camera": "hold"
+  },
+  {
+    "id": "VH04_mikel",
+    "chapter": 5,
+    "panel": 4,
+    "start_frame": 3923,
+    "frames": 96,
+    "lines": [
+      30
+    ],
+    "source": "boards/chapter-5.png",
+    "camera": "hold"
+  },
+  {
+    "id": "VH04_operator",
+    "chapter": 5,
+    "panel": 3,
+    "start_frame": 4019,
+    "frames": 108,
+    "lines": [
+      31
+    ],
+    "source": "boards/chapter-5.png",
+    "camera": "hold"
+  },
+  {
+    "id": "VH04_two",
+    "chapter": 5,
+    "panel": 4,
+    "start_frame": 4127,
+    "frames": 60,
+    "lines": [
+      32
+    ],
+    "source": "boards/chapter-5.png",
+    "camera": "hold"
+  },
+  {
+    "id": "VH04_button",
+    "chapter": 5,
+    "panel": 5,
+    "start_frame": 4187,
+    "frames": 48,
+    "lines": [],
+    "source": "boards/chapter-5.png",
+    "camera": "hold"
+  },
+  {
+    "id": "VH05",
+    "chapter": 7,
+    "panel": 1,
+    "start_frame": 4235,
+    "frames": 156,
+    "lines": [
+      33,
+      34
+    ],
+    "source": "boards/chapter-7.png",
+    "camera": "hold"
+  },
+  {
+    "id": "VH05_wait",
+    "chapter": 7,
+    "panel": 1,
+    "start_frame": 4391,
+    "frames": 72,
+    "lines": [],
+    "source": "boards/chapter-7.png",
+    "camera": "hold"
+  },
+  {
+    "id": "FR01",
+    "chapter": 6,
+    "panel": 0,
+    "start_frame": 4463,
+    "frames": 200,
+    "lines": [
+      35
+    ],
+    "source": "boards/chapter-6.png",
+    "camera": "hold"
+  },
+  {
+    "id": "FR02",
+    "chapter": 6,
+    "panel": 1,
+    "start_frame": 4663,
+    "frames": 144,
+    "lines": [
+      36,
+      37
+    ],
+    "source": "boards/chapter-6.png",
+    "camera": "hold"
+  },
+  {
+    "id": "N03",
+    "chapter": 1,
+    "panel": 0,
+    "start_frame": 4807,
+    "frames": 93,
+    "lines": [
+      38
+    ],
+    "source": "boards/chapter-1.png",
+    "camera": "hold"
+  },
+  {
+    "id": "FR03_cross",
+    "chapter": 6,
+    "panel": 2,
+    "start_frame": 4900,
+    "frames": 72,
+    "lines": [],
+    "source": "boards/chapter-6.png",
+    "camera": "hold"
+  },
+  {
+    "id": "FR03_complain",
+    "chapter": 6,
+    "panel": 1,
+    "start_frame": 4972,
+    "frames": 106,
+    "lines": [
+      39
+    ],
+    "source": "boards/chapter-6.png",
+    "camera": "hold"
+  },
+  {
+    "id": "FR03_bonk",
+    "chapter": 6,
+    "panel": 3,
+    "start_frame": 5078,
+    "frames": 24,
+    "lines": [],
+    "source": "boards/chapter-6.png",
+    "camera": "hold"
+  },
+  {
+    "id": "FR03_goal",
+    "chapter": 6,
+    "panel": 4,
+    "start_frame": 5102,
+    "frames": 72,
+    "lines": [],
+    "source": "boards/chapter-6.png",
+    "camera": "hold"
+  },
+  {
+    "id": "FR04",
+    "chapter": 6,
+    "panel": 5,
+    "start_frame": 5174,
+    "frames": 144,
+    "lines": [
+      40,
+      41
+    ],
+    "source": "boards/chapter-6.png",
+    "camera": "hold"
+  },
+  {
+    "id": "FR05",
+    "chapter": 7,
+    "panel": 0,
+    "start_frame": 5318,
+    "frames": 144,
+    "lines": [
+      42,
+      43
+    ],
+    "source": "boards/chapter-7.png",
+    "camera": "hold"
+  },
+  {
+    "id": "VH06",
+    "chapter": 7,
+    "panel": 1,
+    "start_frame": 5462,
+    "frames": 168,
+    "lines": [
+      44,
+      45
+    ],
+    "source": "boards/chapter-7.png",
+    "camera": "hold"
+  },
+  {
+    "id": "N04_trophy",
+    "chapter": 7,
+    "panel": 2,
+    "start_frame": 5630,
+    "frames": 120,
+    "lines": [],
+    "source": "boards/chapter-7.png",
+    "camera": "hold"
+  },
+  {
+    "id": "N04_dark",
+    "chapter": 7,
+    "panel": 3,
+    "start_frame": 5750,
+    "frames": 96,
+    "lines": [],
+    "source": "boards/chapter-7.png",
+    "camera": "hold"
+  },
+  {
+    "id": "N04_reveal",
+    "chapter": 7,
+    "panel": 4,
+    "start_frame": 5846,
+    "frames": 36,
+    "lines": [],
+    "source": "boards/chapter-7.png",
+    "camera": "hold"
+  },
+  {
+    "id": "N04_meltdown",
+    "chapter": 7,
+    "panel": 5,
+    "start_frame": 5882,
+    "frames": 168,
+    "lines": [
+      46,
+      47
+    ],
+    "source": "boards/chapter-7.png",
+    "camera": "hold"
+  },
+  {
+    "id": "N04_tap",
+    "chapter": 7,
+    "panel": 5,
+    "start_frame": 6050,
+    "frames": 60,
+    "lines": [],
+    "source": "boards/chapter-7.png",
+    "camera": "hold"
+  }
+]

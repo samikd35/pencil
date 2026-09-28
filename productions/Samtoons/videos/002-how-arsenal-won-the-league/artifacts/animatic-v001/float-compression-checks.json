@@ -1,0 +1,152 @@
+[
+  {
+    "original": "section-00-cuesv3/stems/music.wav",
+    "retained": "section-00-cuesv3/stems/music.wv",
+    "decoded_pcm_sha256": "7ccbfa4314f06b3cace2b21905022ce446a32d4d8f463c7cd749610147d45459",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-00-cuesv3/stems/foley.wav",
+    "retained": "section-00-cuesv3/stems/foley.wv",
+    "decoded_pcm_sha256": "ff0b33bb9400c711f287a98c0bcbd4b1bcbceff80eb4f6153779e379e9419dbb",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-00-cuesv3/stems/dialogue.wav",
+    "retained": "section-00-cuesv3/stems/dialogue.wv",
+    "decoded_pcm_sha256": "c678a7fe4d6637e57ba15ae38c6d57456c660458284653575ad21e25dfd388a9",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-00-cuesv3/mix-premaster.wav",
+    "retained": "section-00-cuesv3/mix-premaster.wv",
+    "decoded_pcm_sha256": "7e7676f790a571f9552074104fbe80f9335b5497a51906232bae8aa967b3dc1e",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-01-cuesv3/stems/crowd.wav",
+    "retained": "section-01-cuesv3/stems/crowd.wv",
+    "decoded_pcm_sha256": "1fe573d1cd38332df8960bd8e09d77935008535e98082a40f645bee09261ec0b",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-01-cuesv3/stems/foley.wav",
+    "retained": "section-01-cuesv3/stems/foley.wv",
+    "decoded_pcm_sha256": "8bb9556a7aa88c8258dc1ccfd20d4d7c3ca11cde48b35ce55951f8934e5f1a92",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-01-cuesv3/stems/dialogue.wav",
+    "retained": "section-01-cuesv3/stems/dialogue.wv",
+    "decoded_pcm_sha256": "5801231616fb587e471557805f9a56fbcb662926dfe2121875fd624442048d92",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-01-cuesv3/mix-premaster.wav",
+    "retained": "section-01-cuesv3/mix-premaster.wv",
+    "decoded_pcm_sha256": "8a09b8ca030b0892e44df5eb81019d5e149dc03453f77d15a94e867c2ad343d1",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-03-cuesv3/stems/music.wav",
+    "retained": "section-03-cuesv3/stems/music.wv",
+    "decoded_pcm_sha256": "f9bdbe3ca149adb05cf9f3c17fdda81c6205635f6730419dc1726f82ac6ca28c",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-03-cuesv3/stems/plot-effects.wav",
+    "retained": "section-03-cuesv3/stems/plot-effects.wv",
+    "decoded_pcm_sha256": "619a6d2bc83d5ae517971220352cc21eb6ac263b9deefa70a490b1cf4033fa02",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-03-cuesv3/stems/dialogue.wav",
+    "retained": "section-03-cuesv3/stems/dialogue.wv",
+    "decoded_pcm_sha256": "082ff5b1035391ddadb3d3bc5913ce0ca9853d14e9dc970518de534b3ebacd73",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-03-cuesv3/mix-premaster.wav",
+    "retained": "section-03-cuesv3/mix-premaster.wv",
+    "decoded_pcm_sha256": "90d6a764c32514ab25e6bd9ce3c0439d0b2cea2b88bd32414991b021299aad6e",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-04-cuesv3/stems/music.wav",
+    "retained": "section-04-cuesv3/stems/music.wv",
+    "decoded_pcm_sha256": "4cd45bae5168763089dcc1d2dcde3ad53639583781257a245c2d5f60cba954a5",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-04-cuesv3/stems/foley.wav",
+    "retained": "section-04-cuesv3/stems/foley.wv",
+    "decoded_pcm_sha256": "5fab52c5a4ea2cb158ef177a6c3c469c48a89184160ed708e6f19bac90cd7a5e",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-04-cuesv3/stems/dialogue.wav",
+    "retained": "section-04-cuesv3/stems/dialogue.wv",
+    "decoded_pcm_sha256": "2ae232187401facb36eb74da3e0439dff9a969d54b75d56ebf0d452409445909",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-04-cuesv3/mix-premaster.wav",
+    "retained": "section-04-cuesv3/mix-premaster.wv",
+    "decoded_pcm_sha256": "381f34af045cef07168297827ee007b2295fc7e6f1a474e012a606fc4cc2122d",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-05-cuesv3/stems/music.wav",
+    "retained": "section-05-cuesv3/stems/music.wv",
+    "decoded_pcm_sha256": "08b99fbdfeb51af220d42bd0a2eb8e138fc188c85f4aa8a9491c77eb8b053bbc",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-05-cuesv3/stems/foley.wav",
+    "retained": "section-05-cuesv3/stems/foley.wv",
+    "decoded_pcm_sha256": "7c39d922a5943197f4443170ea722102ca5b97c83ec981dc97e05963292bf0e9",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-05-cuesv3/stems/dialogue.wav",
+    "retained": "section-05-cuesv3/stems/dialogue.wv",
+    "decoded_pcm_sha256": "166d717387fb2c00656e193392cc28072fe988b86afff54589b3446ec372af0d",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-05-cuesv3/mix-premaster.wav",
+    "retained": "section-05-cuesv3/mix-premaster.wv",
+    "decoded_pcm_sha256": "2eb57ed3371ceaaae7cc120ffd8ead330ad9ebadb024f30e21ac0b954ce5593f",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-06-cuesv3/stems/music.wav",
+    "retained": "section-06-cuesv3/stems/music.wv",
+    "decoded_pcm_sha256": "dba9128424216d104733396e000929761d007ab4e7dc6a33d764745bb795838d",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-06-cuesv3/stems/crowd.wav",
+    "retained": "section-06-cuesv3/stems/crowd.wv",
+    "decoded_pcm_sha256": "5374502bb0774e8064f5bcaeb0de1175a2b350a89f82855fd2da21b6d54b1ebe",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-06-cuesv3/stems/foley.wav",
+    "retained": "section-06-cuesv3/stems/foley.wv",
+    "decoded_pcm_sha256": "ef45d3d45667bd937671cac4914c0c22ce5e6abc7bb1dc709443ed58234b0622",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-06-cuesv3/stems/dialogue.wav",
+    "retained": "section-06-cuesv3/stems/dialogue.wv",
+    "decoded_pcm_sha256": "c7325546e6ebae59df1b6f05675875e82e583ef4b121095cc6ddbc899baae261",
+    "exact_float_roundtrip": true
+  },
+  {
+    "original": "section-06-cuesv3/mix-premaster.wav",
+    "retained": "section-06-cuesv3/mix-premaster.wv",
+    "decoded_pcm_sha256": "9c5f53eb118ae2e529a48196f1c124429483d4e348aecf64b49e3a2fa61f9bac",
+    "exact_float_roundtrip": true
+  }
+]

@@ -1,0 +1,345 @@
+{
+  "origin": "Original synthesis using existing Pencil Foley helpers; no speech or source-video audio.",
+  "seconds": 30,
+  "sample_rate": 48000,
+  "cues": [
+    {
+      "kind": "tap",
+      "duration": 0.1,
+      "gain": 0.13,
+      "pan": 0,
+      "seconds": 0.25,
+      "frame": 9
+    },
+    {
+      "kind": "phone buzz",
+      "seconds": 3.08,
+      "frame": 93
+    },
+    {
+      "kind": "phone buzz",
+      "seconds": 3.36,
+      "frame": 102
+    },
+    {
+      "kind": "tap",
+      "duration": 0.1,
+      "gain": 0.12,
+      "pan": -0.2,
+      "seconds": 4.4,
+      "frame": 133
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.45,
+      "gain": 0.1,
+      "pan": -0.7,
+      "seconds": 6,
+      "frame": 181
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.55,
+      "gain": 0.08,
+      "pan": -0.7,
+      "seconds": 8.9,
+      "frame": 268
+    },
+    {
+      "kind": "tap",
+      "duration": 0.045,
+      "gain": 0.055,
+      "pan": -0.25,
+      "seconds": 10.3,
+      "frame": 310
+    },
+    {
+      "kind": "tap",
+      "duration": 0.045,
+      "gain": 0.055,
+      "pan": -0.25,
+      "seconds": 10.99,
+      "frame": 331
+    },
+    {
+      "kind": "tap",
+      "duration": 0.045,
+      "gain": 0.055,
+      "pan": -0.25,
+      "seconds": 11.68,
+      "frame": 351
+    },
+    {
+      "kind": "tap",
+      "duration": 0.045,
+      "gain": 0.055,
+      "pan": -0.25,
+      "seconds": 12.37,
+      "frame": 372
+    },
+    {
+      "kind": "tap",
+      "duration": 0.045,
+      "gain": 0.055,
+      "pan": -0.25,
+      "seconds": 13.059999999999999,
+      "frame": 393
+    },
+    {
+      "kind": "tap",
+      "duration": 0.045,
+      "gain": 0.055,
+      "pan": -0.25,
+      "seconds": 13.749999999999998,
+      "frame": 413
+    },
+    {
+      "kind": "tap",
+      "duration": 0.045,
+      "gain": 0.055,
+      "pan": -0.25,
+      "seconds": 14.439999999999998,
+      "frame": 434
+    },
+    {
+      "kind": "tap",
+      "duration": 0.045,
+      "gain": 0.055,
+      "pan": -0.25,
+      "seconds": 15.129999999999997,
+      "frame": 455
+    },
+    {
+      "kind": "tap",
+      "duration": 0.045,
+      "gain": 0.055,
+      "pan": -0.25,
+      "seconds": 15.819999999999997,
+      "frame": 476
+    },
+    {
+      "kind": "tap",
+      "duration": 0.045,
+      "gain": 0.055,
+      "pan": -0.25,
+      "seconds": 16.509999999999998,
+      "frame": 496
+    },
+    {
+      "kind": "tap",
+      "duration": 0.045,
+      "gain": 0.055,
+      "pan": -0.25,
+      "seconds": 17.199999999999996,
+      "frame": 517
+    },
+    {
+      "kind": "tap",
+      "duration": 0.05,
+      "gain": 0.075,
+      "pan": 0.45,
+      "seconds": 10.8,
+      "frame": 325
+    },
+    {
+      "kind": "tap",
+      "duration": 0.05,
+      "gain": 0.075,
+      "pan": 0.45,
+      "seconds": 11.6,
+      "frame": 349
+    },
+    {
+      "kind": "tap",
+      "duration": 0.05,
+      "gain": 0.075,
+      "pan": 0.45,
+      "seconds": 12.3,
+      "frame": 370
+    },
+    {
+      "kind": "tap",
+      "duration": 0.05,
+      "gain": 0.075,
+      "pan": 0.45,
+      "seconds": 12.9,
+      "frame": 388
+    },
+    {
+      "kind": "tap",
+      "duration": 0.05,
+      "gain": 0.075,
+      "pan": 0.45,
+      "seconds": 13.4,
+      "frame": 403
+    },
+    {
+      "kind": "tap",
+      "duration": 0.05,
+      "gain": 0.075,
+      "pan": 0.45,
+      "seconds": 13.8,
+      "frame": 415
+    },
+    {
+      "kind": "tap",
+      "duration": 0.05,
+      "gain": 0.075,
+      "pan": 0.45,
+      "seconds": 14.1,
+      "frame": 424
+    },
+    {
+      "kind": "tap",
+      "duration": 0.05,
+      "gain": 0.075,
+      "pan": 0.45,
+      "seconds": 14.35,
+      "frame": 431
+    },
+    {
+      "kind": "tap",
+      "duration": 0.05,
+      "gain": 0.075,
+      "pan": 0.45,
+      "seconds": 14.55,
+      "frame": 437
+    },
+    {
+      "kind": "tap",
+      "duration": 0.05,
+      "gain": 0.075,
+      "pan": 0.45,
+      "seconds": 14.72,
+      "frame": 443
+    },
+    {
+      "kind": "tap",
+      "duration": 0.05,
+      "gain": 0.075,
+      "pan": 0.45,
+      "seconds": 14.86,
+      "frame": 447
+    },
+    {
+      "kind": "tap",
+      "duration": 0.17,
+      "gain": 0.28,
+      "pan": 0.4,
+      "seconds": 15,
+      "frame": 451
+    },
+    {
+      "kind": "creak",
+      "duration": 0.48,
+      "gain": 0.075,
+      "pan": -0.2,
+      "seconds": 21.6,
+      "frame": 649
+    },
+    {
+      "kind": "tap",
+      "duration": 0.1,
+      "gain": 0.17,
+      "pan": 0.2,
+      "seconds": 24.1,
+      "frame": 724
+    },
+    {
+      "kind": "tap",
+      "duration": 0.08,
+      "gain": 0.1,
+      "pan": 0.3,
+      "seconds": 24.9,
+      "frame": 748
+    },
+    {
+      "kind": "step",
+      "duration": 0.075,
+      "gain": 0.13,
+      "pan": -0.3,
+      "seconds": 27.08,
+      "frame": 813
+    },
+    {
+      "kind": "step",
+      "duration": 0.075,
+      "gain": 0.117,
+      "pan": -0.26,
+      "seconds": 27.26,
+      "frame": 819
+    },
+    {
+      "kind": "step",
+      "duration": 0.075,
+      "gain": 0.10400000000000001,
+      "pan": -0.21999999999999997,
+      "seconds": 27.42,
+      "frame": 824
+    },
+    {
+      "kind": "step",
+      "duration": 0.075,
+      "gain": 0.091,
+      "pan": -0.18,
+      "seconds": 27.56,
+      "frame": 828
+    },
+    {
+      "kind": "step",
+      "duration": 0.075,
+      "gain": 0.078,
+      "pan": -0.13999999999999999,
+      "seconds": 27.69,
+      "frame": 832
+    },
+    {
+      "kind": "step",
+      "duration": 0.075,
+      "gain": 0.065,
+      "pan": -0.09999999999999998,
+      "seconds": 27.8,
+      "frame": 835
+    },
+    {
+      "kind": "step",
+      "duration": 0.075,
+      "gain": 0.052000000000000005,
+      "pan": -0.06,
+      "seconds": 27.9,
+      "frame": 838
+    },
+    {
+      "kind": "step",
+      "duration": 0.075,
+      "gain": 0.03900000000000001,
+      "pan": -0.019999999999999962,
+      "seconds": 28.0,
+      "frame": 841
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.7,
+      "gain": 0.075,
+      "pan": 0,
+      "seconds": 27.25,
+      "frame": 819
+    },
+    {
+      "kind": "tap",
+      "duration": 0.15,
+      "gain": 0.08,
+      "pan": 0,
+      "seconds": 28.22,
+      "frame": 848
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.27,
+      "gain": 0.1,
+      "pan": 0,
+      "seconds": 28.22,
+      "frame": 848
+    }
+  ]
+}

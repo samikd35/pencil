@@ -1,0 +1,19 @@
+{
+  "id": "L35",
+  "chapter": 6,
+  "beat": "FR01",
+  "role_and_direction": "NARRATOR — struggling to contain his irritation",
+  "text": "One goal for the title. And of course, one bloody corner.",
+  "word_count": 11,
+  "seconds": 6.48,
+  "file": "L35.wav",
+  "sha256": "62c65254619afee04c172ba306133d477c1c16612f38825458819d33e61bd18e",
+  "reference_start_seconds": 85.94045833333334,
+  "role": "NARRATOR",
+  "direction": "An elderly man, low weathered gravelly voice, restrained Scottish English accent. Original theatrical cartoon football manager voice. Straining to contain irritation. Stress bloody corner, controlled bitter edge. Clean dry microphone, no music or extra words.",
+  "seed": 42,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 6.3851324999995995,
+  "path": "artifacts/animatic-v001/voices/L35.wav"
+}

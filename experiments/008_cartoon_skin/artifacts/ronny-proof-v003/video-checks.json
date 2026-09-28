@@ -1,0 +1,26 @@
+{
+  "stickman-to-cartoon.mp4": {
+    "frames": 240,
+    "seconds": 10,
+    "fps": 24,
+    "width": 1280,
+    "height": 408,
+    "audio_channels": 2,
+    "audio_sample_rate": 48000,
+    "complete_decode": "passed",
+    "sha256": "8f2101eba8dc7f02777cb682a4b0dfa06389b15a9bf184b38be5f6ebf8017965"
+  },
+  "cartoon-with-sound.mp4": {
+    "frames": 240,
+    "seconds": 10,
+    "fps": 24,
+    "width": 640,
+    "height": 360,
+    "audio_channels": 2,
+    "audio_sample_rate": 48000,
+    "complete_decode": "passed",
+    "sha256": "1e18234115fba86026c7a0e2b3c9bd45dc1cdad09928583e0015f918ef5c09f6"
+  },
+  "original_decoded_sound_preserved": true,
+  "review_limit": "Mechanism proof; sampled visual inspection and technical checks are not full playback acceptance."
+}

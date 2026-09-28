@@ -1,0 +1,19 @@
+{
+  "id": "L12",
+  "chapter": 3,
+  "beat": "CD01",
+  "role_and_direction": "NARRATOR",
+  "text": "Their attacking philosophy? Win a corner. Somebody’s forehead will do the rest.",
+  "word_count": 12,
+  "seconds": 7.04,
+  "file": "L12.wav",
+  "sha256": "ed6988bf789c75251edc75108be5935a25332eae5b1da5c71a91a358aacd83ea",
+  "reference_start_seconds": 27.42866666666667,
+  "role": "NARRATOR",
+  "direction": "An elderly man, low weathered gravelly voice, restrained Scottish English accent. Original theatrical cartoon football manager voice. Natural clear character delivery; make the sentence a thought, not a reading. Clean dry microphone, no music or extra words.",
+  "seed": 42,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 6.942631917001563,
+  "path": "artifacts/animatic-v001/voices/L12.wav"
+}

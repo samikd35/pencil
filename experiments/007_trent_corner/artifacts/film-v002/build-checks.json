@@ -1,0 +1,26 @@
+{
+  "blender": "5.2.0 LTS",
+  "frames": 912,
+  "fps": 24,
+  "seconds": 38,
+  "construction": "Thin native 3D ink limbs and narrow jerseys; textured editable silhouette heads; shared 3D field",
+  "contact_centers": {
+    "corner": [
+      11.699999809265137,
+      0.27000001072883606,
+      0.17000000178813934
+    ],
+    "receiver": [
+      2.0,
+      3.299999952316284,
+      0.17000000178813934
+    ],
+    "net": [
+      -0.800000011920929,
+      -1.2999999523162842,
+      1.7200000286102295
+    ]
+  },
+  "head_asset": "design/treatment-v003/heads.png",
+  "head_background": "Original RGB pixels retained; native silhouette geometry excludes checker background."
+}

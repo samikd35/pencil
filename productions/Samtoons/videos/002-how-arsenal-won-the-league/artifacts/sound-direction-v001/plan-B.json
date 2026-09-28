@@ -1,0 +1,331 @@
+{
+  "version": 1,
+  "scope": "Sound-direction four-excerpt review only",
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 861,
+    "sample_rate": 48000
+  },
+  "shots": [
+    {
+      "id": "audition",
+      "start_frame": 1,
+      "events": {
+        "switch-0": 0,
+        "question-motif-1": 3.5999999999999996,
+        "narrator-2": 48,
+        "arteta-3": 186.0,
+        "city-ping-4": 175.92000000000002,
+        "chase-score-5": 174.0,
+        "pep-6": 292.981,
+        "hold-7": 375.0,
+        "hold-phone-8": 519.962,
+        "ref-9": 537.962,
+        "question-motif-10": 625.0,
+        "switch-11": 665.8,
+        "answer-note-12": 665.8,
+        "meltdown-13": 694.6,
+        "paper-14": 824.653,
+        "tiny-tap-15": 846.253
+      }
+    }
+  ],
+  "assets": {
+    "narrator": {
+      "path": "../../artifacts/sound-direction-v001/narrator.wav",
+      "sha256": "7ea9f13e9478e4ee1c4569668faedd960920d717127b5b4773f853071e36546e",
+      "source": "Local Qwen VoiceDesign; exact text, direction, seed, model provenance in narrator-raw.json",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": ""
+    },
+    "arteta": {
+      "path": "../../artifacts/sound-direction-v001/arteta.wav",
+      "sha256": "cf7ef4a3d6aa156e2cebf9c0e8fcb9ec158f2101651e835f53ca4c2d038b6b98",
+      "source": "Local Qwen VoiceDesign; exact text, direction, seed, model provenance in arteta-raw.json",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": ""
+    },
+    "pep": {
+      "path": "../../artifacts/sound-direction-v001/pep.wav",
+      "sha256": "632036ad030adcba5bfd2f272c7af52d64ee98a08eb1c4200526d29b00f0387b",
+      "source": "Local Qwen VoiceDesign; exact text, direction, seed, model provenance in pep-raw.json",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": ""
+    },
+    "hold": {
+      "path": "../../artifacts/sound-direction-v001/hold.wav",
+      "sha256": "e82cf06817f692f7cda674f76a32c5ecf62680141031b7de21ebe55281d9ccad",
+      "source": "Local Qwen; original menu performance with telephone-band processing",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": ""
+    },
+    "ref": {
+      "path": "../../artifacts/sound-direction-v001/ref.wav",
+      "sha256": "42fd15257c3579488bd6d828cc17067714b77d883139f64c2f56de4bf8c919a3",
+      "source": "Local Qwen VoiceDesign; exact text, direction, seed, model provenance in ref-raw.json",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": ""
+    },
+    "meltdown": {
+      "path": "../../artifacts/sound-direction-v001/meltdown.wav",
+      "sha256": "6287781e66a0e969070928e77fac567a258a6ec83313831c5b59f59563e09cf8",
+      "source": "Local Qwen VoiceDesign; exact text, direction, seed, model provenance in meltdown-raw.json",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": ""
+    },
+    "question-motif": {
+      "path": "../../artifacts/sound-direction-v001/question-motif.wav",
+      "sha256": "d0aeef3fa6d16357f15e96449053e2bc63d20072e8b1aa11e3771013ec65f919",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "answer-note": {
+      "path": "../../artifacts/sound-direction-v001/answer-note.wav",
+      "sha256": "617f6e28c03d9118b0280fe10fe05ce0206912ccdbe53400283bdf682b8ab56b",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "city-ping": {
+      "path": "../../artifacts/sound-direction-v001/city-ping.wav",
+      "sha256": "0a0091a3079c5fc77a2b5941ffa572b65f1f5e43f0915fa624e413c5301b52a3",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "switch": {
+      "path": "../../artifacts/sound-direction-v001/switch.wav",
+      "sha256": "38a8432760ac3205588a6ac226a396285a16e25ad20ccc278e09a87158c93152",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "tiny-tap": {
+      "path": "../../artifacts/sound-direction-v001/tiny-tap.wav",
+      "sha256": "9aa3abd25e956d458bed7a029be1c1ca6ee9a612b5be1372d6dbd7457c05d554",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "hold-tune": {
+      "path": "../../artifacts/sound-direction-v001/hold-tune.wav",
+      "sha256": "85a20f4cea0c2201a9c96250a8c33f579901e9e8fd745fd0e116fad7af86352a",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "hold-phone": {
+      "path": "../../artifacts/sound-direction-v001/hold-phone.wav",
+      "sha256": "ad7f60b5bd1a08fb5cfd76c99a92ffec7b33314816c780ba0edf3bd4c7622d49",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "chase-score": {
+      "path": "../../artifacts/sound-direction-v001/chase-score.mp3",
+      "sha256": "f2f20d0737560a2dec0d82119810757326b1eec7eae211f2d3e056e9754834a9",
+      "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100085",
+      "license": "CC BY 4.0",
+      "attribution": "Scheming Weasel (faster version) by Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ . Excerpted and faded."
+    },
+    "boot": {
+      "path": "../../artifacts/sound-direction-v001/boot.wav",
+      "sha256": "8a0a021e90900cca49cceca0182e41b8f9354cdfb17609e6b2a8437c8ec29ae8",
+      "source": "Original episode 001 seeded boot-contact synthesis, prepare_revision_audio.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "paper": {
+      "path": "../../artifacts/sound-direction-v001/paper.wav",
+      "sha256": "aec7d37ae05bb3a9fd306c730dd07070f4927f6e2d134ee4594f0950e3c80501",
+      "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+      "license": "CC0",
+      "attribution": "Paper by Ezcah, Freesound 248178; processed excerpt."
+    }
+  },
+  "cues": [
+    {
+      "id": "switch-0",
+      "shot": "audition",
+      "event": "switch-0",
+      "asset": "switch",
+      "stem": "foley",
+      "intent": "switch",
+      "duration_seconds": "9/100",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    },
+    {
+      "id": "question-motif-1",
+      "shot": "audition",
+      "event": "question-motif-1",
+      "asset": "question-motif",
+      "stem": "music",
+      "intent": "question-motif",
+      "duration_seconds": "8/5",
+      "gain_db": -2,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    },
+    {
+      "id": "narrator-2",
+      "shot": "audition",
+      "event": "narrator-2",
+      "asset": "narrator",
+      "stem": "dialogue",
+      "intent": "narrator",
+      "duration_seconds": "106537/24000",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    },
+    {
+      "id": "arteta-3",
+      "shot": "audition",
+      "event": "arteta-3",
+      "asset": "arteta",
+      "stem": "dialogue",
+      "intent": "arteta",
+      "duration_seconds": "93781/24000",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    },
+    {
+      "id": "city-ping-4",
+      "shot": "audition",
+      "event": "city-ping-4",
+      "asset": "city-ping",
+      "stem": "plot-effects",
+      "intent": "city-ping",
+      "duration_seconds": "1/2",
+      "gain_db": -3,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    },
+    {
+      "id": "pep-6",
+      "shot": "audition",
+      "event": "pep-6",
+      "asset": "pep",
+      "stem": "dialogue",
+      "intent": "pep",
+      "duration_seconds": "5699/3000",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    },
+    {
+      "id": "hold-7",
+      "shot": "audition",
+      "event": "hold-7",
+      "asset": "hold",
+      "stem": "dialogue",
+      "intent": "hold",
+      "duration_seconds": "74881/12000",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    },
+    {
+      "id": "hold-phone-8",
+      "shot": "audition",
+      "event": "hold-phone-8",
+      "asset": "hold-phone",
+      "stem": "music",
+      "intent": "Bland courtesy persists as the ignored referee loses confidence",
+      "duration_seconds": "50719/12000",
+      "gain_db": -2,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    },
+    {
+      "id": "ref-9",
+      "shot": "audition",
+      "event": "ref-9",
+      "asset": "ref",
+      "stem": "dialogue",
+      "intent": "ref",
+      "duration_seconds": "55327/24000",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    },
+    {
+      "id": "question-motif-10",
+      "shot": "audition",
+      "event": "question-motif-10",
+      "asset": "question-motif",
+      "stem": "music",
+      "intent": "question-motif",
+      "duration_seconds": "8/5",
+      "gain_db": -2,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    },
+    {
+      "id": "switch-11",
+      "shot": "audition",
+      "event": "switch-11",
+      "asset": "switch",
+      "stem": "foley",
+      "intent": "switch",
+      "duration_seconds": "9/100",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    },
+    {
+      "id": "answer-note-12",
+      "shot": "audition",
+      "event": "answer-note-12",
+      "asset": "answer-note",
+      "stem": "music",
+      "intent": "answer-note",
+      "duration_seconds": "11/10",
+      "gain_db": -2,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    },
+    {
+      "id": "meltdown-13",
+      "shot": "audition",
+      "event": "meltdown-13",
+      "asset": "meltdown",
+      "stem": "dialogue",
+      "intent": "meltdown",
+      "duration_seconds": "42551/8000",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    },
+    {
+      "id": "paper-14",
+      "shot": "audition",
+      "event": "paper-14",
+      "asset": "paper",
+      "stem": "foley",
+      "intent": "paper",
+      "duration_seconds": "4/5",
+      "gain_db": -8,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    },
+    {
+      "id": "tiny-tap-15",
+      "shot": "audition",
+      "event": "tiny-tap-15",
+      "asset": "tiny-tap",
+      "stem": "foley",
+      "intent": "tiny-tap",
+      "duration_seconds": "7/50",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.03
+    }
+  ],
+  "mix_gain_db": -2
+}

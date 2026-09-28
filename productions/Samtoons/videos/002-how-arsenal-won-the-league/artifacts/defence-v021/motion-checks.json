@@ -1,0 +1,6 @@
+{
+  "wall_min_ankle_separation_m": 0.4459354728460312,
+  "kick_support_foot_drift_m": 0.0,
+  "goal_net_gap_m": 0.1100006103515625,
+  "scope": "Geometry and timing checks, not a substitute for playback review"
+}

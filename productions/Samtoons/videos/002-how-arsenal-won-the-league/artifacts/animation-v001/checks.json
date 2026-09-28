@@ -1,0 +1,16 @@
+{
+  "frames": 5954,
+  "seconds": 248.08333333333334,
+  "replaced_shots": [
+    "CP03_pep"
+  ],
+  "replaced_interval_seconds": [
+    119.16666666666667,
+    123.16666666666667
+  ],
+  "decode": "passed",
+  "sha256": "234e468752d023a8a8db85c53561c751e847c596e0dcaf5b2c23c527ac0c4db6",
+  "sound": "Exact accepted master used; no new voices or effects",
+  "finished": false,
+  "limits": "One body-motion shot; remaining55shots held storyboard. Pep mouth animation and normal-speed gait judgment pending. No accepted motion baseline upgrade."
+}

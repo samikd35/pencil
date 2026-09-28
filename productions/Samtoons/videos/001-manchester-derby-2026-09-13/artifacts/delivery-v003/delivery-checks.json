@@ -1,0 +1,27 @@
+{
+  "frames": 3864,
+  "seconds": 161,
+  "fps": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "full_decode": true,
+  "original_film_picture_hash": "SHA256=15bab1a2607dc0fc35f2409be248375bcb74d9e392252c118d242e1e75fa36a7",
+  "original_picture_preserved": true,
+  "original_mix_unchanged_outside_reply": true,
+  "encoded_levels": {
+    "input_i": "-21.85",
+    "input_tp": "-1.90",
+    "input_lra": "11.70",
+    "input_thresh": "-33.53",
+    "output_i": "-24.34",
+    "output_tp": "-2.00",
+    "output_lra": "7.40",
+    "output_thresh": "-35.55",
+    "normalization_type": "dynamic",
+    "target_offset": "0.34"
+  },
+  "sha256": "4cb9cca4f8da2a3e2938e7fdea11624fb0edaf9cfa6700b936d04948fc3cf239",
+  "full_review": "pending"
+}

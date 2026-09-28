@@ -1,0 +1,31 @@
+{
+  "source_sha256": "24bf61f9cd4a965084153f779990b289e3ce87e7d9854986d25ea252b0697923",
+  "helper_sha256": "7b19f1807079787370854de04cd41bed6be5b74c02a9a9c37d7f3ec30f341405",
+  "penalty_contact": [
+    -0.32229141378717685,
+    -2.6399999999999997
+  ],
+  "volley_contact": [
+    2.723491805767253e-05,
+    -1.9194000000000002
+  ],
+  "messi_contact": [
+    0.19457447187063082,
+    -2.2399999999999998
+  ],
+  "frames": 720,
+  "fps": 24,
+  "duration": 30,
+  "new_identity_art": true,
+  "contact_times": [
+    3,
+    7.5,
+    10.25,
+    15.25,
+    18.625,
+    21.25
+  ],
+  "valid_limb_drivers": 384,
+  "actors": 8,
+  "bake_seconds": 10.819147583009908
+}

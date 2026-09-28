@@ -1,0 +1,19 @@
+{
+  "id": "L22",
+  "chapter": 4,
+  "beat": "CP03",
+  "role_and_direction": "PEP — without breaking his stride",
+  "text": "Long season, Mikel.",
+  "word_count": 3,
+  "seconds": 1.8996666666666666,
+  "file": "L22.wav",
+  "sha256": "632036ad030adcba5bfd2f272c7af52d64ee98a08eb1c4200526d29b00f0387b",
+  "reference_start_seconds": 55.98283333333333,
+  "role": "PEP",
+  "direction": "Middle-aged man with a low soft resonant voice, light Catalan Spanish accent speaking clear English. Completely relaxed and unhurried, almost kindly. Natural clear character delivery; make the sentence a thought, not a reading. Clean dry microphone, no music or extra words.",
+  "seed": 44,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "source": "Accepted A standalone performance: artifacts/sound-direction-v001/pep.wav",
+  "path": "artifacts/animatic-v001/voices/L22.wav"
+}

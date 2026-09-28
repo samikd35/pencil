@@ -1,0 +1,8 @@
+{
+  "native_scenes": 34,
+  "actors": 59,
+  "evaluated_actor_frames": 5728,
+  "one_complete_pose_visible_per_actor_frame": true,
+  "truck_ground_contact": true,
+  "creative_quality": "Not established by technical checks"
+}

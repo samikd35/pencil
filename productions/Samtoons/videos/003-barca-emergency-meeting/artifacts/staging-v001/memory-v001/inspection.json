@@ -1,0 +1,53 @@
+{
+  "duration_seconds": 11,
+  "fps": 24,
+  "frames": 264,
+  "resolution": [
+    1280,
+    720
+  ],
+  "audio_hz": 48000,
+  "audio_channels": 2,
+  "decode": "passed",
+  "encoded_frames": [
+    38,
+    42,
+    46,
+    47,
+    48,
+    54,
+    64,
+    76,
+    81,
+    112,
+    118,
+    119,
+    120,
+    124,
+    138,
+    139,
+    140,
+    164,
+    170,
+    171,
+    172,
+    185,
+    237,
+    264
+  ],
+  "review_status": "pending user staging playback",
+  "agent_listening": false,
+  "render_input_hashes_match": true,
+  "visual_findings": [
+    "Kicking foot winds back then contacts the ball; support foot stays fixed; recovery is separate.",
+    "Flick jacket shoulder discontinuity found in initial render and replaced with continuous native clothing.",
+    "Close-ups at release show wrist attached to sleeve and ball separating after frame 119.",
+    "Frames 138/139 preserve rolling ball position progression and same camera across period cut.",
+    "Reception at 171 uses actual visible boot contact; athlete stance settles after touch."
+  ],
+  "limits": [
+    "Simplified hand drawings and narrow supported action only.",
+    "Frame-sequence inspection is not a substitute for user normal-speed playback and listening.",
+    "Environment is stylized training fiction; no claim of exact Bayern campus reconstruction."
+  ]
+}

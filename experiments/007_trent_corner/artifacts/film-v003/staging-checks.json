@@ -1,0 +1,167 @@
+{
+  "role_count": {
+    "Liverpool": 7,
+    "Barcelona_including_keeper": 8
+  },
+  "staging": [
+    {
+      "player": "Trent",
+      "team": "Liverpool",
+      "torso_frame_xy": [
+        0.5421443581581116,
+        0.19099736213684082
+      ],
+      "first_ray_hit": "Trent / Head 1"
+    },
+    {
+      "player": "Origi",
+      "team": "Liverpool",
+      "torso_frame_xy": [
+        0.5409637093544006,
+        0.5859546065330505
+      ],
+      "first_ray_hit": "Origi / Jersey"
+    },
+    {
+      "player": "Shaqiri",
+      "team": "Liverpool",
+      "torso_frame_xy": [
+        0.672660231590271,
+        0.22489513456821442
+      ],
+      "first_ray_hit": null
+    },
+    {
+      "player": "Defender A",
+      "team": "Barcelona",
+      "torso_frame_xy": [
+        0.4591889977455139,
+        0.6803076267242432
+      ],
+      "first_ray_hit": "Defender A / Jersey"
+    },
+    {
+      "player": "Defender B",
+      "team": "Barcelona",
+      "torso_frame_xy": [
+        0.8435545563697815,
+        0.5658578276634216
+      ],
+      "first_ray_hit": "Defender B / Jersey"
+    },
+    {
+      "player": "Defender C",
+      "team": "Barcelona",
+      "torso_frame_xy": [
+        0.7536750435829163,
+        0.5154756307601929
+      ],
+      "first_ray_hit": "Defender C / Jersey"
+    },
+    {
+      "player": "Keeper",
+      "team": "Barcelona",
+      "torso_frame_xy": [
+        0.2078268676996231,
+        0.6176800727844238
+      ],
+      "first_ray_hit": "Keeper / Number"
+    },
+    {
+      "player": "Attacker A",
+      "team": "Liverpool",
+      "torso_frame_xy": [
+        0.33438822627067566,
+        0.7302171587944031
+      ],
+      "first_ray_hit": "Attacker A / Jersey"
+    },
+    {
+      "player": "Attacker B",
+      "team": "Liverpool",
+      "torso_frame_xy": [
+        0.5244144797325134,
+        0.7094506621360779
+      ],
+      "first_ray_hit": "Attacker B / Jersey"
+    },
+    {
+      "player": "Attacker C",
+      "team": "Liverpool",
+      "torso_frame_xy": [
+        0.7085614800453186,
+        0.6637458801269531
+      ],
+      "first_ray_hit": "Attacker C / Jersey"
+    },
+    {
+      "player": "Attacker D",
+      "team": "Liverpool",
+      "torso_frame_xy": [
+        0.7788657546043396,
+        0.7651955485343933
+      ],
+      "first_ray_hit": "Attacker D / Jersey"
+    },
+    {
+      "player": "Defender D",
+      "team": "Barcelona",
+      "torso_frame_xy": [
+        0.639060378074646,
+        0.7474971413612366
+      ],
+      "first_ray_hit": "Defender D / Jersey"
+    },
+    {
+      "player": "Defender E",
+      "team": "Barcelona",
+      "torso_frame_xy": [
+        0.6187919974327087,
+        0.6560962200164795
+      ],
+      "first_ray_hit": "Defender E / Jersey"
+    },
+    {
+      "player": "Defender F",
+      "team": "Barcelona",
+      "torso_frame_xy": [
+        0.7943397164344788,
+        0.6155638098716736
+      ],
+      "first_ray_hit": "Defender F / Jersey"
+    },
+    {
+      "player": "Defender G",
+      "team": "Barcelona",
+      "torso_frame_xy": [
+        0.3783678114414215,
+        0.6766253113746643
+      ],
+      "first_ray_hit": "Defender G / Jersey"
+    }
+  ],
+  "contacts": [
+    {
+      "frame": 403,
+      "player": "Trent",
+      "gap": -7.805695379781152e-07
+    },
+    {
+      "frame": 433,
+      "player": "Origi",
+      "gap": -4.693865851557177e-09
+    },
+    {
+      "frame": 633,
+      "player": "Trent",
+      "gap": -7.805695379781152e-07
+    },
+    {
+      "frame": 673,
+      "player": "Origi",
+      "gap": -4.693865851557177e-09
+    }
+  ],
+  "added_teammates_visible_by_camera_ray": true,
+  "interpretation": "Representative corner arrangement, not exact tracked historic positions. Frame visibility and geometry checks remain separate from user creative review."
+}

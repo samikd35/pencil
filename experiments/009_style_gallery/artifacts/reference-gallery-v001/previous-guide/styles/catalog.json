@@ -1,0 +1,750 @@
+{
+  "version": 1,
+  "options": [
+    {
+      "id": "expressive-stickman",
+      "name": "Expressive stickman",
+      "category": "Character",
+      "description": "Sparse lines, clear gestures and a lively face.",
+      "limitation": "New props and actions still need contact checks.",
+      "recipe": "recipes/expressive-stickman.md",
+      "sample": "samples/expressive-stickman.png",
+      "settings": {
+        "design": "stick",
+        "finish": "flat",
+        "presentation": "scene"
+      },
+      "status": "Still tested \u00b7 motion untested",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/expressive-stickman/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/expressive-stickman/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/expressive-stickman/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/expressive-stickman/checks.json"
+        }
+      ],
+      "sources": [],
+      "motion_tested": false
+    },
+    {
+      "id": "rubber-hose",
+      "name": "Rubber-hose cartoon",
+      "category": "Character",
+      "description": "Rounded gloves, pie-cut eyes and smooth elastic limbs.",
+      "limitation": "Vintage redraws, smears and extreme squash need extra artwork.",
+      "recipe": "recipes/rubber-hose.md",
+      "sample": "samples/rubber-hose.png",
+      "settings": {
+        "design": "hose",
+        "finish": "flat",
+        "presentation": "scene"
+      },
+      "status": "Still tested \u00b7 motion untested",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/rubber-hose/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/rubber-hose/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/rubber-hose/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/rubber-hose/checks.json"
+        }
+      ],
+      "sources": [
+        "https://www.adobe.com/uk/creativecloud/animation/discover/rubber-hose-animation.html"
+      ],
+      "motion_tested": false
+    },
+    {
+      "id": "flat-vector",
+      "name": "Flat vector cartoon",
+      "category": "Character",
+      "description": "Clean shapes, solid colors and a unified outfit.",
+      "limitation": "Turns and foreshortening need authored views.",
+      "recipe": "recipes/flat-vector.md",
+      "sample": "samples/flat-vector.png",
+      "settings": {
+        "design": "human",
+        "finish": "flat",
+        "presentation": "scene"
+      },
+      "status": "Still tested \u00b7 motion untested",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/flat-vector/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/flat-vector/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/flat-vector/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/flat-vector/checks.json"
+        }
+      ],
+      "sources": [],
+      "motion_tested": false
+    },
+    {
+      "id": "caricature",
+      "name": "Exaggerated caricature",
+      "category": "Character",
+      "description": "A large angular head, bold hair and distinctive facial proportions.",
+      "limitation": "The sample is fictional; real likeness needs character-specific design review.",
+      "recipe": "recipes/caricature.md",
+      "sample": "samples/caricature.png",
+      "settings": {
+        "design": "caricature",
+        "finish": "flat",
+        "presentation": "scene"
+      },
+      "status": "Still tested \u00b7 motion untested",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/caricature/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/caricature/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/caricature/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/caricature/checks.json"
+        }
+      ],
+      "sources": [],
+      "motion_tested": false
+    },
+    {
+      "id": "chibi",
+      "name": "Chibi / super-deformed",
+      "category": "Character",
+      "description": "A very large head over a compact body.",
+      "limitation": "Compact hips need foot-clearance constraints and action-specific reach tuning.",
+      "recipe": "recipes/chibi.md",
+      "sample": "samples/chibi.png",
+      "settings": {
+        "design": "chibi",
+        "finish": "flat",
+        "presentation": "scene"
+      },
+      "status": "Motion proof checked",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/chibi/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/chibi/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/chibi/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/chibi/checks.json"
+        },
+        {
+          "label": "Earlier motion proof and review",
+          "path": "../../experiments/009_style_gallery/proofs/workflow-v001/chibi/animatic-v001/review.md"
+        },
+        {
+          "label": "Earlier combined animatic",
+          "path": "../../experiments/009_style_gallery/proofs/workflow-v001/chibi/animatic-v001/animatic-with-sound.mp4"
+        },
+        {
+          "label": "Corrected hand motion proof",
+          "path": "../../experiments/009_style_gallery/artifacts/hand-layer-v006/chibi/animatic-with-sound.mp4"
+        },
+        {
+          "label": "Corrected motion review",
+          "path": "../../experiments/009_style_gallery/artifacts/hand-layer-v006/chibi/review.md"
+        }
+      ],
+      "sources": [
+        "https://www.clipstudio.net/how-to-draw/archives/155423"
+      ],
+      "motion_tested": true
+    },
+    {
+      "id": "geometric",
+      "name": "Geometric character",
+      "category": "Character",
+      "description": "Simple geometric head and body with thin connecting limbs.",
+      "limitation": "Sharp shapes still need overlap and pivot checks.",
+      "recipe": "recipes/geometric.md",
+      "sample": "samples/geometric.png",
+      "settings": {
+        "design": "geometric",
+        "finish": "flat",
+        "presentation": "scene"
+      },
+      "status": "Still tested \u00b7 motion untested",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/geometric/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/geometric/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/geometric/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/geometric/checks.json"
+        }
+      ],
+      "sources": [
+        "https://pages.adobe.com/character/en/puppet-maker"
+      ],
+      "motion_tested": false
+    },
+    {
+      "id": "food-mascot",
+      "name": "Object / food mascot",
+      "category": "Character",
+      "description": "A toast character with expressive eyes and simple limbs.",
+      "limitation": "Other objects need their own outline and attachment positions.",
+      "recipe": "recipes/food-mascot.md",
+      "sample": "samples/food-mascot.png",
+      "settings": {
+        "design": "toast",
+        "finish": "flat",
+        "presentation": "scene"
+      },
+      "status": "Earlier motion proof",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/food-mascot/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/food-mascot/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/food-mascot/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/food-mascot/checks.json"
+        },
+        {
+          "label": "Earlier motion proof and review",
+          "path": "../../experiments/009_style_gallery/proofs/workflow-v001/food-mascot/animatic-v001/review.md"
+        },
+        {
+          "label": "Earlier combined animatic",
+          "path": "../../experiments/009_style_gallery/proofs/workflow-v001/food-mascot/animatic-v001/animatic-with-sound.mp4"
+        }
+      ],
+      "sources": [
+        "https://pages.adobe.com/character/en/puppet-maker"
+      ],
+      "motion_tested": true
+    },
+    {
+      "id": "rounded-mascot",
+      "name": "Emoji / rounded mascot",
+      "category": "Character",
+      "description": "A round yellow character built around its expression.",
+      "limitation": "Large body tilts can hide hands; new expression states need drawings.",
+      "recipe": "recipes/rounded-mascot.md",
+      "sample": "samples/rounded-mascot.png",
+      "settings": {
+        "design": "emoji",
+        "finish": "flat",
+        "presentation": "scene"
+      },
+      "status": "Still tested \u00b7 motion untested",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/rounded-mascot/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/rounded-mascot/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/rounded-mascot/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/rounded-mascot/checks.json"
+        }
+      ],
+      "sources": [
+        "https://pages.adobe.com/character/en/puppet-maker"
+      ],
+      "motion_tested": false
+    },
+    {
+      "id": "animal-mascot",
+      "name": "Upright animal cartoon",
+      "category": "Character",
+      "description": "An upright fox with ears, muzzle and simple limbs.",
+      "limitation": "This is biped motion; quadrupeds and ear/tail acting are additional work.",
+      "recipe": "recipes/animal-mascot.md",
+      "sample": "samples/animal-mascot.png",
+      "settings": {
+        "design": "fox",
+        "finish": "flat",
+        "presentation": "scene"
+      },
+      "status": "Still tested \u00b7 motion untested",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/animal-mascot/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/animal-mascot/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/animal-mascot/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/animal-mascot/checks.json"
+        }
+      ],
+      "sources": [
+        "https://pages.adobe.com/character/en/puppet-maker"
+      ],
+      "motion_tested": false
+    },
+    {
+      "id": "doodle",
+      "name": "Doodle / sketch",
+      "category": "Finish",
+      "description": "Loose ink lines and restrained hatching on paper.",
+      "limitation": "The sample has fixed line irregularity; temporal line boil is not implemented.",
+      "recipe": "recipes/doodle.md",
+      "sample": "samples/doodle.png",
+      "settings": {
+        "design": "human",
+        "finish": "doodle",
+        "presentation": "scene"
+      },
+      "status": "Still tested \u00b7 motion untested",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/doodle/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/doodle/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/doodle/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/doodle/checks.json"
+        }
+      ],
+      "sources": [
+        "https://docs.toonboom.com/help/harmony-25/premium/reference/node/filter/animate-pencil-line-texture-node.html"
+      ],
+      "motion_tested": false
+    },
+    {
+      "id": "silhouette",
+      "name": "Silhouette / shadow",
+      "category": "Finish",
+      "description": "A dark character whose action reads through its outline.",
+      "limitation": "Overlapping limbs lose detail; stage poses with negative space.",
+      "recipe": "recipes/silhouette.md",
+      "sample": "samples/silhouette.png",
+      "settings": {
+        "design": "human",
+        "finish": "silhouette",
+        "presentation": "scene"
+      },
+      "status": "Still tested \u00b7 motion untested",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/silhouette/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/silhouette/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/silhouette/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/silhouette/checks.json"
+        }
+      ],
+      "sources": [
+        "https://www.bfi.org.uk/sight-and-sound/features/scissors-make-films-lotte-reiniger-creating-her-magical-animations"
+      ],
+      "motion_tested": false
+    },
+    {
+      "id": "paper-cutout",
+      "name": "Paper-cutout look",
+      "category": "Finish",
+      "description": "Layered colored shapes with offset paper shadows.",
+      "limitation": "Elastic limbs remain continuous; rigid hinged cutout limbs need a separate variant.",
+      "recipe": "recipes/paper-cutout.md",
+      "sample": "samples/paper-cutout.png",
+      "settings": {
+        "design": "human",
+        "finish": "paper",
+        "presentation": "scene"
+      },
+      "status": "Earlier motion proof",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/paper-cutout/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/paper-cutout/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/paper-cutout/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/paper-cutout/checks.json"
+        },
+        {
+          "label": "Earlier motion proof and review",
+          "path": "../../experiments/009_style_gallery/proofs/workflow-v001/paper-cutout/animatic-v001/review.md"
+        },
+        {
+          "label": "Earlier combined animatic",
+          "path": "../../experiments/009_style_gallery/proofs/workflow-v001/paper-cutout/animatic-v001/animatic-with-sound.mp4"
+        }
+      ],
+      "sources": [
+        "https://www.adobe.com/uk/creativecloud/animation/discover/cut-out-animation.html"
+      ],
+      "motion_tested": true
+    },
+    {
+      "id": "midcentury",
+      "name": "Midcentury / UPA-inspired",
+      "category": "Character",
+      "description": "Angular design, a restrained palette and playful graphic scenery.",
+      "limitation": "The visual treatment alone does not reproduce UPA movement or redraws.",
+      "recipe": "recipes/midcentury.md",
+      "sample": "samples/midcentury.png",
+      "settings": {
+        "design": "angular",
+        "finish": "flat",
+        "presentation": "scene"
+      },
+      "status": "Still tested \u00b7 motion untested",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/midcentury/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/midcentury/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/midcentury/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/midcentury/checks.json"
+        }
+      ],
+      "sources": [
+        "https://www.moma.org/docs/press_archives/1959/releases/MOMA_1955_0074_57.pdf"
+      ],
+      "motion_tested": false
+    },
+    {
+      "id": "whiteboard",
+      "name": "Whiteboard / chalkboard look",
+      "category": "Finish",
+      "description": "Minimal line drawing on a clean board.",
+      "limitation": "This sample establishes whiteboard appearance; drawing reveal and chalk grain are optional untested additions.",
+      "recipe": "recipes/whiteboard.md",
+      "sample": "samples/whiteboard.png",
+      "settings": {
+        "design": "stick",
+        "finish": "whiteboard",
+        "presentation": "scene"
+      },
+      "status": "Still tested \u00b7 motion untested",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/whiteboard/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/whiteboard/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/whiteboard/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/whiteboard/checks.json"
+        }
+      ],
+      "sources": [
+        "https://www.adobe.com/creativecloud/video/discover/whiteboard-animation.html"
+      ],
+      "motion_tested": false
+    },
+    {
+      "id": "storybook",
+      "name": "Textured storybook",
+      "category": "Finish",
+      "description": "Soft colors and subtle procedural painted grain.",
+      "limitation": "Paint appearance only; inspect texture deformation and seams for new poses.",
+      "recipe": "recipes/storybook.md",
+      "sample": "samples/storybook.png",
+      "settings": {
+        "design": "human",
+        "finish": "storybook",
+        "presentation": "scene"
+      },
+      "status": "Still tested \u00b7 motion untested",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/storybook/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/storybook/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/storybook/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/storybook/checks.json"
+        }
+      ],
+      "sources": [
+        "https://moho.lostmarble.com/pages/features"
+      ],
+      "motion_tested": false
+    },
+    {
+      "id": "collage",
+      "name": "Animated collage look",
+      "category": "Finish",
+      "description": "Coordinated patterned cutouts across the whole character.",
+      "limitation": "The sample uses original procedural patterns; imported photography needs preparation and source records.",
+      "recipe": "recipes/collage.md",
+      "sample": "samples/collage.png",
+      "settings": {
+        "design": "human",
+        "finish": "collage",
+        "presentation": "scene"
+      },
+      "status": "Earlier motion proof",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/collage/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/collage/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/collage/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/collage/checks.json"
+        },
+        {
+          "label": "Earlier motion proof and review",
+          "path": "../../experiments/009_style_gallery/proofs/workflow-v001/collage/animatic-v001/review.md"
+        },
+        {
+          "label": "Earlier combined animatic",
+          "path": "../../experiments/009_style_gallery/proofs/workflow-v001/collage/animatic-v001/animatic-with-sound.mp4"
+        }
+      ],
+      "sources": [
+        "https://www.domestika.org/en/courses/333-animated-collage-with-adobe-after-effects"
+      ],
+      "motion_tested": true
+    },
+    {
+      "id": "pixelated",
+      "name": "Retro pixelated look",
+      "category": "Finish",
+      "description": "Blocky rendering with a small, readable palette.",
+      "limitation": "A pixelated render, not hand-authored pixel sprites; fine details disappear.",
+      "recipe": "recipes/pixelated.md",
+      "sample": "samples/pixelated.png",
+      "settings": {
+        "design": "human",
+        "finish": "pixel",
+        "presentation": "scene"
+      },
+      "status": "Still tested \u00b7 motion untested",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/pixelated/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/pixelated/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/pixelated/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/pixelated/checks.json"
+        }
+      ],
+      "sources": [
+        "https://docs.blender.org/manual/en/latest/compositing/types/creative/pixelate.html"
+      ],
+      "motion_tested": false
+    },
+    {
+      "id": "motion-comic",
+      "name": "Motion-comic presentation",
+      "category": "Presentation",
+      "description": "Comic framing, captions and selective held gestures.",
+      "limitation": "Panel layout and holds are authored per shot; a still cannot demonstrate timing.",
+      "recipe": "recipes/motion-comic.md",
+      "sample": "samples/motion-comic.png",
+      "settings": {
+        "design": "human",
+        "finish": "flat",
+        "presentation": "comic"
+      },
+      "status": "Still tested \u00b7 motion untested",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/motion-comic/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/motion-comic/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/motion-comic/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/motion-comic/checks.json"
+        }
+      ],
+      "sources": [
+        "https://www.realmotioncomics.com/"
+      ],
+      "motion_tested": false
+    },
+    {
+      "id": "parallax",
+      "name": "Layered 2.5D / parallax",
+      "category": "Presentation",
+      "description": "Example of layered 2.5D scenery, adaptable to other character designs.",
+      "limitation": "New combinations need a shot proof; layered depth does not supply new character viewing angles.",
+      "recipe": "recipes/parallax.md",
+      "sample": "samples/parallax.png",
+      "settings": {
+        "design": "human",
+        "finish": "flat",
+        "presentation": "parallax"
+      },
+      "status": "Earlier motion proof",
+      "evidence": [
+        {
+          "label": "Native guide pose",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/parallax/guide-pose.blend"
+        },
+        {
+          "label": "Reopened guide wrist/framing check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/parallax/guide-checks.json"
+        },
+        {
+          "label": "Motion benchmark project",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/parallax/character.blend"
+        },
+        {
+          "label": "240-frame connection check",
+          "path": "../../experiments/009_style_gallery/artifacts/gallery-v003/parallax/checks.json"
+        },
+        {
+          "label": "Earlier motion proof and review",
+          "path": "../../experiments/009_style_gallery/proofs/workflow-v001/parallax/animatic-v001/review.md"
+        },
+        {
+          "label": "Earlier combined animatic",
+          "path": "../../experiments/009_style_gallery/proofs/workflow-v001/parallax/animatic-v001/animatic-with-sound.mp4"
+        }
+      ],
+      "sources": [
+        "https://helpx.adobe.com/animate/desktop/using/layer-depth.html"
+      ],
+      "motion_tested": true
+    }
+  ]
+}

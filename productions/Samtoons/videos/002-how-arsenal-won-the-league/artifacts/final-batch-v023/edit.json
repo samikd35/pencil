@@ -1,0 +1,350 @@
+[
+  {
+    "id": "CP01",
+    "chapter": 4,
+    "start_frame": 1,
+    "frames": 216,
+    "lines": [
+      19
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_CP01"
+  },
+  {
+    "id": "CP02_far",
+    "chapter": 4,
+    "start_frame": 217,
+    "frames": 120,
+    "lines": [
+      20
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_CP02_far"
+  },
+  {
+    "id": "CP02_near",
+    "chapter": 4,
+    "start_frame": 337,
+    "frames": 72,
+    "lines": [],
+    "local_start": 1,
+    "scene": "S002_final_v023_CP02_near"
+  },
+  {
+    "id": "CP03_panic",
+    "chapter": 4,
+    "start_frame": 409,
+    "frames": 84,
+    "lines": [
+      21
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_CP03_panic"
+  },
+  {
+    "id": "CP03_pep",
+    "chapter": 4,
+    "start_frame": 493,
+    "frames": 96,
+    "lines": [
+      22
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_CP03_pep"
+  },
+  {
+    "id": "CP04_forward",
+    "chapter": 4,
+    "start_frame": 589,
+    "frames": 123,
+    "lines": [
+      23
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_CP04_forward"
+  },
+  {
+    "id": "CP04_courier",
+    "chapter": 4,
+    "start_frame": 712,
+    "frames": 144,
+    "lines": [
+      24,
+      25
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_CP04_courier"
+  },
+  {
+    "id": "CP05",
+    "chapter": 4,
+    "start_frame": 856,
+    "frames": 120,
+    "lines": [
+      26
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_CP05"
+  },
+  {
+    "id": "VH01",
+    "chapter": 5,
+    "start_frame": 976,
+    "frames": 122,
+    "lines": [
+      27
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_VH01"
+  },
+  {
+    "id": "VH02",
+    "chapter": 5,
+    "start_frame": 1098,
+    "frames": 144,
+    "lines": [
+      28
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_VH02"
+  },
+  {
+    "id": "VH03",
+    "chapter": 5,
+    "start_frame": 1242,
+    "frames": 48,
+    "lines": [],
+    "local_start": 1,
+    "scene": "S002_final_v023_VH03"
+  },
+  {
+    "id": "VH03_answer",
+    "chapter": 5,
+    "start_frame": 1290,
+    "frames": 110,
+    "lines": [
+      29
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_VH03_answer"
+  },
+  {
+    "id": "VH04_mikel",
+    "chapter": 5,
+    "start_frame": 1400,
+    "frames": 96,
+    "lines": [
+      30
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_VH04_mikel"
+  },
+  {
+    "id": "VH04_operator",
+    "chapter": 5,
+    "start_frame": 1496,
+    "frames": 108,
+    "lines": [
+      31
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_VH04_operator"
+  },
+  {
+    "id": "VH04_two",
+    "chapter": 5,
+    "start_frame": 1604,
+    "frames": 60,
+    "lines": [
+      32
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_VH04_two"
+  },
+  {
+    "id": "VH04_button",
+    "chapter": 5,
+    "start_frame": 1664,
+    "frames": 48,
+    "lines": [],
+    "local_start": 1,
+    "scene": "S002_final_v023_VH04_button"
+  },
+  {
+    "id": "VH05",
+    "chapter": 7,
+    "start_frame": 1712,
+    "frames": 156,
+    "lines": [
+      33,
+      34
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_VH05"
+  },
+  {
+    "id": "VH05_wait",
+    "chapter": 7,
+    "start_frame": 1868,
+    "frames": 72,
+    "lines": [],
+    "local_start": 1,
+    "scene": "S002_final_v023_VH05_wait"
+  },
+  {
+    "id": "FR01",
+    "chapter": 6,
+    "start_frame": 1940,
+    "frames": 200,
+    "lines": [
+      35
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_FR01"
+  },
+  {
+    "id": "FR02",
+    "chapter": 6,
+    "start_frame": 2140,
+    "frames": 144,
+    "lines": [
+      36,
+      37
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_FR02"
+  },
+  {
+    "id": "N03",
+    "chapter": 1,
+    "start_frame": 2284,
+    "frames": 93,
+    "lines": [
+      38
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_N03"
+  },
+  {
+    "id": "FR03_cross",
+    "chapter": 6,
+    "start_frame": 2377,
+    "frames": 72,
+    "lines": [],
+    "local_start": 1,
+    "scene": "S002_final_v023_FR03_cross"
+  },
+  {
+    "id": "FR03_complain",
+    "chapter": 6,
+    "start_frame": 2449,
+    "frames": 106,
+    "lines": [
+      39
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_FR03_complain"
+  },
+  {
+    "id": "FR03_bonk",
+    "chapter": 6,
+    "start_frame": 2555,
+    "frames": 24,
+    "lines": [],
+    "local_start": 1,
+    "scene": "S002_final_v023_FR03_bonk"
+  },
+  {
+    "id": "FR03_goal",
+    "chapter": 6,
+    "start_frame": 2579,
+    "frames": 72,
+    "lines": [],
+    "local_start": 1,
+    "scene": "S002_final_v023_FR03_goal"
+  },
+  {
+    "id": "FR04",
+    "chapter": 6,
+    "start_frame": 2651,
+    "frames": 144,
+    "lines": [
+      40,
+      41
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_FR04"
+  },
+  {
+    "id": "FR05",
+    "chapter": 7,
+    "start_frame": 2795,
+    "frames": 144,
+    "lines": [
+      42,
+      43
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_FR05"
+  },
+  {
+    "id": "VH06",
+    "chapter": 7,
+    "start_frame": 2939,
+    "frames": 168,
+    "lines": [
+      44,
+      45
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_VH06"
+  },
+  {
+    "id": "N04_trophy",
+    "chapter": 7,
+    "start_frame": 3107,
+    "frames": 120,
+    "lines": [],
+    "local_start": 1,
+    "scene": "S002_final_v023_N04_trophy"
+  },
+  {
+    "id": "N04_dark",
+    "chapter": 7,
+    "start_frame": 3227,
+    "frames": 96,
+    "lines": [],
+    "local_start": 1,
+    "scene": "S002_final_v023_N04_dark"
+  },
+  {
+    "id": "N04_reveal",
+    "chapter": 7,
+    "start_frame": 3323,
+    "frames": 36,
+    "lines": [],
+    "local_start": 1,
+    "scene": "S002_final_v023_N04_reveal"
+  },
+  {
+    "id": "N04_meltdown",
+    "chapter": 7,
+    "start_frame": 3359,
+    "frames": 168,
+    "lines": [
+      46,
+      47
+    ],
+    "local_start": 1,
+    "scene": "S002_final_v023_N04_meltdown"
+  },
+  {
+    "id": "N04_tap",
+    "chapter": 7,
+    "start_frame": 3527,
+    "frames": 60,
+    "lines": [],
+    "local_start": 1,
+    "scene": "S002_final_v023_N04_tap"
+  }
+]

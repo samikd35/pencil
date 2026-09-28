@@ -1,0 +1,11 @@
+{
+  "frames": 900,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "hand_phone_samples": 591,
+  "maximum_contact_error_px": 0.0,
+  "source_character_sha256": "24bf61f9cd4a965084153f779990b289e3ce87e7d9854986d25ea252b0697923",
+  "helper_sha256": "7b19f1807079787370854de04cd41bed6be5b74c02a9a9c37d7f3ec30f341405",
+  "objects": 229
+}

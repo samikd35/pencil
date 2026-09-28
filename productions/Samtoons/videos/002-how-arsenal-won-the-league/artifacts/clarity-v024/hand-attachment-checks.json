@@ -1,0 +1,173 @@
+[
+  {
+    "actor": "Arteta",
+    "scene": "S002_clarity_v024_CP00",
+    "hand": "R",
+    "join_vertices": [
+      7082,
+      6997
+    ]
+  },
+  {
+    "actor": "Referee",
+    "scene": "S002_clarity_v024_VH01",
+    "hand": "L",
+    "join_vertices": [
+      7561,
+      7658
+    ]
+  },
+  {
+    "actor": "Referee",
+    "scene": "S002_clarity_v024_VH01",
+    "hand": "R",
+    "join_vertices": [
+      7902,
+      7725
+    ]
+  },
+  {
+    "actor": "Gabriel",
+    "scene": "S002_clarity_v024_VH01",
+    "hand": "R",
+    "join_vertices": [
+      7631,
+      7454
+    ]
+  },
+  {
+    "actor": "Referee",
+    "scene": "S002_clarity_v024_VH02",
+    "hand": "L",
+    "join_vertices": [
+      7561,
+      7658
+    ]
+  },
+  {
+    "actor": "Operator",
+    "scene": "S002_clarity_v024_VH03",
+    "hand": "L",
+    "join_vertices": [
+      7925,
+      7931
+    ]
+  },
+  {
+    "actor": "Operator",
+    "scene": "S002_clarity_v024_VH03_answer",
+    "hand": "R",
+    "join_vertices": [
+      8084,
+      7816
+    ]
+  },
+  {
+    "actor": "Arteta",
+    "scene": "S002_clarity_v024_VH04_mikel",
+    "hand": "R",
+    "join_vertices": [
+      7082,
+      6997
+    ]
+  },
+  {
+    "actor": "Operator",
+    "scene": "S002_clarity_v024_VH04_operator",
+    "hand": "R",
+    "join_vertices": [
+      8084,
+      7816
+    ]
+  },
+  {
+    "actor": "Arteta",
+    "scene": "S002_clarity_v024_VH04_two",
+    "hand": "R",
+    "join_vertices": [
+      7082,
+      6997
+    ]
+  },
+  {
+    "actor": "Operator",
+    "scene": "S002_clarity_v024_VH04_button",
+    "hand": "R",
+    "join_vertices": [
+      8084,
+      7816
+    ]
+  },
+  {
+    "actor": "Operator",
+    "scene": "S002_clarity_v024_VH04_button",
+    "hand": "L",
+    "join_vertices": [
+      7925,
+      7931
+    ]
+  },
+  {
+    "actor": "Referee",
+    "scene": "S002_clarity_v024_VH05",
+    "hand": "L",
+    "join_vertices": [
+      7561,
+      7658
+    ]
+  },
+  {
+    "actor": "Referee",
+    "scene": "S002_clarity_v024_VH05",
+    "hand": "R",
+    "join_vertices": [
+      7902,
+      7725
+    ]
+  },
+  {
+    "actor": "Arteta",
+    "scene": "S002_clarity_v024_FR05",
+    "hand": "R",
+    "join_vertices": [
+      7082,
+      6997
+    ]
+  },
+  {
+    "actor": "Gyokeres",
+    "scene": "S002_clarity_v024_N04_trophy",
+    "hand": "L",
+    "join_vertices": [
+      7378,
+      7474
+    ]
+  },
+  {
+    "actor": "Gyokeres",
+    "scene": "S002_clarity_v024_N04_trophy",
+    "hand": "R",
+    "join_vertices": [
+      7540,
+      7454
+    ]
+  },
+  {
+    "actor": "Saka",
+    "scene": "S002_clarity_v024_N04_trophy",
+    "hand": "L",
+    "join_vertices": [
+      7289,
+      7477
+    ]
+  },
+  {
+    "actor": "Gabriel",
+    "scene": "S002_clarity_v024_N04_trophy",
+    "hand": "R",
+    "join_vertices": [
+      7631,
+      7454
+    ]
+  }
+]

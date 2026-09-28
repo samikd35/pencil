@@ -1,0 +1,52 @@
+{
+  "frames": 1021,
+  "fps": 24,
+  "actors": {
+    "opening Arteta": {
+      "continuous_textured_mesh": true,
+      "fitted_bones": 14,
+      "native_eyelid_shape_key": true,
+      "mouth_shapes": [
+        "A",
+        "E",
+        "FV",
+        "L",
+        "MBP",
+        "O",
+        "U",
+        "rest"
+      ],
+      "evaluated_planted_sole_max_drift_m": 0,
+      "vertices": 7341
+    },
+    "unveiling Arteta": {
+      "continuous_textured_mesh": true,
+      "fitted_bones": 14,
+      "native_eyelid_shape_key": true,
+      "mouth_shapes": [
+        "A",
+        "E",
+        "MBP",
+        "O",
+        "U",
+        "rest"
+      ],
+      "evaluated_planted_sole_max_drift_m": 0,
+      "vertices": 7341
+    },
+    "unveiling Gyokeres": {
+      "continuous_textured_mesh": true,
+      "fitted_bones": 14,
+      "native_eyelid_shape_key": true,
+      "mouth_shapes": [
+        "A",
+        "E",
+        "MBP",
+        "rest"
+      ],
+      "evaluated_planted_sole_max_drift_m": 1.066240299940009e-06,
+      "vertices": 8643
+    }
+  },
+  "scope": "Technical checks and inspected frames; creative playback acceptance remains pending."
+}

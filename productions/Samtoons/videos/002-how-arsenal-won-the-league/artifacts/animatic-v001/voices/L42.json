@@ -1,0 +1,19 @@
+{
+  "id": "L42",
+  "chapter": 6,
+  "beat": "FR05",
+  "role_and_direction": "COURIER",
+  "text": "So… who signs for these?",
+  "word_count": 5,
+  "seconds": 1.68,
+  "file": "L42.wav",
+  "sha256": "03de16004d7da7b15cfa35a5cc99781ad39b27db51ba4102837fb13a819dd472",
+  "reference_start_seconds": 101.46929166666666,
+  "role": "COURIER",
+  "direction": "Adult British man with a light nasal tenor, crisply cheerful delivery-driver manner. Smiling efficiency, oblivious to how insulting his words are. Cheerful professional confusion. Short hesitation after So. Clean dry microphone, no music or extra words.",
+  "seed": 48,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.791483540997433,
+  "path": "artifacts/animatic-v001/voices/L42.wav"
+}

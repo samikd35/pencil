@@ -1,0 +1,10 @@
+{
+  "header_surface_gap": 0.00035012383141724834,
+  "boot_surface_gap": 1.4731639824683285e-08,
+  "support_foot_drift": 0.0,
+  "source_unchanged_sha256": "24bf61f9cd4a965084153f779990b289e3ce87e7d9854986d25ea252b0697923",
+  "embedded_soundtrack": true,
+  "timeline_frames": 960,
+  "audio_duration": 960,
+  "notes": "Checks compare evaluated editable artwork against ball and foot motion. Stylized reconstruction, not an exact match-footage tracing; creative acceptance remains with the user."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L06",
+  "chapter": 1,
+  "beat": "OP03",
+  "role_and_direction": "ARTETA",
+  "text": "Get me a striker.",
+  "word_count": 4,
+  "seconds": 1.2,
+  "file": "L06.wav",
+  "sha256": "6fee4a900307d268ad75dc871b7c09f1cca876b5fd766a9cc95e335176fd90eb",
+  "reference_start_seconds": 14.6898125,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Clipped determined instruction into the phone. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.2829375420042197,
+  "path": "artifacts/animatic-v001/voices/L06.wav"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L44",
+  "chapter": 6,
+  "beat": "VH06",
+  "role_and_direction": "REFEREE \u2014 suddenly hopeful",
+  "text": "Finally!",
+  "word_count": 1,
+  "seconds": 0.88,
+  "file": "L44.wav",
+  "sha256": "6ca41619583b75e22a7b5b03f4d354f4a327a12e603267ff44ca24df122271b9",
+  "reference_start_seconds": 105.280375,
+  "role": "REFEREE",
+  "direction": "Adult British male football referee, mid-register voice. Sudden bright hope after exhausting wait. Clean dry microphone, no music or extra words.",
+  "seed": 46,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 0.9758001250011148,
+  "path": "artifacts/animatic-v001/voices/L44.wav"
+}

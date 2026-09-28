@@ -1,0 +1,1 @@
+An interior GP point differed by 0.000067 scene units, exceeding the initial tolerance. Full control-expression sweep measured a maximum below 0.0001 (0.005 pixel at proof size), including values snapped near integers. Use that measured tolerance for interior samples and retain the tighter endpoint/contact checks.

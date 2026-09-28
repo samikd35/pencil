@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Speech,Arial,30,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,3,2,0,2,65,65,10,1
+Style: Music,Arial,23,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,0,-1,0,0,100,100,0,0,3,2,0,2,65,65,106,1
+Style: Title,Arial,39,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,3,3,0,8,50,50,45,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.50,Music,MUSIC,0,0,0,,[{\c&H84DBFF&}MUSIC:{\c&HFFFFFF&} The title chase]
+Dialogue: 0,0:00:00.71,0:00:05.75,Speech,NARRATOR,0,0,0,,{\c&H84DBFF&}NARRATOR:{\c&HFFFFFF&} They could defend a one–nil. They couldn’t\Ndefend a lead on the table.
+Dialogue: 0,0:00:09.71,0:00:11.87,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} He’s only walking. We’re fine.
+Dialogue: 0,0:00:17.58,0:00:18.86,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} WHY IS HE WALKING?
+Dialogue: 0,0:00:21.21,0:00:23.11,Speech,PEP,0,0,0,,{\c&H84DBFF&}PEP:{\c&HFFFFFF&} Long season, Mikel.
+Dialogue: 0,0:00:24.92,0:00:27.16,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Eyes forward! Nobody look back!
+Dialogue: 0,0:00:30.12,0:00:31.80,Speech,COURIER,0,0,0,,{\c&H84DBFF&}COURIER:{\c&HFFFFFF&} Still delivering in May?
+Dialogue: 0,0:00:32.29,0:00:33.65,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} NOT NOW!
+Dialogue: 0,0:00:37.21,0:00:38.41,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Keep hold of the lead!
+Dialogue: 0,0:00:42.42,0:00:44.82,Speech,REFEREE,0,0,0,,{\c&H84DBFF&}REFEREE:{\c&HFFFFFF&} Penalty. Against Arsenal.
+Dialogue: 0,0:00:46.29,0:00:49.09,Speech,RECORDED VOICE,0,0,0,,{\c&H84DBFF&}RECORDED VOICE:{\c&HFFFFFF&} For a penalty against Arsenal, please\Nhold.
+Dialogue: 0,0:00:49.71,0:00:51.21,Music,MUSIC,0,0,0,,[{\c&H84DBFF&}MUSIC:{\c&HFFFFFF&} Telephone hold music]
+Dialogue: 0,0:00:54.29,0:00:57.41,Speech,OPERATOR,0,0,0,,{\c&H84DBFF&}OPERATOR:{\c&HFFFFFF&} Mikel! Straight through, as always.
+Dialogue: 0,0:00:59.00,0:01:01.00,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Can you make that go away?
+Dialogue: 0,0:01:02.79,0:01:05.75,Speech,OPERATOR,0,0,0,,{\c&H84DBFF&}OPERATOR:{\c&HFFFFFF&} Of course. Would you like a corner with\Nthat?
+Dialogue: 0,0:01:07.21,0:01:08.41,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Make it two.
+Dialogue: 0,0:01:11.71,0:01:14.01,Speech,REFEREE,0,0,0,,{\c&H84DBFF&}REFEREE:{\c&HFFFFFF&} Hello? I’m still here.
+Dialogue: 0,0:01:14.50,0:01:16.82,Speech,RECORDED VOICE,0,0,0,,{\c&H84DBFF&}RECORDED VOICE:{\c&HFFFFFF&} Your call is very important to us.
+Dialogue: 0,0:01:21.79,0:01:28.27,Speech,NARRATOR,0,0,0,,{\c&H84DBFF&}NARRATOR:{\c&HFFFFFF&} One goal for the title. And of course, one\Nbloody corner.
+Dialogue: 0,0:01:29.62,0:01:31.70,Speech,GYÖKERES,0,0,0,,{\c&H84DBFF&}GYÖKERES:{\c&HFFFFFF&} Do I finally get to shoot?
+Dialogue: 0,0:01:32.21,0:01:34.05,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} No. Stand there.
+Dialogue: 0,0:01:35.21,0:01:36.61,Music,MUSIC,0,0,0,,[{\c&H84DBFF&}MUSIC:{\c&HFFFFFF&} Two-note mystery motif]
+Dialogue: 0,0:01:35.71,0:01:38.11,Speech,NARRATOR,0,0,0,,{\c&H84DBFF&}NARRATOR:{\c&HFFFFFF&} There’s still time.
+Dialogue: 0,0:01:42.58,0:01:45.54,Speech,GYÖKERES,0,0,0,,{\c&H84DBFF&}GYÖKERES:{\c&HFFFFFF&} I’m supposed to be the stri—
+Dialogue: 0,0:01:51.00,0:01:52.20,Speech,GYÖKERES,0,0,0,,{\c&H84DBFF&}GYÖKERES:{\c&HFFFFFF&} That counts?
+Dialogue: 0,0:01:52.71,0:01:54.15,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Exactly as rehearsed.
+Dialogue: 0,0:01:57.00,0:01:58.68,Speech,COURIER,0,0,0,,{\c&H84DBFF&}COURIER:{\c&HFFFFFF&} So… who signs for these?
+Dialogue: 0,0:01:59.21,0:02:00.57,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Wrong address.
+Dialogue: 0,0:02:02.92,0:02:03.80,Speech,REFEREE,0,0,0,,{\c&H84DBFF&}REFEREE:{\c&HFFFFFF&} Finally!
+Dialogue: 0,0:02:04.29,0:02:07.65,Speech,RECORDED VOICE,0,0,0,,{\c&H84DBFF&}RECORDED VOICE:{\c&HFFFFFF&} Thank you for waiting. The season has\Nnow ended.
+Dialogue: 0,0:02:16.71,0:02:18.21,Music,MUSIC,0,0,0,,[{\c&H84DBFF&}MUSIC:{\c&HFFFFFF&} The familiar two notes]
+Dialogue: 0,0:02:18.42,0:02:19.62,Music,MUSIC,0,0,0,,[{\c&H84DBFF&}MUSIC:{\c&HFFFFFF&} The final note]
+Dialogue: 0,0:02:20.00,0:02:22.21,Speech,FERGUSON,0,0,0,,{\c&H84DBFF&}FERGUSON:{\c&HFFFFFF&} I SAID I WAS RETIRED!
+Dialogue: 0,0:02:22.83,0:02:25.33,Speech,FERGUSON,0,0,0,,{\c&H84DBFF&}FERGUSON:{\c&HFFFFFF&} STOP GIVING ME REASONS TO COME BACK!

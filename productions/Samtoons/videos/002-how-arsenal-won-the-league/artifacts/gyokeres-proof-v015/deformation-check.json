@@ -1,0 +1,872 @@
+{
+  "worst_flips": 0,
+  "minimum_area_ratio": 0.08495807438919012,
+  "maximum_area_ratio": 3.0224284835172637,
+  "frames": [
+    {
+      "frame": 1,
+      "flips": 0,
+      "minimum_area_ratio": 0.41813945823123205,
+      "maximum_area_ratio": 1.3797055010174053
+    },
+    {
+      "frame": 2,
+      "flips": 0,
+      "minimum_area_ratio": 0.53007361604771,
+      "maximum_area_ratio": 1.3439062047650807
+    },
+    {
+      "frame": 3,
+      "flips": 0,
+      "minimum_area_ratio": 0.6686216491839183,
+      "maximum_area_ratio": 1.2755796322313058
+    },
+    {
+      "frame": 4,
+      "flips": 0,
+      "minimum_area_ratio": 0.7384172215860936,
+      "maximum_area_ratio": 1.3883171754458001
+    },
+    {
+      "frame": 5,
+      "flips": 0,
+      "minimum_area_ratio": 0.6939967216669536,
+      "maximum_area_ratio": 1.4826460661310177
+    },
+    {
+      "frame": 6,
+      "flips": 0,
+      "minimum_area_ratio": 0.6415669317034673,
+      "maximum_area_ratio": 1.5572243994177404
+    },
+    {
+      "frame": 7,
+      "flips": 0,
+      "minimum_area_ratio": 0.6051259977068705,
+      "maximum_area_ratio": 1.6067463434585294
+    },
+    {
+      "frame": 8,
+      "flips": 0,
+      "minimum_area_ratio": 0.5887837060581693,
+      "maximum_area_ratio": 1.7868681610506147
+    },
+    {
+      "frame": 9,
+      "flips": 0,
+      "minimum_area_ratio": 0.5950532075889126,
+      "maximum_area_ratio": 1.9842957247210158
+    },
+    {
+      "frame": 10,
+      "flips": 0,
+      "minimum_area_ratio": 0.624145134420717,
+      "maximum_area_ratio": 2.0967411939640437
+    },
+    {
+      "frame": 11,
+      "flips": 0,
+      "minimum_area_ratio": 0.6645846710908322,
+      "maximum_area_ratio": 2.1050738235177318
+    },
+    {
+      "frame": 12,
+      "flips": 0,
+      "minimum_area_ratio": 0.7216382711890741,
+      "maximum_area_ratio": 1.998075491627854
+    },
+    {
+      "frame": 13,
+      "flips": 0,
+      "minimum_area_ratio": 0.8218185468831383,
+      "maximum_area_ratio": 1.750950878708409
+    },
+    {
+      "frame": 14,
+      "flips": 0,
+      "minimum_area_ratio": 0.8217341688025801,
+      "maximum_area_ratio": 1.8701755039849488
+    },
+    {
+      "frame": 15,
+      "flips": 0,
+      "minimum_area_ratio": 0.8280918220309679,
+      "maximum_area_ratio": 2.0932539771748906
+    },
+    {
+      "frame": 16,
+      "flips": 0,
+      "minimum_area_ratio": 0.8456561699341707,
+      "maximum_area_ratio": 1.9454876132403098
+    },
+    {
+      "frame": 17,
+      "flips": 0,
+      "minimum_area_ratio": 0.8502504115135148,
+      "maximum_area_ratio": 1.6432847456808397
+    },
+    {
+      "frame": 18,
+      "flips": 0,
+      "minimum_area_ratio": 0.857089086108948,
+      "maximum_area_ratio": 1.364265844126543
+    },
+    {
+      "frame": 19,
+      "flips": 0,
+      "minimum_area_ratio": 0.7799936613970353,
+      "maximum_area_ratio": 1.3903610659438648
+    },
+    {
+      "frame": 20,
+      "flips": 0,
+      "minimum_area_ratio": 0.5153322801824471,
+      "maximum_area_ratio": 1.52620513964857
+    },
+    {
+      "frame": 21,
+      "flips": 0,
+      "minimum_area_ratio": 0.2795910570634151,
+      "maximum_area_ratio": 1.5975365469033638
+    },
+    {
+      "frame": 22,
+      "flips": 0,
+      "minimum_area_ratio": 0.13014326863812253,
+      "maximum_area_ratio": 1.6197302745659916
+    },
+    {
+      "frame": 23,
+      "flips": 0,
+      "minimum_area_ratio": 0.08495807438919012,
+      "maximum_area_ratio": 1.5961174796930218
+    },
+    {
+      "frame": 24,
+      "flips": 0,
+      "minimum_area_ratio": 0.16624197415096495,
+      "maximum_area_ratio": 1.5236490487041312
+    },
+    {
+      "frame": 25,
+      "flips": 0,
+      "minimum_area_ratio": 0.41814011338942497,
+      "maximum_area_ratio": 1.3797000653527127
+    },
+    {
+      "frame": 26,
+      "flips": 0,
+      "minimum_area_ratio": 0.53007361604771,
+      "maximum_area_ratio": 1.3439062047650807
+    },
+    {
+      "frame": 27,
+      "flips": 0,
+      "minimum_area_ratio": 0.6686222588645864,
+      "maximum_area_ratio": 1.2755788136628725
+    },
+    {
+      "frame": 28,
+      "flips": 0,
+      "minimum_area_ratio": 0.738416033866356,
+      "maximum_area_ratio": 1.3883125934048786
+    },
+    {
+      "frame": 29,
+      "flips": 0,
+      "minimum_area_ratio": 0.6939965682953864,
+      "maximum_area_ratio": 1.4826465047376707
+    },
+    {
+      "frame": 30,
+      "flips": 0,
+      "minimum_area_ratio": 0.6415669317034673,
+      "maximum_area_ratio": 1.557228847794004
+    },
+    {
+      "frame": 31,
+      "flips": 0,
+      "minimum_area_ratio": 0.6051259977068705,
+      "maximum_area_ratio": 1.6067463434585294
+    },
+    {
+      "frame": 32,
+      "flips": 0,
+      "minimum_area_ratio": 0.5887837060581693,
+      "maximum_area_ratio": 1.786865601040248
+    },
+    {
+      "frame": 33,
+      "flips": 0,
+      "minimum_area_ratio": 0.5950532075889126,
+      "maximum_area_ratio": 1.984296535101451
+    },
+    {
+      "frame": 34,
+      "flips": 0,
+      "minimum_area_ratio": 0.6241464001472923,
+      "maximum_area_ratio": 2.0967620082416274
+    },
+    {
+      "frame": 35,
+      "flips": 0,
+      "minimum_area_ratio": 0.6645846710908322,
+      "maximum_area_ratio": 2.105072741442405
+    },
+    {
+      "frame": 36,
+      "flips": 0,
+      "minimum_area_ratio": 0.7216382711890741,
+      "maximum_area_ratio": 1.9980774044751537
+    },
+    {
+      "frame": 37,
+      "flips": 0,
+      "minimum_area_ratio": 0.8218185468831383,
+      "maximum_area_ratio": 1.7509505591833854
+    },
+    {
+      "frame": 38,
+      "flips": 0,
+      "minimum_area_ratio": 0.8217341688025801,
+      "maximum_area_ratio": 1.870175943948044
+    },
+    {
+      "frame": 39,
+      "flips": 0,
+      "minimum_area_ratio": 0.8280918220309679,
+      "maximum_area_ratio": 2.0932561778529784
+    },
+    {
+      "frame": 40,
+      "flips": 0,
+      "minimum_area_ratio": 0.8456561699341707,
+      "maximum_area_ratio": 1.9454851070882535
+    },
+    {
+      "frame": 41,
+      "flips": 0,
+      "minimum_area_ratio": 0.8502511875461529,
+      "maximum_area_ratio": 1.643276329048962
+    },
+    {
+      "frame": 42,
+      "flips": 0,
+      "minimum_area_ratio": 0.8570890645415574,
+      "maximum_area_ratio": 1.3642650301398798
+    },
+    {
+      "frame": 43,
+      "flips": 0,
+      "minimum_area_ratio": 0.7799989348984218,
+      "maximum_area_ratio": 1.3903591915137867
+    },
+    {
+      "frame": 44,
+      "flips": 0,
+      "minimum_area_ratio": 0.5153251335224989,
+      "maximum_area_ratio": 1.5262071253606397
+    },
+    {
+      "frame": 45,
+      "flips": 0,
+      "minimum_area_ratio": 0.2795911593441872,
+      "maximum_area_ratio": 1.597535631144054
+    },
+    {
+      "frame": 46,
+      "flips": 0,
+      "minimum_area_ratio": 0.13408634909391945,
+      "maximum_area_ratio": 1.615162515468698
+    },
+    {
+      "frame": 47,
+      "flips": 0,
+      "minimum_area_ratio": 0.10149789924645992,
+      "maximum_area_ratio": 1.581235058407593
+    },
+    {
+      "frame": 48,
+      "flips": 0,
+      "minimum_area_ratio": 0.18790803540008996,
+      "maximum_area_ratio": 1.5029473162104106
+    },
+    {
+      "frame": 49,
+      "flips": 0,
+      "minimum_area_ratio": 0.3931689312294005,
+      "maximum_area_ratio": 1.3797029378047174
+    },
+    {
+      "frame": 50,
+      "flips": 0,
+      "minimum_area_ratio": 0.4241048594473258,
+      "maximum_area_ratio": 1.3627387480583897
+    },
+    {
+      "frame": 51,
+      "flips": 0,
+      "minimum_area_ratio": 0.5184700978130685,
+      "maximum_area_ratio": 1.3286329955790372
+    },
+    {
+      "frame": 52,
+      "flips": 0,
+      "minimum_area_ratio": 0.6451838853535732,
+      "maximum_area_ratio": 1.3380529227775066
+    },
+    {
+      "frame": 53,
+      "flips": 0,
+      "minimum_area_ratio": 0.6920408917235826,
+      "maximum_area_ratio": 1.295980756573665
+    },
+    {
+      "frame": 54,
+      "flips": 0,
+      "minimum_area_ratio": 0.7356235417302118,
+      "maximum_area_ratio": 1.275362442504261
+    },
+    {
+      "frame": 55,
+      "flips": 0,
+      "minimum_area_ratio": 0.7202297955377501,
+      "maximum_area_ratio": 1.2754469710708045
+    },
+    {
+      "frame": 56,
+      "flips": 0,
+      "minimum_area_ratio": 0.6628720155804915,
+      "maximum_area_ratio": 1.2826958750833617
+    },
+    {
+      "frame": 57,
+      "flips": 0,
+      "minimum_area_ratio": 0.6059611745924425,
+      "maximum_area_ratio": 1.2840443530702101
+    },
+    {
+      "frame": 58,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 59,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 60,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 61,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 62,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 63,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 64,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 65,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 66,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 67,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 68,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.74224224754837
+    },
+    {
+      "frame": 69,
+      "flips": 0,
+      "minimum_area_ratio": 0.1499920362311881,
+      "maximum_area_ratio": 2.48448449509674
+    },
+    {
+      "frame": 70,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.74224224754837
+    },
+    {
+      "frame": 71,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 72,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 73,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 74,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 75,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 76,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 77,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 78,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 79,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 80,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.4030362462116497
+    },
+    {
+      "frame": 81,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.801848494405007
+    },
+    {
+      "frame": 82,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 2.23542159263629
+    },
+    {
+      "frame": 83,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 2.629478995323464
+    },
+    {
+      "frame": 84,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 2.913563121712738
+    },
+    {
+      "frame": 85,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 86,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 87,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 88,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 89,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 90,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 91,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 92,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 93,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 94,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 95,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 96,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 97,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 98,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 99,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 100,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 101,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 102,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 103,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 104,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 105,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 106,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 107,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 108,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 109,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 110,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 111,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 112,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 113,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 114,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 115,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 3.0224284835172637
+    },
+    {
+      "frame": 116,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 2.983842844257573
+    },
+    {
+      "frame": 117,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 2.876649769452992
+    },
+    {
+      "frame": 118,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 2.713384751755851
+    },
+    {
+      "frame": 119,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 2.506959027634017
+    },
+    {
+      "frame": 120,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 2.270746564538286
+    },
+    {
+      "frame": 121,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 2.018937919809706
+    },
+    {
+      "frame": 122,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.766276291329965
+    },
+    {
+      "frame": 123,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.52753867736734
+    },
+    {
+      "frame": 124,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 125,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 126,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.74224224754837
+    },
+    {
+      "frame": 127,
+      "flips": 0,
+      "minimum_area_ratio": 0.1499920362311881,
+      "maximum_area_ratio": 2.48448449509674
+    },
+    {
+      "frame": 128,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.74224224754837
+    },
+    {
+      "frame": 129,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 130,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 131,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 132,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 133,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 134,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 135,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 136,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 137,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 138,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 139,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 140,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 141,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 142,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 143,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    },
+    {
+      "frame": 144,
+      "flips": 0,
+      "minimum_area_ratio": 0.3601868450955859,
+      "maximum_area_ratio": 1.3797168292384578
+    }
+  ],
+  "scope": "Source mesh deformation only; does not approve appearance or acting."
+}

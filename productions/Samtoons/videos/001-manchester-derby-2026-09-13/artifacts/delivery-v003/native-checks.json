@@ -1,0 +1,8 @@
+{
+  "scene_strips": 17,
+  "end_card_frames": 96,
+  "frames": 3864,
+  "packed_mix_sha256": "0a4879df4723fddb28b02ce89c57ce7fdb660d05e20b97603ebf226655da986c",
+  "required_external_asset": "subscribe-card.png",
+  "no_scene_render": true
+}

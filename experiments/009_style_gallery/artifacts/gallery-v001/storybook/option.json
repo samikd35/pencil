@@ -1,0 +1,19 @@
+{
+  "id": "storybook",
+  "name": "Textured storybook",
+  "category": "Finish",
+  "description": "Soft colors and subtle procedural painted grain.",
+  "limitation": "Paint appearance only; inspect texture deformation and seams for new poses.",
+  "recipe": "recipes/storybook.md",
+  "sample": "samples/storybook.png",
+  "settings": {
+    "design": "human",
+    "finish": "storybook",
+    "presentation": "scene"
+  },
+  "status": "Not yet validated",
+  "evidence": [],
+  "sources": [
+    "https://moho.lostmarble.com/pages/features"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L10",
+  "chapter": 2,
+  "beat": "TR03",
+  "role_and_direction": "ARTETA",
+  "text": "Not the goal! Off him!",
+  "word_count": 5,
+  "seconds": 1.84,
+  "file": "L10.wav",
+  "sha256": "2d2d9482f868c81bbade323974479befa0169e4e015faecc4ad7ef30994d2284",
+  "reference_start_seconds": 23.532083333333333,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Frantic projected warning across the training ground. Sharp urgent commands, stress NOT and OFF. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.8615304170016316,
+  "path": "artifacts/animatic-v001/voices/L10.wav"
+}

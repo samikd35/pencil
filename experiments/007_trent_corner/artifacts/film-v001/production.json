@@ -1,0 +1,589 @@
+{
+  "version": 1,
+  "assets": {
+    "turf": {
+      "path": "assets/audio-v001/turf.wav",
+      "sha256": "d9b77366ad9ce3bac54ae7efede230587d86a25c17a986d6231038cb77ca1195",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Pencil step, seed 11, 0.16 s",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "freeze": {
+      "path": "assets/audio-v001/freeze.wav",
+      "sha256": "335b2427b39fb11a912cab9a24c47c7b8625ea15c4c82529f0c37e5b0aad967d",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Pencil tap, seed 22, 0.22 s",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "net": {
+      "path": "assets/audio-v001/net.wav",
+      "sha256": "4eecf3c5e0d194732676a5a0c79524ff0d3edef18b57893f2ff921cc91a5debc",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Pencil scrape, seed 33, 0.48 s",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "release": {
+      "path": "assets/audio-v001/release.wav",
+      "sha256": "ad1d330d5bce1d4867181f7fc77498c23d9fc04bc55594996de528ef800e48dd",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Pencil whoosh, seed 44, 0.36 s",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "corner": {
+      "path": "assets/audio-v001/corner.wav",
+      "sha256": "5dc4aecf3f4aa6b531d295434b7a285b3b552e153ef50994000b691279c4ed70",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Boot/ball impact, 108 Hz falling membrane and filtered contact noise, seed 55",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "finish": {
+      "path": "assets/audio-v001/finish.wav",
+      "sha256": "6664f0cec227e09b2baeba62a678d714a79d88370ea50f47cfceb8e710677e60",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Boot/ball impact, 145 Hz falling membrane and filtered contact noise, seed 66",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "stadium": {
+      "path": "assets/audio-v001/stadium.wav",
+      "sha256": "f078544e7af5c5270d1d8939d5969eec0d1909bce75d5d472924a510f0c678e0",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Stereo filtered stadium texture, seed 77, 9 s; nonverbal synthesis",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "cheer": {
+      "path": "assets/audio-v001/cheer.wav",
+      "sha256": "9a285976c51d12563e062f08f3e08cd666a78e7dda8ce70ba33d274ef39f635b",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Stereo filtered stadium texture, seed 88, 9 s; nonverbal synthesis",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "hush": {
+      "path": "assets/audio-v001/hush.wav",
+      "sha256": "3f2f3456517754bf29769a067aeba1a87bdf3bd6464a7635d202e70a1325f861",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Stereo filtered stadium texture, seed 99, 7 s; nonverbal synthesis",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "notice": {
+      "path": "assets/audio-v001/notice.wav",
+      "sha256": "1130ec9550436ec8a30d2486bdbc4009a5ea4a9b5b4782edc5a098657dc5a0eb",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Original instrumental sine partials; MIDI notes [67, 74]",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "tension": {
+      "path": "assets/audio-v001/tension.wav",
+      "sha256": "abfc6b3fae5912ff315f6a123e1d868244f9f77d569f9cc50023ce14407b73e7",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Original instrumental sine partials; MIDI notes [50, 57, 62]",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    },
+    "resolve": {
+      "path": "assets/audio-v001/resolve.wav",
+      "sha256": "f19c24e896cdca33fbe05267962b2911c763c1e2f84a4b0ce8a66301970b7d7f",
+      "source": "Original deterministic NumPy synthesis in scripts/select_sound.py; Original instrumental sine partials; MIDI notes [55, 59, 62, 67]",
+      "license": "Original generated production audio; no external samples. Available for this production and its revisions.",
+      "attribution": "",
+      "notes": "Selected final synthesis, not archival match audio."
+    }
+  },
+  "cues": [
+    {
+      "id": "establish-stadium",
+      "shot": "setup",
+      "event": "start",
+      "intent": "establish stadium",
+      "asset": "stadium",
+      "stem": "atmosphere",
+      "in_seconds": 0,
+      "duration_seconds": 2,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -15,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.2
+    },
+    {
+      "id": "stop-time",
+      "shot": "freeze",
+      "event": "hold",
+      "intent": "stop time",
+      "asset": "freeze",
+      "stem": "editorial",
+      "in_seconds": 0,
+      "duration_seconds": 0.22,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -17,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "held-perspective",
+      "shot": "freeze",
+      "event": "hold",
+      "intent": "held perspective",
+      "asset": "hush",
+      "stem": "atmosphere",
+      "in_seconds": 0,
+      "duration_seconds": 5,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -25,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.3
+    },
+    {
+      "id": "swap-stadium",
+      "shot": "swap",
+      "event": "resume",
+      "intent": "swap stadium",
+      "asset": "stadium",
+      "stem": "atmosphere",
+      "in_seconds": 0,
+      "duration_seconds": 3,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -19,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.3
+    },
+    {
+      "id": "swap-foot-0",
+      "shot": "swap",
+      "event": "step_a",
+      "intent": "swap foot 0",
+      "asset": "turf",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.16,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -18,
+      "pan": 0.65,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "swap-foot-1",
+      "shot": "swap",
+      "event": "step_b",
+      "intent": "swap foot 1",
+      "asset": "turf",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.16,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -18,
+      "pan": 0.65,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "notice-motif",
+      "shot": "opening",
+      "event": "notice",
+      "intent": "notice motif",
+      "asset": "notice",
+      "stem": "music",
+      "in_seconds": 0,
+      "duration_seconds": 2.1,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -14,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "opportunity-hush",
+      "shot": "opening",
+      "event": "notice",
+      "intent": "opportunity hush",
+      "asset": "hush",
+      "stem": "atmosphere",
+      "in_seconds": 0,
+      "duration_seconds": 4,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -27,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.3
+    },
+    {
+      "id": "anticipation",
+      "shot": "swap",
+      "event": "resume",
+      "intent": "anticipation",
+      "asset": "tension",
+      "stem": "music",
+      "in_seconds": 0,
+      "duration_seconds": 7,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -23,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.3
+    },
+    {
+      "id": "return-plant",
+      "shot": "action",
+      "event": "plant",
+      "intent": "return plant",
+      "asset": "turf",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.16,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -19,
+      "pan": 0.65,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "time-resumes",
+      "shot": "action",
+      "event": "resume",
+      "intent": "time resumes",
+      "asset": "release",
+      "stem": "editorial",
+      "in_seconds": 0,
+      "duration_seconds": 0.36,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -21,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "action-atmosphere",
+      "shot": "action",
+      "event": "resume",
+      "intent": "action atmosphere",
+      "asset": "stadium",
+      "stem": "atmosphere",
+      "in_seconds": 0,
+      "duration_seconds": 2.7,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -19,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.2
+    },
+    {
+      "id": "action-corner",
+      "shot": "action",
+      "event": "corner_contact",
+      "intent": "action corner",
+      "asset": "corner",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.32,
+      "onset_seconds": 0.008,
+      "offset_frames": 0,
+      "gain_db": -6,
+      "pan": 0.55,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "action-finish",
+      "shot": "action",
+      "event": "origi_contact",
+      "intent": "action finish",
+      "asset": "finish",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.42,
+      "onset_seconds": 0.008,
+      "offset_frames": 0,
+      "gain_db": -3,
+      "pan": -0.15,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "action-net",
+      "shot": "action",
+      "event": "net_contact",
+      "intent": "action net",
+      "asset": "net",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.48,
+      "onset_seconds": 0.008,
+      "offset_frames": 0,
+      "gain_db": -10,
+      "pan": -0.55,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "replay-corner",
+      "shot": "replay",
+      "event": "corner_contact",
+      "intent": "replay corner",
+      "asset": "corner",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.32,
+      "onset_seconds": 0.008,
+      "offset_frames": 0,
+      "gain_db": -12,
+      "pan": 0.55,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "replay-finish",
+      "shot": "replay",
+      "event": "origi_contact",
+      "intent": "replay finish",
+      "asset": "finish",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.42,
+      "onset_seconds": 0.008,
+      "offset_frames": 0,
+      "gain_db": -9,
+      "pan": -0.15,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "replay-net",
+      "shot": "replay",
+      "event": "net_contact",
+      "intent": "replay net",
+      "asset": "net",
+      "stem": "foley",
+      "in_seconds": 0,
+      "duration_seconds": 0.48,
+      "onset_seconds": 0.008,
+      "offset_frames": 0,
+      "gain_db": -16,
+      "pan": -0.55,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "goal-cheer",
+      "shot": "action",
+      "event": "cheer",
+      "intent": "goal cheer",
+      "asset": "cheer",
+      "stem": "atmosphere",
+      "in_seconds": 0,
+      "duration_seconds": 6.333333,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -8,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.65
+    },
+    {
+      "id": "goal-resolution",
+      "shot": "action",
+      "event": "net_contact",
+      "intent": "goal resolution",
+      "asset": "resolve",
+      "stem": "music",
+      "in_seconds": 0,
+      "duration_seconds": 6.5,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -14,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.8
+    },
+    {
+      "id": "replay-perspective",
+      "shot": "replay",
+      "event": "start",
+      "intent": "replay perspective",
+      "asset": "hush",
+      "stem": "atmosphere",
+      "in_seconds": 0,
+      "duration_seconds": 6,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -23,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.3
+    },
+    {
+      "id": "replay-observation",
+      "shot": "replay",
+      "event": "start",
+      "intent": "replay observation",
+      "asset": "notice",
+      "stem": "music",
+      "in_seconds": 0,
+      "duration_seconds": 2.1,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -23,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.02
+    },
+    {
+      "id": "final-cheer",
+      "shot": "payoff",
+      "event": "title",
+      "intent": "final cheer",
+      "asset": "cheer",
+      "stem": "atmosphere",
+      "in_seconds": 0,
+      "duration_seconds": 6.6,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -14,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 1.4
+    },
+    {
+      "id": "final-resolution",
+      "shot": "payoff",
+      "event": "title",
+      "intent": "final resolution",
+      "asset": "resolve",
+      "stem": "music",
+      "in_seconds": 0,
+      "duration_seconds": 6.6,
+      "onset_seconds": 0,
+      "offset_frames": 0,
+      "gain_db": -17,
+      "pan": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 1.4
+    }
+  ],
+  "mix_gain_db": -3,
+  "title": "Barcelona wasn't ready. Trent was.",
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 864,
+    "sample_rate": 48000
+  },
+  "shots": [
+    {
+      "id": "setup",
+      "start_frame": 1,
+      "events": {
+        "start": 0
+      }
+    },
+    {
+      "id": "freeze",
+      "start_frame": 49,
+      "events": {
+        "hold": 0
+      }
+    },
+    {
+      "id": "swap",
+      "start_frame": 169,
+      "events": {
+        "resume": 0,
+        "step_a": 43,
+        "step_b": 48
+      }
+    },
+    {
+      "id": "opening",
+      "start_frame": 241,
+      "events": {
+        "notice": 0,
+        "lane": 24
+      }
+    },
+    {
+      "id": "action",
+      "start_frame": 337,
+      "events": {
+        "resume": 0,
+        "plant": 14,
+        "corner_contact": 24,
+        "origi_contact": 48,
+        "net_contact": 60,
+        "cheer": 64
+      }
+    },
+    {
+      "id": "goal",
+      "start_frame": 433,
+      "events": {
+        "celebrate": 0
+      }
+    },
+    {
+      "id": "replay",
+      "start_frame": 553,
+      "events": {
+        "start": 0,
+        "corner_contact": 36,
+        "origi_contact": 72,
+        "net_contact": 90
+      }
+    },
+    {
+      "id": "payoff",
+      "start_frame": 697,
+      "events": {
+        "title": 0,
+        "result": 84,
+        "fade": 144
+      }
+    }
+  ],
+  "audio_direction": {
+    "authority": "pipeline/audio.py premaster, then two-pass FFmpeg loudnorm",
+    "original_sound": true,
+    "quiet_intervals_seconds": [
+      [
+        2,
+        7
+      ],
+      [
+        10,
+        14
+      ],
+      [
+        23,
+        29
+      ],
+      [
+        35.6,
+        36
+      ]
+    ],
+    "subjective_listening": "Not performed; actual listening is still required."
+  }
+}

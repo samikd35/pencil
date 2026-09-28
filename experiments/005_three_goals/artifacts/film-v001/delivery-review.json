@@ -1,0 +1,10 @@
+{
+  "decoded_motion_samples": 24,
+  "final_frame_mean_rgb": [
+    0.00042824074074074075,
+    0.00040653935185185183,
+    0.00043306327160493827
+  ],
+  "exported_stills": 25,
+  "subjective_audio_review": false
+}

@@ -1,0 +1,1733 @@
+{
+  "samples": [
+    {
+      "actor": "Lewandowski",
+      "frame": 1,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 1,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 1,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 24,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 24,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 24,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 25,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 25,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 25,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 26,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 26,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 26,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 27,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 27,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 27,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 28,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 28,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 28,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 29,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 29,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 29,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 30,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 30,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 30,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 31,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 31,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 31,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 32,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 32,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 32,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 33,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 33,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 33,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 34,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 34,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 34,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 35,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 35,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 35,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 36,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 36,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 36,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 37,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 37,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 37,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 38,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 38,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 38,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 39,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 39,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 39,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 40,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 40,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 40,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 41,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 41,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 41,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 42,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 42,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 42,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 43,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 43,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 43,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 44,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 44,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 44,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 45,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 45,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 45,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 46,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 46,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 46,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 47,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 47,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 47,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 48,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 48,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 48,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 49,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 49,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 49,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 50,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 50,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 50,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 51,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 51,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 51,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 52,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 52,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 52,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 53,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 53,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 53,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 54,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 54,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 54,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 55,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 55,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 55,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 56,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 56,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 56,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 57,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 57,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 57,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 58,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 58,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 58,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 59,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 59,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 59,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 60,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 60,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 60,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 61,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 61,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 61,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 62,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 62,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 62,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 63,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 63,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 63,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 64,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 64,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 64,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 65,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 65,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 65,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 66,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 66,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 66,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 67,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 67,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 67,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 68,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 68,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 68,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 69,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 69,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 69,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 70,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 70,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 70,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 71,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 71,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 71,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 72,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 72,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 72,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 73,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 73,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 73,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 74,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 74,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 74,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 75,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 75,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 75,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 76,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 76,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 76,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 77,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 77,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 77,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 78,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 78,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 78,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 79,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 79,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 79,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 80,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 80,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 80,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 81,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 81,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Lewandowski",
+      "frame": 81,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 139,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 139,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 139,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 150,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 150,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 150,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 151,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 151,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 151,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 152,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 152,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 152,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 153,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 153,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 153,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 154,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 154,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 154,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 155,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 155,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 155,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 156,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 156,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 156,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 157,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 157,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 157,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 158,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 158,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 158,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 159,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 159,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 159,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 160,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 160,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 160,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 161,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 161,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 161,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 162,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 162,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 162,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 163,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 163,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 163,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 164,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 164,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 164,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 165,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 165,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 165,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 166,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 166,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 166,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 167,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 167,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 167,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 168,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 168,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 168,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 169,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 169,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 169,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 170,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 170,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 170,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 171,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 171,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 171,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 172,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 172,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 172,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 173,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 173,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 173,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 174,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 174,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 174,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 175,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 175,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 175,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 176,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 176,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 176,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 177,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 177,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 177,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 178,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 178,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 178,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 179,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 179,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 179,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 180,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 180,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 180,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 181,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 181,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 181,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 182,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 182,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 182,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 183,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 183,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 183,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 184,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 184,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 184,
+      "region": "shirt",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 185,
+      "region": "L wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 185,
+      "region": "R wrist",
+      "components": 1
+    },
+    {
+      "actor": "Raphinha",
+      "frame": 185,
+      "region": "shirt",
+      "components": 1
+    }
+  ],
+  "scope": "Connected surface geometry only. Visual close-up review also required; not general extreme-pose certification."
+}

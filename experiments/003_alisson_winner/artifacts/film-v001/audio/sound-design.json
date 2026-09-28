@@ -1,0 +1,364 @@
+{
+  "sample_rate": 48000,
+  "duration": 40,
+  "samples": 1920000,
+  "seed": 20210516,
+  "origin": "Original synthesized instrumental composition, filtered wind and Foley. No speech, voice clone, source recording or broadcast audio. Foley functions reused from Heavy Box.",
+  "cue_count": 44,
+  "cues": [
+    {
+      "kind": "tap",
+      "duration": 0.065,
+      "gain": 0.1,
+      "pan": 0,
+      "seconds": 1,
+      "frame": 25
+    },
+    {
+      "kind": "tap",
+      "duration": 0.065,
+      "gain": 0.1,
+      "pan": 0,
+      "seconds": 2,
+      "frame": 49
+    },
+    {
+      "kind": "tap",
+      "duration": 0.065,
+      "gain": 0.1,
+      "pan": 0,
+      "seconds": 3,
+      "frame": 73
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": 0.12,
+      "seconds": 4.0,
+      "frame": 97
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": -0.12,
+      "seconds": 4.416,
+      "frame": 107
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": 0.12,
+      "seconds": 4.832000000000001,
+      "frame": 117
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": -0.12,
+      "seconds": 5.248000000000001,
+      "frame": 127
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": 0.12,
+      "seconds": 5.6640000000000015,
+      "frame": 137
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": -0.12,
+      "seconds": 6.080000000000002,
+      "frame": 147
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": 0.12,
+      "seconds": 6.496000000000002,
+      "frame": 157
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": -0.12,
+      "seconds": 6.912000000000003,
+      "frame": 167
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": 0.12,
+      "seconds": 7.328000000000003,
+      "frame": 177
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": -0.12,
+      "seconds": 7.744000000000003,
+      "frame": 187
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": 0.12,
+      "seconds": 8.160000000000004,
+      "frame": 197
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": -0.12,
+      "seconds": 8.576000000000004,
+      "frame": 207
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": 0.12,
+      "seconds": 8.992000000000004,
+      "frame": 217
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": -0.12,
+      "seconds": 9.408000000000005,
+      "frame": 227
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.16,
+      "pan": 0.12,
+      "seconds": 9.824000000000005,
+      "frame": 237
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.115,
+      "pan": -0.25,
+      "seconds": 10.1,
+      "frame": 243
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.115,
+      "pan": -0.16999999999999998,
+      "seconds": 10.42,
+      "frame": 251
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.115,
+      "pan": -0.09,
+      "seconds": 10.79,
+      "frame": 260
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.115,
+      "pan": -0.010000000000000009,
+      "seconds": 11.25,
+      "frame": 271
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.115,
+      "pan": 0.07,
+      "seconds": 11.76,
+      "frame": 283
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.55,
+      "gain": 0.11,
+      "pan": -0.25,
+      "seconds": 4,
+      "frame": 97
+    },
+    {
+      "kind": "step",
+      "duration": 0.13,
+      "gain": 0.18,
+      "pan": -0.15,
+      "seconds": 16.4,
+      "frame": 395
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.38,
+      "gain": 0.22,
+      "pan": -0.1,
+      "seconds": 16.73,
+      "frame": 403
+    },
+    {
+      "kind": "tap",
+      "duration": 0.18,
+      "gain": 0.46,
+      "pan": 0.2,
+      "seconds": 17,
+      "frame": 409
+    },
+    {
+      "kind": "whoosh",
+      "duration": 1.2,
+      "gain": 0.1,
+      "pan": 0.4,
+      "seconds": 17.12,
+      "frame": 412
+    },
+    {
+      "kind": "step",
+      "duration": 0.16,
+      "gain": 0.14,
+      "pan": -0.2,
+      "seconds": 21.83,
+      "frame": 525
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.34,
+      "gain": 0.14,
+      "pan": -0.1,
+      "seconds": 22.08,
+      "frame": 531
+    },
+    {
+      "kind": "tap",
+      "duration": 0.17,
+      "gain": 0.46,
+      "pan": 0,
+      "seconds": 22.5,
+      "frame": 541
+    },
+    {
+      "kind": "whoosh",
+      "duration": 1.23,
+      "gain": 0.14,
+      "pan": 0.5,
+      "seconds": 22.57,
+      "frame": 543
+    },
+    {
+      "kind": "step",
+      "duration": 0.16,
+      "gain": 0.23,
+      "pan": -0.1,
+      "seconds": 23.15,
+      "frame": 557
+    },
+    {
+      "kind": "scrape",
+      "duration": 0.32,
+      "gain": 0.23,
+      "pan": 0.6,
+      "seconds": 24,
+      "frame": 577
+    },
+    {
+      "kind": "tap",
+      "duration": 0.12,
+      "gain": 0.16,
+      "pan": 0.5,
+      "seconds": 24.84,
+      "frame": 597
+    },
+    {
+      "kind": "step",
+      "duration": 0.11,
+      "gain": 0.11,
+      "pan": -0.8,
+      "seconds": 29.1,
+      "frame": 699
+    },
+    {
+      "kind": "step",
+      "duration": 0.11,
+      "gain": 0.11,
+      "pan": 0.8,
+      "seconds": 29.4,
+      "frame": 707
+    },
+    {
+      "kind": "step",
+      "duration": 0.11,
+      "gain": 0.11,
+      "pan": -0.6,
+      "seconds": 29.65,
+      "frame": 713
+    },
+    {
+      "kind": "step",
+      "duration": 0.11,
+      "gain": 0.11,
+      "pan": 0.6,
+      "seconds": 29.95,
+      "frame": 720
+    },
+    {
+      "kind": "step",
+      "duration": 0.11,
+      "gain": 0.11,
+      "pan": -0.4,
+      "seconds": 30.2,
+      "frame": 726
+    },
+    {
+      "kind": "step",
+      "duration": 0.11,
+      "gain": 0.11,
+      "pan": 0.4,
+      "seconds": 30.5,
+      "frame": 733
+    },
+    {
+      "kind": "step",
+      "duration": 0.11,
+      "gain": 0.11,
+      "pan": -0.2,
+      "seconds": 30.83,
+      "frame": 741
+    },
+    {
+      "kind": "step",
+      "duration": 0.11,
+      "gain": 0.11,
+      "pan": 0.2,
+      "seconds": 31.2,
+      "frame": 750
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.7,
+      "gain": 0.08,
+      "pan": 0,
+      "seconds": 36,
+      "frame": 865
+    }
+  ],
+  "raw_peak": 0.36349720072941694,
+  "shared_stem_gain": 1
+}

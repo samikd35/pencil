@@ -1,0 +1,19 @@
+{
+  "id": "L41",
+  "chapter": 6,
+  "beat": "FR04",
+  "role_and_direction": "ARTETA — utterly sincere",
+  "text": "Exactly as rehearsed.",
+  "word_count": 3,
+  "seconds": 1.44,
+  "file": "L41.wav",
+  "sha256": "71a1f7f7ddee923e6e3fce4bab58aa81e8d9ded4513162b10414dc01fe742553",
+  "reference_start_seconds": 99.48010416666666,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Utterly sincere, smug tactical certainty. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.5910827920015436,
+  "path": "artifacts/animatic-v001/voices/L41.wav"
+}

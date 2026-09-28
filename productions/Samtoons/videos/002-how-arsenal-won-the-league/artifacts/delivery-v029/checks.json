@@ -1,0 +1,41 @@
+{
+  "intro-1080p.mp4": {
+    "frames": 72,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "fps": 24,
+    "video_seconds": "3.000000",
+    "audio_seconds": "3.000000",
+    "decode": "passed",
+    "sha256": "7c85f60a981ce95ad5677f8316d6ae8c3dab1d31cba81d2ac02943e8917d04ab"
+  },
+  "outro-1080p.mp4": {
+    "frames": 288,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "fps": 24,
+    "video_seconds": "12.000000",
+    "audio_seconds": "12.000000",
+    "decode": "passed",
+    "sha256": "2afdbcdaf34a2f2bc53780f9f4edb48b7e543fd8b00b6fb48552e1acb4e52753"
+  },
+  "samtoons-final-1080p.mp4": {
+    "frames": 6994,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "fps": 24,
+    "video_seconds": "291.416667",
+    "audio_seconds": "291.450000",
+    "decode": "passed",
+    "sha256": "4e047c703a5c496dfdab38f60cd0bef9c9897fdc3d94b975d8bc687d336657bd"
+  },
+  "source_unchanged": true,
+  "agent_listening": "not performed",
+  "creative_review": "v028 accepted by user; new1080 export technically checked"
+}

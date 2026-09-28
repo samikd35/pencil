@@ -1,0 +1,28 @@
+{
+  "rendered": 1998,
+  "elapsed_seconds": 525.5605226670014,
+  "selection": [
+    "CP00",
+    "CP01",
+    "CP02_far",
+    "CP02_near",
+    "CP03_panic",
+    "CP03_pep",
+    "CP04_courier",
+    "CP04_reply",
+    "CP05",
+    "VH01",
+    "VH02",
+    "VH03_answer",
+    "VH04_mikel",
+    "VH04_operator",
+    "VH04_two",
+    "VH04_button",
+    "VH05"
+  ],
+  "review_resolution": [
+    1280,
+    720
+  ],
+  "fps": 24
+}

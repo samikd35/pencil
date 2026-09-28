@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "plan": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/003-barca-emergency-meeting/artifacts/staging-v001/membership-v001/render-selection.json",
+  "plan_sha256": "0b6aec305e1be356db1cff091b5d669828a1d2b8446fd7bf8982450d3ec9e176",
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 312,
+    "sample_rate": 48000
+  },
+  "samples": 624000,
+  "assets": {
+    "s12-fan-delighted": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/003-barca-emergency-meeting/assets/voices-s12-v001/fan-delighted.wav",
+      "sha256": "4dabd263b4a7348262783ba6c674c56578c4280699411054addfd1512ccff6bb",
+      "source": "Local Qwen3-TTS generated fictional voice; assets/voices-s12-v001/fan-delighted.json",
+      "license": "Apache-2.0 model; generated production dialogue",
+      "attribution": "Qwen3-TTS / local MLX runtime",
+      "notes": "Now you know what it feels like! Performance listening pending.",
+      "format": {
+        "sample_rate": 24000,
+        "channels": 1,
+        "duration": "34/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "s12-fan-defensive": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/003-barca-emergency-meeting/assets/voices-s12-v001/fan-defensive.wav",
+      "sha256": "bc086ab8248270706a7a368b48aef27f14bf0820176b984415be92e6aa3034ba",
+      "source": "Local Qwen3-TTS generated fictional voice; assets/voices-s12-v001/fan-defensive.json",
+      "license": "Apache-2.0 model; generated production dialogue",
+      "attribution": "Qwen3-TTS / local MLX runtime",
+      "notes": "That was before we hired their coach. Performance listening pending.",
+      "format": {
+        "sample_rate": 24000,
+        "channels": 1,
+        "duration": "46/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "s07-paper": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/003-barca-emergency-meeting/assets/coaches-v001/paper-handoff.wav",
+      "sha256": "4881e483b8b698397afb1fe87b5988886dd54d46388648130b2a4cd3cbf6959e",
+      "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "paper by Ezcah \u2014 https://freesound.org/people/Ezcah/sounds/248178/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed.",
+      "notes": "{\"start\": 0.12, \"source_seconds\": 0.55, \"filters\": \"highpass=f=140,afade=t=in:d=0.01,afade=t=out:st=0.45:d=0.1,alimiter=limit=0.5:level=false\", \"download\": \"https://cdn.freesound.org/previews/248/248178_1900515-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "11/20",
+        "codec": "pcm_s16le"
+      }
+    }
+  },
+  "cues": [
+    {
+      "id": "s12-fan-delighted",
+      "shot": "S12",
+      "event": "delighted",
+      "intent": "The fan gloats",
+      "asset": "s12-fan-delighted",
+      "stem": "dialogue",
+      "duration_seconds": "32640/24000",
+      "gain_db": -2.0,
+      "fade_in_seconds": "0.005",
+      "fade_out_seconds": "0.015",
+      "pan": 0.0,
+      "event_frame": "52",
+      "event_sample": 102000,
+      "start_sample": 102000,
+      "source_start_sample": 0,
+      "samples": 65280,
+      "onset_samples": 0,
+      "fade_in_samples": 240,
+      "fade_out_samples": 720,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    },
+    {
+      "id": "s12-fan-defensive",
+      "shot": "S12",
+      "event": "defensive",
+      "intent": "The fan defends himself",
+      "asset": "s12-fan-defensive",
+      "stem": "dialogue",
+      "duration_seconds": "44160/24000",
+      "gain_db": -2.0,
+      "fade_in_seconds": "0.005",
+      "fade_out_seconds": "0.015",
+      "pan": 0.0,
+      "event_frame": "230",
+      "event_sample": 458000,
+      "start_sample": 458000,
+      "source_start_sample": 0,
+      "samples": 88320,
+      "onset_samples": 0,
+      "fade_in_samples": 240,
+      "fade_out_samples": 720,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    },
+    {
+      "id": "s12-card",
+      "shot": "S12",
+      "event": "card_lift",
+      "intent": "Soft paper movement as the membership card clears the drawer",
+      "asset": "s07-paper",
+      "stem": "foley",
+      "duration_seconds": "26400/48000",
+      "gain_db": -8.0,
+      "pan": 0.0,
+      "event_frame": "118",
+      "event_sample": 234000,
+      "start_sample": 234000,
+      "source_start_sample": 0,
+      "samples": 26400,
+      "onset_samples": 0,
+      "fade_in_samples": 0,
+      "fade_out_samples": 0,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    }
+  ],
+  "mix_gain_db": 0.0
+}

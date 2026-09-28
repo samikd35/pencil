@@ -1,0 +1,19 @@
+{
+  "id": "L27",
+  "chapter": 5,
+  "beat": "VH01",
+  "role_and_direction": "REFEREE — confident",
+  "text": "Penalty. Against Arsenal.",
+  "word_count": 3,
+  "seconds": 2.4,
+  "file": "L27.wav",
+  "sha256": "512b74e5f9f43199b4716f88d6f5b55b69cfec587669274a3b01d5723c546e22",
+  "reference_start_seconds": 65.463625,
+  "role": "REFEREE",
+  "direction": "Adult British male football referee, mid-register voice. Confident professional announcement before speaking into headset. Clean dry microphone, no music or extra words.",
+  "seed": 46,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 2.436727540996799,
+  "path": "artifacts/animatic-v001/voices/L27.wav"
+}

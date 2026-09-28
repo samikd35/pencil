@@ -1,0 +1,6 @@
+{
+  "artifacts/staging-v001/membership-v001/membership.blend": "86d5ecf4854a40b37c5915a67a5674dfc1b5923016712e91689ad76bbd3422b4",
+  "scripts/render_staging_scene.py": "615a6a575949f86570023a3d849d0625cb3aa08a6ae0ea976449bea501b509b7",
+  "artifacts/staging-v001/membership-v001/render-selection.json": "0b6aec305e1be356db1cff091b5d669828a1d2b8446fd7bf8982450d3ec9e176",
+  "artifacts/staging-v001/membership-v001/audio/mix-premaster.wav": "f04dfd87b2e13f7e95cb8c3b16f1ce3e18e8f8ed4ae88c14e96b88bb165a132b"
+}

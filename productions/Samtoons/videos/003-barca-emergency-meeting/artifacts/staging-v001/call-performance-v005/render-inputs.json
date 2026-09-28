@@ -1,0 +1,7 @@
+{
+  "artifacts/staging-v001/call-performance-v005/call-performance.blend": "952a687e8bac7f7899adce2cf6b2423e6b279dee2459c9252d9eaae44fb6debe",
+  "scripts/render_call_review_v001.py": "a9ed0f26f92a5552db0d95b78d83ea0ee52a0a13f6e114a3b4e7883f70e48ccc",
+  "scripts/build_call_performance_v005.py": "9c58b6ec0b4a72f3a667b8c46948c38d1fed00b855564999c5aedc14f737f9a4",
+  "production.json": "53ebdf980a998b68060edf653aba343949e82a13575cdc7162c0fe2cd7b7634e",
+  "artifacts/staging-v001/call-performance-v004/call-review.mp4": "9042cd1dc2ee815c84b0f0db64722caaf193255424c73ec7bb83c376269b7dfd"
+}

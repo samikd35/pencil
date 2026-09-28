@@ -1,0 +1,12 @@
+{
+  "background": false,
+  "scene": "Pencil Live Check",
+  "path": "/Users/samikd/MyProjects/Pencil/pipeline/artifacts/live-blender-v001/preview-v001.blend",
+  "original_scene_preserved": "Scene",
+  "frame_positions": [
+    -2.4,
+    2.4
+  ],
+  "objects": 6,
+  "blender": "5.2.0 LTS"
+}

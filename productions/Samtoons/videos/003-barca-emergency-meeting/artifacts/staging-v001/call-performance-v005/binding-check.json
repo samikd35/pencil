@@ -1,0 +1,10 @@
+{
+  "frames": 240,
+  "max_pose_transfer_error_source_pixels": 0.0012831906763689355,
+  "one_skeleton_per_actor": true,
+  "connected_elbow_wrist_bones": true,
+  "independently_keyed_joint_objects": 0,
+  "wrist_shape_keys": 0,
+  "audio": "Same cached takes and exact timing; no regeneration",
+  "scope": "Technical binding evidence, not creative acceptance"
+}

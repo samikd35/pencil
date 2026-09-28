@@ -1,0 +1,7 @@
+{
+  "artifacts/staging-v001/call-performance-v006/stickman-foundation.blend": "7b49b2310cc6b4957c13b58a15979bd493b70d67d9b174e02216838fe6b1ec9c",
+  "scripts/render_call_review_v001.py": "a9b94df15fc2c3b9cfc92267a13ec75fb900291b10b0a9e7abcf0197142386cc",
+  "scripts/build_call_performance_v006.py": "3e6eed363a7265b4319968d2d269df56ceb2032718ed9f980020f8f39b0fd487",
+  "production.json": "53ebdf980a998b68060edf653aba343949e82a13575cdc7162c0fe2cd7b7634e",
+  "artifacts/staging-v001/call-performance-v004/call-review.mp4": "9042cd1dc2ee815c84b0f0db64722caaf193255424c73ec7bb83c376269b7dfd"
+}

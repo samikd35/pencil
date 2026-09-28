@@ -1,0 +1,31 @@
+{
+  "frames_checked": 864,
+  "contacts": [
+    {
+      "seconds": 15,
+      "player": "Trent",
+      "surface_gap": -1.2180169246638062e-07
+    },
+    {
+      "seconds": 16,
+      "player": "Origi",
+      "surface_gap": -3.336536351893071e-08
+    },
+    {
+      "seconds": 24.5,
+      "player": "Trent",
+      "surface_gap": -1.2180169246638062e-07
+    },
+    {
+      "seconds": 26,
+      "player": "Origi",
+      "surface_gap": -3.336536351893071e-08
+    }
+  ],
+  "planted_boot_intervals": 2,
+  "maximum_ball_step_scene_units": 0.32822541414853507,
+  "embedded_soundtrack": true,
+  "original_source_unchanged": true,
+  "events_match_plan": true,
+  "limits": "Geometry and format checks do not establish viewer understanding, exact historic positioning or listening quality."
+}

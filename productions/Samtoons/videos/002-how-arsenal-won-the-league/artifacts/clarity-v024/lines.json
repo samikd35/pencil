@@ -1,0 +1,156 @@
+[
+  {
+    "id": "C00",
+    "shot": "CP00",
+    "role": "ARTETA",
+    "text": "City won again. They are right behind us! We are NOT handing Pep first place this year!",
+    "reference": "L21"
+  },
+  {
+    "id": "C19",
+    "shot": "CP01",
+    "role": "NARRATOR",
+    "text": "Arsenal were leading the league. Unfortunately, they had seen what happens when Pep starts following them.",
+    "reference": "L19"
+  },
+  {
+    "id": "C21",
+    "shot": "CP03_panic",
+    "role": "ARTETA",
+    "text": "We are sprinting! How is he getting closer?",
+    "reference": "L21"
+  },
+  {
+    "id": "C22",
+    "shot": "CP03_pep",
+    "role": "PEP",
+    "text": "You always get tired around this part, Mikel.",
+    "reference": "L22"
+  },
+  {
+    "id": "C24",
+    "shot": "CP04_courier",
+    "role": "COURIER",
+    "text": "Your annual second-place delivery! Same shelf as last time?",
+    "reference": "L24"
+  },
+  {
+    "id": "C25",
+    "shot": "CP04_courier",
+    "role": "ARTETA",
+    "text": "Cancel the subscription! We are winning it this year!",
+    "reference": "L21"
+  },
+  {
+    "id": "C27",
+    "shot": "VH01",
+    "role": "REFEREE",
+    "text": "He has pulled him down inside the box. Penalty against Arsenal!",
+    "reference": "L27"
+  },
+  {
+    "id": "C29",
+    "shot": "VH03_answer",
+    "role": "OPERATOR",
+    "text": "Mikel! Our priority customer. What can we cancel today?",
+    "reference": "L29"
+  },
+  {
+    "id": "C30",
+    "shot": "VH04_mikel",
+    "role": "ARTETA",
+    "text": "That penalty against us. Make it disappear. Same service as the rest of the season.",
+    "reference": "B02"
+  },
+  {
+    "id": "C31",
+    "shot": "VH04_operator",
+    "role": "OPERATOR",
+    "text": "Penalty cancelled. Would you like an Arsenal corner as a complimentary extra?",
+    "reference": "L29"
+  },
+  {
+    "id": "C32",
+    "shot": "VH04_two",
+    "role": "ARTETA",
+    "text": "Now that is customer service.",
+    "reference": "B02"
+  },
+  {
+    "id": "C33",
+    "shot": "VH05",
+    "role": "OPERATOR",
+    "text": "Decision: no penalty. Corner to Arsenal.",
+    "reference": "L29"
+  },
+  {
+    "id": "C34",
+    "shot": "VH05",
+    "role": "REFEREE",
+    "text": "But Arsenal committed the foul!",
+    "reference": "L27"
+  },
+  {
+    "id": "C34b",
+    "shot": "VH05",
+    "role": "OPERATOR",
+    "text": "And Arsenal will take the corner.",
+    "reference": "L29"
+  },
+  {
+    "id": "C35",
+    "shot": "FR01",
+    "role": "NARRATOR",
+    "text": "One goal would make Arsenal champions. Their entire season had come down to another corner.",
+    "reference": "L19"
+  },
+  {
+    "id": "C38",
+    "shot": "N03",
+    "role": "NARRATOR",
+    "text": "Come on. There is still time for Arsenal to bottle this.",
+    "reference": "L19"
+  },
+  {
+    "id": "C39",
+    "shot": "FR03_complain",
+    "role": "GY\u00d6KERES",
+    "text": "You signed a striker, Mikel! When do I actually get to shoot?",
+    "reference": "L39"
+  },
+  {
+    "id": "C40",
+    "shot": "FR04",
+    "role": "GY\u00d6KERES",
+    "text": "My first title-winning goal, and I did not even face the goal?",
+    "reference": "L40"
+  },
+  {
+    "id": "C42",
+    "shot": "FR05",
+    "role": "COURIER",
+    "text": "Then where am I taking all these second-place medals?",
+    "reference": "L24"
+  },
+  {
+    "id": "C43",
+    "shot": "FR05",
+    "role": "ARTETA",
+    "text": "Etihad Pharmacy. Ask for Pep. He will need something for the pain.",
+    "reference": "B02"
+  },
+  {
+    "id": "C48",
+    "shot": "N04_trophy",
+    "role": "ARTETA",
+    "text": "Nobody deserves this more than you.",
+    "reference": "B02"
+  },
+  {
+    "id": "C46",
+    "shot": "N04_meltdown",
+    "role": "FERGUSON",
+    "text": "I SAID I WAS RETIRED! Now Arsenal have won the league with a CORNER FLAG and a BACKSIDE! STOP GIVING ME REASONS TO COME BACK!",
+    "reference": "meltdown"
+  }
+]

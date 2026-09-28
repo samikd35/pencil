@@ -1,0 +1,19 @@
+{
+  "id": "L31",
+  "chapter": 5,
+  "beat": "VH04",
+  "role_and_direction": "OPERATOR",
+  "text": "Of course. Would you like a corner with that?",
+  "word_count": 9,
+  "seconds": 2.96,
+  "file": "L31.wav",
+  "sha256": "3a60f4b13e885d62669d784f3597d1dff6be9cd1c90cdb5b90e72db493f551f2",
+  "reference_start_seconds": 76.81170833333333,
+  "role": "OPERATOR",
+  "direction": "Adult British man, smooth warm customer-service baritone. Unctuous professional courtesy, delighted to help his favourite customer. Eager service, like offering fries at a drive-through. Clean dry microphone, no music or extra words.",
+  "seed": 49,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 2.97103241700097,
+  "path": "artifacts/animatic-v001/voices/L31.wav"
+}

@@ -1,0 +1,43 @@
+{
+  "blender_version": "5.2.0 LTS",
+  "connection": {
+    "interactive": true,
+    "module": "bl_ext.lab_blender_org.mcp",
+    "host": "localhost",
+    "port": 9876,
+    "autostart_already_enabled": true
+  },
+  "visible_edits": "Native app captures showed the initial gold actor on the left, then the coral actor on the right and updated text in preview-v002.",
+  "playback": {
+    "playing": true,
+    "observed_frames": [
+      25,
+      2
+    ],
+    "later_actor_x": -2.375694513320923
+  },
+  "background_render": {
+    "exit_code": 0,
+    "output": "render/frame-0025.png",
+    "size": [
+      960,
+      540
+    ],
+    "render_log_seconds": 0.22,
+    "interactive_scene_still_connected": true,
+    "image_inspected": true
+  },
+  "screenshot_fallback": "Connector screenshot failed with a truncated JSON response; native app capture succeeded.",
+  "checks_passed": [
+    "live_check.py in visible Blender",
+    "edit_v002.py in visible Blender",
+    "installed skill quick_validate.py",
+    "pipeline/test_workflow.py",
+    "unchanged skill metadata and creative checkpoint rules"
+  ],
+  "limits": [
+    "Disposable capability test, not a production or style-quality benchmark.",
+    "Single-frame background render verifies separation, not heavy-load performance.",
+    "No sound or creative delivery acceptance is claimed."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "integrated_lufs": -16.07,
+  "true_peak_dbtp": -1.49,
+  "loudness_range_lu": 3.2,
+  "seconds": 10,
+  "channels": 2,
+  "sample_rate": 48000,
+  "scope": "Measured exported AAC audio; subjective listening quality remains for playback review."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L43",
+  "chapter": 6,
+  "beat": "FR05",
+  "role_and_direction": "ARTETA",
+  "text": "Wrong address.",
+  "word_count": 2,
+  "seconds": 1.28,
+  "file": "L43.wav",
+  "sha256": "646873075c838b1beef64d9e66c44a6d8922b092a980f40978281213c08edb34",
+  "reference_start_seconds": 103.89527083333333,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Dry dismissive correction. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.365588624998054,
+  "path": "artifacts/animatic-v001/voices/L43.wav"
+}

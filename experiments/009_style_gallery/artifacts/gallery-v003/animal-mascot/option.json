@@ -1,0 +1,29 @@
+{
+  "id": "animal-mascot",
+  "name": "Upright animal cartoon",
+  "category": "Character",
+  "description": "An upright fox with ears, muzzle and simple limbs.",
+  "limitation": "This is biped motion; quadrupeds and ear/tail acting are additional work.",
+  "recipe": "recipes/animal-mascot.md",
+  "sample": "samples/animal-mascot.png",
+  "settings": {
+    "design": "fox",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "status": "Still tested \u00b7 motion untested",
+  "evidence": [
+    {
+      "label": "Native project",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/animal-mascot/character.blend"
+    },
+    {
+      "label": "240-frame connection check",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/animal-mascot/checks.json"
+    }
+  ],
+  "sources": [
+    "https://pages.adobe.com/character/en/puppet-maker"
+  ],
+  "motion_tested": false
+}

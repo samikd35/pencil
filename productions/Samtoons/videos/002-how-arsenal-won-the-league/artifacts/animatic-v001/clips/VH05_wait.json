@@ -1,0 +1,17 @@
+{
+  "id": "VH05_wait",
+  "chapter": 7,
+  "panel": 1,
+  "start_frame": 4391,
+  "frames": 72,
+  "lines": [],
+  "source": "boards/chapter-7.png",
+  "camera": "hold",
+  "crop": [
+    686,
+    5,
+    674,
+    374
+  ],
+  "source_sha256": "8cd255185144e8d79dd9c4c072056c409ae7f94f60d2dc5dbe02f24897ec6332"
+}

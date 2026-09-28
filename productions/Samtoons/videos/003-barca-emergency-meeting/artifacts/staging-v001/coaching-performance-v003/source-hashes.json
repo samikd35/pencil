@@ -1,0 +1,13 @@
+{
+  "scripts/revise_coaching_performance_v003.py": "e556abfd84cc52b62b2960fbaec3dcc825f42dab891c85ef1089eb6d134a08d2",
+  "scripts/build_coaching_v001.py": "bd4bfc137a6d8f75dc50a58e79962d877fb110255ce084918c4370f917e67e5c",
+  "scripts/revise_coaching_surfaces_v002.py": "d9ee24405c97ed2117f17116f9bdc2d02a8b497b68fd0e3d2bd6f8205718249e",
+  "scripts/build_football_v001.py": "2551333446673163bd8052debcfc3d346210f15d62eee58fbdcc1a314ff7b72a",
+  "scripts/render_staging_scene.py": "ff5c47ea41422cb8c82dca7467dcd15fb2ceb5ec5f0ff092fcfcc33b69bee15e",
+  "scripts/review_coaching_v003.py": "8b618849f0716abb51ad34b7a79d7bea2822d4c6734b46b4328d50a0d202f508",
+  "assets/coaches-v001/flick.json": "081865c58d81e959776234833ef07683f33964c207eee5428c6904519d87ff42",
+  "assets/coaches-v001/assistant.json": "f1a38710beca84a759cc4c8e4c4d6ec92e5cf228f242aa0fad825c3e18f68c86",
+  "assets/voices-v001/assistant-seven.wav": "09aef7236f4145ed826d13f433a94d321b4e0cad97d4481a2bad5aea09376922",
+  "assets/voices-v001/flick-seven.wav": "62e77b012b9fdd2589e2518cbee0b5689272e5a3091e8b26728d7ca3ac4175b0",
+  "assets/voices-v001/keeper-break.wav": "6a223263c9b28c74f330f282a51c288efd4a1e37dd52ec1cb4b93bf6f30f0d60"
+}

@@ -1,0 +1,211 @@
+[
+  {
+    "id": "expressive-stickman",
+    "sample": "samples/expressive-stickman.png",
+    "width": 1280,
+    "height": 720,
+    "source_file": "downloads/expressive-stickman.jpg",
+    "source_sha256": "48c602ab56fb0f0f890d68e87d50305e85237535d01565e077ac7fdfb8b21837",
+    "sample_sha256": "778b0129b4e6fc2505897b9b012e51e60ae0fef4cd12a2fe57b2d0cbd1519ef8",
+    "pixels_unchanged": true,
+    "source": "https://www.youtube.com/watch?v=d_uDE3cD_Xg"
+  },
+  {
+    "id": "rubber-hose",
+    "sample": "samples/rubber-hose.png",
+    "width": 1568,
+    "height": 884,
+    "source_file": "downloads/rubber-hose.png",
+    "source_sha256": "dc9462dc858f88b2f895947f2138f1fd420ffe9815704d4a2573bccbcf0b31bc",
+    "sample_sha256": "dc9462dc858f88b2f895947f2138f1fd420ffe9815704d4a2573bccbcf0b31bc",
+    "pixels_unchanged": true,
+    "source": "https://lighthousestudios.ie/work/the-cuphead-show"
+  },
+  {
+    "id": "flat-vector",
+    "sample": "samples/flat-vector.png",
+    "width": 1988,
+    "height": 1004,
+    "source_file": "downloads/flat-vector.png",
+    "source_sha256": "87e6fcd137a21f09e32468a029bc36c0b4ac821debbeb343bce156f48d244930",
+    "sample_sha256": "87e6fcd137a21f09e32468a029bc36c0b4ac821debbeb343bce156f48d244930",
+    "pixels_unchanged": true,
+    "source": "https://kurzgesagt.org/projects/loneliness"
+  },
+  {
+    "id": "caricature",
+    "sample": "samples/caricature.png",
+    "width": 800,
+    "height": 600,
+    "source_file": "downloads/caricature.png",
+    "source_sha256": "024a444b818c55200f7212fd4863dbfbc2ae34a8b2d868c28f219a85687a0089",
+    "sample_sha256": "024a444b818c55200f7212fd4863dbfbc2ae34a8b2d868c28f219a85687a0089",
+    "pixels_unchanged": true,
+    "source": "https://dribbble.com/shots/27278756-Ronaldo"
+  },
+  {
+    "id": "chibi",
+    "sample": "samples/chibi.png",
+    "width": 1920,
+    "height": 1080,
+    "source_file": "downloads/chibi.jpg",
+    "source_sha256": "ed4cce8ebafed14c2ae1a9bef5bd4337e27a47d9581fe52b8e7de244fb37877e",
+    "sample_sha256": "40f0d3ec3d60118d88f0b1d8b69c7d86f5a584542a6a48bf14b54b9b1bf65e3f",
+    "pixels_unchanged": true,
+    "source": "https://disneynow.com/video/60136741-427a-4868-bd20-c831e708ae06/playlist/PL554083840"
+  },
+  {
+    "id": "geometric",
+    "sample": "samples/geometric.png",
+    "width": 1226,
+    "height": 1272,
+    "source_file": "downloads/geometric.png",
+    "source_sha256": "2df611dab9826224ebb776afbea9f1eadc265b2636c6ec05ce22dcfd7c52f75f",
+    "sample_sha256": "2df611dab9826224ebb776afbea9f1eadc265b2636c6ec05ce22dcfd7c52f75f",
+    "pixels_unchanged": true,
+    "source": "https://www.heyduggee.com/characters/duggee/"
+  },
+  {
+    "id": "food-mascot",
+    "sample": "samples/food-mascot.png",
+    "width": 1920,
+    "height": 1080,
+    "source_file": "downloads/food-mascot-sukiya3.jpg",
+    "source_sha256": "6835e0e91b7af1abb8f327adece27066ce2154c59a45b318a18d995650501f62",
+    "sample_sha256": "ceb6901c894b6d818be66715036b0595cc25f8299ffcd24a78d05181e02e47b6",
+    "pixels_unchanged": true,
+    "source": "https://www.ziqun-ak.com/sukiya"
+  },
+  {
+    "id": "rounded-mascot",
+    "sample": "samples/rounded-mascot.png",
+    "width": 2000,
+    "height": 1125,
+    "source_file": "downloads/rounded-mascot-sleep-scene.jpg",
+    "source_sha256": "cb32159e10c4fbe30e4c356136809a2d56e0552d555d87f6e9bde0731a648328",
+    "sample_sha256": "32c347221feaff46cd738734c898702f6891e91bf02dad08d55101c30d113a8f",
+    "pixels_unchanged": true,
+    "source": "https://www.moth.studio/projects/sleep-headspace"
+  },
+  {
+    "id": "animal-mascot",
+    "sample": "samples/animal-mascot.png",
+    "width": 2560,
+    "height": 1440,
+    "source_file": "downloads/animal-mascot-bluey.jpg",
+    "source_sha256": "7f3404106a604e5535f08fb31b6f7a76651e036179bd831d50f5685d51d96017",
+    "sample_sha256": "3c43d6171eccd0587439c52d72b6735f3a129d48fedf5eaef77d7354d4f4ce84",
+    "pixels_unchanged": true,
+    "source": "https://www.bluey.tv/watch/season-1/keepy-uppy/"
+  },
+  {
+    "id": "doodle",
+    "sample": "samples/doodle.png",
+    "width": 1920,
+    "height": 1080,
+    "source_file": "downloads/doodle-cat-man-do.jpg",
+    "source_sha256": "9eda3d8769bc843464b3d48107aa874420d0c724ec9c490272dc06a95dbacc23",
+    "sample_sha256": "102eb2881682bcaf2c8d10d90a41c26e8132054f8b882570aa1343f0219ec723",
+    "pixels_unchanged": true,
+    "source": "https://simonscat.com/watch"
+  },
+  {
+    "id": "silhouette",
+    "sample": "samples/silhouette.png",
+    "width": 732,
+    "height": 691,
+    "source_file": "downloads/silhouette-princes-2.jpg",
+    "source_sha256": "0a874abf0983b5e3ffeb42fbc3db291aa967dddfe98cccd647dc8c26e918f757",
+    "sample_sha256": "c237fb601b8030f9f3c0720651a362b0f969ac8c6691b419d8055fcd85ed035f",
+    "pixels_unchanged": true,
+    "source": "https://www.gebekafilms.com/fiches-films/princes-et-princesses/"
+  },
+  {
+    "id": "paper-cutout",
+    "sample": "samples/paper-cutout.png",
+    "width": 1180,
+    "height": 664,
+    "source_file": "downloads/paper-cutout-rooster-4.jpg",
+    "source_sha256": "1de8b093eab9926582e50f6f4c989877580f8a2a9d707deb10782db1e6d4fc6c",
+    "sample_sha256": "4b7fbd1093b417c034958b07cdbb4e307e4ca9a5c7ad0f09d4520f120f500cb8",
+    "pixels_unchanged": true,
+    "source": "https://sundstedt.co.uk/blog/portfolio/the-old-red-rooster-animated-music-video/"
+  },
+  {
+    "id": "midcentury",
+    "sample": "samples/midcentury.png",
+    "width": 1180,
+    "height": 600,
+    "source_file": "downloads/midcentury-d23-oscar.jpg",
+    "source_sha256": "7ee9e0b909918d8a2645a3185cc23d9462e535aa071bd994672c1f1e503376f7",
+    "sample_sha256": "b1d498ac46d491a4c40a0425a5b511a6be80f7020fd818100cf4912d66644530",
+    "pixels_unchanged": true,
+    "source": "https://d23.com/this-day/toot-whistle-plunk-and-boom-wins-oscar-for-best-short-subjectcartoon/"
+  },
+  {
+    "id": "whiteboard",
+    "sample": "samples/whiteboard.png",
+    "width": 1280,
+    "height": 720,
+    "source_file": "downloads/whiteboard-original.jpg",
+    "source_sha256": "0355f0ad977c1bd7c267250e53ccf99697fff813d6eee66d2784880bdf2cccd1",
+    "sample_sha256": "fbedbb755079c4d64fd684c0c125e179c36fa58c454d36b444e693f6516acea1",
+    "pixels_unchanged": true,
+    "source": "https://www.youtube.com/watch?v=zDZFcDGpL4U"
+  },
+  {
+    "id": "storybook",
+    "sample": "samples/storybook.png",
+    "width": 2500,
+    "height": 1782,
+    "source_file": "downloads/storybook-original.jpg",
+    "source_sha256": "99d2249a79af36b4af70291240d4463340223401a111b7e1b6323767ad7d0c54",
+    "sample_sha256": "4339464cce3f5795f355737e596bebe5ccb0251f1cbd332c2e93579e31a76902",
+    "pixels_unchanged": true,
+    "source": "https://www.lupusfilms.com/commercialsandidents/were-going-on-a-bear-hunt-ident"
+  },
+  {
+    "id": "collage",
+    "sample": "samples/collage.png",
+    "width": 1500,
+    "height": 1125,
+    "source_file": "downloads/collage-original.jpg",
+    "source_sha256": "8b82920a2849ab63d7620839949f6cb5a664f64593a0fa39be17af8f98ed7f4b",
+    "sample_sha256": "3114af94446cd0a8264c3dc8cd923c4d738e6354b097224d9709b351210ae05c",
+    "pixels_unchanged": true,
+    "source": "https://milkmonitor.me/the-charlie-and-lola-television"
+  },
+  {
+    "id": "pixelated",
+    "sample": "samples/pixelated.png",
+    "width": 1280,
+    "height": 720,
+    "source_file": "downloads/pixelated-original.jpg",
+    "source_sha256": "98722668a8f9107628283ff731022fa3a23f654834cc7e9dfb9d48abf6116d2a",
+    "sample_sha256": "3f6536b595e12c3c6ed86166715647dcc4d67692af7d88a691bea3c0bb911c07",
+    "pixels_unchanged": true,
+    "source": "https://www.ivandixon.com/"
+  },
+  {
+    "id": "motion-comic",
+    "sample": "samples/motion-comic.png",
+    "width": 1280,
+    "height": 720,
+    "source_file": "downloads/motion-comic-original.jpg",
+    "source_sha256": "9a67feafa5d73a5b25a26f4ba942f6cdb7a97de755d3714936f9507319d93475",
+    "sample_sha256": "68dd8b5f1cbfd54179c08374cedddda069141e12beb71e6c58becfb3d9e8938f",
+    "pixels_unchanged": true,
+    "source": "https://www.youtube.com/watch?v=onplsJSdp4A"
+  },
+  {
+    "id": "parallax",
+    "sample": "samples/parallax.png",
+    "width": 1920,
+    "height": 1080,
+    "source_file": "downloads/parallax-original.jpg",
+    "source_sha256": "acbc8641bcbcde0abe31e8258c1f0a081ed4e0807d4c5a62abfe5829b9d1e789",
+    "sample_sha256": "e6754a40a6f05e0d479ae539a3f9a4521dad92886eb53b300b244de45e74307e",
+    "pixels_unchanged": true,
+    "source": "https://chromosphere-la.com/case-study/yuki7/"
+  }
+]

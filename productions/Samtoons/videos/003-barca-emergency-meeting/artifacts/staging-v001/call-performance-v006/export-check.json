@@ -1,0 +1,30 @@
+{
+  "videos": {
+    "call-review.mp4": {
+      "width": 1280,
+      "height": 720,
+      "nb_frames": "240",
+      "r_frame_rate": "24/1",
+      "duration": "10.000000"
+    },
+    "stickman-review.mp4": {
+      "width": 1280,
+      "height": 720,
+      "nb_frames": "240",
+      "r_frame_rate": "24/1",
+      "duration": "10.000000"
+    },
+    "binding-comparison.mp4": {
+      "width": 1280,
+      "height": 400,
+      "nb_frames": "240",
+      "r_frame_rate": "24/1",
+      "duration": "10.000000"
+    }
+  },
+  "full_decode_pass": true,
+  "audio_bitstream_identical_to_v004": true,
+  "audio_bitstream_sha256": "3c5a53792b3d56c1d64566511d48da57551dc3ed0fe911fcd960c07776801258",
+  "saved_render_matches_live_frame_151": true,
+  "listening_review": "Not newly performed; exact existing track retained"
+}

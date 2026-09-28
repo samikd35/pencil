@@ -1,0 +1,37 @@
+{
+  "id": "collage",
+  "name": "Animated collage look",
+  "category": "Finish",
+  "description": "Coordinated patterned cutouts across the whole character.",
+  "limitation": "The sample uses original procedural patterns; imported photography needs preparation and source records.",
+  "recipe": "recipes/collage.md",
+  "sample": "samples/collage.png",
+  "settings": {
+    "design": "human",
+    "finish": "collage",
+    "presentation": "scene"
+  },
+  "status": "Motion proof checked",
+  "evidence": [
+    {
+      "label": "Native project",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v002/collage/character.blend"
+    },
+    {
+      "label": "240-frame connection check",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v002/collage/checks.json"
+    },
+    {
+      "label": "Motion proof and review",
+      "path": "../../experiments/009_style_gallery/proofs/workflow-v001/collage/animatic-v001/review.md"
+    },
+    {
+      "label": "Combined animatic",
+      "path": "../../experiments/009_style_gallery/proofs/workflow-v001/collage/animatic-v001/animatic-with-sound.mp4"
+    }
+  ],
+  "sources": [
+    "https://www.domestika.org/en/courses/333-animated-collage-with-adobe-after-effects"
+  ],
+  "motion_tested": true
+}

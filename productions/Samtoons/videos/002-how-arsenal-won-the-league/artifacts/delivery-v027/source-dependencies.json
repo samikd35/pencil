@@ -1,0 +1,38 @@
+[
+  {
+    "file": "defence.blend",
+    "scenes": 4,
+    "image_count": 19,
+    "unpacked_images": [],
+    "missing": [],
+    "external_fonts": [],
+    "libraries": []
+  },
+  {
+    "file": "opening-dialogue.blend",
+    "scenes": 4,
+    "image_count": 6,
+    "unpacked_images": [],
+    "missing": [],
+    "external_fonts": [],
+    "libraries": []
+  },
+  {
+    "file": "opening-motion.blend",
+    "scenes": 4,
+    "image_count": 6,
+    "unpacked_images": [],
+    "missing": [],
+    "external_fonts": [],
+    "libraries": []
+  },
+  {
+    "file": "remaining.blend",
+    "scenes": 30,
+    "image_count": 24,
+    "unpacked_images": [],
+    "missing": [],
+    "external_fonts": [],
+    "libraries": []
+  }
+]

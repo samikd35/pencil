@@ -1,0 +1,19 @@
+{
+  "id": "L03",
+  "chapter": 1,
+  "beat": "OP01",
+  "role_and_direction": "COURIER — cheerful",
+  "text": "Same order as usual?",
+  "word_count": 4,
+  "seconds": 1.52,
+  "file": "L03.wav",
+  "sha256": "686d4de49dbd68bd81d643696306a52cf6311ec999f5b83e5c3a41574fb2763c",
+  "reference_start_seconds": 8.3195625,
+  "role": "COURIER",
+  "direction": "Adult British man with a light nasal tenor, crisply cheerful delivery-driver manner. Smiling efficiency, oblivious to how insulting his words are. Natural clear character delivery; make the sentence a thought, not a reading. Clean dry microphone, no music or extra words.",
+  "seed": 48,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.701812458995846,
+  "path": "artifacts/animatic-v001/voices/L03.wav"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "whiteboard",
+  "name": "Whiteboard / chalkboard look",
+  "category": "Finish",
+  "description": "Minimal line drawing on a clean board.",
+  "limitation": "This sample establishes whiteboard appearance; drawing reveal and chalk grain are optional untested additions.",
+  "recipe": "recipes/whiteboard.md",
+  "sample": "samples/whiteboard.png",
+  "settings": {
+    "design": "stick",
+    "finish": "whiteboard",
+    "presentation": "scene"
+  },
+  "status": "Not yet validated",
+  "evidence": [],
+  "sources": [
+    "https://www.adobe.com/creativecloud/video/discover/whiteboard-animation.html"
+  ]
+}

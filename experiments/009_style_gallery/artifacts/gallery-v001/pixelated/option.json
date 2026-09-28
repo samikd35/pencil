@@ -1,0 +1,19 @@
+{
+  "id": "pixelated",
+  "name": "Retro pixelated look",
+  "category": "Finish",
+  "description": "Blocky rendering with a small, readable palette.",
+  "limitation": "A pixelated render, not hand-authored pixel sprites; fine details disappear.",
+  "recipe": "recipes/pixelated.md",
+  "sample": "samples/pixelated.png",
+  "settings": {
+    "design": "human",
+    "finish": "pixel",
+    "presentation": "scene"
+  },
+  "status": "Not yet validated",
+  "evidence": [],
+  "sources": [
+    "https://docs.blender.org/manual/en/latest/compositing/types/creative/pixelate.html"
+  ]
+}

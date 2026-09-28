@@ -1,0 +1,162 @@
+{
+  "source": "Selected meltdown.wav; local Whisper tiny word timestamps; manually assigned visemes",
+  "listening_review": "not performed by assistant",
+  "words": [
+    {
+      "word": "I",
+      "start_frame": 3,
+      "end_frame": 17,
+      "shapes": [
+        "A",
+        "E"
+      ]
+    },
+    {
+      "word": "said",
+      "start_frame": 17,
+      "end_frame": 24,
+      "shapes": [
+        "E",
+        "L"
+      ]
+    },
+    {
+      "word": "I",
+      "start_frame": 24,
+      "end_frame": 30,
+      "shapes": [
+        "A",
+        "E"
+      ]
+    },
+    {
+      "word": "was",
+      "start_frame": 30,
+      "end_frame": 38,
+      "shapes": [
+        "U",
+        "A",
+        "E"
+      ]
+    },
+    {
+      "word": "retired.",
+      "start_frame": 38,
+      "end_frame": 55,
+      "shapes": [
+        "U",
+        "E",
+        "A",
+        "E",
+        "L"
+      ]
+    },
+    {
+      "word": "Stop",
+      "start_frame": 71,
+      "end_frame": 78,
+      "shapes": [
+        "E",
+        "A",
+        "MBP"
+      ]
+    },
+    {
+      "word": "giving",
+      "start_frame": 78,
+      "end_frame": 87,
+      "shapes": [
+        "E",
+        "FV",
+        "E"
+      ]
+    },
+    {
+      "word": "me",
+      "start_frame": 87,
+      "end_frame": 96,
+      "shapes": [
+        "MBP",
+        "E"
+      ]
+    },
+    {
+      "word": "reasons",
+      "start_frame": 96,
+      "end_frame": 105,
+      "shapes": [
+        "U",
+        "E",
+        "L",
+        "E"
+      ]
+    },
+    {
+      "word": "to",
+      "start_frame": 105,
+      "end_frame": 113,
+      "shapes": [
+        "L",
+        "U"
+      ]
+    },
+    {
+      "word": "come",
+      "start_frame": 113,
+      "end_frame": 120,
+      "shapes": [
+        "A",
+        "MBP"
+      ]
+    },
+    {
+      "word": "back.",
+      "start_frame": 120,
+      "end_frame": 130,
+      "shapes": [
+        "MBP",
+        "A",
+        "E"
+      ]
+    }
+  ],
+  "mouth_keys": {
+    "1": "rest",
+    "3": "A",
+    "9": "E",
+    "16": "E",
+    "20": "L",
+    "23": "A",
+    "26": "E",
+    "29": "U",
+    "32": "A",
+    "34": "E",
+    "37": "U",
+    "40": "E",
+    "44": "A",
+    "47": "E",
+    "51": "L",
+    "70": "E",
+    "72": "A",
+    "75": "MBP",
+    "77": "E",
+    "80": "FV",
+    "83": "E",
+    "86": "MBP",
+    "90": "E",
+    "95": "U",
+    "97": "E",
+    "99": "L",
+    "102": "E",
+    "104": "L",
+    "108": "U",
+    "112": "A",
+    "116": "MBP",
+    "119": "MBP",
+    "122": "A",
+    "126": "E",
+    "55": "rest",
+    "130": "rest",
+    "168": "rest"
+  }
+}

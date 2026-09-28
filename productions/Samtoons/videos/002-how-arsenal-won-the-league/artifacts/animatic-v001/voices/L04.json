@@ -1,0 +1,19 @@
+{
+  "id": "L04",
+  "chapter": 1,
+  "beat": "OP02",
+  "role_and_direction": "ARTETA",
+  "text": "We haven’t played a game.",
+  "word_count": 5,
+  "seconds": 1.28,
+  "file": "L04.wav",
+  "sha256": "5aa3be6d92bfa97f963c57cab9ffa05e817fde68f65262d51b024e68509da1f1",
+  "reference_start_seconds": 10.364125,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Incredulous objection, stress HAVEN’T. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.3787922910050838,
+  "path": "artifacts/animatic-v001/voices/L04.wav"
+}

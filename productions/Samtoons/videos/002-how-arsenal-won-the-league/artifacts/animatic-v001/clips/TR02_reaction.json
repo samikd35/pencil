@@ -1,0 +1,20 @@
+{
+  "id": "TR02_reaction",
+  "chapter": 2,
+  "panel": 2,
+  "start_frame": 1033,
+  "frames": 144,
+  "lines": [
+    8,
+    9
+  ],
+  "source": "boards/chapter-2.png",
+  "camera": "hold",
+  "crop": [
+    5,
+    389,
+    673,
+    372
+  ],
+  "source_sha256": "cc22d241288d8ad53cde382cc85ea2c786b7b658e1b2f5b7ce1853e9fe84713f"
+}

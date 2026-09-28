@@ -1,0 +1,29 @@
+{
+  "id": "midcentury",
+  "name": "Midcentury / UPA-inspired",
+  "category": "Character",
+  "description": "Angular design, a restrained palette and playful graphic scenery.",
+  "limitation": "The visual treatment alone does not reproduce UPA movement or redraws.",
+  "recipe": "recipes/midcentury.md",
+  "sample": "samples/midcentury.png",
+  "settings": {
+    "design": "angular",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "status": "Still tested \u00b7 motion untested",
+  "evidence": [
+    {
+      "label": "Native project",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/midcentury/character.blend"
+    },
+    {
+      "label": "240-frame connection check",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/midcentury/checks.json"
+    }
+  ],
+  "sources": [
+    "https://www.moma.org/docs/press_archives/1959/releases/MOMA_1955_0074_57.pdf"
+  ],
+  "motion_tested": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": "expressive-stickman",
+  "name": "Expressive stickman",
+  "category": "Character",
+  "description": "Sparse lines, clear gestures and a lively face.",
+  "limitation": "New props and actions still need contact checks.",
+  "recipe": "recipes/expressive-stickman.md",
+  "sample": "samples/expressive-stickman.png",
+  "settings": {
+    "design": "stick",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "status": "Not yet validated",
+  "evidence": [],
+  "sources": []
+}

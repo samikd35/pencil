@@ -1,0 +1,10 @@
+{
+  "id": "C24",
+  "shot": "CP04_courier",
+  "role": "COURIER",
+  "text": "Your annual second-place delivery! Same shelf as last time?",
+  "reference": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/final-batch-v023/voices/L24.wav",
+  "reference_sha256": "5a8f92138b062c54eb7c9ad099f6188d0d73845eb7df6737d8751e0c8eaa56b8",
+  "seconds": 4.24,
+  "heard_by_agent": false
+}

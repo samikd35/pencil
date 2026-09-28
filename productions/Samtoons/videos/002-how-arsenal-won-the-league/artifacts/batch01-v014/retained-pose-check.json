@@ -1,0 +1,14 @@
+{
+  "opening Arteta": {
+    "exact_original_pose_frames_checked": 378,
+    "max_control_matrix_difference": 4.999389648929764e-07
+  },
+  "unveiling Arteta": {
+    "exact_original_pose_frames_checked": 222,
+    "max_control_matrix_difference": 4.99923705987726e-07
+  },
+  "unveiling Gyokeres": {
+    "exact_original_pose_frames_checked": 215,
+    "max_control_matrix_difference": 4.999999999588667e-07
+  }
+}

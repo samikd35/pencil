@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pencil Animation Production"
+  short_description: "Create editable animation with staged picture and sound review"
+  default_prompt: "Use $produce-pencil-animation to produce or revise an animation with picture and sound planned together, following the current creative brief."

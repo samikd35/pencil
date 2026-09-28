@@ -1,0 +1,19 @@
+{
+  "id": "motion-comic",
+  "name": "Motion-comic presentation",
+  "category": "Presentation",
+  "description": "Comic framing, captions and selective held gestures.",
+  "limitation": "Panel layout and holds are authored per shot; a still cannot demonstrate timing.",
+  "recipe": "recipes/motion-comic.md",
+  "sample": "samples/motion-comic.png",
+  "settings": {
+    "design": "human",
+    "finish": "flat",
+    "presentation": "comic"
+  },
+  "status": "Not yet validated",
+  "evidence": [],
+  "sources": [
+    "https://www.realmotioncomics.com/"
+  ]
+}

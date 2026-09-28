@@ -1,0 +1,17 @@
+{
+  "sample": "unveiling Arteta frame315 screen-right sleeve",
+  "triangles": 1080,
+  "flipped": 4,
+  "collapsed_below_half": 10,
+  "stretched_double": 184,
+  "min": -7.780349622954848,
+  "max": 5.222487268267423,
+  "old_arm_lengths": [
+    100,
+    101
+  ],
+  "new_arm_lengths": [
+    80.04521179199219,
+    84.78340911865234
+  ]
+}

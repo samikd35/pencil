@@ -1,0 +1,25 @@
+{
+  "shots": [
+    "CD05_ping",
+    "CD05_proud",
+    "FR04",
+    "FR05",
+    "N04_reveal",
+    "N04_tap",
+    "N04_trophy",
+    "OP01_banner",
+    "OP01_year",
+    "OP02_arteta",
+    "OP02_truck",
+    "TR01",
+    "TR02_flag",
+    "TR03_praise",
+    "TR03_warning",
+    "TR04",
+    "VH02",
+    "VH03",
+    "VH04_button",
+    "VH05_wait"
+  ],
+  "reason": "Keep original expression in non-speaking poses; mouth deformation only belongs to explicitly authored dialogue."
+}

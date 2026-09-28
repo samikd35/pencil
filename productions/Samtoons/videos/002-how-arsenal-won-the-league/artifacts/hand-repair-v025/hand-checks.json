@@ -1,0 +1,39 @@
+{
+  "raise_forearm_length_range": [
+    0.27872207989571013,
+    0.32057708767993026
+  ],
+  "button_contact_gap_px_at_720p": 1.4007353782653809,
+  "reviewed_exports": {
+    "VH01": [
+      84,
+      86,
+      88,
+      90,
+      92,
+      94,
+      96
+    ],
+    "VH05": [
+      198,
+      202,
+      206,
+      210,
+      214
+    ],
+    "VH04_button": [
+      1,
+      3,
+      5,
+      7,
+      9,
+      11,
+      14,
+      18,
+      22,
+      26,
+      30
+    ]
+  },
+  "scope": "Registration and sampled visual review; not user approval"
+}

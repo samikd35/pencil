@@ -1,0 +1,7178 @@
+[
+  {
+    "frame": 1,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": -2.05,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": -1.3664252436136974,
+    "correction": [
+      0.1813121630939516,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 2,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": -1.8749999999999998,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": -1.3664252436136974,
+    "correction": [
+      0.0063121630939517726,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 3,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": -1.6999999999999997,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": -1.3664252436136974,
+    "correction": [
+      -0.1686878369060485,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 4,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": -1.525,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": -1.3664252436136974,
+    "correction": [
+      -0.3436878369060483,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 5,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": -1.3499999999999996,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": -1.3664252436136974,
+    "correction": [
+      0.2498756738120962,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 6,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": -1.1749999999999998,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": -1.3664252436136974,
+    "correction": [
+      0.07487567381209637,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 7,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": -0.9999999999999998,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": -1.3664252436136974,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 8,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": -0.8249999999999997,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": -1.3664252436136974,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 9,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": -0.6499999999999997,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.04404545812114169,
+    "correction": [
+      0.1650175658243872,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 10,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": -0.47499999999999964,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.04404545812114169,
+    "correction": [
+      -0.009982434175612842,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 11,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": -0.2999999999999998,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.04404545812114169,
+    "correction": [
+      -0.18498243417561266,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 12,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": -0.12499999999999978,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.04404545812114169,
+    "correction": [
+      -0.3599824341756127,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 13,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 0.050000000000000266,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.04404545812114169,
+    "correction": [
+      0.2824648683512254,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 14,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 0.2250000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.04404545812114169,
+    "correction": [
+      0.1074648683512256,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 15,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 0.40000000000000036,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 0.04404545812114169,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 16,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 0.5750000000000002,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 0.04404545812114169,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 17,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 0.7500000000000004,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 1.4335747563863028,
+    "correction": [
+      0.1813121630939516,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 18,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 0.9250000000000003,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 1.4335747563863028,
+    "correction": [
+      0.0063121630939517726,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 19,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 1.1000000000000005,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 1.4335747563863028,
+    "correction": [
+      -0.1686878369060485,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 20,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 1.275,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 1.4335747563863028,
+    "correction": [
+      -0.34368783690604787,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 21,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 1.4500000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 1.4335747563863028,
+    "correction": [
+      0.24987567381209663,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 22,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 1.6250000000000004,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 1.4335747563863028,
+    "correction": [
+      0.07487567381209637,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 23,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 1.8000000000000003,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 1.4335747563863028,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 24,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 1.9750000000000005,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 1.4335747563863028,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 25,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 2.1500000000000004,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 2.844045458121142,
+    "correction": [
+      0.16501756582438754,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 26,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 2.325,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 2.844045458121142,
+    "correction": [
+      -0.009982434175612287,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 27,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 2.5,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 2.844045458121142,
+    "correction": [
+      -0.1849824341756121,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 28,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 2.6750000000000007,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 2.844045458121142,
+    "correction": [
+      -0.3599824341756128,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 29,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 2.8500000000000005,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 2.844045458121142,
+    "correction": [
+      0.2824648683512252,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 30,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 3.0250000000000004,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 2.844045458121142,
+    "correction": [
+      0.10746486835122537,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 31,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 3.2,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 2.844045458121142,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 32,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 3.375000000000001,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 2.844045458121142,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 33,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 3.5500000000000007,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 4.233574756386303,
+    "correction": [
+      0.18131216309395182,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 34,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 3.7249999999999996,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 4.233574756386303,
+    "correction": [
+      0.006312163093952883,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 35,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 3.9000000000000004,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 4.233574756386303,
+    "correction": [
+      -0.16868783690604783,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 36,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 4.075,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 4.233574756386303,
+    "correction": [
+      -0.34368783690604765,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 37,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 4.250000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 4.233574756386303,
+    "correction": [
+      0.2498756738120962,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 38,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 4.425000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 4.233574756386303,
+    "correction": [
+      0.07487567381209637,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 39,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 4.6,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 4.233574756386303,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 40,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 4.775,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 4.233574756386303,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 41,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 4.95,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 5.644045458121141,
+    "correction": [
+      0.1650175658243871,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 42,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 5.125000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 5.644045458121141,
+    "correction": [
+      -0.00998243417561362,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 43,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 5.300000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 5.644045458121141,
+    "correction": [
+      -0.18498243417561344,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 44,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 5.475,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 5.644045458121141,
+    "correction": [
+      -0.3599824341756124,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 45,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 5.65,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 5.644045458121141,
+    "correction": [
+      0.28246486835122475,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 46,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 5.825,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 5.644045458121141,
+    "correction": [
+      0.10746486835122493,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 47,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 6.000000000000001,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 5.644045458121141,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 48,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 6.175,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 5.644045458121141,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 49,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 6.3500000000000005,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.033574756386304,
+    "correction": [
+      0.1813121630939527,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 50,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 6.525000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.033574756386304,
+    "correction": [
+      0.006312163093951995,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 51,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 6.7,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.033574756386304,
+    "correction": [
+      -0.16868783690604694,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 52,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 6.875000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.033574756386304,
+    "correction": [
+      -0.34368783690604765,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 53,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 7.05,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.033574756386304,
+    "correction": [
+      0.24987567381209796,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 54,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 7.2250000000000005,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.033574756386304,
+    "correction": [
+      0.07487567381209725,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 55,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 7.400000000000001,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 7.033574756386304,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 56,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 7.575,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 7.033574756386304,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 57,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 7.750000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 8.444045458121142,
+    "correction": [
+      0.1650175658243871,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 58,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 7.925,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 8.444045458121142,
+    "correction": [
+      -0.009982434175611843,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 59,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 8.100000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 8.444045458121142,
+    "correction": [
+      -0.18498243417561433,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 60,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 8.275000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 8.444045458121142,
+    "correction": [
+      -0.35998243417561504,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 61,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 8.45,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 8.444045458121142,
+    "correction": [
+      0.28246486835122653,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 62,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 8.625,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 8.444045458121142,
+    "correction": [
+      0.10746486835122582,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 63,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 8.8,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 8.444045458121142,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 64,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 8.975000000000001,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 8.444045458121142,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 65,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 9.150000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 9.833574756386303,
+    "correction": [
+      0.18131216309395093,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 66,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 9.325,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 9.833574756386303,
+    "correction": [
+      0.006312163093953771,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 67,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 9.5,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 9.833574756386303,
+    "correction": [
+      -0.16868783690604694,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 68,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 9.675,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 9.833574756386303,
+    "correction": [
+      -0.34368783690604765,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 69,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 9.850000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 9.833574756386303,
+    "correction": [
+      0.2498756738120953,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 70,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 10.025000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 9.833574756386303,
+    "correction": [
+      0.07487567381209459,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 71,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 10.2,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 9.833574756386303,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 72,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 10.375,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 9.833574756386303,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 73,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 10.55,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 11.244045458121143,
+    "correction": [
+      0.1650175658243871,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 74,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 10.725000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 11.244045458121143,
+    "correction": [
+      -0.00998243417561362,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 75,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 10.900000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 11.244045458121143,
+    "correction": [
+      -0.18498243417561433,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 76,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 11.075,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 11.244045458121143,
+    "correction": [
+      -0.3599824341756115,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 77,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 11.25,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 11.244045458121143,
+    "correction": [
+      0.28246486835122653,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 78,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 11.425,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 11.244045458121143,
+    "correction": [
+      0.10746486835122582,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 79,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 11.600000000000001,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 11.244045458121143,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 80,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 11.775000000000002,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 11.244045458121143,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 81,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 11.95,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 12.633574756386302,
+    "correction": [
+      0.1813121630939527,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 82,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 12.125,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 12.633574756386302,
+    "correction": [
+      0.006312163093951995,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 83,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 12.3,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 12.633574756386302,
+    "correction": [
+      -0.16868783690604872,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 84,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 12.475000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 12.633574756386302,
+    "correction": [
+      -0.3436878369060494,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 85,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 12.650000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 12.633574756386302,
+    "correction": [
+      0.24987567381209352,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 86,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 12.825,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 12.633574756386302,
+    "correction": [
+      0.07487567381209637,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 87,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 13.0,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 12.633574756386302,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 88,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 13.175,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 12.633574756386302,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 89,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 13.350000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.044045458121142,
+    "correction": [
+      0.16501756582438531,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 90,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 13.525000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.044045458121142,
+    "correction": [
+      -0.009982434175615396,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 91,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 13.7,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.044045458121142,
+    "correction": [
+      -0.18498243417561255,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 92,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 13.875,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.044045458121142,
+    "correction": [
+      -0.35998243417561326,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 93,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 14.05,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.044045458121142,
+    "correction": [
+      0.28246486835122475,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 94,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 14.225000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.044045458121142,
+    "correction": [
+      0.10746486835122404,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 95,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 14.399999999999999,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 14.044045458121142,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 96,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 14.575,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 14.044045458121142,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 97,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 14.75,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 15.433574756386301,
+    "correction": [
+      0.18131216309395093,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 98,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 14.925,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 15.433574756386301,
+    "correction": [
+      0.006312163093950218,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 99,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 15.100000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 15.433574756386301,
+    "correction": [
+      -0.1686878369060505,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 100,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 15.274999999999999,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 15.433574756386301,
+    "correction": [
+      -0.34368783690604765,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 101,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 15.45,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 15.433574756386301,
+    "correction": [
+      0.2498756738120953,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 102,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 15.625,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 15.433574756386301,
+    "correction": [
+      0.07487567381209459,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 103,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 15.8,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 15.433574756386301,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 104,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 15.975000000000001,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 15.433574756386301,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 105,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 16.15,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 16.84404545812114,
+    "correction": [
+      0.16501756582438887,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 106,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 16.325,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 16.84404545812114,
+    "correction": [
+      -0.009982434175611843,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 107,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 16.5,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 16.84404545812114,
+    "correction": [
+      -0.18498243417561255,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 108,
+    "actor": "Gabriel",
+    "pose": 2,
+    "root_x": 16.675,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 16.84404545812114,
+    "correction": [
+      -0.35998243417561326,
+      -0.01320378151260506
+    ]
+  },
+  {
+    "frame": 109,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 16.85,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 16.84404545812114,
+    "correction": [
+      0.282464868351223,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 110,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 17.025,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 16.84404545812114,
+    "correction": [
+      0.10746486835122582,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 111,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 17.2,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 16.84404545812114,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 112,
+    "actor": "Gabriel",
+    "pose": 3,
+    "root_x": 17.375,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 16.84404545812114,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 113,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 17.55,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 18.2335747563863,
+    "correction": [
+      0.18131216309394915,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 114,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 17.725,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 18.2335747563863,
+    "correction": [
+      0.006312163093948442,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 115,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 17.9,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 18.2335747563863,
+    "correction": [
+      -0.16868783690604872,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 116,
+    "actor": "Gabriel",
+    "pose": 0,
+    "root_x": 18.075,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 18.2335747563863,
+    "correction": [
+      -0.3436878369060494,
+      -0.004401260504201775
+    ]
+  },
+  {
+    "frame": 117,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 18.25,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 18.2335747563863,
+    "correction": [
+      0.2498756738120953,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 118,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 18.425,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 18.2335747563863,
+    "correction": [
+      0.07487567381209459,
+      -0.04401260504201678
+    ]
+  },
+  {
+    "frame": 119,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 18.6,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 18.2335747563863,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 120,
+    "actor": "Gabriel",
+    "pose": 1,
+    "root_x": 18.775,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 18.2335747563863,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 1,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": -0.85,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": -0.8526263616289226,
+    "correction": [
+      0.2513926381823889,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 2,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": -0.6749999999999999,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": -0.8526263616289226,
+    "correction": [
+      0.07639263818238884,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 3,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": -0.49999999999999994,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": -0.8526263616289226,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 4,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": -0.32499999999999996,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": -0.8526263616289226,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 5,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": -0.1499999999999999,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.594084780191971,
+    "correction": [
+      0.15260682946170723,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 6,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 0.025000000000000022,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.594084780191971,
+    "correction": [
+      -0.022393170538292706,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 7,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 0.20000000000000007,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.594084780191971,
+    "correction": [
+      -0.19739317053829275,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 8,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 0.3750000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.594084780191971,
+    "correction": [
+      -0.3723931705382928,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 9,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 0.5500000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.594084780191971,
+    "correction": [
+      0.3072863410765855,
+      -0.05204968944099377
+    ]
+  },
+  {
+    "frame": 10,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 0.7250000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.594084780191971,
+    "correction": [
+      0.13228634107658543,
+      -0.05204968944099377
+    ]
+  },
+  {
+    "frame": 11,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 0.9,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 0.594084780191971,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 12,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 1.0750000000000002,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 0.594084780191971,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 13,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 1.25,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 1.9473736383710776,
+    "correction": [
+      0.18055368090880553,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 14,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 1.4249999999999998,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 1.9473736383710776,
+    "correction": [
+      0.005553680908805703,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 15,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 1.6,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 1.9473736383710776,
+    "correction": [
+      -0.16944631909119456,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 16,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 1.775,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 1.9473736383710776,
+    "correction": [
+      -0.3444463190911944,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 17,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 1.9500000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 1.9473736383710776,
+    "correction": [
+      0.2513926381823888,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 18,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 2.125,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 1.9473736383710776,
+    "correction": [
+      0.07639263818238895,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 19,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 2.3000000000000003,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 1.9473736383710776,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 20,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 2.4749999999999996,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 1.9473736383710776,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 21,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 2.65,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 3.394084780191971,
+    "correction": [
+      0.15260682946170734,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 22,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 2.825,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 3.394084780191971,
+    "correction": [
+      -0.022393170538292928,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 23,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 3.0,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 3.394084780191971,
+    "correction": [
+      -0.19739317053829275,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 24,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 3.1750000000000003,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 3.394084780191971,
+    "correction": [
+      -0.372393170538293,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 25,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 3.35,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 3.394084780191971,
+    "correction": [
+      0.3072863410765856,
+      -0.05204968944099377
+    ]
+  },
+  {
+    "frame": 26,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 3.525,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 3.394084780191971,
+    "correction": [
+      0.13228634107658577,
+      -0.05204968944099377
+    ]
+  },
+  {
+    "frame": 27,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 3.6999999999999997,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 3.394084780191971,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 28,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 3.8750000000000004,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 3.394084780191971,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 29,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 4.050000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 4.747373638371078,
+    "correction": [
+      0.18055368090880553,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 30,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 4.2250000000000005,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 4.747373638371078,
+    "correction": [
+      0.005553680908805703,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 31,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 4.4,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 4.747373638371078,
+    "correction": [
+      -0.16944631909119412,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 32,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 4.575000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 4.747373638371078,
+    "correction": [
+      -0.34444631909119483,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 33,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 4.750000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 4.747373638371078,
+    "correction": [
+      0.2513926381823888,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 34,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 4.925,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 4.747373638371078,
+    "correction": [
+      0.07639263818238984,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 35,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 5.1000000000000005,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 4.747373638371078,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 36,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 5.275,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 4.747373638371078,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 37,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 5.450000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 6.194084780191972,
+    "correction": [
+      0.1526068294617069,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 38,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 5.625000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 6.194084780191972,
+    "correction": [
+      -0.022393170538292928,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 39,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 5.8,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 6.194084780191972,
+    "correction": [
+      -0.19739317053829186,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 40,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 5.9750000000000005,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 6.194084780191972,
+    "correction": [
+      -0.3723931705382926,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 41,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 6.15,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 6.194084780191972,
+    "correction": [
+      0.30728634107658603,
+      -0.05204968944099377
+    ]
+  },
+  {
+    "frame": 42,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 6.325000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 6.194084780191972,
+    "correction": [
+      0.13228634107658532,
+      -0.05204968944099377
+    ]
+  },
+  {
+    "frame": 43,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 6.500000000000001,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 6.194084780191972,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 44,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 6.675,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 6.194084780191972,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 45,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 6.8500000000000005,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.547373638371078,
+    "correction": [
+      0.18055368090880553,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 46,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 7.025,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.547373638371078,
+    "correction": [
+      0.005553680908805703,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 47,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 7.200000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.547373638371078,
+    "correction": [
+      -0.169446319091195,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 48,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 7.375,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.547373638371078,
+    "correction": [
+      -0.34444631909119394,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 49,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 7.550000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.547373638371078,
+    "correction": [
+      0.2513926381823888,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 50,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 7.725000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.547373638371078,
+    "correction": [
+      0.07639263818238806,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 51,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 7.9,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 7.547373638371078,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 52,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 8.075000000000001,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 7.547373638371078,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 53,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 8.25,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 8.99408478019197,
+    "correction": [
+      0.1526068294617069,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 54,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 8.425,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 8.99408478019197,
+    "correction": [
+      -0.022393170538293816,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 55,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 8.600000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 8.99408478019197,
+    "correction": [
+      -0.19739317053829453,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 56,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 8.775,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 8.99408478019197,
+    "correction": [
+      -0.37239317053829346,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 57,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 8.950000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 8.99408478019197,
+    "correction": [
+      0.30728634107658337,
+      -0.05204968944099377
+    ]
+  },
+  {
+    "frame": 58,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 9.125,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 8.99408478019197,
+    "correction": [
+      0.13228634107658443,
+      -0.05204968944099377
+    ]
+  },
+  {
+    "frame": 59,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 9.3,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 8.99408478019197,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 60,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 9.475000000000001,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 8.99408478019197,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 61,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 9.65,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 10.347373638371078,
+    "correction": [
+      0.1805536809088064,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 62,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 9.825,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 10.347373638371078,
+    "correction": [
+      0.005553680908807479,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 63,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 10.000000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 10.347373638371078,
+    "correction": [
+      -0.169446319091195,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 64,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 10.175,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 10.347373638371078,
+    "correction": [
+      -0.34444631909119394,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 65,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 10.350000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 10.347373638371078,
+    "correction": [
+      0.2513926381823879,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 66,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 10.525,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 10.347373638371078,
+    "correction": [
+      0.07639263818238895,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 67,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 10.7,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 10.347373638371078,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 68,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 10.875000000000002,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 10.347373638371078,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 69,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 11.05,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 11.794084780191971,
+    "correction": [
+      0.1526068294617069,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 70,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 11.225000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 11.794084780191971,
+    "correction": [
+      -0.022393170538293816,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 71,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 11.4,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 11.794084780191971,
+    "correction": [
+      -0.19739317053829275,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 72,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 11.575,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 11.794084780191971,
+    "correction": [
+      -0.3723931705382917,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 73,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 11.750000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 11.794084780191971,
+    "correction": [
+      0.30728634107658337,
+      -0.05204968944099377
+    ]
+  },
+  {
+    "frame": 74,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 11.925,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 11.794084780191971,
+    "correction": [
+      0.13228634107658443,
+      -0.05204968944099377
+    ]
+  },
+  {
+    "frame": 75,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 12.100000000000001,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 11.794084780191971,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 76,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 12.275,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 11.794084780191971,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 77,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 12.45,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 13.147373638371079,
+    "correction": [
+      0.1805536809088082,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 78,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 12.625000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 13.147373638371079,
+    "correction": [
+      0.005553680908805703,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 79,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 12.8,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 13.147373638371079,
+    "correction": [
+      -0.16944631909119323,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 80,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 12.975000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 13.147373638371079,
+    "correction": [
+      -0.34444631909119394,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 81,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 13.15,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 13.147373638371079,
+    "correction": [
+      0.25139263818238966,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 82,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 13.325,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 13.147373638371079,
+    "correction": [
+      0.07639263818239073,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 83,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 13.500000000000002,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 13.147373638371079,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 84,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 13.675,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 13.147373638371079,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 85,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 13.850000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.594084780191972,
+    "correction": [
+      0.1526068294617069,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 86,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 14.025,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.594084780191972,
+    "correction": [
+      -0.02239317053829204,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 87,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 14.2,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.594084780191972,
+    "correction": [
+      -0.19739317053829097,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 88,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 14.375000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.594084780191972,
+    "correction": [
+      -0.37239317053829346,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 89,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 14.55,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.594084780191972,
+    "correction": [
+      0.30728634107658515,
+      -0.05204968944099377
+    ]
+  },
+  {
+    "frame": 90,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 14.725000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.594084780191972,
+    "correction": [
+      0.13228634107658443,
+      -0.05204968944099377
+    ]
+  },
+  {
+    "frame": 91,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 14.9,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 14.594084780191972,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 92,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 15.075,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 14.594084780191972,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 93,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 15.250000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 15.947373638371078,
+    "correction": [
+      0.18055368090880464,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 94,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 15.425000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 15.947373638371078,
+    "correction": [
+      0.005553680908803926,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 95,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 15.6,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 15.947373638371078,
+    "correction": [
+      -0.169446319091195,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 96,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 15.775,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 15.947373638371078,
+    "correction": [
+      -0.3444463190911957,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 97,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 15.950000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 15.947373638371078,
+    "correction": [
+      0.2513926381823879,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 98,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 16.125,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 15.947373638371078,
+    "correction": [
+      0.07639263818238895,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 99,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 16.3,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 15.947373638371078,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 100,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 16.474999999999998,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 15.947373638371078,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 101,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 16.65,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 17.39408478019197,
+    "correction": [
+      0.1526068294617069,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 102,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 16.825,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 17.39408478019197,
+    "correction": [
+      -0.022393170538290263,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 103,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 17.0,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 17.39408478019197,
+    "correction": [
+      -0.19739317053829453,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 104,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 17.175,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 17.39408478019197,
+    "correction": [
+      -0.3723931705382917,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 105,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 17.349999999999998,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 17.39408478019197,
+    "correction": [
+      0.3072863410765869,
+      -0.05204968944099377
+    ]
+  },
+  {
+    "frame": 106,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 17.525,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 17.39408478019197,
+    "correction": [
+      0.1322863410765862,
+      -0.05204968944099377
+    ]
+  },
+  {
+    "frame": 107,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 17.7,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 17.39408478019197,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 108,
+    "actor": "Saliba",
+    "pose": 3,
+    "root_x": 17.875,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 17.39408478019197,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 109,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 18.05,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 18.747373638371077,
+    "correction": [
+      0.18055368090880464,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 110,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 18.224999999999998,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 18.747373638371077,
+    "correction": [
+      0.005553680908807479,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 111,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 18.4,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 18.747373638371077,
+    "correction": [
+      -0.16944631909119323,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 112,
+    "actor": "Saliba",
+    "pose": 0,
+    "root_x": 18.575,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 18.747373638371077,
+    "correction": [
+      -0.34444631909119394,
+      -0.00867494824016548
+    ]
+  },
+  {
+    "frame": 113,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 18.75,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 18.747373638371077,
+    "correction": [
+      0.2513926381823879,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 114,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 18.925,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 18.747373638371077,
+    "correction": [
+      0.07639263818238717,
+      -0.04771221532091099
+    ]
+  },
+  {
+    "frame": 115,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 19.099999999999998,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 18.747373638371077,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 116,
+    "actor": "Saliba",
+    "pose": 1,
+    "root_x": 19.275,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 18.747373638371077,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 117,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 19.45,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 20.194084780191968,
+    "correction": [
+      0.1526068294617069,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 118,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 19.625,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 20.194084780191968,
+    "correction": [
+      -0.02239317053829737,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 119,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 19.8,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 20.194084780191968,
+    "correction": [
+      -0.19739317053829453,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 120,
+    "actor": "Saliba",
+    "pose": 2,
+    "root_x": 19.974999999999998,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 20.194084780191968,
+    "correction": [
+      -0.3723931705382917,
+      -0.004337474120082695
+    ]
+  },
+  {
+    "frame": 1,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 0.45,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.9230149436602483,
+    "correction": [
+      0.13567497238465653,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 2,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 0.625,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.9230149436602483,
+    "correction": [
+      -0.0393250276153434,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 3,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 0.8,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.9230149436602483,
+    "correction": [
+      -0.040421266337604345,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 4,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 0.9750000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.9230149436602483,
+    "correction": [
+      -0.2154212663376044,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 5,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 1.1500000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.9230149436602483,
+    "correction": [
+      0.16724629395294788,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 6,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 1.325,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 0.9230149436602483,
+    "correction": [
+      -0.007753706047051945,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 7,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 1.5,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 0.9230149436602483,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 8,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 1.675,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 0.9230149436602483,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 9,
+    "actor": "Gyokeres",
+    "pose": 4,
+    "root_x": 1.85,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 2.279864313387952,
+    "correction": [
+      0.052318529021854854,
+      -0.04801041666666652
+    ]
+  },
+  {
+    "frame": 10,
+    "actor": "Gyokeres",
+    "pose": 4,
+    "root_x": 2.0250000000000004,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 2.279864313387952,
+    "correction": [
+      -0.12268147097814541,
+      -0.04801041666666652
+    ]
+  },
+  {
+    "frame": 11,
+    "actor": "Gyokeres",
+    "pose": 5,
+    "root_x": 2.2,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 2.279864313387952,
+    "correction": [
+      -0.09009992577985448,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 12,
+    "actor": "Gyokeres",
+    "pose": 5,
+    "root_x": 2.375,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 2.279864313387952,
+    "correction": [
+      -0.2650999257798543,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 13,
+    "actor": "Gyokeres",
+    "pose": 6,
+    "root_x": 2.5500000000000003,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 2.279864313387952,
+    "correction": [
+      0.30028139675799936,
+      -0.10911458333333304
+    ]
+  },
+  {
+    "frame": 14,
+    "actor": "Gyokeres",
+    "pose": 6,
+    "root_x": 2.725,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 2.279864313387952,
+    "correction": [
+      0.12528139675799954,
+      -0.10911458333333304
+    ]
+  },
+  {
+    "frame": 15,
+    "actor": "Gyokeres",
+    "pose": 7,
+    "root_x": 2.9000000000000004,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 2.279864313387952,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 16,
+    "actor": "Gyokeres",
+    "pose": 7,
+    "root_x": 3.075,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 2.279864313387952,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 17,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 3.2500000000000004,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 3.723014943660248,
+    "correction": [
+      0.1356749723846562,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 18,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 3.4250000000000003,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 3.723014943660248,
+    "correction": [
+      -0.03932502761534362,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 19,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 3.6000000000000005,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 3.723014943660248,
+    "correction": [
+      -0.04042126633760468,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 20,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 3.775,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 3.723014943660248,
+    "correction": [
+      -0.21542126633760406,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 21,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 3.95,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 3.723014943660248,
+    "correction": [
+      0.16724629395294777,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 22,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 4.125,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 3.723014943660248,
+    "correction": [
+      -0.007753706047052056,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 23,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 4.3,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 3.723014943660248,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 24,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 4.4750000000000005,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 3.723014943660248,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 25,
+    "actor": "Gyokeres",
+    "pose": 4,
+    "root_x": 4.65,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 5.079864313387952,
+    "correction": [
+      0.05231852902185441,
+      -0.04801041666666652
+    ]
+  },
+  {
+    "frame": 26,
+    "actor": "Gyokeres",
+    "pose": 4,
+    "root_x": 4.825,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 5.079864313387952,
+    "correction": [
+      -0.12268147097814541,
+      -0.04801041666666652
+    ]
+  },
+  {
+    "frame": 27,
+    "actor": "Gyokeres",
+    "pose": 5,
+    "root_x": 5.0,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 5.079864313387952,
+    "correction": [
+      -0.09009992577985404,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 28,
+    "actor": "Gyokeres",
+    "pose": 5,
+    "root_x": 5.175000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 5.079864313387952,
+    "correction": [
+      -0.26509992577985475,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 29,
+    "actor": "Gyokeres",
+    "pose": 6,
+    "root_x": 5.3500000000000005,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 5.079864313387952,
+    "correction": [
+      0.3002813967579989,
+      -0.10911458333333304
+    ]
+  },
+  {
+    "frame": 30,
+    "actor": "Gyokeres",
+    "pose": 6,
+    "root_x": 5.525,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 5.079864313387952,
+    "correction": [
+      0.1252813967579991,
+      -0.10911458333333304
+    ]
+  },
+  {
+    "frame": 31,
+    "actor": "Gyokeres",
+    "pose": 7,
+    "root_x": 5.7,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 5.079864313387952,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 32,
+    "actor": "Gyokeres",
+    "pose": 7,
+    "root_x": 5.875000000000001,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 5.079864313387952,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 33,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 6.050000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 6.523014943660249,
+    "correction": [
+      0.1356749723846571,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 34,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 6.225,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 6.523014943660249,
+    "correction": [
+      -0.039325027615341845,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 35,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 6.4,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 6.523014943660249,
+    "correction": [
+      -0.04042126633760379,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 36,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 6.575,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 6.523014943660249,
+    "correction": [
+      -0.2154212663376036,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 37,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 6.750000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 6.523014943660249,
+    "correction": [
+      0.16724629395294865,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 38,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 6.925000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 6.523014943660249,
+    "correction": [
+      -0.007753706047052056,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 39,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 7.1,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 6.523014943660249,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 40,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 7.275,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 6.523014943660249,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 41,
+    "actor": "Gyokeres",
+    "pose": 4,
+    "root_x": 7.45,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.879864313387952,
+    "correction": [
+      0.05231852902185441,
+      -0.04801041666666652
+    ]
+  },
+  {
+    "frame": 42,
+    "actor": "Gyokeres",
+    "pose": 4,
+    "root_x": 7.625000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.879864313387952,
+    "correction": [
+      -0.12268147097814719,
+      -0.04801041666666652
+    ]
+  },
+  {
+    "frame": 43,
+    "actor": "Gyokeres",
+    "pose": 5,
+    "root_x": 7.800000000000001,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.879864313387952,
+    "correction": [
+      -0.09009992577985493,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 44,
+    "actor": "Gyokeres",
+    "pose": 5,
+    "root_x": 7.975,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.879864313387952,
+    "correction": [
+      -0.26509992577985386,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 45,
+    "actor": "Gyokeres",
+    "pose": 6,
+    "root_x": 8.15,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.879864313387952,
+    "correction": [
+      0.3002813967579989,
+      -0.10911458333333304
+    ]
+  },
+  {
+    "frame": 46,
+    "actor": "Gyokeres",
+    "pose": 6,
+    "root_x": 8.325,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 7.879864313387952,
+    "correction": [
+      0.12528139675799999,
+      -0.10911458333333304
+    ]
+  },
+  {
+    "frame": 47,
+    "actor": "Gyokeres",
+    "pose": 7,
+    "root_x": 8.5,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 7.879864313387952,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 48,
+    "actor": "Gyokeres",
+    "pose": 7,
+    "root_x": 8.674999999999999,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 7.879864313387952,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 49,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 8.85,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 9.323014943660247,
+    "correction": [
+      0.1356749723846562,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 50,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 9.025,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 9.323014943660247,
+    "correction": [
+      -0.03932502761534451,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 51,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 9.2,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 9.323014943660247,
+    "correction": [
+      -0.04042126633760468,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 52,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 9.375,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 9.323014943660247,
+    "correction": [
+      -0.2154212663376054,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 53,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 9.549999999999999,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 9.323014943660247,
+    "correction": [
+      0.16724629395294777,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 54,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 9.725,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 9.323014943660247,
+    "correction": [
+      -0.007753706047052944,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 55,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 9.9,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 9.323014943660247,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 56,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 10.075,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 9.323014943660247,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 57,
+    "actor": "Gyokeres",
+    "pose": 4,
+    "root_x": 10.25,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 10.679864313387952,
+    "correction": [
+      0.0523185290218553,
+      -0.04801041666666652
+    ]
+  },
+  {
+    "frame": 58,
+    "actor": "Gyokeres",
+    "pose": 4,
+    "root_x": 10.424999999999999,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 10.679864313387952,
+    "correction": [
+      -0.12268147097814364,
+      -0.04801041666666652
+    ]
+  },
+  {
+    "frame": 59,
+    "actor": "Gyokeres",
+    "pose": 5,
+    "root_x": 10.6,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 10.679864313387952,
+    "correction": [
+      -0.09009992577985315,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 60,
+    "actor": "Gyokeres",
+    "pose": 5,
+    "root_x": 10.775,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 10.679864313387952,
+    "correction": [
+      -0.26509992577985386,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 61,
+    "actor": "Gyokeres",
+    "pose": 6,
+    "root_x": 10.95,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 10.679864313387952,
+    "correction": [
+      0.3002813967580007,
+      -0.10911458333333304
+    ]
+  },
+  {
+    "frame": 62,
+    "actor": "Gyokeres",
+    "pose": 6,
+    "root_x": 11.124999999999998,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 10.679864313387952,
+    "correction": [
+      0.12528139675800176,
+      -0.10911458333333304
+    ]
+  },
+  {
+    "frame": 63,
+    "actor": "Gyokeres",
+    "pose": 7,
+    "root_x": 11.3,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 10.679864313387952,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 64,
+    "actor": "Gyokeres",
+    "pose": 7,
+    "root_x": 11.475,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 10.679864313387952,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 65,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 11.65,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 12.123014943660246,
+    "correction": [
+      0.13567497238465442,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 66,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 11.825,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 12.123014943660246,
+    "correction": [
+      -0.03932502761534451,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 67,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 11.999999999999998,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 12.123014943660246,
+    "correction": [
+      -0.04042126633760468,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 68,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 12.175,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 12.123014943660246,
+    "correction": [
+      -0.21542126633760716,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 69,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 12.35,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 12.123014943660246,
+    "correction": [
+      0.167246293952946,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 70,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 12.525,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 12.123014943660246,
+    "correction": [
+      -0.00775370604705472,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 71,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 12.7,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 12.123014943660246,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 72,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 12.874999999999998,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 12.123014943660246,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 73,
+    "actor": "Gyokeres",
+    "pose": 4,
+    "root_x": 13.05,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 13.479864313387951,
+    "correction": [
+      0.05231852902185352,
+      -0.04801041666666652
+    ]
+  },
+  {
+    "frame": 74,
+    "actor": "Gyokeres",
+    "pose": 4,
+    "root_x": 13.225,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 13.479864313387951,
+    "correction": [
+      -0.12268147097814541,
+      -0.04801041666666652
+    ]
+  },
+  {
+    "frame": 75,
+    "actor": "Gyokeres",
+    "pose": 5,
+    "root_x": 13.4,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 13.479864313387951,
+    "correction": [
+      -0.09009992577985493,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 76,
+    "actor": "Gyokeres",
+    "pose": 5,
+    "root_x": 13.575,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 13.479864313387951,
+    "correction": [
+      -0.26509992577985386,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 77,
+    "actor": "Gyokeres",
+    "pose": 6,
+    "root_x": 13.749999999999998,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 13.479864313387951,
+    "correction": [
+      0.3002813967580007,
+      -0.10911458333333304
+    ]
+  },
+  {
+    "frame": 78,
+    "actor": "Gyokeres",
+    "pose": 6,
+    "root_x": 13.925,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 13.479864313387951,
+    "correction": [
+      0.1252813967579982,
+      -0.10911458333333304
+    ]
+  },
+  {
+    "frame": 79,
+    "actor": "Gyokeres",
+    "pose": 7,
+    "root_x": 14.1,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 13.479864313387951,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 80,
+    "actor": "Gyokeres",
+    "pose": 7,
+    "root_x": 14.275,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 13.479864313387951,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 81,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 14.45,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.923014943660249,
+    "correction": [
+      0.13567497238465798,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 82,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 14.624999999999998,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.923014943660249,
+    "correction": [
+      -0.03932502761534096,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 83,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 14.8,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.923014943660249,
+    "correction": [
+      -0.04042126633760468,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 84,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 14.975,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.923014943660249,
+    "correction": [
+      -0.2154212663376036,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 85,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 15.15,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.923014943660249,
+    "correction": [
+      0.16724629395294777,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 86,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 15.325,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 14.923014943660249,
+    "correction": [
+      -0.007753706047051168,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 87,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 15.499999999999998,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 14.923014943660249,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 88,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 15.675,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 14.923014943660249,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 89,
+    "actor": "Gyokeres",
+    "pose": 4,
+    "root_x": 15.85,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 16.279864313387954,
+    "correction": [
+      0.052318529021857074,
+      -0.04801041666666652
+    ]
+  },
+  {
+    "frame": 90,
+    "actor": "Gyokeres",
+    "pose": 4,
+    "root_x": 16.025000000000002,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 16.279864313387954,
+    "correction": [
+      -0.12268147097814719,
+      -0.04801041666666652
+    ]
+  },
+  {
+    "frame": 91,
+    "actor": "Gyokeres",
+    "pose": 5,
+    "root_x": 16.2,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 16.279864313387954,
+    "correction": [
+      -0.09009992577985315,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 92,
+    "actor": "Gyokeres",
+    "pose": 5,
+    "root_x": 16.375,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 16.279864313387954,
+    "correction": [
+      -0.26509992577985386,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 93,
+    "actor": "Gyokeres",
+    "pose": 6,
+    "root_x": 16.55,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 16.279864313387954,
+    "correction": [
+      0.3002813967580007,
+      -0.10911458333333304
+    ]
+  },
+  {
+    "frame": 94,
+    "actor": "Gyokeres",
+    "pose": 6,
+    "root_x": 16.725,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 16.279864313387954,
+    "correction": [
+      0.1252813967579982,
+      -0.10911458333333304
+    ]
+  },
+  {
+    "frame": 95,
+    "actor": "Gyokeres",
+    "pose": 7,
+    "root_x": 16.9,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 16.279864313387954,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 96,
+    "actor": "Gyokeres",
+    "pose": 7,
+    "root_x": 17.075,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 16.279864313387954,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 97,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 17.25,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 17.72301494366025,
+    "correction": [
+      0.1356749723846562,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 98,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 17.425,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 17.72301494366025,
+    "correction": [
+      -0.03932502761534451,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 99,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 17.6,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 17.72301494366025,
+    "correction": [
+      -0.0404212663376029,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 100,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 17.775,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 17.72301494366025,
+    "correction": [
+      -0.21542126633760006,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 101,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 17.95,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 17.72301494366025,
+    "correction": [
+      0.16724629395294954,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 102,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 18.125,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 17.72301494366025,
+    "correction": [
+      -0.007753706047051168,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 103,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 18.3,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 17.72301494366025,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 104,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 18.475,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 17.72301494366025,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 105,
+    "actor": "Gyokeres",
+    "pose": 4,
+    "root_x": 18.65,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 19.079864313387954,
+    "correction": [
+      0.052318529021857074,
+      -0.04801041666666652
+    ]
+  },
+  {
+    "frame": 106,
+    "actor": "Gyokeres",
+    "pose": 4,
+    "root_x": 18.825,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 19.079864313387954,
+    "correction": [
+      -0.12268147097814364,
+      -0.04801041666666652
+    ]
+  },
+  {
+    "frame": 107,
+    "actor": "Gyokeres",
+    "pose": 5,
+    "root_x": 19.0,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 19.079864313387954,
+    "correction": [
+      -0.09009992577985315,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 108,
+    "actor": "Gyokeres",
+    "pose": 5,
+    "root_x": 19.175,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 19.079864313387954,
+    "correction": [
+      -0.26509992577985386,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 109,
+    "actor": "Gyokeres",
+    "pose": 6,
+    "root_x": 19.35,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 19.079864313387954,
+    "correction": [
+      0.3002813967579989,
+      -0.10911458333333304
+    ]
+  },
+  {
+    "frame": 110,
+    "actor": "Gyokeres",
+    "pose": 6,
+    "root_x": 19.525,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 19.079864313387954,
+    "correction": [
+      0.12528139675800176,
+      -0.10911458333333304
+    ]
+  },
+  {
+    "frame": 111,
+    "actor": "Gyokeres",
+    "pose": 7,
+    "root_x": 19.7,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 19.079864313387954,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 112,
+    "actor": "Gyokeres",
+    "pose": 7,
+    "root_x": 19.875,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 19.079864313387954,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 113,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 20.05,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 20.523014943660247,
+    "correction": [
+      0.13567497238465265,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 114,
+    "actor": "Gyokeres",
+    "pose": 0,
+    "root_x": 20.225,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 20.523014943660247,
+    "correction": [
+      -0.03932502761534806,
+      -0.017458333333333263
+    ]
+  },
+  {
+    "frame": 115,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 20.4,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 20.523014943660247,
+    "correction": [
+      -0.0404212663376029,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 116,
+    "actor": "Gyokeres",
+    "pose": 1,
+    "root_x": 20.575,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 20.523014943660247,
+    "correction": [
+      -0.2154212663376036,
+      -0.004364583333332915
+    ]
+  },
+  {
+    "frame": 117,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 20.75,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 20.523014943660247,
+    "correction": [
+      0.167246293952946,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 118,
+    "actor": "Gyokeres",
+    "pose": 2,
+    "root_x": 20.925,
+    "root_z": 2.12,
+    "contact": true,
+    "plant_x": 20.523014943660247,
+    "correction": [
+      -0.00775370604705472,
+      -0.056739583333332975
+    ]
+  },
+  {
+    "frame": 119,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 21.1,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 20.523014943660247,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 120,
+    "actor": "Gyokeres",
+    "pose": 3,
+    "root_x": 21.275,
+    "root_z": 2.12,
+    "contact": false,
+    "plant_x": 20.523014943660247,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 1,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 2.1,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 2.0182921046856652,
+    "correction": [
+      -0.18246567918390655,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 2,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 2.275,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 2.0182921046856652,
+    "correction": [
+      -0.35746567918390637,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 3,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 2.45,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 2.0182921046856652,
+    "correction": [
+      0.2774313583678123,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 4,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 2.625,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 2.0182921046856652,
+    "correction": [
+      0.10243135836781248,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 5,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 2.8000000000000003,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 2.0182921046856652,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 6,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 2.975,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 2.0182921046856652,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 7,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 3.1500000000000004,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 3.46048039136276,
+    "correction": [
+      0.13324610501100365,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 8,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 3.325,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 3.46048039136276,
+    "correction": [
+      -0.041753894988996176,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 9,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 3.5,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 3.46048039136276,
+    "correction": [
+      -0.216753894988996,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 10,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 3.6750000000000003,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 3.46048039136276,
+    "correction": [
+      -0.39175389498899627,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 11,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 3.85,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 3.46048039136276,
+    "correction": [
+      0.3460077899779921,
+      -0.004333333333333432
+    ]
+  },
+  {
+    "frame": 12,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 4.025,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 3.46048039136276,
+    "correction": [
+      0.17100778997799182,
+      -0.004333333333333432
+    ]
+  },
+  {
+    "frame": 13,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 4.2,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 3.46048039136276,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 14,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 4.375,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 3.46048039136276,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 15,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 4.550000000000001,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 4.818292104685665,
+    "correction": [
+      0.16753432081609265,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 16,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 4.725,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 4.818292104685665,
+    "correction": [
+      -0.007465679183906282,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 17,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 4.9,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 4.818292104685665,
+    "correction": [
+      -0.182465679183907,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 18,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 5.075,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 4.818292104685665,
+    "correction": [
+      -0.3574656791839068,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 19,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 5.25,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 4.818292104685665,
+    "correction": [
+      0.27743135836781185,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 20,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 5.425,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 4.818292104685665,
+    "correction": [
+      0.10243135836781203,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 21,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 5.6,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 4.818292104685665,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 22,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 5.775,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 4.818292104685665,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 23,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 5.95,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 6.260480391362761,
+    "correction": [
+      0.13324610501100498,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 24,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 6.125,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 6.260480391362761,
+    "correction": [
+      -0.041753894988994844,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 25,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 6.300000000000001,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 6.260480391362761,
+    "correction": [
+      -0.21675389498899555,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 26,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 6.475,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 6.260480391362761,
+    "correction": [
+      -0.3917538949889945,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 27,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 6.65,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 6.260480391362761,
+    "correction": [
+      0.34600778997799253,
+      -0.004333333333333432
+    ]
+  },
+  {
+    "frame": 28,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 6.825000000000001,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 6.260480391362761,
+    "correction": [
+      0.17100778997799182,
+      -0.004333333333333432
+    ]
+  },
+  {
+    "frame": 29,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 7.0,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 6.260480391362761,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 30,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 7.175000000000001,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 6.260480391362761,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 31,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 7.35,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 7.618292104685666,
+    "correction": [
+      0.16753432081609443,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 32,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 7.525,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 7.618292104685666,
+    "correction": [
+      -0.007465679183906282,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 33,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 7.700000000000001,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 7.618292104685666,
+    "correction": [
+      -0.182465679183907,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 34,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 7.875,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 7.618292104685666,
+    "correction": [
+      -0.3574656791839059,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 35,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 8.05,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 7.618292104685666,
+    "correction": [
+      0.27743135836781185,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 36,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 8.225,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 7.618292104685666,
+    "correction": [
+      0.10243135836781292,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 37,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 8.4,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 7.618292104685666,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 38,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 8.575000000000001,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 7.618292104685666,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 39,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 8.75,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 9.06048039136276,
+    "correction": [
+      0.1332461050110041,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 40,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 8.925,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 9.06048039136276,
+    "correction": [
+      -0.04175389498899662,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 41,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 9.1,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 9.06048039136276,
+    "correction": [
+      -0.21675389498899555,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 42,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 9.275,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 9.06048039136276,
+    "correction": [
+      -0.39175389498899627,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 43,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 9.450000000000001,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 9.06048039136276,
+    "correction": [
+      0.34600778997799075,
+      -0.004333333333333432
+    ]
+  },
+  {
+    "frame": 44,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 9.625,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 9.06048039136276,
+    "correction": [
+      0.17100778997799182,
+      -0.004333333333333432
+    ]
+  },
+  {
+    "frame": 45,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 9.8,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 9.06048039136276,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 46,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 9.975,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 9.06048039136276,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 47,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 10.15,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 10.418292104685666,
+    "correction": [
+      0.16753432081609354,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 48,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 10.325,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 10.418292104685666,
+    "correction": [
+      -0.007465679183905394,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 49,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 10.5,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 10.418292104685666,
+    "correction": [
+      -0.1824656791839061,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 50,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 10.675,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 10.418292104685666,
+    "correction": [
+      -0.3574656791839068,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 51,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 10.85,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 10.418292104685666,
+    "correction": [
+      0.27743135836781363,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 52,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 11.025,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 10.418292104685666,
+    "correction": [
+      0.10243135836781292,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 53,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 11.2,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 10.418292104685666,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 54,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 11.375,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 10.418292104685666,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 55,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 11.55,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 11.860480391362758,
+    "correction": [
+      0.1332461050110023,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 56,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 11.725,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 11.860480391362758,
+    "correction": [
+      -0.04175389498899662,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 57,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 11.9,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 11.860480391362758,
+    "correction": [
+      -0.21675389498899733,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 58,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 12.075,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 11.860480391362758,
+    "correction": [
+      -0.39175389498899627,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 59,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 12.25,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 11.860480391362758,
+    "correction": [
+      0.34600778997799075,
+      -0.004333333333333432
+    ]
+  },
+  {
+    "frame": 60,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 12.425,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 11.860480391362758,
+    "correction": [
+      0.17100778997799004,
+      -0.004333333333333432
+    ]
+  },
+  {
+    "frame": 61,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 12.6,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 11.860480391362758,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 62,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 12.774999999999999,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 11.860480391362758,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 63,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 12.950000000000001,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 13.218292104685666,
+    "correction": [
+      0.16753432081609354,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 64,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 13.125,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 13.218292104685666,
+    "correction": [
+      -0.007465679183905394,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 65,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 13.3,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 13.218292104685666,
+    "correction": [
+      -0.1824656791839061,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 66,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 13.475,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 13.218292104685666,
+    "correction": [
+      -0.35746567918390504,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 67,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 13.649999999999999,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 13.218292104685666,
+    "correction": [
+      0.2774313583678154,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 68,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 13.825000000000001,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 13.218292104685666,
+    "correction": [
+      0.10243135836781292,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 69,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 14.0,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 13.218292104685666,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 70,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 14.175,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 13.218292104685666,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 71,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 14.35,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 14.660480391362759,
+    "correction": [
+      0.1332461050110041,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 72,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 14.524999999999999,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 14.660480391362759,
+    "correction": [
+      -0.041753894988994844,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 73,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 14.700000000000001,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 14.660480391362759,
+    "correction": [
+      -0.21675389498899733,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 74,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 14.875,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 14.660480391362759,
+    "correction": [
+      -0.39175389498899627,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 75,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 15.05,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 14.660480391362759,
+    "correction": [
+      0.34600778997799075,
+      -0.004333333333333432
+    ]
+  },
+  {
+    "frame": 76,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 15.225,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 14.660480391362759,
+    "correction": [
+      0.17100778997799182,
+      -0.004333333333333432
+    ]
+  },
+  {
+    "frame": 77,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 15.399999999999999,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 14.660480391362759,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 78,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 15.575000000000001,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 14.660480391362759,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 79,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 15.75,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 16.018292104685667,
+    "correction": [
+      0.16753432081609532,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 80,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 15.925,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 16.018292104685667,
+    "correction": [
+      -0.007465679183905394,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 81,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 16.1,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 16.018292104685667,
+    "correction": [
+      -0.1824656791839061,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 82,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 16.275,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 16.018292104685667,
+    "correction": [
+      -0.35746567918390326,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 83,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 16.450000000000003,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 16.018292104685667,
+    "correction": [
+      0.27743135836781185,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 84,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 16.625,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 16.018292104685667,
+    "correction": [
+      0.1024313583678147,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 85,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 16.8,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 16.018292104685667,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 86,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 16.975,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 16.018292104685667,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 87,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 17.15,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 17.46048039136276,
+    "correction": [
+      0.13324610501100764,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 88,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 17.325000000000003,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 17.46048039136276,
+    "correction": [
+      -0.04175389498899662,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 89,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 17.5,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 17.46048039136276,
+    "correction": [
+      -0.21675389498899378,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 90,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 17.675,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 17.46048039136276,
+    "correction": [
+      -0.3917538949889945,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 91,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 17.85,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 17.46048039136276,
+    "correction": [
+      0.34600778997799253,
+      -0.004333333333333432
+    ]
+  },
+  {
+    "frame": 92,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 18.025,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 17.46048039136276,
+    "correction": [
+      0.17100778997799537,
+      -0.004333333333333432
+    ]
+  },
+  {
+    "frame": 93,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 18.200000000000003,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 17.46048039136276,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 94,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 18.375000000000004,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 17.46048039136276,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 95,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 18.55,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 18.818292104685668,
+    "correction": [
+      0.16753432081609532,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 96,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 18.725,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 18.818292104685668,
+    "correction": [
+      -0.007465679183905394,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 97,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 18.900000000000002,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 18.818292104685668,
+    "correction": [
+      -0.1824656791839061,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 98,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 19.075000000000003,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 18.818292104685668,
+    "correction": [
+      -0.3574656791839068,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 99,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 19.250000000000004,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 18.818292104685668,
+    "correction": [
+      0.2774313583678101,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 100,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 19.425,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 18.818292104685668,
+    "correction": [
+      0.10243135836781292,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 101,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 19.6,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 18.818292104685668,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 102,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 19.775000000000002,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 18.818292104685668,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 103,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 19.950000000000003,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 20.260480391362762,
+    "correction": [
+      0.1332461050110041,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 104,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 20.125000000000004,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 20.260480391362762,
+    "correction": [
+      -0.04175389498899662,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 105,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 20.3,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 20.260480391362762,
+    "correction": [
+      -0.21675389498899378,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 106,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 20.475,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 20.260480391362762,
+    "correction": [
+      -0.3917538949889945,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 107,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 20.650000000000002,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 20.260480391362762,
+    "correction": [
+      0.34600778997799253,
+      -0.004333333333333432
+    ]
+  },
+  {
+    "frame": 108,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 20.825000000000003,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 20.260480391362762,
+    "correction": [
+      0.17100778997799182,
+      -0.004333333333333432
+    ]
+  },
+  {
+    "frame": 109,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 21.000000000000004,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 20.260480391362762,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 110,
+    "actor": "Arteta",
+    "pose": 3,
+    "root_x": 21.175,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 20.260480391362762,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 111,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 21.35,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 21.61829210468567,
+    "correction": [
+      0.16753432081609532,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 112,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 21.525000000000002,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 21.61829210468567,
+    "correction": [
+      -0.007465679183905394,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 113,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 21.700000000000003,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 21.61829210468567,
+    "correction": [
+      -0.1824656791839061,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 114,
+    "actor": "Arteta",
+    "pose": 0,
+    "root_x": 21.875000000000004,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 21.61829210468567,
+    "correction": [
+      -0.3574656791839068,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 115,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 22.05,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 21.61829210468567,
+    "correction": [
+      0.27743135836781363,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 116,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 22.225,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 21.61829210468567,
+    "correction": [
+      0.10243135836781292,
+      -0.021666666666666633
+    ]
+  },
+  {
+    "frame": 117,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 22.400000000000002,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 21.61829210468567,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 118,
+    "actor": "Arteta",
+    "pose": 1,
+    "root_x": 22.575000000000003,
+    "root_z": 1.91,
+    "contact": false,
+    "plant_x": 21.61829210468567,
+    "correction": [
+      0,
+      0.0
+    ]
+  },
+  {
+    "frame": 119,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 22.750000000000004,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 23.06048039136276,
+    "correction": [
+      0.13324610501100054,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 120,
+    "actor": "Arteta",
+    "pose": 2,
+    "root_x": 22.925,
+    "root_z": 1.91,
+    "contact": true,
+    "plant_x": 23.06048039136276,
+    "correction": [
+      -0.04175389498899662,
+      -0.017333333333333333
+    ]
+  },
+  {
+    "frame": 121,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 6.75,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 6.9038967923937005,
+    "correction": [
+      0.1409513789018364,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 122,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 6.806250000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 6.9038967923937005,
+    "correction": [
+      0.08470137890183516,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 123,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 6.862500000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 6.9038967923937005,
+    "correction": [
+      0.02845137890183569,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 124,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 6.91875,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 6.9038967923937005,
+    "correction": [
+      -0.027798621098163778,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 125,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 6.9750000000000005,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 6.9038967923937005,
+    "correction": [
+      -0.08404862109816413,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 126,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 7.03125,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 6.9038967923937005,
+    "correction": [
+      -0.1402986210981636,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 127,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 7.087500000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 6.9038967923937005,
+    "correction": [
+      -0.19654862109816484,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 128,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 7.143750000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 6.9038967923937005,
+    "correction": [
+      -0.2527986210981643,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 129,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 7.2,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      0.2962947005116865,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 130,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 7.2562500000000005,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      0.24004470051168614,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 131,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 7.3125,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      0.18379470051168667,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 132,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 7.368750000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      0.12754470051168543,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 133,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 7.425000000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      0.07129470051168596,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 134,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 7.48125,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      0.015044700511686493,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 135,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 7.5375000000000005,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      -0.04120529948831386,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 136,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 7.59375,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      -0.09745529948831333,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 137,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 7.650000000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      0.09745529948831333,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 138,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 7.706250000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      0.04120529948831386,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 139,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 7.7625,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      -0.015044700511685605,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 140,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 7.8187500000000005,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      -0.07129470051168596,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 141,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 7.875,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      -0.12754470051168543,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 142,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 7.931250000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      -0.18379470051168667,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 143,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 7.987500000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      -0.24004470051168614,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 144,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 8.043750000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 7.776079876037282,
+    "correction": [
+      -0.2962947005116865,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 145,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 8.1,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      0.2527986210981652,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 146,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 8.15625,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      0.19654862109816484,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 147,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 8.2125,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      0.1402986210981645,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 148,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 8.26875,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      0.08404862109816413,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 149,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 8.325000000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      0.027798621098163778,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 150,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 8.38125,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      -0.0284513789018348,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 151,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 8.4375,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      -0.08470137890183516,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 152,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 8.49375,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      -0.1409513789018355,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 153,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 8.55,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      0.1409513789018355,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 154,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 8.606250000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      0.08470137890183516,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 155,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 8.6625,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      0.028451378901836577,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 156,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 8.71875,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      -0.027798621098163778,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 157,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 8.775,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      -0.08404862109816413,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 158,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 8.83125,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      -0.1402986210981645,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 159,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 8.887500000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      -0.19654862109816484,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 160,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 8.94375,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 8.703896792393701,
+    "correction": [
+      -0.2527986210981634,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 161,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 9.0,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      0.2962947005116856,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 162,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 9.05625,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      0.24004470051168525,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 163,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 9.1125,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      0.1837947005116849,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 164,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 9.168750000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      0.12754470051168454,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 165,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 9.225,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      0.07129470051168596,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 166,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 9.281250000000002,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      0.015044700511683828,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 167,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 9.3375,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      -0.04120529948831475,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 168,
+    "actor": "Pep",
+    "pose": 0,
+    "root_x": 9.39375,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      -0.0974552994883151,
+      -0.018556201550387418
+    ]
+  },
+  {
+    "frame": 169,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 9.450000000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      0.09745529948831333,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 170,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 9.50625,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      0.04120529948831475,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 171,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 9.562500000000002,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      -0.015044700511687381,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 172,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 9.61875,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      -0.07129470051168596,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 173,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 9.675,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      -0.12754470051168632,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 174,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 9.731250000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      -0.18379470051168667,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 175,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 9.7875,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      -0.24004470051168525,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 176,
+    "actor": "Pep",
+    "pose": 1,
+    "root_x": 9.843750000000002,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 9.576079876037282,
+    "correction": [
+      -0.2962947005116874,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 177,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 9.9,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      0.2527986210981652,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 178,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 9.95625,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      0.19654862109816484,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 179,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 10.012500000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      0.1402986210981645,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 180,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 10.06875,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      0.08404862109816591,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 181,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 10.125000000000002,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      0.027798621098163778,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 182,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 10.18125,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      -0.0284513789018348,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 183,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 10.2375,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      -0.08470137890183516,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 184,
+    "actor": "Pep",
+    "pose": 2,
+    "root_x": 10.293750000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      -0.1409513789018355,
+      -0.0037112403100775446
+    ]
+  },
+  {
+    "frame": 185,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 10.35,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      0.1409513789018373,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 186,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 10.406250000000002,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      0.08470137890183516,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 187,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 10.4625,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      0.028451378901836577,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 188,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 10.51875,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      -0.027798621098163778,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 189,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 10.575000000000001,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      -0.08404862109816413,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 190,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 10.63125,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      -0.1402986210981627,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 191,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 10.6875,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      -0.19654862109816307,
+      -0.011133720930232592
+    ]
+  },
+  {
+    "frame": 192,
+    "actor": "Pep",
+    "pose": 3,
+    "root_x": 10.74375,
+    "root_z": 1.94,
+    "contact": true,
+    "plant_x": 10.503896792393702,
+    "correction": [
+      -0.2527986210981634,
+      -0.011133720930232592
+    ]
+  }
+]

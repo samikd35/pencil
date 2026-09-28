@@ -1,0 +1,52 @@
+[
+  {
+    "id": "B01",
+    "text": "Arsenal. New season. Same bottle.",
+    "seed": 42,
+    "direction": "An elderly man, low weathered gravelly voice, restrained Scottish English accent. Original theatrical cartoon football manager voice. Calm smug certainty. Three dry thoughts, brief pauses, dismissive finality on same bottle. Clean dry microphone, no music or extra words.",
+    "duration": 4.72,
+    "sha256": "0a4db0cd86cfc684a05d242947a64e13bec0b42d492d9ff24a0ed3844fe47af4",
+    "heard_by_agent": false,
+    "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording"
+  },
+  {
+    "id": "B02",
+    "text": "This year, we finish the job.",
+    "seed": 43,
+    "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Confident motivational promise to his players. Stress this year and finish. Clean dry microphone, no music or extra words.",
+    "duration": 2.48,
+    "sha256": "ca668129e73ddb80305bf3c65d3dfdc28682430cb6f279885f6ece800d822023",
+    "heard_by_agent": false,
+    "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording"
+  },
+  {
+    "id": "B03",
+    "text": "I ordered a striker.",
+    "seed": 43,
+    "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Annoyed bewilderment at a delivery error. Stress striker. Clean dry microphone, no music or extra words.",
+    "duration": 1.04,
+    "sha256": "8174a481a775c6c39caca6fbee24cec9b301d6916a3126575d98f98627e1f6d8",
+    "heard_by_agent": false,
+    "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording"
+  },
+  {
+    "id": "B04",
+    "text": "Sorry. Force of habit.",
+    "seed": 51,
+    "direction": "Middle-aged British male delivery driver with a warm slightly husky voice. Matter-of-fact apology followed by a dry offhand explanation. No exaggerated joking or laughter. Clean dry microphone, no music or extra words.",
+    "duration": 1.92,
+    "sha256": "7b242551cfe1ee3c1e538688a3395520c920a68056767dfeaa1a0a53ab51d191",
+    "heard_by_agent": false,
+    "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording"
+  },
+  {
+    "id": "B05",
+    "text": "Get me the striker. Now.",
+    "seed": 43,
+    "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Clipped urgent order into a phone. Brief pause before an emphatic Now. Clean dry microphone, no music or extra words.",
+    "duration": 1.68,
+    "sha256": "1c4449bed03745aee73fbd9d7a422f3c7a3698297d210f6529637cdc23a3cd25",
+    "heard_by_agent": false,
+    "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording"
+  }
+]

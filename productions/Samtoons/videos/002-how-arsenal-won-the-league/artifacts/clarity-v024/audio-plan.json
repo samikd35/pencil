@@ -1,0 +1,2368 @@
+{
+  "version": 1,
+  "scope": "Approved clarity revision, City notification through final reveal",
+  "status": "review candidate; subjective listening pending",
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 3642,
+    "sample_rate": 48000
+  },
+  "mix_gain_db": -2,
+  "assets": {
+    "question-motif": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/question-motif.wav",
+      "sha256": "d0aeef3fa6d16357f15e96449053e2bc63d20072e8b1aa11e3771013ec65f919",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "answer-note": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/answer-note.wav",
+      "sha256": "617f6e28c03d9118b0280fe10fe05ce0206912ccdbe53400283bdf682b8ab56b",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "city-ping": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/city-ping.wav",
+      "sha256": "0a0091a3079c5fc77a2b5941ffa572b65f1f5e43f0915fa624e413c5301b52a3",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "switch": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/switch.wav",
+      "sha256": "38a8432760ac3205588a6ac226a396285a16e25ad20ccc278e09a87158c93152",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "tiny-tap": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/tiny-tap.wav",
+      "sha256": "9aa3abd25e956d458bed7a029be1c1ca6ee9a612b5be1372d6dbd7457c05d554",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "chase-score": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/chase-score.mp3",
+      "sha256": "f2f20d0737560a2dec0d82119810757326b1eec7eae211f2d3e056e9754834a9",
+      "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100085",
+      "license": "CC BY 4.0",
+      "attribution": "Scheming Weasel (faster version) by Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ . Excerpted and faded."
+    },
+    "boot": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/boot.wav",
+      "sha256": "8a0a021e90900cca49cceca0182e41b8f9354cdfb17609e6b2a8437c8ec29ae8",
+      "source": "Original episode 001 seeded boot-contact synthesis, prepare_revision_audio.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "L20": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/L20-mix.wav",
+      "sha256": "8839cc5859f0f540dea6cd81407a74eca2ba15900581a9114651caacd9f634a7",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "L26": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/L26-mix.wav",
+      "sha256": "cd3300fc8a9cac2f2db106a60bdd666434cf6dff16596a9dce014b618e17c225",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "L28": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/L28-mix.wav",
+      "sha256": "112aa67285ab6f4dbd9a519489167c1ad211b96d67ae54de97c93349c3f983d9",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "L36": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/L36-mix.wav",
+      "sha256": "16f80d515f39347909af76718a1742cff7a8df4dc9ac19694ef7de8abffd7a00",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "L37": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/L37-mix.wav",
+      "sha256": "0bd0bca7feb1a57388a142605f32c39fb150ad9e67e5c9cd971a5e3f7693a4e1",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "L41": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/L41-mix.wav",
+      "sha256": "7b9fe36538c2b186ec6299506e4d9836d696db4e97eaa72a020fabdbcb3da41d",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "ball-strike": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/ball-strike.wav",
+      "sha256": "a5670c8592b954ae9d5336e7fbc84c0ddb7c785467a911bb9db4e4936c297ec1",
+      "source": "https://freesound.org/people/volivieri/sounds/37157/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "kick by volivieri \u2014 https://freesound.org/people/volivieri/sounds/37157/ \u2014 https://creativecommons.org/licenses/by/4.0/; excerpted and processed."
+    },
+    "shirt-move": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/shirt-move.wav",
+      "sha256": "c06498b9e083f4fc3c3c2d577827fc4af6d0caf237afe8f326350f767fcdcfe3",
+      "source": "https://freesound.org/people/NachtmahrTV/sounds/556711/",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "cloth by NachtmahrTV \u2014 https://freesound.org/people/NachtmahrTV/sounds/556711/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed."
+    },
+    "paper-handoff": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/paper-handoff.wav",
+      "sha256": "4881e483b8b698397afb1fe87b5988886dd54d46388648130b2a4cd3cbf6959e",
+      "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "paper by Ezcah \u2014 https://freesound.org/people/Ezcah/sounds/248178/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed."
+    },
+    "ref-whistle": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/ref-whistle.wav",
+      "sha256": "989cdfce394bd2efa2939da2fdbf29a8eed84a0192322162d707bac51b8db781",
+      "source": "Original episode001 graphic synthesis",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "dry-impact": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/dry-impact.wav",
+      "sha256": "e63d24f9c2d3f2028256cf1baa274b1b891514e5d110919f904e14cc4618d84e",
+      "source": "Original episode001 graphic synthesis",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "goal-cheer": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/crowd-goal.wav",
+      "sha256": "ba9525c914dded27d61dd4ea1ffd22ae0b4a92f8ce9bf838efb01b11fac3f485",
+      "source": "https://freesound.org/people/Krizin/sounds/651646/; public HQ preview acquired 2026-09-12; original preview retained in assets/audio-v002.",
+      "license": "CC0 1.0, per individual sound page; page snapshot retained locally.",
+      "attribution": "Krizin / Freesound (voluntary credit)"
+    },
+    "trolley": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/trolley.wav",
+      "sha256": "de5fcd69a90124da0ddc7374bcde02cab3127c98ecf9f2f83d73c73095e3924c",
+      "source": "Original graphic accent synthesis in add_animatic_cues_v001.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "telephone": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/telephone.wav",
+      "sha256": "216b136c9444027895c5ddedb491bd7aca56654d8251e54fa5a84fde7d08c964",
+      "source": "Original graphic accent synthesis in add_animatic_cues_v001.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "medal": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/medal.wav",
+      "sha256": "7cb48eb417238915c3e8523bceabd572e2b299e4625fb189dc82b2423980e33a",
+      "source": "Original graphic accent synthesis in add_animatic_cues_v001.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "confirmation": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/confirmation.wav",
+      "sha256": "b2dd6a6ed375b1b722104ef543e0f7d107abcf1cc7857dbdd770bae1f57d600d",
+      "source": "Original graphic accent synthesis in add_animatic_cues_v001.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "fortress-swell": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/defence-v022/sounds/fortress-swell.wav",
+      "sha256": "4c8b621c1fa259d2f5c0aaab27a863853f49ff9749d9a287dfa621c084d6b14a",
+      "source": "Original production sound design in audio_defence_v022.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "approval-choir": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/defence-v022/sounds/approval-choir.wav",
+      "sha256": "e1634b6a226583e5bc37dd1b1bc607317188026e2d8c0b48261c00c0521b5434",
+      "source": "Original production sound design in audio_defence_v022.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "C00": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C00-mix.wav",
+      "sha256": "7a9abae3ff8ab0f748787c861bee2d7164814ea49407e16bbbf6b52c194b1ac9",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C19": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C19-mix.wav",
+      "sha256": "da42ef8e13cd57cfde84aeaa315ba3438e01b35929e1186a0496cfe371aa7ccc",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C21": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C21-mix.wav",
+      "sha256": "132d5bfc8c63f5f79a2790b9e7ecad1c63387f949afc88d0517a0ba9850dbefd",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C22": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C22-mix.wav",
+      "sha256": "5d2036d4d8563a31626bdeedba764efac6f20af7437b37ec047afc66718530bb",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C24": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C24-mix.wav",
+      "sha256": "f0917eb9beeefebae1eaa47ea6d88f4432fdb71c8f725705a801e43be5ab1c14",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C25": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C25-mix.wav",
+      "sha256": "51caa50d8bf03263c2571c8b1fffc7c62205d87703442321193c1a1bf36276db",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C27": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C27-mix.wav",
+      "sha256": "437f038aaa33bfa1f17fc2847586daf6080731e034d29e13696e0f9da2944776",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C29": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C29-mix.wav",
+      "sha256": "dd313b0515c636dc55549e00058b821bc7e4185aa610b1f5ae54a423ab92fd3c",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C30": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C30-mix.wav",
+      "sha256": "197687500fc992d390df523b788310200af718db33106bb75cc8384ea66deeac",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C31": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C31-mix.wav",
+      "sha256": "fa0e7a05a2f84256fd9ad1811b74e94966ad0578c98e836d2fb454e963d23bae",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C32": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C32-mix.wav",
+      "sha256": "cfb8fd2b87c5de608980b9409c5b3dc00540f5e89002c94af0c2607b2b200ae6",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C33": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C33-mix.wav",
+      "sha256": "c783ece4c219ee5c760e933b98a55c99fac5fd1a9bc61f9124c8eeda44777d7d",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C34": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C34-mix.wav",
+      "sha256": "3a806b3059d907334aabecf007a97b11db3c18a4d71d6a98a10b1e805b3be0c3",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C34b": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C34b-mix.wav",
+      "sha256": "501f6f99c9a007507fc8d85ab3ae62aa81b1a9b8b910fa10c665afefa72dc0cc",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C35": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C35-mix.wav",
+      "sha256": "4ab39f44530709f3f285e9d8893f32a6205899efed89ec2511bc81264e010ba7",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C38": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C38-mix.wav",
+      "sha256": "5378e94184f0733ccceb35474680c0061d2b8f695b73e283ba9cb1f83bcd6496",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C39": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C39-mix.wav",
+      "sha256": "e32bc6fd1d4cba6ba87b6c4219fc5bbd1ff08f8ef64eb26f982f858647cc5d59",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C40": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C40-mix.wav",
+      "sha256": "98c6cb3759fe47c66e8b2367de4d55ea67883f8dbbe9aeb4dd0238a34f3d4341",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C42": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C42-mix.wav",
+      "sha256": "31901e24e29000659fb1e6aa099f44e2dba26d1039d1fdf312f5d7028dc25f2f",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C43": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C43-mix.wav",
+      "sha256": "684c4b5b9a20f31580b4e4121fa9fcaf3b2c807efd23eb792daca483052c0dcf",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C48": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C48-mix.wav",
+      "sha256": "a97a31b8a5132ef78b4fa5151e81e6a11c9a15af2b75ee52c120137b461e8fcb",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "C46": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/clarity-v024/voices/C46-mix.wav",
+      "sha256": "4661acd7251cb28ddf96c3f955624f4be602acd73d91cd5853f95c1e0bdeeb4b",
+      "source": "Qwen reference-conditioned local voice; existing voice identity",
+      "license": "Generated performance, local model unchanged",
+      "attribution": "Samtoons \u2014 original generated dialogue, conditioned on selected character take"
+    },
+    "paper": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/paper.wav",
+      "sha256": "aec7d37ae05bb3a9fd306c730dd07070f4927f6e2d134ee4594f0950e3c80501",
+      "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+      "license": "CC0",
+      "attribution": "Paper by Ezcah, Freesound 248178; processed excerpt."
+    }
+  },
+  "cues": [
+    {
+      "id": "CP00_C00_0",
+      "shot": "CP00",
+      "event": "CP00_C00_0",
+      "asset": "C00",
+      "stem": "dialogue",
+      "intent": "C00",
+      "duration_seconds": "148/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_C19_1",
+      "shot": "CP01",
+      "event": "CP01_C19_1",
+      "asset": "C19",
+      "stem": "dialogue",
+      "intent": "C19",
+      "duration_seconds": "156/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_far_L20_2",
+      "shot": "CP02_far",
+      "event": "CP02_far_L20_2",
+      "asset": "L20",
+      "stem": "dialogue",
+      "intent": "L20",
+      "duration_seconds": "51841/24000",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_C21_3",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_C21_3",
+      "asset": "C21",
+      "stem": "dialogue",
+      "intent": "C21",
+      "duration_seconds": "78721/24000",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_pep_C22_4",
+      "shot": "CP03_pep",
+      "event": "CP03_pep_C22_4",
+      "asset": "C22",
+      "stem": "dialogue",
+      "intent": "C22",
+      "duration_seconds": "72/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_courier_C24_5",
+      "shot": "CP04_courier",
+      "event": "CP04_courier_C24_5",
+      "asset": "C24",
+      "stem": "dialogue",
+      "intent": "C24",
+      "duration_seconds": "106/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_reply_C25_6",
+      "shot": "CP04_reply",
+      "event": "CP04_reply_C25_6",
+      "asset": "C25",
+      "stem": "dialogue",
+      "intent": "C25",
+      "duration_seconds": "86/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP05_L26_7",
+      "shot": "CP05",
+      "event": "CP05_L26_7",
+      "asset": "L26",
+      "stem": "dialogue",
+      "intent": "L26",
+      "duration_seconds": "6/5",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "VH01_C27_8",
+      "shot": "VH01",
+      "event": "VH01_C27_8",
+      "asset": "C27",
+      "stem": "dialogue",
+      "intent": "C27",
+      "duration_seconds": "24/5",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "VH02_L28_9",
+      "shot": "VH02",
+      "event": "VH02_L28_9",
+      "asset": "L28",
+      "stem": "dialogue",
+      "intent": "L28",
+      "duration_seconds": "14/5",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "VH03_answer_C29_10",
+      "shot": "VH03_answer",
+      "event": "VH03_answer_C29_10",
+      "asset": "C29",
+      "stem": "dialogue",
+      "intent": "C29",
+      "duration_seconds": "148/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "VH04_mikel_C30_11",
+      "shot": "VH04_mikel",
+      "event": "VH04_mikel_C30_11",
+      "asset": "C30",
+      "stem": "dialogue",
+      "intent": "C30",
+      "duration_seconds": "145921/24000",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "VH04_operator_C31_12",
+      "shot": "VH04_operator",
+      "event": "VH04_operator_C31_12",
+      "asset": "C31",
+      "stem": "dialogue",
+      "intent": "C31",
+      "duration_seconds": "24/5",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "VH04_two_C32_13",
+      "shot": "VH04_two",
+      "event": "VH04_two_C32_13",
+      "asset": "C32",
+      "stem": "dialogue",
+      "intent": "C32",
+      "duration_seconds": "51841/24000",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "VH05_C33_14",
+      "shot": "VH05",
+      "event": "VH05_C33_14",
+      "asset": "C33",
+      "stem": "dialogue",
+      "intent": "C33",
+      "duration_seconds": "22/5",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "VH05_C34_15",
+      "shot": "VH05",
+      "event": "VH05_C34_15",
+      "asset": "C34",
+      "stem": "dialogue",
+      "intent": "C34",
+      "duration_seconds": "12/5",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "VH05_C34b_16",
+      "shot": "VH05",
+      "event": "VH05_C34b_16",
+      "asset": "C34b",
+      "stem": "dialogue",
+      "intent": "C34b",
+      "duration_seconds": "54/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR01_C35_17",
+      "shot": "FR01",
+      "event": "FR01_C35_17",
+      "asset": "C35",
+      "stem": "dialogue",
+      "intent": "C35",
+      "duration_seconds": "146/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR02_L36_18",
+      "shot": "FR02",
+      "event": "FR02_L36_18",
+      "asset": "L36",
+      "stem": "dialogue",
+      "intent": "L36",
+      "duration_seconds": "52/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR02_L37_19",
+      "shot": "FR02",
+      "event": "FR02_L37_19",
+      "asset": "L37",
+      "stem": "dialogue",
+      "intent": "L37",
+      "duration_seconds": "46/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "N03_C38_20",
+      "shot": "N03",
+      "event": "N03_C38_20",
+      "asset": "C38",
+      "stem": "dialogue",
+      "intent": "C38",
+      "duration_seconds": "112/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR03_complain_C39_21",
+      "shot": "FR03_complain",
+      "event": "FR03_complain_C39_21",
+      "asset": "C39",
+      "stem": "dialogue",
+      "intent": "C39",
+      "duration_seconds": "124/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR04_C40_22",
+      "shot": "FR04",
+      "event": "FR04_C40_22",
+      "asset": "C40",
+      "stem": "dialogue",
+      "intent": "C40",
+      "duration_seconds": "102/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR04_L41_23",
+      "shot": "FR04",
+      "event": "FR04_L41_23",
+      "asset": "L41",
+      "stem": "dialogue",
+      "intent": "L41",
+      "duration_seconds": "36/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR05_C42_24",
+      "shot": "FR05",
+      "event": "FR05_C42_24",
+      "asset": "C42",
+      "stem": "dialogue",
+      "intent": "C42",
+      "duration_seconds": "74/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR05_C43_25",
+      "shot": "FR05",
+      "event": "FR05_C43_25",
+      "asset": "C43",
+      "stem": "dialogue",
+      "intent": "C43",
+      "duration_seconds": "116/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "N04_trophy_C48_26",
+      "shot": "N04_trophy",
+      "event": "N04_trophy_C48_26",
+      "asset": "C48",
+      "stem": "dialogue",
+      "intent": "C48",
+      "duration_seconds": "58/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "N04_meltdown_C46_27",
+      "shot": "N04_meltdown",
+      "event": "N04_meltdown_C46_27",
+      "asset": "C46",
+      "stem": "dialogue",
+      "intent": "C46",
+      "duration_seconds": "252/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_near_city-ping_28",
+      "shot": "CP02_near",
+      "event": "CP02_near_city-ping_28",
+      "asset": "city-ping",
+      "stem": "plot-effects",
+      "intent": "city-ping",
+      "duration_seconds": "1/2",
+      "gain_db": -2,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_chase-score_29",
+      "shot": "CP01",
+      "event": "CP01_chase-score_29",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "9",
+      "gain_db": -24,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_far_chase-score_30",
+      "shot": "CP02_far",
+      "event": "CP02_far_chase-score_30",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "5",
+      "gain_db": -24,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_near_chase-score_31",
+      "shot": "CP02_near",
+      "event": "CP02_near_chase-score_31",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "3",
+      "gain_db": -24,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_chase-score_32",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_chase-score_32",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "7/2",
+      "gain_db": -24,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_courier_chase-score_33",
+      "shot": "CP04_courier",
+      "event": "CP04_courier_chase-score_33",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "6",
+      "gain_db": -24,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP05_chase-score_34",
+      "shot": "CP05",
+      "event": "CP05_chase-score_34",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "5",
+      "gain_db": -24,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "N03_question-motif_35",
+      "shot": "N03",
+      "event": "N03_question-motif_35",
+      "asset": "question-motif",
+      "stem": "music",
+      "intent": "question-motif",
+      "duration_seconds": "8/5",
+      "gain_db": -5,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "N04_dark_question-motif_36",
+      "shot": "N04_dark",
+      "event": "N04_dark_question-motif_36",
+      "asset": "question-motif",
+      "stem": "music",
+      "intent": "question-motif",
+      "duration_seconds": "8/5",
+      "gain_db": -2,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "N04_reveal_switch_37",
+      "shot": "N04_reveal",
+      "event": "N04_reveal_switch_37",
+      "asset": "switch",
+      "stem": "foley",
+      "intent": "switch",
+      "duration_seconds": "9/100",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "N04_reveal_answer-note_38",
+      "shot": "N04_reveal",
+      "event": "N04_reveal_answer-note_38",
+      "asset": "answer-note",
+      "stem": "music",
+      "intent": "answer-note",
+      "duration_seconds": "11/10",
+      "gain_db": -2,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "N04_tap_tiny-tap_39",
+      "shot": "N04_tap",
+      "event": "N04_tap_tiny-tap_39",
+      "asset": "tiny-tap",
+      "stem": "foley",
+      "intent": "tiny-tap",
+      "duration_seconds": "7/50",
+      "gain_db": 0,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "VH01_shirt-move_40",
+      "shot": "VH01",
+      "event": "VH01_shirt-move_40",
+      "asset": "shirt-move",
+      "stem": "foley",
+      "intent": "shirt-move",
+      "duration_seconds": "13/20",
+      "gain_db": -3,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR05_paper-handoff_41",
+      "shot": "FR05",
+      "event": "FR05_paper-handoff_41",
+      "asset": "paper-handoff",
+      "stem": "foley",
+      "intent": "paper-handoff",
+      "duration_seconds": "1/2",
+      "gain_db": -8,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_courier_trolley_42",
+      "shot": "CP04_courier",
+      "event": "CP04_courier_trolley_42",
+      "asset": "trolley",
+      "stem": "foley",
+      "intent": "Recognisable courier callback",
+      "duration_seconds": "9/20",
+      "gain_db": -4,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR05_trolley_43",
+      "shot": "FR05",
+      "event": "FR05_trolley_43",
+      "asset": "trolley",
+      "stem": "foley",
+      "intent": "Recognisable courier callback",
+      "duration_seconds": "9/20",
+      "gain_db": -4,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "VH03_telephone_44",
+      "shot": "VH03",
+      "event": "VH03_telephone_44",
+      "asset": "telephone",
+      "stem": "foley",
+      "intent": "Privileged gold line answered promptly",
+      "duration_seconds": "17/20",
+      "gain_db": -7,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR05_medal_45",
+      "shot": "FR05",
+      "event": "FR05_medal_45",
+      "asset": "medal",
+      "stem": "foley",
+      "intent": "Unused runners-up medal callback",
+      "duration_seconds": "11/20",
+      "gain_db": -3,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_46",
+      "shot": "CP01",
+      "event": "CP01_boot_46",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_47",
+      "shot": "CP01",
+      "event": "CP01_boot_47",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_48",
+      "shot": "CP01",
+      "event": "CP01_boot_48",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_49",
+      "shot": "CP01",
+      "event": "CP01_boot_49",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_50",
+      "shot": "CP01",
+      "event": "CP01_boot_50",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_51",
+      "shot": "CP01",
+      "event": "CP01_boot_51",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_52",
+      "shot": "CP01",
+      "event": "CP01_boot_52",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_53",
+      "shot": "CP01",
+      "event": "CP01_boot_53",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_54",
+      "shot": "CP01",
+      "event": "CP01_boot_54",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_55",
+      "shot": "CP01",
+      "event": "CP01_boot_55",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_56",
+      "shot": "CP01",
+      "event": "CP01_boot_56",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_57",
+      "shot": "CP01",
+      "event": "CP01_boot_57",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_58",
+      "shot": "CP01",
+      "event": "CP01_boot_58",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_59",
+      "shot": "CP01",
+      "event": "CP01_boot_59",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_60",
+      "shot": "CP01",
+      "event": "CP01_boot_60",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_61",
+      "shot": "CP01",
+      "event": "CP01_boot_61",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_62",
+      "shot": "CP01",
+      "event": "CP01_boot_62",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_63",
+      "shot": "CP01",
+      "event": "CP01_boot_63",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_64",
+      "shot": "CP01",
+      "event": "CP01_boot_64",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_65",
+      "shot": "CP01",
+      "event": "CP01_boot_65",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_66",
+      "shot": "CP01",
+      "event": "CP01_boot_66",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_67",
+      "shot": "CP01",
+      "event": "CP01_boot_67",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP01_boot_68",
+      "shot": "CP01",
+      "event": "CP01_boot_68",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_far_boot_69",
+      "shot": "CP02_far",
+      "event": "CP02_far_boot_69",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_far_boot_70",
+      "shot": "CP02_far",
+      "event": "CP02_far_boot_70",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_far_boot_71",
+      "shot": "CP02_far",
+      "event": "CP02_far_boot_71",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_far_boot_72",
+      "shot": "CP02_far",
+      "event": "CP02_far_boot_72",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_far_boot_73",
+      "shot": "CP02_far",
+      "event": "CP02_far_boot_73",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_far_boot_74",
+      "shot": "CP02_far",
+      "event": "CP02_far_boot_74",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_far_boot_75",
+      "shot": "CP02_far",
+      "event": "CP02_far_boot_75",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_far_boot_76",
+      "shot": "CP02_far",
+      "event": "CP02_far_boot_76",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_far_boot_77",
+      "shot": "CP02_far",
+      "event": "CP02_far_boot_77",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_far_boot_78",
+      "shot": "CP02_far",
+      "event": "CP02_far_boot_78",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_near_boot_79",
+      "shot": "CP02_near",
+      "event": "CP02_near_boot_79",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_near_boot_80",
+      "shot": "CP02_near",
+      "event": "CP02_near_boot_80",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_near_boot_81",
+      "shot": "CP02_near",
+      "event": "CP02_near_boot_81",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_near_boot_82",
+      "shot": "CP02_near",
+      "event": "CP02_near_boot_82",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP02_near_boot_83",
+      "shot": "CP02_near",
+      "event": "CP02_near_boot_83",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_boot_84",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_boot_84",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_boot_85",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_boot_85",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_boot_86",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_boot_86",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_boot_87",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_boot_87",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_boot_88",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_boot_88",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_boot_89",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_boot_89",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_boot_90",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_boot_90",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_boot_91",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_boot_91",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_boot_92",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_boot_92",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_boot_93",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_boot_93",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_boot_94",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_boot_94",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_boot_95",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_boot_95",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_panic_boot_96",
+      "shot": "CP03_panic",
+      "event": "CP03_panic_boot_96",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_pep_boot_97",
+      "shot": "CP03_pep",
+      "event": "CP03_pep_boot_97",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -17,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_pep_boot_98",
+      "shot": "CP03_pep",
+      "event": "CP03_pep_boot_98",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -17,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_pep_boot_99",
+      "shot": "CP03_pep",
+      "event": "CP03_pep_boot_99",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -17,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_pep_boot_100",
+      "shot": "CP03_pep",
+      "event": "CP03_pep_boot_100",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -17,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_pep_boot_101",
+      "shot": "CP03_pep",
+      "event": "CP03_pep_boot_101",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -17,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_pep_boot_102",
+      "shot": "CP03_pep",
+      "event": "CP03_pep_boot_102",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -17,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP03_pep_boot_103",
+      "shot": "CP03_pep",
+      "event": "CP03_pep_boot_103",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -17,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_reply_boot_104",
+      "shot": "CP04_reply",
+      "event": "CP04_reply_boot_104",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_reply_boot_105",
+      "shot": "CP04_reply",
+      "event": "CP04_reply_boot_105",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_reply_boot_106",
+      "shot": "CP04_reply",
+      "event": "CP04_reply_boot_106",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_reply_boot_107",
+      "shot": "CP04_reply",
+      "event": "CP04_reply_boot_107",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_reply_boot_108",
+      "shot": "CP04_reply",
+      "event": "CP04_reply_boot_108",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_reply_boot_109",
+      "shot": "CP04_reply",
+      "event": "CP04_reply_boot_109",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_reply_boot_110",
+      "shot": "CP04_reply",
+      "event": "CP04_reply_boot_110",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_reply_boot_111",
+      "shot": "CP04_reply",
+      "event": "CP04_reply_boot_111",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_reply_boot_112",
+      "shot": "CP04_reply",
+      "event": "CP04_reply_boot_112",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_reply_boot_113",
+      "shot": "CP04_reply",
+      "event": "CP04_reply_boot_113",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_reply_boot_114",
+      "shot": "CP04_reply",
+      "event": "CP04_reply_boot_114",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_reply_boot_115",
+      "shot": "CP04_reply",
+      "event": "CP04_reply_boot_115",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP04_reply_boot_116",
+      "shot": "CP04_reply",
+      "event": "CP04_reply_boot_116",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP05_boot_117",
+      "shot": "CP05",
+      "event": "CP05_boot_117",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP05_boot_118",
+      "shot": "CP05",
+      "event": "CP05_boot_118",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP05_boot_119",
+      "shot": "CP05",
+      "event": "CP05_boot_119",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP05_boot_120",
+      "shot": "CP05",
+      "event": "CP05_boot_120",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP05_boot_121",
+      "shot": "CP05",
+      "event": "CP05_boot_121",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "CP05_boot_122",
+      "shot": "CP05",
+      "event": "CP05_boot_122",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "boot",
+      "duration_seconds": "17/100",
+      "gain_db": -22,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "VH01_ref-whistle_123",
+      "shot": "VH01",
+      "event": "VH01_ref-whistle_123",
+      "asset": "ref-whistle",
+      "stem": "plot-effects",
+      "intent": "ref-whistle",
+      "duration_seconds": "21/50",
+      "gain_db": -8,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "VH04_button_confirmation_124",
+      "shot": "VH04_button",
+      "event": "VH04_button_confirmation_124",
+      "asset": "confirmation",
+      "stem": "plot-effects",
+      "intent": "confirmation",
+      "duration_seconds": "3/10",
+      "gain_db": -15,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR03_cross_ball-strike_125",
+      "shot": "FR03_cross",
+      "event": "FR03_cross_ball-strike_125",
+      "asset": "ball-strike",
+      "stem": "foley",
+      "intent": "ball-strike",
+      "duration_seconds": "11/20",
+      "gain_db": -5,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR03_cross_dry-impact_126",
+      "shot": "FR03_cross",
+      "event": "FR03_cross_dry-impact_126",
+      "asset": "dry-impact",
+      "stem": "plot-effects",
+      "intent": "dry-impact",
+      "duration_seconds": "1/5",
+      "gain_db": -3,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR03_cross_goal-cheer_127",
+      "shot": "FR03_cross",
+      "event": "FR03_cross_goal-cheer_127",
+      "asset": "goal-cheer",
+      "stem": "crowd",
+      "intent": "goal-cheer",
+      "duration_seconds": "999/160",
+      "gain_db": -5,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "FR03_cross_fortress-swell_128",
+      "shot": "FR03_cross",
+      "event": "FR03_cross_fortress-swell_128",
+      "asset": "fortress-swell",
+      "stem": "music",
+      "intent": "fortress-swell",
+      "duration_seconds": "3/2",
+      "gain_db": -18,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "N04_trophy_approval-choir_129",
+      "shot": "N04_trophy",
+      "event": "N04_trophy_approval-choir_129",
+      "asset": "approval-choir",
+      "stem": "music",
+      "intent": "approval-choir",
+      "duration_seconds": "37/20",
+      "gain_db": -14,
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    },
+    {
+      "id": "paper_throw",
+      "shot": "N04_tap",
+      "event": "paper_throw",
+      "asset": "paper",
+      "stem": "foley",
+      "intent": "Crumpled notes thrown after the outburst",
+      "gain_db": -11,
+      "duration_seconds": "0.8",
+      "fade_in_seconds": 0.004,
+      "fade_out_seconds": 0.04,
+      "allow_boundary_trim": true
+    }
+  ],
+  "shots": [
+    {
+      "id": "CP00",
+      "start_frame": 1,
+      "events": {
+        "CP00_C00_0": 22
+      }
+    },
+    {
+      "id": "CP01",
+      "start_frame": 179,
+      "events": {
+        "CP01_C19_1": 15,
+        "CP01_chase-score_29": 0,
+        "CP01_boot_46": 0,
+        "CP01_boot_47": 8,
+        "CP01_boot_48": 16,
+        "CP01_boot_49": 24,
+        "CP01_boot_50": 32,
+        "CP01_boot_51": 40,
+        "CP01_boot_52": 48,
+        "CP01_boot_53": 56,
+        "CP01_boot_54": 64,
+        "CP01_boot_55": 72,
+        "CP01_boot_56": 80,
+        "CP01_boot_57": 88,
+        "CP01_boot_58": 96,
+        "CP01_boot_59": 104,
+        "CP01_boot_60": 112,
+        "CP01_boot_61": 120,
+        "CP01_boot_62": 128,
+        "CP01_boot_63": 136,
+        "CP01_boot_64": 144,
+        "CP01_boot_65": 152,
+        "CP01_boot_66": 160,
+        "CP01_boot_67": 168,
+        "CP01_boot_68": 176
+      }
+    },
+    {
+      "id": "CP02_far",
+      "start_frame": 357,
+      "events": {
+        "CP02_far_L20_2": 6,
+        "CP02_far_chase-score_30": 0,
+        "CP02_far_boot_69": 0,
+        "CP02_far_boot_70": 8,
+        "CP02_far_boot_71": 16,
+        "CP02_far_boot_72": 24,
+        "CP02_far_boot_73": 32,
+        "CP02_far_boot_74": 40,
+        "CP02_far_boot_75": 48,
+        "CP02_far_boot_76": 56,
+        "CP02_far_boot_77": 64,
+        "CP02_far_boot_78": 72
+      }
+    },
+    {
+      "id": "CP02_near",
+      "start_frame": 432,
+      "events": {
+        "CP02_near_city-ping_28": 1,
+        "CP02_near_chase-score_31": 0,
+        "CP02_near_boot_79": 0,
+        "CP02_near_boot_80": 8,
+        "CP02_near_boot_81": 16,
+        "CP02_near_boot_82": 24,
+        "CP02_near_boot_83": 32
+      }
+    },
+    {
+      "id": "CP03_panic",
+      "start_frame": 468,
+      "events": {
+        "CP03_panic_C21_3": 6,
+        "CP03_panic_chase-score_32": 0,
+        "CP03_panic_boot_84": 0,
+        "CP03_panic_boot_85": 8,
+        "CP03_panic_boot_86": 16,
+        "CP03_panic_boot_87": 24,
+        "CP03_panic_boot_88": 32,
+        "CP03_panic_boot_89": 40,
+        "CP03_panic_boot_90": 48,
+        "CP03_panic_boot_91": 56,
+        "CP03_panic_boot_92": 64,
+        "CP03_panic_boot_93": 72,
+        "CP03_panic_boot_94": 80,
+        "CP03_panic_boot_95": 88,
+        "CP03_panic_boot_96": 96
+      }
+    },
+    {
+      "id": "CP03_pep",
+      "start_frame": 566,
+      "events": {
+        "CP03_pep_C22_4": 6,
+        "CP03_pep_boot_97": 0,
+        "CP03_pep_boot_98": 14,
+        "CP03_pep_boot_99": 28,
+        "CP03_pep_boot_100": 42,
+        "CP03_pep_boot_101": 56,
+        "CP03_pep_boot_102": 70,
+        "CP03_pep_boot_103": 84
+      }
+    },
+    {
+      "id": "CP04_courier",
+      "start_frame": 655,
+      "events": {
+        "CP04_courier_C24_5": 6,
+        "CP04_courier_chase-score_33": 0,
+        "CP04_courier_trolley_42": 2
+      }
+    },
+    {
+      "id": "CP04_reply",
+      "start_frame": 776,
+      "events": {
+        "CP04_reply_C25_6": 6,
+        "CP04_reply_boot_104": 0,
+        "CP04_reply_boot_105": 8,
+        "CP04_reply_boot_106": 16,
+        "CP04_reply_boot_107": 24,
+        "CP04_reply_boot_108": 32,
+        "CP04_reply_boot_109": 40,
+        "CP04_reply_boot_110": 48,
+        "CP04_reply_boot_111": 56,
+        "CP04_reply_boot_112": 64,
+        "CP04_reply_boot_113": 72,
+        "CP04_reply_boot_114": 80,
+        "CP04_reply_boot_115": 88,
+        "CP04_reply_boot_116": 96
+      }
+    },
+    {
+      "id": "CP05",
+      "start_frame": 878,
+      "events": {
+        "CP05_L26_7": 6,
+        "CP05_chase-score_34": 0,
+        "CP05_boot_117": 0,
+        "CP05_boot_118": 8,
+        "CP05_boot_119": 16,
+        "CP05_boot_120": 24,
+        "CP05_boot_121": 32,
+        "CP05_boot_122": 40
+      }
+    },
+    {
+      "id": "VH01",
+      "start_frame": 926,
+      "events": {
+        "VH01_C27_8": 45,
+        "VH01_shirt-move_40": 2,
+        "VH01_ref-whistle_123": 41
+      }
+    },
+    {
+      "id": "VH02",
+      "start_frame": 1100,
+      "events": {
+        "VH02_L28_9": 6
+      }
+    },
+    {
+      "id": "VH03",
+      "start_frame": 1187,
+      "events": {
+        "VH03_telephone_44": 2
+      }
+    },
+    {
+      "id": "VH03_answer",
+      "start_frame": 1217,
+      "events": {
+        "VH03_answer_C29_10": 6
+      }
+    },
+    {
+      "id": "VH04_mikel",
+      "start_frame": 1379,
+      "events": {
+        "VH04_mikel_C30_11": 6
+      }
+    },
+    {
+      "id": "VH04_operator",
+      "start_frame": 1544,
+      "events": {
+        "VH04_operator_C31_12": 6
+      }
+    },
+    {
+      "id": "VH04_two",
+      "start_frame": 1679,
+      "events": {
+        "VH04_two_C32_13": 6
+      }
+    },
+    {
+      "id": "VH04_button",
+      "start_frame": 1750,
+      "events": {
+        "VH04_button_confirmation_124": 8
+      }
+    },
+    {
+      "id": "VH05",
+      "start_frame": 1780,
+      "events": {
+        "VH05_C33_14": 6,
+        "VH05_C34_15": 119,
+        "VH05_C34b_16": 184
+      }
+    },
+    {
+      "id": "FR01",
+      "start_frame": 2029,
+      "events": {
+        "FR01_C35_17": 15
+      }
+    },
+    {
+      "id": "FR02",
+      "start_frame": 2198,
+      "events": {
+        "FR02_L36_18": 6,
+        "FR02_L37_19": 63
+      }
+    },
+    {
+      "id": "N03",
+      "start_frame": 2319,
+      "events": {
+        "N03_C38_20": 6,
+        "N03_question-motif_35": 2
+      }
+    },
+    {
+      "id": "FR03_complain",
+      "start_frame": 2446,
+      "events": {
+        "FR03_complain_C39_21": 6
+      }
+    },
+    {
+      "id": "FR03_cross",
+      "start_frame": 2585,
+      "events": {
+        "FR03_cross_ball-strike_125": 28,
+        "FR03_cross_dry-impact_126": 63,
+        "FR03_cross_goal-cheer_127": 84,
+        "FR03_cross_fortress-swell_128": 0
+      }
+    },
+    {
+      "id": "FR04",
+      "start_frame": 2705,
+      "events": {
+        "FR04_C40_22": 6,
+        "FR04_L41_23": 111
+      }
+    },
+    {
+      "id": "FR05",
+      "start_frame": 2864,
+      "events": {
+        "FR05_C42_24": 6,
+        "FR05_C43_25": 85,
+        "FR05_paper-handoff_41": 127,
+        "FR05_trolley_43": 132,
+        "FR05_medal_45": 118
+      }
+    },
+    {
+      "id": "N04_trophy",
+      "start_frame": 3074,
+      "events": {
+        "N04_trophy_C48_26": 15,
+        "N04_trophy_approval-choir_129": 15
+      }
+    },
+    {
+      "id": "N04_dark",
+      "start_frame": 3218,
+      "events": {
+        "N04_dark_question-motif_36": 55
+      }
+    },
+    {
+      "id": "N04_reveal",
+      "start_frame": 3290,
+      "events": {
+        "N04_reveal_switch_37": 0,
+        "N04_reveal_answer-note_38": 0
+      }
+    },
+    {
+      "id": "N04_meltdown",
+      "start_frame": 3326,
+      "events": {
+        "N04_meltdown_C46_27": 2
+      }
+    },
+    {
+      "id": "N04_tap",
+      "start_frame": 3583,
+      "events": {
+        "N04_tap_tiny-tap_39": 31,
+        "paper_throw": 14
+      }
+    }
+  ]
+}

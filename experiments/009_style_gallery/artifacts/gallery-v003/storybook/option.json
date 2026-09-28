@@ -1,0 +1,29 @@
+{
+  "id": "storybook",
+  "name": "Textured storybook",
+  "category": "Finish",
+  "description": "Soft colors and subtle procedural painted grain.",
+  "limitation": "Paint appearance only; inspect texture deformation and seams for new poses.",
+  "recipe": "recipes/storybook.md",
+  "sample": "samples/storybook.png",
+  "settings": {
+    "design": "human",
+    "finish": "storybook",
+    "presentation": "scene"
+  },
+  "status": "Still tested \u00b7 motion untested",
+  "evidence": [
+    {
+      "label": "Native project",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/storybook/character.blend"
+    },
+    {
+      "label": "240-frame connection check",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/storybook/checks.json"
+    }
+  ],
+  "sources": [
+    "https://moho.lostmarble.com/pages/features"
+  ],
+  "motion_tested": false
+}

@@ -1,0 +1,66 @@
+{
+  "scope": "Technical premaster checks; subjective listening and final encoded checks are separate",
+  "ffmpeg": "ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers",
+  "outputs": [
+    {
+      "path": "stems/dialogue.wav",
+      "sha256": "6ce2d13ce58bb09dca2ca08ed6f15c39e276434997bfdf928bdf109741e3a741",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "257/8",
+        "codec": "pcm_f32le"
+      },
+      "samples": 1542000,
+      "decoded": true,
+      "finite_samples": true
+    },
+    {
+      "path": "stems/music.wav",
+      "sha256": "608a3fd2779355111f4b646db368b5f500c9087ec3f42fb626b3c18fde95b332",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "257/8",
+        "codec": "pcm_f32le"
+      },
+      "samples": 1542000,
+      "decoded": true,
+      "finite_samples": true
+    },
+    {
+      "path": "stems/plot-effects.wav",
+      "sha256": "1396244d7315d6294272ad93df6b969a3e7b55c284f6e0740eab31086f9be650",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "257/8",
+        "codec": "pcm_f32le"
+      },
+      "samples": 1542000,
+      "decoded": true,
+      "finite_samples": true
+    },
+    {
+      "path": "mix-premaster.wav",
+      "sha256": "92a9265b74723a9c919bafbceeee74b1a85d20a27824498fce8cb7c56433e346",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "257/8",
+        "codec": "pcm_f32le"
+      },
+      "samples": 1542000,
+      "decoded": true,
+      "finite_samples": true
+    }
+  ],
+  "premaster_measurement": {
+    "input_i": "-22.35",
+    "input_tp": "-8.13",
+    "input_lra": "7.50",
+    "input_thresh": "-35.01"
+  },
+  "finishing_required": true,
+  "peak_above_full_scale": false
+}

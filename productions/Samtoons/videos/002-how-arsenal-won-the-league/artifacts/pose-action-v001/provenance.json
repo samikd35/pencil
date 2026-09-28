@@ -1,0 +1,18 @@
+{
+  "source_blend": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v001/samtoons-final.blend",
+  "source_sha256": "5e98787d7e235776c2e025cdddddbdf0956a4ee8382a38085b427b612e546f73",
+  "construction": "complete matching pose substitutions; no pasted head or generic replacement body",
+  "drawing_scale": 0.0037344398340248964,
+  "run_step_distance": 1.7,
+  "run_half_stride_frames": 8,
+  "jump": {
+    "seconds": 0.6666666666666666,
+    "gravity": 9.81,
+    "launch_vy": 2.909734052841356,
+    "vx": 2.4
+  },
+  "images": {
+    "run-sheet.png": "e693d4dd20a1663caef8e2088f87a9fb4c08fd71cdd276813d10cac8847966f0",
+    "jump-sheet.png": "f05aee6bb6de464692299a78c5ae0393f36aeab2908727b5c753a09d9bfcbeb8"
+  }
+}

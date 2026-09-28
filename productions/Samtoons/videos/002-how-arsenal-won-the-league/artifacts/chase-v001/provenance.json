@@ -1,0 +1,11 @@
+{
+  "baseline": "artifacts/pose-action-v003/pose-action-v003.blend",
+  "script_sha256": "81c206544bb86b2221e88766a48d5cd4e3e4b0d73f706fd02fb98b4c188d15a3",
+  "images": {
+    "gyokeres-selected.png": "55304b3f5a1c21ebd31a653919394c817b86b6d05343b2294389209dcd10abfa",
+    "carriers.png": "e53e3142d85b82ecbcc0857fd72e8d06c345298b0c15469f69e8570753b047a2",
+    "managers.png": "c79c0404d4e28d1f99a6a079d4e075f42be24661e036758e6cbe6532d33880fe"
+  },
+  "construction": "complete pose drawings, editable selectors/travel/camera and local support corrections",
+  "new_character_assets": "pending review"
+}

@@ -1,0 +1,22 @@
+{
+  "S002_v005_N04_dark": {
+    "frames": 96,
+    "shared_room": true
+  },
+  "S002_v005_N04_reveal": {
+    "frames": 36,
+    "shared_room": true
+  },
+  "S002_v006_N04_meltdown": {
+    "frames": 168,
+    "shared_room": true
+  },
+  "S002_v006_N04_tap": {
+    "frames": 60,
+    "shared_room": true
+  },
+  "paper": {
+    "surface_x_at_frame20": 3.3440001010894775,
+    "release_matches_hand": true
+  }
+}

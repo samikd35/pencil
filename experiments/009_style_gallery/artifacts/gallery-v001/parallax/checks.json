@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "frames": 240,
+  "controllers": 12,
+  "max_endpoint_gap": 6.664001874625056e-08,
+  "saved_project_hand_edit": "passed",
+  "limits": "Endpoint/driver evidence does not certify every visible overlap or cartoon appeal.",
+  "style": "parallax",
+  "source_sha256": "b82d6fb5cfb9aecc19955de43401fe3b5bd2d0d440d9019bba3592b1c78e63b2",
+  "source_preserved": true,
+  "contact_geometry_240_frames": "identical",
+  "artwork": "Native editable curves, flat meshes and procedural materials"
+}

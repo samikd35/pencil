@@ -1,0 +1,15 @@
+{
+  "catalog_version": 2,
+  "reference_images": 19,
+  "recipes_with_reference_specific_targets": 19,
+  "source_compositions_dimensions_and_decoded_pixels_preserved": true,
+  "source_sha256_and_final_png_sha256_verified": true,
+  "visual_review": "All selected source images and the final five menu rows inspected. Replaced weak/ambiguous selections and the food WEBP whose hidden RGB differed from its alpha-composited appearance.",
+  "selection_test": "PASS: pipeline/test_styles.py; attribution and target validation, reference pinning, unchanged timing/audio, idempotent resume, version archives, affected visual checkpoint invalidation, tamper rejection.",
+  "gallery_test": "PASS: pipeline/styles/test_gallery.cjs; 19 images/source links/credits/targets, category filters, selection, copy and clipboard fallback in an isolated DOM fixture.",
+  "skill_validation": "PASS: quick_validate.py for installed produce-pencil-animation.",
+  "legacy_selections": "PASS: five existing version-1 selections resume unchanged; ten production/journal hashes preserved.",
+  "browser_layout": "Not exercised in a browser. The prior local browser preview policy block was respected; static artwork and shipped JS behavior were reviewed separately.",
+  "new_animation_rendered": false,
+  "scope": "Reference library and production workflow revision. External artwork quality is the production target, not a claim that the current rig has reproduced every reference."
+}

@@ -1,0 +1,44 @@
+{
+  "outputs": [
+    {
+      "file": "batch02-review-v020.mp4",
+      "sha256": "902c74fcb54137bc23ff7666157c48d9afe374e3bc2676977ba39294692dca49",
+      "frames": 1047,
+      "video_seconds": 43.625,
+      "audio_seconds": 43.625,
+      "resolution": [
+        1280,
+        720
+      ],
+      "fps": 24,
+      "decoded": true
+    },
+    {
+      "file": "opening-through-defence-v020.mp4",
+      "sha256": "8a7b93555be57cba97462cd433f3e14bdbe6e50c46ea726e655d1ce7a33eca6a",
+      "frames": 2716,
+      "video_seconds": 113.166667,
+      "audio_seconds": 113.200667,
+      "resolution": [
+        1280,
+        720
+      ],
+      "fps": 24,
+      "decoded": true
+    }
+  ],
+  "premaster_loudness": {
+    "input_i": "-23.13",
+    "input_tp": "-7.12",
+    "input_lra": "11.90",
+    "input_thresh": "-34.59",
+    "output_i": "-16.10",
+    "output_tp": "-1.50",
+    "output_lra": "11.20",
+    "output_thresh": "-27.45",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "listening": "Not performed by agent; user playback review pending",
+  "visual_review": "See README for exact inspected frames and limits"
+}

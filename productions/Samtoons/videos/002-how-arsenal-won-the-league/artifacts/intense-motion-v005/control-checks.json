@@ -1,0 +1,22 @@
+{
+  "scene": "S002_intense_motion_v005",
+  "frames": 192,
+  "fps": 24,
+  "foot_controls": 4,
+  "planted_intervals": [
+    [
+      1,
+      43
+    ],
+    [
+      77,
+      119
+    ],
+    [
+      155,
+      192
+    ]
+  ],
+  "max_control_drift": 0.0,
+  "limits": "Control targets only; rendered foot surfaces and deformation require visual review. No normal-speed acceptance claimed."
+}

@@ -1,0 +1,7 @@
+{
+  "revision": "v015-review2",
+  "action_frames": 192,
+  "maximum_contact_error_m": 1.90866149133112e-06,
+  "neutral_contact_compensation_m": 7.494005416219807e-16,
+  "scope": "Registered support anchor and neutral offset check; not creative approval."
+}

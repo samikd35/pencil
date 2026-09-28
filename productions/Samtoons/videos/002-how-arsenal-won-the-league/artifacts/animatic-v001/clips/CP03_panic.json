@@ -1,0 +1,19 @@
+{
+  "id": "CP03_panic",
+  "chapter": 4,
+  "panel": 3,
+  "start_frame": 2932,
+  "frames": 84,
+  "lines": [
+    21
+  ],
+  "source": "boards/chapter-4.png",
+  "camera": "hold",
+  "crop": [
+    688,
+    387,
+    674,
+    367
+  ],
+  "source_sha256": "96ca0d7543ed41895f2901df29c84d645dcc454023836c954c0ef7f9329ae3b2"
+}

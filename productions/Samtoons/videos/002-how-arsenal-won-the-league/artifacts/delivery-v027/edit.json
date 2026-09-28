@@ -1,0 +1,426 @@
+[
+  {
+    "id": "N01",
+    "start_frame": 1,
+    "frames": 180,
+    "local_start": 1,
+    "scene": "S002_B01_v016_narrator",
+    "source": "opening-motion"
+  },
+  {
+    "id": "OP01_banner",
+    "start_frame": 181,
+    "frames": 48,
+    "local_start": 1,
+    "scene": "S002_B01_v016_opening",
+    "source": "opening-motion"
+  },
+  {
+    "id": "OP01_year",
+    "start_frame": 229,
+    "frames": 182,
+    "local_start": 49,
+    "scene": "S002_B01_v016_opening",
+    "source": "opening-dialogue"
+  },
+  {
+    "id": "OP02_truck",
+    "start_frame": 411,
+    "frames": 56,
+    "local_start": 150,
+    "scene": "S002_B01_v016_opening",
+    "source": "opening-motion"
+  },
+  {
+    "id": "OP02_arteta",
+    "start_frame": 467,
+    "frames": 125,
+    "local_start": 287,
+    "scene": "S002_B01_v016_opening",
+    "source": "opening-dialogue"
+  },
+  {
+    "id": "OP02_driver",
+    "start_frame": 592,
+    "frames": 153,
+    "local_start": 412,
+    "scene": "S002_B01_v016_opening",
+    "source": "opening-dialogue"
+  },
+  {
+    "id": "OP03_phone",
+    "start_frame": 745,
+    "frames": 143,
+    "local_start": 565,
+    "scene": "S002_B01_v016_opening",
+    "source": "opening-dialogue"
+  },
+  {
+    "id": "TR01",
+    "start_frame": 888,
+    "frames": 192,
+    "local_start": 1,
+    "scene": "S002_B01_v016_unveiling",
+    "source": "opening-motion"
+  },
+  {
+    "id": "TR02_flag",
+    "start_frame": 1080,
+    "frames": 120,
+    "local_start": 193,
+    "scene": "S002_B01_v016_unveiling",
+    "source": "opening-dialogue"
+  },
+  {
+    "id": "TR02_reaction",
+    "start_frame": 1200,
+    "frames": 144,
+    "local_start": 313,
+    "scene": "S002_B01_v016_unveiling",
+    "source": "opening-dialogue"
+  },
+  {
+    "id": "TR03_warning",
+    "start_frame": 1344,
+    "frames": 114,
+    "local_start": 1,
+    "scene": "S002_B02_v017_training",
+    "source": "opening-dialogue"
+  },
+  {
+    "id": "TR03_kick",
+    "start_frame": 1458,
+    "frames": 72,
+    "local_start": 97,
+    "scene": "S002_B02_v017_training",
+    "source": "opening-motion"
+  },
+  {
+    "id": "TR03_praise",
+    "start_frame": 1530,
+    "frames": 92,
+    "local_start": 187,
+    "scene": "S002_B02_v017_training",
+    "source": "opening-dialogue"
+  },
+  {
+    "id": "TR04",
+    "start_frame": 1622,
+    "frames": 48,
+    "local_start": 253,
+    "scene": "S002_B02_v017_training",
+    "source": "opening-motion"
+  },
+  {
+    "id": "CD01_cross",
+    "start_frame": 1670,
+    "frames": 197,
+    "local_start": 1,
+    "scene": "S002_defence_v021",
+    "source": "defence"
+  },
+  {
+    "id": "CD01_header",
+    "start_frame": 1867,
+    "frames": 72,
+    "local_start": 198,
+    "scene": "S002_defence_v021",
+    "source": "defence"
+  },
+  {
+    "id": "CD02",
+    "start_frame": 1939,
+    "frames": 122,
+    "local_start": 270,
+    "scene": "S002_defence_v021",
+    "source": "defence"
+  },
+  {
+    "id": "CD03",
+    "start_frame": 2061,
+    "frames": 120,
+    "local_start": 392,
+    "scene": "S002_defence_v021",
+    "source": "defence"
+  },
+  {
+    "id": "CD04",
+    "start_frame": 2181,
+    "frames": 296,
+    "local_start": 1,
+    "scene": "S002_defence_v022_coach_reactions",
+    "source": "defence"
+  },
+  {
+    "id": "CD05",
+    "start_frame": 2477,
+    "frames": 144,
+    "local_start": 712,
+    "scene": "S002_defence_v021",
+    "source": "defence"
+  },
+  {
+    "id": "N02",
+    "start_frame": 2621,
+    "frames": 48,
+    "local_start": 1,
+    "scene": "S002_narrator_v020",
+    "source": "defence"
+  },
+  {
+    "id": "CD05_proud",
+    "start_frame": 2669,
+    "frames": 84,
+    "local_start": 904,
+    "scene": "S002_defence_v021",
+    "source": "defence"
+  },
+  {
+    "id": "CD05_ping",
+    "start_frame": 2753,
+    "frames": 240,
+    "local_start": 1,
+    "scene": "S002_defence_v022_City",
+    "source": "defence"
+  },
+  {
+    "id": "CP00",
+    "start_frame": 2993,
+    "frames": 178,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP00",
+    "source": "remaining"
+  },
+  {
+    "id": "CP01",
+    "start_frame": 3171,
+    "frames": 178,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP01",
+    "source": "remaining"
+  },
+  {
+    "id": "CP02_far",
+    "start_frame": 3349,
+    "frames": 75,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP02_far",
+    "source": "remaining"
+  },
+  {
+    "id": "CP02_near",
+    "start_frame": 3424,
+    "frames": 36,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP02_near",
+    "source": "remaining"
+  },
+  {
+    "id": "CP03_panic",
+    "start_frame": 3460,
+    "frames": 98,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP03_panic",
+    "source": "remaining"
+  },
+  {
+    "id": "CP03_pep",
+    "start_frame": 3558,
+    "frames": 89,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP03_pep",
+    "source": "remaining"
+  },
+  {
+    "id": "CP04_courier",
+    "start_frame": 3647,
+    "frames": 121,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP04_courier",
+    "source": "remaining"
+  },
+  {
+    "id": "CP04_reply",
+    "start_frame": 3768,
+    "frames": 102,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP04_reply",
+    "source": "remaining"
+  },
+  {
+    "id": "CP05",
+    "start_frame": 3870,
+    "frames": 48,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP05",
+    "source": "remaining"
+  },
+  {
+    "id": "VH01",
+    "start_frame": 3918,
+    "frames": 174,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH01",
+    "source": "remaining"
+  },
+  {
+    "id": "VH02",
+    "start_frame": 4092,
+    "frames": 87,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH02",
+    "source": "remaining"
+  },
+  {
+    "id": "VH03",
+    "start_frame": 4179,
+    "frames": 30,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH03",
+    "source": "remaining"
+  },
+  {
+    "id": "VH03_answer",
+    "start_frame": 4209,
+    "frames": 162,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH03_answer",
+    "source": "remaining"
+  },
+  {
+    "id": "VH04_mikel",
+    "start_frame": 4371,
+    "frames": 165,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH04_mikel",
+    "source": "remaining"
+  },
+  {
+    "id": "VH04_operator",
+    "start_frame": 4536,
+    "frames": 135,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH04_operator",
+    "source": "remaining"
+  },
+  {
+    "id": "VH04_two",
+    "start_frame": 4671,
+    "frames": 71,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH04_two",
+    "source": "remaining"
+  },
+  {
+    "id": "VH04_button",
+    "start_frame": 4742,
+    "frames": 30,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH04_button",
+    "source": "remaining"
+  },
+  {
+    "id": "VH05",
+    "start_frame": 4772,
+    "frames": 249,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH05",
+    "source": "remaining"
+  },
+  {
+    "id": "FR01",
+    "start_frame": 5021,
+    "frames": 169,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_FR01",
+    "source": "remaining"
+  },
+  {
+    "id": "FR02",
+    "start_frame": 5190,
+    "frames": 121,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_FR02",
+    "source": "remaining"
+  },
+  {
+    "id": "N03",
+    "start_frame": 5311,
+    "frames": 127,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_N03",
+    "source": "remaining"
+  },
+  {
+    "id": "FR03_complain",
+    "start_frame": 5438,
+    "frames": 139,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_FR03_complain",
+    "source": "remaining"
+  },
+  {
+    "id": "FR03_cross",
+    "start_frame": 5577,
+    "frames": 120,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_FR03_cross",
+    "source": "remaining"
+  },
+  {
+    "id": "FR04",
+    "start_frame": 5697,
+    "frames": 159,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_FR04",
+    "source": "remaining"
+  },
+  {
+    "id": "FR05",
+    "start_frame": 5856,
+    "frames": 210,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_FR05",
+    "source": "remaining"
+  },
+  {
+    "id": "N04_trophy",
+    "start_frame": 6066,
+    "frames": 144,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_N04_trophy",
+    "source": "remaining"
+  },
+  {
+    "id": "N04_dark",
+    "start_frame": 6210,
+    "frames": 72,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_N04_dark",
+    "source": "remaining"
+  },
+  {
+    "id": "N04_reveal",
+    "start_frame": 6282,
+    "frames": 36,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_N04_reveal",
+    "source": "remaining"
+  },
+  {
+    "id": "N04_meltdown",
+    "start_frame": 6318,
+    "frames": 257,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_N04_meltdown",
+    "source": "remaining"
+  },
+  {
+    "id": "N04_tap",
+    "start_frame": 6575,
+    "frames": 60,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_N04_tap",
+    "source": "remaining"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "approved_review_audio_pcm_identical": true,
+  "pcm_hash": "SHA256=22dd8780249f771e6f1f21008891390c28fd896ec7cc1ca7457e432f26e72af6",
+  "frames": 6994,
+  "uniform_24fps_timestamps": true,
+  "native_branding_dimensions": [
+    1920,
+    1080
+  ],
+  "source_film_unchanged": true,
+  "user_approval": "v028",
+  "new_export_user_review": "not claimed",
+  "agent_listening": "not performed"
+}

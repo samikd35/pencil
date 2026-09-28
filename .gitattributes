@@ -1,0 +1,5 @@
+**/artifacts/**/*.blend filter=lfs diff=lfs merge=lfs -text
+**/artifacts/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+**/artifacts/**/*.wav filter=lfs diff=lfs merge=lfs -text
+**/artifacts/**/*.zip filter=lfs diff=lfs merge=lfs -text
+**/artifacts/**/*.m4a filter=lfs diff=lfs merge=lfs -text

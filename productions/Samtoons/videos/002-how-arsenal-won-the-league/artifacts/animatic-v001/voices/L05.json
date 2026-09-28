@@ -1,0 +1,19 @@
+{
+  "id": "L05",
+  "chapter": 1,
+  "beat": "OP02",
+  "role_and_direction": "COURIER",
+  "text": "Exactly. Beat the rush.",
+  "word_count": 4,
+  "seconds": 1.92,
+  "file": "L05.wav",
+  "sha256": "6d0f75544304ec2ae6459ba69bd22078d7bc898950c2a73fa3b0503987a679dd",
+  "reference_start_seconds": 12.282666666666668,
+  "role": "COURIER",
+  "direction": "Adult British man with a light nasal tenor, crisply cheerful delivery-driver manner. Smiling efficiency, oblivious to how insulting his words are. Brisk cheerful punchline. Exactly. A beat, then Beat the rush. Clean dry microphone, no music or extra words.",
+  "seed": 48,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 2.0051431669999147,
+  "path": "artifacts/animatic-v001/voices/L05.wav"
+}

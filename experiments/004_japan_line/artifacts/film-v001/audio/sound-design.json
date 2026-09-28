@@ -1,0 +1,233 @@
+{
+  "origin": "Original instrumental synthesis, designed atmosphere and Foley. No narration, speech synthesis, voice clone or source audio.",
+  "sample_rate": 48000,
+  "duration": 32,
+  "cue_count": 28,
+  "cues": [
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.19,
+      "pan": 0.13,
+      "seconds": 0.0,
+      "frame": 1
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.19,
+      "pan": -0.13,
+      "seconds": 0.265,
+      "frame": 7
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.19,
+      "pan": 0.13,
+      "seconds": 0.53,
+      "frame": 14
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.19,
+      "pan": -0.13,
+      "seconds": 0.795,
+      "frame": 20
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.19,
+      "pan": 0.13,
+      "seconds": 1.06,
+      "frame": 26
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.19,
+      "pan": -0.13,
+      "seconds": 1.3250000000000002,
+      "frame": 33
+    },
+    {
+      "kind": "step",
+      "duration": 0.12,
+      "gain": 0.23,
+      "pan": -0.05,
+      "seconds": 1.46,
+      "frame": 36
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.65,
+      "gain": 0.15,
+      "pan": 0.2,
+      "seconds": 1.85,
+      "frame": 45
+    },
+    {
+      "kind": "tap",
+      "duration": 0.09,
+      "gain": 0.13,
+      "pan": 0.25,
+      "seconds": 2.6,
+      "frame": 63
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.5,
+      "gain": 0.11,
+      "pan": 0,
+      "seconds": 4.0,
+      "frame": 97
+    },
+    {
+      "kind": "whoosh",
+      "duration": 1.7,
+      "gain": 0.09,
+      "pan": -0.4,
+      "seconds": 5.1,
+      "frame": 123
+    },
+    {
+      "kind": "tap",
+      "duration": 0.1,
+      "gain": 0.12,
+      "pan": -0.15,
+      "seconds": 9.45,
+      "frame": 228
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.65,
+      "gain": 0.07,
+      "pan": 0.15,
+      "seconds": 14.2,
+      "frame": 342
+    },
+    {
+      "kind": "tap",
+      "duration": 0.08,
+      "gain": 0.1,
+      "pan": 0.15,
+      "seconds": 15.7,
+      "frame": 378
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.6,
+      "gain": 0.07,
+      "pan": -0.15,
+      "seconds": 17.1,
+      "frame": 411
+    },
+    {
+      "kind": "tap",
+      "duration": 0.09,
+      "gain": 0.11,
+      "pan": -0.1,
+      "seconds": 17.85,
+      "frame": 429
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.35,
+      "gain": 0.1,
+      "pan": 0,
+      "seconds": 19,
+      "frame": 457
+    },
+    {
+      "kind": "tap",
+      "duration": 0.15,
+      "gain": 0.46,
+      "pan": 0.4,
+      "seconds": 21,
+      "frame": 505
+    },
+    {
+      "kind": "scrape",
+      "duration": 0.48,
+      "gain": 0.22,
+      "pan": 0.2,
+      "seconds": 21.1,
+      "frame": 507
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.85,
+      "gain": 0.13,
+      "pan": -0.35,
+      "seconds": 21.18,
+      "frame": 509
+    },
+    {
+      "kind": "step",
+      "duration": 0.12,
+      "gain": 0.2,
+      "pan": 0.1,
+      "seconds": 24.65,
+      "frame": 593
+    },
+    {
+      "kind": "tap",
+      "duration": 0.14,
+      "gain": 0.3,
+      "pan": 0,
+      "seconds": 25.375,
+      "frame": 610
+    },
+    {
+      "kind": "whoosh",
+      "duration": 0.65,
+      "gain": 0.13,
+      "pan": -0.45,
+      "seconds": 25.47,
+      "frame": 612
+    },
+    {
+      "kind": "scrape",
+      "duration": 0.3,
+      "gain": 0.22,
+      "pan": -0.6,
+      "seconds": 26.25,
+      "frame": 631
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.1,
+      "pan": 0.15,
+      "seconds": 28.3,
+      "frame": 680
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.1,
+      "pan": 0.15,
+      "seconds": 28.6,
+      "frame": 687
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.1,
+      "pan": 0.15,
+      "seconds": 28.9,
+      "frame": 695
+    },
+    {
+      "kind": "step",
+      "duration": 0.1,
+      "gain": 0.1,
+      "pan": 0.15,
+      "seconds": 29.15,
+      "frame": 701
+    }
+  ],
+  "seed": 20221201
+}

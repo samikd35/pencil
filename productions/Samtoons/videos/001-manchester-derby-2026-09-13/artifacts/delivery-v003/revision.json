@@ -1,0 +1,18 @@
+{
+  "text": "It is Enzo!",
+  "character": "Maresca",
+  "start_seconds": 119.375,
+  "voice_duration": 0.9270416666666667,
+  "voice_gain": 1.4640042781829834,
+  "voice_source": "assets/film-voices-v004/enzo.wav",
+  "voice_sha256": "6ca9095c39a67dc18cca8d93359d2e7f7c62426a11eaf1b06272a1a326b11819",
+  "changed_audio_window": [
+    119.255,
+    120.6520625
+  ],
+  "extra_music_duck_db": -5,
+  "end_card_start": 157,
+  "end_card_seconds": 4,
+  "selected_music": "Scheming Weasel (faster version), source seconds 44\u201348, same approved source",
+  "agent_listening": false
+}

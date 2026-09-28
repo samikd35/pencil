@@ -1,0 +1,29 @@
+{
+  "id": "motion-comic",
+  "name": "Motion-comic presentation",
+  "category": "Presentation",
+  "description": "Comic framing, captions and selective held gestures.",
+  "limitation": "Panel layout and holds are authored per shot; a still cannot demonstrate timing.",
+  "recipe": "recipes/motion-comic.md",
+  "sample": "samples/motion-comic.png",
+  "settings": {
+    "design": "human",
+    "finish": "flat",
+    "presentation": "comic"
+  },
+  "status": "Still tested \u00b7 motion untested",
+  "evidence": [
+    {
+      "label": "Native project",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v002/motion-comic/character.blend"
+    },
+    {
+      "label": "240-frame connection check",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v002/motion-comic/checks.json"
+    }
+  ],
+  "sources": [
+    "https://www.realmotioncomics.com/"
+  ],
+  "motion_tested": false
+}

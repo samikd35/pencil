@@ -1,0 +1,19 @@
+{
+  "id": "doodle",
+  "name": "Doodle / sketch",
+  "category": "Finish",
+  "description": "Loose ink lines and restrained hatching on paper.",
+  "limitation": "The sample has fixed line irregularity; temporal line boil is not implemented.",
+  "recipe": "recipes/doodle.md",
+  "sample": "samples/doodle.png",
+  "settings": {
+    "design": "human",
+    "finish": "doodle",
+    "presentation": "scene"
+  },
+  "status": "Not yet validated",
+  "evidence": [],
+  "sources": [
+    "https://docs.toonboom.com/help/harmony-25/premium/reference/node/filter/animate-pencil-line-texture-node.html"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "frame": 1,
+  "max_wrist_gap": 0,
+  "hands_inside_frame": true,
+  "scope": "Reopened still pose only; occlusion and appeal require visual review."
+}

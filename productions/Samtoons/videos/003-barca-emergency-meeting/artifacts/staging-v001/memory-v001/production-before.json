@@ -1,0 +1,704 @@
+{
+  "version": 1,
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 4932,
+    "sample_rate": 48000
+  },
+  "shots": [
+    {
+      "id": "S01",
+      "start_frame": 1,
+      "events": {
+        "start": 0
+      }
+    },
+    {
+      "id": "S02",
+      "start_frame": 193,
+      "events": {
+        "start": 0
+      }
+    },
+    {
+      "id": "S03",
+      "start_frame": 241,
+      "events": {
+        "start": 0
+      }
+    },
+    {
+      "id": "S04",
+      "start_frame": 649,
+      "events": {
+        "start": 0
+      }
+    },
+    {
+      "id": "S05",
+      "start_frame": 937,
+      "events": {
+        "start": 0,
+        "plan_command": 18
+      }
+    },
+    {
+      "id": "S06",
+      "start_frame": 1105,
+      "events": {
+        "start": 0,
+        "marking_set": 34,
+        "notice": 47,
+        "line": 58,
+        "pass": 122,
+        "receive": 150,
+        "touch": 171,
+        "plant": 189,
+        "strike": 198,
+        "goal": 212,
+        "net": 217,
+        "counter": 221
+      }
+    },
+    {
+      "id": "S07",
+      "start_frame": 1417,
+      "events": {
+        "start": 0,
+        "assistant": 12,
+        "flick": 87,
+        "reaction": 170,
+        "keeper": 201,
+        "watch": 237,
+        "clipboard": 253,
+        "ball_contact": 276,
+        "release": 285
+      }
+    },
+    {
+      "id": "S08",
+      "start_frame": 1717,
+      "events": {
+        "start": 0,
+        "proof_start": 192,
+        "muller_boast": 216,
+        "perez_question": 304,
+        "flick_reaction": 341,
+        "picture_lower": 362,
+        "call_decision": 18
+      }
+    },
+    {
+      "id": "S09",
+      "start_frame": 2149,
+      "events": {
+        "start": 0,
+        "add": 11,
+        "muller": 24,
+        "join": 66,
+        "perez": 120,
+        "cup_contact": 221,
+        "robert": 240,
+        "memory_look": 356
+      }
+    },
+    {
+      "id": "S10",
+      "start_frame": 2533,
+      "events": {
+        "start": 0
+      }
+    },
+    {
+      "id": "S11",
+      "start_frame": 2797,
+      "events": {
+        "start": 0
+      }
+    },
+    {
+      "id": "S12",
+      "start_frame": 3109,
+      "events": {
+        "start": 0
+      }
+    },
+    {
+      "id": "S13",
+      "start_frame": 3421,
+      "events": {
+        "start": 0
+      }
+    },
+    {
+      "id": "S14",
+      "start_frame": 3709,
+      "events": {
+        "start": 0
+      }
+    },
+    {
+      "id": "S15",
+      "start_frame": 4141,
+      "events": {
+        "start": 0
+      }
+    },
+    {
+      "id": "S16",
+      "start_frame": 4333,
+      "events": {
+        "start": 0
+      }
+    },
+    {
+      "id": "S17",
+      "start_frame": 4813,
+      "events": {
+        "start": 0
+      }
+    }
+  ],
+  "assets": {
+    "muller_call_candidate_v001": {
+      "path": "assets/voices-v001/muller-call.wav",
+      "sha256": "2ecf7c478d36fc0154f80a2db8af29d388a194feaa0ae572eed443567f5aa0f6",
+      "source": "Original local Qwen voice-design generation; candidate",
+      "license": "Project-generated speech; model provenance in adjacent JSON",
+      "attribution": "",
+      "notes": "Not auditioned by agent; candidate only, not approved voice identity."
+    },
+    "perez_call_candidate_v001": {
+      "path": "assets/voices-v001/perez-call.wav",
+      "sha256": "e74cca448cceb5a656508cf351fbcf729ac57c8ea588a07c54cad6f9895fb5fb",
+      "source": "Original local Qwen voice-design generation; candidate",
+      "license": "Project-generated speech; model provenance in adjacent JSON",
+      "attribution": "",
+      "notes": "Not auditioned by agent; candidate only, not approved voice identity."
+    },
+    "s06-ball-strike": {
+      "path": "assets/football-v001/ball-strike.wav",
+      "sha256": "a5670c8592b954ae9d5336e7fbc84c0ddb7c785467a911bb9db4e4936c297ec1",
+      "source": "https://freesound.org/people/volivieri/sounds/37157/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "kick by volivieri — https://freesound.org/people/volivieri/sounds/37157/ — https://creativecommons.org/licenses/by/4.0/; excerpted and processed.",
+      "notes": "{\"start\": 0.32, \"source_seconds\": 0.55, \"filters\": \"highpass=f=55,afade=t=in:d=0.003,afade=t=out:st=0.35:d=0.2\", \"download\": \"https://cdn.freesound.org/previews/37/37157_374422-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+    },
+    "s06-boot-step": {
+      "path": "assets/football-v001/boot-step.wav",
+      "sha256": "8a0a021e90900cca49cceca0182e41b8f9354cdfb17609e6b2a8437c8ec29ae8",
+      "source": "Original seeded short boot contact synthesis in prepare_revision_audio.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "s06-raphinha": {
+      "path": "assets/voices-v001/raphinha-watching.wav",
+      "sha256": "718fdfb31f8a0c5b8af181810bc216fd7fd2c086e24e27dd453d60d963a49622",
+      "source": "Original local Qwen3 voice-design candidate; adjacent JSON records exact prompt, model revision and seed.",
+      "license": "Project-generated speech; model Apache-2.0",
+      "attribution": "",
+      "notes": "Candidate; no subjective listening approval recorded."
+    },
+    "s07-assistant": {
+      "path": "assets/voices-v001/assistant-seven.wav",
+      "sha256": "09aef7236f4145ed826d13f433a94d321b4e0cad97d4481a2bad5aea09376922",
+      "source": "Original local Qwen voice-design candidate; adjacent JSON records exact text, direction, seed and model.",
+      "license": "Project-generated speech; model Apache-2.0",
+      "attribution": "",
+      "notes": "Subjective listening approval pending."
+    },
+    "s07-flick": {
+      "path": "assets/voices-v001/flick-seven.wav",
+      "sha256": "62e77b012b9fdd2589e2518cbee0b5689272e5a3091e8b26728d7ca3ac4175b0",
+      "source": "Original local Qwen voice-design candidate; adjacent JSON records exact text, direction, seed and model.",
+      "license": "Project-generated speech; model Apache-2.0",
+      "attribution": "",
+      "notes": "Subjective listening approval pending."
+    },
+    "s07-keeper": {
+      "path": "assets/voices-v001/keeper-break.wav",
+      "sha256": "6a223263c9b28c74f330f282a51c288efd4a1e37dd52ec1cb4b93bf6f30f0d60",
+      "source": "Original local Qwen voice-design candidate; adjacent JSON records exact text, direction, seed and model.",
+      "license": "Project-generated speech; model Apache-2.0",
+      "attribution": "",
+      "notes": "Subjective listening approval pending."
+    },
+    "s07-paper": {
+      "path": "assets/coaches-v001/paper-handoff.wav",
+      "sha256": "4881e483b8b698397afb1fe87b5988886dd54d46388648130b2a4cd3cbf6959e",
+      "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "paper by Ezcah — https://freesound.org/people/Ezcah/sounds/248178/ — http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed.",
+      "notes": "{\"start\": 0.12, \"source_seconds\": 0.55, \"filters\": \"highpass=f=140,afade=t=in:d=0.01,afade=t=out:st=0.45:d=0.1,alimiter=limit=0.5:level=false\", \"download\": \"https://cdn.freesound.org/previews/248/248178_1900515-hq.mp3\", \"quality\": \"Freesound public high-quality MP3 preview; not the lossless original\"}"
+    },
+    "s07-pencil": {
+      "path": "assets/coaches-v001/pencil-scribble.wav",
+      "sha256": "183b2ae6196e88759a462af2fd40a2a5890309d3f4eaca6d6fd1c0a23c46cabd",
+      "source": "Original synthesis from video 002 scripts/audio_defence_v022.py",
+      "license": "Original production synthesis",
+      "attribution": "",
+      "notes": ""
+    },
+    "passage-perez-plan": {
+      "path": "assets/voices-v001/perez-plan.wav",
+      "sha256": "2a940290cd2ea859300641b52fdfc3e5a635c66aba15af16f7a6f592a2fc7375",
+      "source": "Local Qwen Base generation conditioned on the selected synthetic Perez call voice; adjacent JSON retains model and reference hashes.",
+      "license": "Project-generated speech; model provenance in adjacent JSON",
+      "attribution": "",
+      "notes": "Candidate extension. Agent has not heard playback; recurring voice identity needs audition."
+    },
+    "passage-perez-bayern": {
+      "path": "assets/voices-v001/perez-bayern.wav",
+      "sha256": "039fd9839220690b67bdfca08db133cb9fc009987c13036339edfca278d7a769",
+      "source": "Local Qwen Base generation conditioned on the selected synthetic Perez call voice; adjacent JSON retains model and reference hashes.",
+      "license": "Project-generated speech; model provenance in adjacent JSON",
+      "attribution": "",
+      "notes": "Candidate extension. Agent has not heard playback; recurring voice identity needs audition."
+    },
+    "s09-muller": {
+      "path": "assets/voices-s09-v001/muller-add.wav",
+      "sha256": "d81541ab4babfdc15d9477e68832b5fb62e88fc42c7b62956f160f944b53bcf7",
+      "source": "Local Qwen candidate; adjacent JSON records original character voice reference or new original voice direction.",
+      "license": "Project-generated speech; model Apache-2.0",
+      "attribution": "",
+      "notes": "New line; not auditioned by agent."
+    },
+    "s09-perez": {
+      "path": "assets/voices-s09-v001/perez-robert.wav",
+      "sha256": "854821e036cc6b4fdc3ec23586985106c71284290c36aa34907c69924a128533",
+      "source": "Local Qwen candidate; adjacent JSON records original character voice reference or new original voice direction.",
+      "license": "Project-generated speech; model Apache-2.0",
+      "attribution": "",
+      "notes": "New line; not auditioned by agent."
+    },
+    "s09-robert": {
+      "path": "assets/voices-s09-v001/robert-answer.wav",
+      "sha256": "0938fcdfcdeeccc0c09952d5dabbc6599930cbb7a245ead28c01c23f22d17bab",
+      "source": "Local Qwen candidate; adjacent JSON records original character voice reference or new original voice direction.",
+      "license": "Project-generated speech; model Apache-2.0",
+      "attribution": "",
+      "notes": "New line; not auditioned by agent."
+    },
+    "s09-cup": {
+      "path": "assets/voices-s09-v001/cup-tap.wav",
+      "sha256": "9aa3abd25e956d458bed7a029be1c1ca6ee9a612b5be1372d6dbd7457c05d554",
+      "source": "Video002 project-generated tiny tap sound-direction candidate, reused as a quiet tabletop contact.",
+      "license": "Project-generated sound",
+      "attribution": "",
+      "notes": "Material fit requires listening."
+    }
+  },
+  "cues": [
+    {
+      "id": "muller_call_candidate_v001",
+      "shot": "S08",
+      "event": "muller_boast",
+      "intent": "Boast establishes confidence",
+      "asset": "muller_call_candidate_v001",
+      "stem": "dialogue",
+      "duration_seconds": 2.96,
+      "gain_db": 0
+    },
+    {
+      "id": "perez_call_candidate_v001",
+      "shot": "S08",
+      "event": "perez_question",
+      "intent": "Mention of Flick triggers confidence collapse",
+      "asset": "perez_call_candidate_v001",
+      "stem": "dialogue",
+      "duration_seconds": 3.44,
+      "gain_db": 0
+    },
+    {
+      "id": "s06-line",
+      "shot": "S06",
+      "event": "line",
+      "intent": "Raphinha points out the unmarked receiver",
+      "asset": "s06-raphinha",
+      "stem": "dialogue",
+      "duration_seconds": 1.36,
+      "gain_db": 0
+    },
+    {
+      "id": "s06-pass",
+      "shot": "S06",
+      "event": "pass",
+      "intent": "Audible boot-to-ball contact at the authored visible contact",
+      "asset": "s06-ball-strike",
+      "stem": "foley",
+      "duration_seconds": 0.55,
+      "gain_db": -3,
+      "pan": -0.6
+    },
+    {
+      "id": "s06-receive",
+      "shot": "S06",
+      "event": "receive",
+      "intent": "Audible boot-to-ball contact at the authored visible contact",
+      "asset": "s06-ball-strike",
+      "stem": "foley",
+      "duration_seconds": 0.55,
+      "gain_db": -9,
+      "pan": 0.35
+    },
+    {
+      "id": "s06-touch",
+      "shot": "S06",
+      "event": "touch",
+      "intent": "Audible boot-to-ball contact at the authored visible contact",
+      "asset": "s06-ball-strike",
+      "stem": "foley",
+      "duration_seconds": 0.55,
+      "gain_db": -10,
+      "pan": 0.4
+    },
+    {
+      "id": "s06-strike",
+      "shot": "S06",
+      "event": "strike",
+      "intent": "Audible boot-to-ball contact at the authored visible contact",
+      "asset": "s06-ball-strike",
+      "stem": "foley",
+      "duration_seconds": 0.55,
+      "gain_db": 0,
+      "pan": 0.45
+    },
+    {
+      "id": "s06-step-marking_set",
+      "shot": "S06",
+      "event": "marking_set",
+      "intent": "Foot plant; sparse candidate foley",
+      "asset": "s06-boot-step",
+      "stem": "foley",
+      "duration_seconds": 0.12,
+      "gain_db": -10
+    },
+    {
+      "id": "s06-step-plant",
+      "shot": "S06",
+      "event": "plant",
+      "intent": "Foot plant; sparse candidate foley",
+      "asset": "s06-boot-step",
+      "stem": "foley",
+      "duration_seconds": 0.12,
+      "gain_db": -5
+    },
+    {
+      "id": "s07-assistant",
+      "shot": "S07",
+      "event": "assistant",
+      "asset": "s07-assistant",
+      "stem": "dialogue",
+      "duration_seconds": 2.64,
+      "gain_db": 0,
+      "offset_frames": 0,
+      "intent": "Complete spoken line with an uncut tail; offscreen keeper is identified in the subtitle."
+    },
+    {
+      "id": "s07-flick",
+      "shot": "S07",
+      "event": "flick",
+      "asset": "s07-flick",
+      "stem": "dialogue",
+      "duration_seconds": 3.92,
+      "gain_db": 0,
+      "offset_frames": 0,
+      "intent": "Complete spoken line with an uncut tail; offscreen keeper is identified in the subtitle."
+    },
+    {
+      "id": "s07-keeper",
+      "shot": "S07",
+      "event": "keeper",
+      "asset": "s07-keeper",
+      "stem": "dialogue",
+      "duration_seconds": 1.2,
+      "gain_db": 0,
+      "offset_frames": 0,
+      "intent": "Complete spoken line with an uncut tail; offscreen keeper is identified in the subtitle."
+    },
+    {
+      "id": "s07-paper-arrival",
+      "shot": "S07",
+      "event": "start",
+      "asset": "s07-paper",
+      "stem": "foley",
+      "duration_seconds": 0.25,
+      "gain_db": -15,
+      "offset_frames": 28,
+      "intent": "Result sheet presented on the word seven."
+    },
+    {
+      "id": "s07-clipboard-down",
+      "shot": "S07",
+      "event": "clipboard",
+      "asset": "s07-paper",
+      "stem": "foley",
+      "duration_seconds": 0.45,
+      "gain_db": -14,
+      "offset_frames": 0,
+      "intent": "Clipboard rests on its stand."
+    },
+    {
+      "id": "s07-step-17",
+      "shot": "S07",
+      "event": "start",
+      "asset": "s06-boot-step",
+      "stem": "foley",
+      "duration_seconds": 0.12,
+      "gain_db": -13,
+      "offset_frames": 8,
+      "intent": "Assistant approach foot plant."
+    },
+    {
+      "id": "s07-step-31",
+      "shot": "S07",
+      "event": "start",
+      "asset": "s06-boot-step",
+      "stem": "foley",
+      "duration_seconds": 0.12,
+      "gain_db": -13,
+      "offset_frames": 15,
+      "intent": "Assistant approach foot plant."
+    },
+    {
+      "id": "s07-ball-contact",
+      "shot": "S07",
+      "event": "ball_contact",
+      "asset": "s06-ball-strike",
+      "stem": "foley",
+      "duration_seconds": 0.3,
+      "gain_db": -20,
+      "offset_frames": 0,
+      "intent": "Quiet hand-to-ball contact; candidate reuse at reduced gain."
+    },
+    {
+      "id": "passage-perez-plan",
+      "shot": "S05",
+      "event": "plan_command",
+      "asset": "passage-perez-plan",
+      "stem": "dialogue",
+      "duration_seconds": 4.08,
+      "gain_db": 0,
+      "intent": "Complete missing story link; preserve the entire generated sentence and leave a tail."
+    },
+    {
+      "id": "passage-perez-bayern",
+      "shot": "S08",
+      "event": "call_decision",
+      "asset": "passage-perez-bayern",
+      "stem": "dialogue",
+      "duration_seconds": 5.44,
+      "gain_db": 0,
+      "intent": "Complete missing story link; preserve the entire generated sentence and leave a tail."
+    },
+    {
+      "id": "s07-writing-1",
+      "shot": "S07",
+      "event": "start",
+      "asset": "s07-pencil",
+      "stem": "foley",
+      "duration_seconds": 0.25,
+      "gain_db": -18,
+      "offset_frames": 6,
+      "intent": "One discrete pencil stroke; actor stops writing before looking up."
+    },
+    {
+      "id": "s07-writing-2",
+      "shot": "S07",
+      "event": "start",
+      "asset": "s07-pencil",
+      "stem": "foley",
+      "duration_seconds": 0.25,
+      "gain_db": -18,
+      "offset_frames": 23,
+      "intent": "One discrete pencil stroke; actor stops writing before looking up."
+    },
+    {
+      "id": "s07-writing-3",
+      "shot": "S07",
+      "event": "start",
+      "asset": "s07-pencil",
+      "stem": "foley",
+      "duration_seconds": 0.25,
+      "gain_db": -18,
+      "offset_frames": 42,
+      "intent": "One discrete pencil stroke; actor stops writing before looking up."
+    },
+    {
+      "id": "s09-muller",
+      "shot": "S09",
+      "event": "muller",
+      "asset": "s09-muller",
+      "stem": "dialogue",
+      "duration_seconds": 3.28,
+      "gain_db": 0,
+      "offset_frames": 0,
+      "intent": "Full original script line; unchanged playback speed and complete tail."
+    },
+    {
+      "id": "s09-perez",
+      "shot": "S09",
+      "event": "perez",
+      "asset": "s09-perez",
+      "stem": "dialogue",
+      "duration_seconds": 3.44,
+      "gain_db": 0,
+      "offset_frames": 0,
+      "intent": "Full original script line; unchanged playback speed and complete tail."
+    },
+    {
+      "id": "s09-robert",
+      "shot": "S09",
+      "event": "robert",
+      "asset": "s09-robert",
+      "stem": "dialogue",
+      "duration_seconds": 4.32,
+      "gain_db": 0,
+      "offset_frames": 0,
+      "intent": "Full original script line; unchanged playback speed and complete tail."
+    },
+    {
+      "id": "s09-cup",
+      "shot": "S09",
+      "event": "cup_contact",
+      "asset": "s09-cup",
+      "stem": "foley",
+      "duration_seconds": 0.14,
+      "gain_db": -12,
+      "offset_frames": 0,
+      "intent": "Small table contact when cup settles; not a bright glass clink."
+    }
+  ],
+  "mix_gain_db": 0,
+  "production": {
+    "name": "Samtoons",
+    "video": "003-barca-emergency-meeting",
+    "title": "Real Madrid Calls Bayern for Help…",
+    "creative_mode": "Standalone story within the established channel format",
+    "treatment": "Fictional football parody with separately verified historical/current score references",
+    "profile_version": "v004",
+    "benchmark_version": "v003",
+    "adopted_context": [
+      {
+        "source": "productions/Samtoons/README.md",
+        "path": "assets/production-context.md",
+        "sha256": "db0d617d4879803188c5fc76b0eb4e3f477466f559dd8ec69accd188ea362bc4"
+      },
+      {
+        "source": "productions/Samtoons/benchmark-v003.md",
+        "path": "assets/benchmark-v003.md",
+        "sha256": "329707ec676b0c5a7361b36eeb84df53c2fc6d99c9ee5284427cfad845c31c49"
+      },
+      {
+        "source": "pipeline/styles/construction.md",
+        "path": "assets/guidance/construction.md",
+        "sha256": "f2600d025429e22fa5c93b88b876703b02296237743fbb019833b50d59f07916"
+      },
+      {
+        "source": "pipeline/motion-planning.md",
+        "path": "assets/guidance/motion-planning.md",
+        "sha256": "37e8fa5fba46b9c2fb60a041b00c07461175858c77c32ac0e4ac8539fa051cac"
+      },
+      {
+        "source": "pipeline/sound-planning-method.md",
+        "path": "assets/guidance/sound-planning-method.md",
+        "sha256": "b7746fbd0ae430be3589ddb34370f4f0d2fb4cca7b3cf265b28cff3deef00611"
+      }
+    ],
+    "visual_direction": "Recognizable expressive caricature, coherent head-to-toe simplified drawing; user explicitly reinforced non-realistic animation on 22 September 2026.",
+    "environment_direction": "User requires environments of the same high standard as characters: believable real-world pitch/office structure, coherent scale/perspective, layered depth, attractive drawn lighting/color. Current set previews are drafts, not a world-class quality claim.",
+    "video_exceptions": [
+      "User explicitly prioritizes required motion and final screen quality over convenient manual editing in Blender. Native baked geometry/drawing swaps are permitted; do not simplify performance for generic rig editability."
+    ]
+  },
+  "format": {
+    "aspect_ratio": "16:9",
+    "width": 1920,
+    "height": 1080,
+    "selection": "Working proposal for this ensemble story; not an inherited user approval"
+  },
+  "current": {
+    "revision": "staging-v001",
+    "script": "script-v001.md",
+    "source_brief": "Samtoons_Barcelona_Emergency_Meeting_Script_Brief.md",
+    "source_check": "research/source-check-v001.md",
+    "native_sources": [
+      "artifacts/staging-v001/layouts-v002/layouts.blend",
+      "artifacts/staging-v001/training-set-v001/training-set.blend",
+      "artifacts/staging-v001/call-performance-v006/call-performance.blend",
+      "artifacts/staging-v001/call-performance-v006/stickman-foundation.blend",
+      "artifacts/staging-v001/football-performance-v002/football-performance.blend",
+      "artifacts/staging-v001/coaching-performance-v002/coaching-performance.blend",
+      "artifacts/staging-v001/passage-v001/passage-inserts.blend",
+      "artifacts/staging-v001/coaching-performance-v003/coaching-performance.blend",
+      "artifacts/staging-v001/consultation-v001/consultation.blend"
+    ],
+    "picture_review": "artifacts/staging-v001/consultation-v001/consultation-review.mp4",
+    "sound_review": "artifacts/staging-v001/consultation-v001/consultation-review.mp4",
+    "stage": "S09_consultation_staging_review",
+    "checkpoint_status": "pending_review",
+    "treatment": "assets/reference-redraw-v003/call-pose.png",
+    "staging_notes": "artifacts/staging-v001/README.md",
+    "environment_previews": [
+      "artifacts/staging-v001/training-set-v001/wide-final.png",
+      "artifacts/staging-v001/training-set-v001/finish-refined.png"
+    ],
+    "comparison_baseline": "artifacts/staging-v001/call-performance-v005/call-review.mp4",
+    "construction_notes": "artifacts/staging-v001/call-performance-v006/README.md",
+    "foundation_review": "artifacts/staging-v001/call-performance-v006/stickman-review.mp4",
+    "construction_audit": "../../research/puppet-v006-audit/README.md",
+    "baseline_selection": "User selected v006 for improvement after rejecting both independent experiments; not final quality acceptance.",
+    "development_focus": "S09 consultation staged for 16 seconds with new seated Lewandowski art, original-script dialogue, existing Müller/Pérez voice references and a supported cup set-down. S07 v003 balance and joint movement remain user-rejected, not deferred cosmetic polish. New S09 voices and staging need actual playback review.",
+    "call_picture_review": "artifacts/staging-v001/call-performance-v006/call-review.mp4",
+    "football_construction_notes": "artifacts/staging-v001/football-performance-v002/README.md",
+    "coaching_construction_notes": "artifacts/staging-v001/coaching-performance-v003/README.md",
+    "football_picture_review": "artifacts/staging-v001/football-performance-v002/football-review.mp4",
+    "passage_notes": "artifacts/staging-v001/passage-v001/README.md",
+    "passage_edit_map": "artifacts/staging-v001/passage-v001/edit-map.json",
+    "coaching_picture_review": "artifacts/staging-v001/coaching-performance-v003/coaching-review.mp4",
+    "coaching_comparison": "artifacts/staging-v001/coaching-performance-v003/coaching-before-after.mp4",
+    "consultation_picture_review": "artifacts/staging-v001/consultation-v001/consultation-review.mp4",
+    "consultation_notes": "artifacts/staging-v001/consultation-v001/README.md"
+  },
+  "cast_choices": {
+    "Madrid": "Florentino Pérez",
+    "Bayern_call": "Thomas Müller as a Bayern legend in an invented helpline scene",
+    "authority": "User reply on 22 September 2026",
+    "other_clubs": "Original fictional human delegates",
+    "Barca_keeper": "Unnamed fictional goalkeeper; same offscreen and ending voice"
+  },
+  "shot_budgets_seconds": {
+    "S01": 8,
+    "S02": 2,
+    "S03": 17,
+    "S04": 12,
+    "S05": 7,
+    "S06": 13,
+    "S07": 12.5,
+    "S08": 18,
+    "S09": 16,
+    "S10": 11,
+    "S11": 13,
+    "S12": 13,
+    "S13": 12,
+    "S14": 18,
+    "S15": 8,
+    "S16": 20,
+    "S17": 5
+  },
+  "sound_status": "S06/S07/S08 localized voice and foley candidates cached and mixed; subjective listening approval pending. Full-film soundtrack unfinished.",
+  "ownership": {
+    "script": "script-v001.md",
+    "timing": "Provisional budgets in production.json; replace with authored/recorded timing before animatic",
+    "native": "S08 v006: scripts/build_call_performance_v006.py authors and saves a fresh connected stickman foundation before attaching existing vector artwork. The v004/v005 helpers supply artwork and binding only; their pose/animate functions are not called. New body, head and eye performance; existing dialogue, mouth cues, setting and audio. Saved v006 native files contain portable keys and need no Python playback handler. New views and extreme actions remain unvalidated.",
+    "S07": "scripts/revise_coaching_performance_v003.py owns v003 poses, facial acting, camera and event timing; build_coaching_v001.py supplies artwork and revise_coaching_surfaces_v002.py supplies connected clothing. Saved native motion needs no runtime handler. Screen performance takes priority over manual-edit convenience.",
+    "S09": "scripts/build_consultation_v001.py owns the new consultation, using selected v006 call construction and native contours from trace_lewandowski_v001.py. Saved Blender source and exact audio mix own the rendered preview."
+  },
+  "next_work": [
+    "Review S09 at normal speed with sound: new likeness, cup contact, dialogue delivery and reaction timing.",
+    "Continue S10 Bayern memory and present-day match cut from Robert’s glance; author whole-body support and ball contact before interpolation.",
+    "S07 v003 balance, knee and arm/clipboard mechanics remain unresolved and rejected. Keep the feedback for consolidated repair; do not reuse those motions.",
+    "Earlier S04 ensemble and rough S05/S08 insert coverage remain pending; S08 wrist experiments remain deferred."
+  ]
+}

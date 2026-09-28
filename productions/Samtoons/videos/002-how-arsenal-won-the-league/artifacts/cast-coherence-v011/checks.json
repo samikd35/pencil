@@ -1,0 +1,39 @@
+{
+  "frames": 432,
+  "fps": 24,
+  "scope": "Source likeness, jaw/collar continuity and a single shorts garment during two steps and dialogue. User acceptance pending.",
+  "actors": {
+    "unveiling Gyokeres": {
+      "native_no_image_textures": true,
+      "neck_left_right_order_all_frames": true,
+      "fixed_support_drift_art_units": 6.103515625e-05,
+      "one_active_mouth_all_frames": true,
+      "mouth_shapes": [
+        "A",
+        "E",
+        "MBP",
+        "rest"
+      ]
+    },
+    "unveiling Arteta": {
+      "native_no_image_textures": true,
+      "neck_left_right_order_all_frames": true,
+      "fixed_support_drift_art_units": 0,
+      "one_active_mouth_all_frames": true,
+      "mouth_shapes": [
+        "A",
+        "E",
+        "MBP",
+        "O",
+        "U",
+        "rest"
+      ]
+    }
+  },
+  "shorts": {
+    "source_contours_fitted_together": true,
+    "vertices": 10739,
+    "fixed_triangles": true,
+    "old_hip_panel_hidden": true
+  }
+}

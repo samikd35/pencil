@@ -1,0 +1,25 @@
+{
+  "path": "animatic-A-clean.mp4",
+  "sha256": "575d72cdfd3e1e2dc1c5c6743c57dcfea2ce04ac9346378f95d945c5ce3ca968",
+  "width": 540,
+  "height": 960,
+  "frames": 912,
+  "fps": 24,
+  "seconds": 38,
+  "channels": 2,
+  "sample_rate": 48000,
+  "full_decode": true,
+  "levels": {
+    "input_i": "-21.31",
+    "input_tp": "-1.98",
+    "input_lra": "22.10",
+    "input_thresh": "-32.58",
+    "output_i": "-18.83",
+    "output_tp": "-2.00",
+    "output_lra": "13.30",
+    "output_thresh": "-29.67",
+    "normalization_type": "dynamic",
+    "target_offset": "0.83"
+  },
+  "listening": "A sound direction selected by user; complete-movie listening not performed by agent."
+}

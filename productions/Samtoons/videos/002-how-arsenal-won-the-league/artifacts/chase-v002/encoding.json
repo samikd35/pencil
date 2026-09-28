@@ -1,0 +1,12 @@
+{
+  "frames": 192,
+  "size": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "seconds": 8,
+  "sound": "intentionally absent",
+  "timestamps": "regular 1/24-second intervals",
+  "codec": "h264"
+}

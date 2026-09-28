@@ -1,0 +1,19 @@
+{
+  "id": "TR01",
+  "chapter": 2,
+  "panel": 0,
+  "start_frame": 745,
+  "frames": 192,
+  "lines": [
+    7
+  ],
+  "source": "boards/chapter-2.png",
+  "camera": "hold",
+  "crop": [
+    5,
+    5,
+    673,
+    374
+  ],
+  "source_sha256": "cc22d241288d8ad53cde382cc85ea2c786b7b658e1b2f5b7ce1853e9fe84713f"
+}

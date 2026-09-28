@@ -1,0 +1,59 @@
+{
+  "native_character_surfaces": true,
+  "connected_garments": {
+    "opening Arteta": true,
+    "banner worker": true,
+    "delivery driver": true,
+    "unveiling Gyokeres": true,
+    "unveiling Arteta": true
+  },
+  "support_drift_m": {
+    "opening Arteta": 0.0,
+    "banner worker": 0.0,
+    "delivery driver": 1.6572460026509361e-06,
+    "unveiling Gyokeres": 5.254682378108555e-07,
+    "unveiling Arteta": 0.0
+  },
+  "mouth_exposure": {
+    "opening Arteta": [
+      "A",
+      "E",
+      "FV",
+      "L",
+      "MBP",
+      "O",
+      "U",
+      "rest"
+    ],
+    "banner worker": [
+      "rest"
+    ],
+    "delivery driver": [
+      "A",
+      "E",
+      "FV",
+      "MBP",
+      "O",
+      "rest"
+    ],
+    "unveiling Gyokeres": [
+      "A",
+      "E",
+      "MBP",
+      "rest"
+    ],
+    "unveiling Arteta": [
+      "A",
+      "E",
+      "MBP",
+      "O",
+      "U",
+      "rest"
+    ]
+  },
+  "frames": 1021,
+  "fps": 24,
+  "width": 1280,
+  "height": 720,
+  "status": "Technical checks do not establish user acceptance of likeness or performance."
+}

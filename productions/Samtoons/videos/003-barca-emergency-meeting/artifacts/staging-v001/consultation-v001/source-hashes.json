@@ -1,0 +1,13 @@
+{
+  "scripts/build_consultation_v001.py": "e90a0ce26f5077650af09d424e540948ceb4fe069da9f98dbdb46572d4295c75",
+  "scripts/trace_lewandowski_v001.py": "181ad93b46fec0dec8f82856e420c43937f77940c44b9a38431506d39a055499",
+  "scripts/render_staging_scene.py": "f801b5983bc5d267a76c257e8a6c34eeca11ede8e8ee1faf7226c394e08a95e4",
+  "scripts/build_call_performance_v002.py": "88d898194901ba77de70538319bc91c7f2af5c94c85675ec1939d624a53a32bc",
+  "scripts/build_call_performance_v004.py": "7894ec066a9d4fad4f9624e9ff38615ba5f3d932f4c7fadb20363091b3e18531",
+  "scripts/build_call_performance_v005.py": "9c58b6ec0b4a72f3a667b8c46948c38d1fed00b855564999c5aedc14f737f9a4",
+  "scripts/build_call_performance_v006.py": "3e6eed363a7265b4319968d2d269df56ceb2032718ed9f980020f8f39b0fd487",
+  "assets/lewandowski-v001/reference-supported.png": "475460334ef543610bcd859ddef61c643d6cd2ffb912eb2592f809e37ea78f9f",
+  "assets/lewandowski-v001/robert.json": "13b6fa5ccf07cc0d0e194b5622384d7ec25685a6f4779bfd7b75c453d16ca593",
+  "assets/reference-redraw-v003/muller-contours.json": "b934ef41f0319525b83a5c75556d672913ff318274afd7806593df79c76499c5",
+  "assets/reference-redraw-v003/perez-contours.json": "4c6c8ef062b7f81cc06f9ad14de2ad83b99569e192b87533334448ce758753fe"
+}

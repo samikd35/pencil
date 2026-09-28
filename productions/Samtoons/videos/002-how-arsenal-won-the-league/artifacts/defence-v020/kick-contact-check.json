@@ -1,0 +1,52 @@
+{
+  "ball_radius_m": 0.11,
+  "rows": [
+    {
+      "frame": 158,
+      "toe_ball_m": 0.3884323714463229
+    },
+    {
+      "frame": 159,
+      "toe_ball_m": 0.38114383479342234
+    },
+    {
+      "frame": 160,
+      "toe_ball_m": 0.36900285137859423
+    },
+    {
+      "frame": 161,
+      "toe_ball_m": 0.35203094730774775
+    },
+    {
+      "frame": 162,
+      "toe_ball_m": 0.33025466483785526
+    },
+    {
+      "frame": 163,
+      "toe_ball_m": 0.3037288712606758
+    },
+    {
+      "frame": 164,
+      "toe_ball_m": 0.2725427882328188
+    },
+    {
+      "frame": 165,
+      "toe_ball_m": 0.23685909358431337
+    },
+    {
+      "frame": 166,
+      "toe_ball_m": 0.19702425674700158
+    },
+    {
+      "frame": 167,
+      "toe_ball_m": 0.15385680427052018
+    },
+    {
+      "frame": 168,
+      "toe_ball_m": 0.10978113494183456
+    }
+  ],
+  "release_frame": 168,
+  "sound_event_frame": 168,
+  "limit": "Toe control check plus encoded image inspection; not full collision simulation."
+}

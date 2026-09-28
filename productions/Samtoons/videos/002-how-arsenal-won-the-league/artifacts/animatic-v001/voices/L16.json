@@ -1,0 +1,19 @@
+{
+  "id": "L16",
+  "chapter": 3,
+  "beat": "CD05",
+  "role_and_direction": "ARTETA",
+  "text": "Win another corner!",
+  "word_count": 3,
+  "seconds": 1.28,
+  "file": "L16.wav",
+  "sha256": "58d2df3420560c58925b3675cdc3bf6cc16939f26581cfaa80b138ec83a45b08",
+  "reference_start_seconds": 42.691291666666665,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Call back firmly across the pitch, perfectly sincere. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.4545701250026468,
+  "path": "artifacts/animatic-v001/voices/L16.wav"
+}

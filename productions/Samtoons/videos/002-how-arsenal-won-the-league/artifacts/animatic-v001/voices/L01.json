@@ -1,0 +1,19 @@
+{
+  "id": "L01",
+  "chapter": 1,
+  "beat": "N01",
+  "role_and_direction": "NARRATOR — dry, certain",
+  "text": "Relax. It’s Arsenal. We all know how this ends.",
+  "word_count": 9,
+  "seconds": 4.439041666666666,
+  "file": "L01.wav",
+  "sha256": "7ea9f13e9478e4ee1c4569668faedd960920d717127b5b4773f853071e36546e",
+  "reference_start_seconds": 0.0,
+  "role": "NARRATOR",
+  "direction": "An elderly man, low weathered gravelly voice, restrained Scottish English accent. Original theatrical cartoon football manager voice. Quiet smug certainty. Pause after Relax; dry dismissive finality. Clean dry microphone, no music or extra words.",
+  "seed": 42,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "source": "Accepted A standalone performance: artifacts/sound-direction-v001/narrator.wav",
+  "path": "artifacts/animatic-v001/voices/L01.wav"
+}

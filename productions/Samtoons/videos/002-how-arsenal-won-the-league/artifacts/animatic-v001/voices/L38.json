@@ -1,0 +1,19 @@
+{
+  "id": "L38",
+  "chapter": 6,
+  "beat": "N03",
+  "role_and_direction": "NARRATOR — clinging to hope",
+  "text": "There’s still time.",
+  "word_count": 3,
+  "seconds": 2.4,
+  "file": "L38.wav",
+  "sha256": "2cb0fd04c8b4a8a22b78c3e3ef0c37b2daee0e8ff669c9e3bba5690b14d39b71",
+  "reference_start_seconds": 94.32041666666667,
+  "role": "NARRATOR",
+  "direction": "An elderly man, low weathered gravelly voice, restrained Scottish English accent. Original theatrical cartoon football manager voice. Clinging desperately to hope, almost whispered. Clean dry microphone, no music or extra words.",
+  "seed": 42,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 2.5513033750030445,
+  "path": "artifacts/animatic-v001/voices/L38.wav"
+}

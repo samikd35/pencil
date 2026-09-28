@@ -1,0 +1,89 @@
+{
+  "inputs": [
+    {
+      "path": "artifacts/delivery-v027/clips/TR02_flag.mp4",
+      "sha256": "f68abac1f32c8e9b2468ab6286369a80c0b215e998198500446f074e9c3c884e",
+      "bytes": 1047166
+    },
+    {
+      "path": "artifacts/delivery-v027/clips/TR02_reaction.mp4",
+      "sha256": "cf172d67740f719e9b6ad08387b8aa73e0c0f57671cbaa08c3c95e175a5a68f4",
+      "bytes": 769951
+    },
+    {
+      "path": "artifacts/delivery-v027/clips/TR03_warning.mp4",
+      "sha256": "0fe3319bbb61946a9d875cfcf479cb4805585f6e2f5d3b29e54f6af3ef30df74",
+      "bytes": 318639
+    },
+    {
+      "path": "artifacts/delivery-v027/clips/TR03_kick.mp4",
+      "sha256": "db9b0cbf471917e2c349856b04d845abaf01a6dc6c878b02ae9d6406d86767a7",
+      "bytes": 483657
+    },
+    {
+      "path": "artifacts/delivery-v027/clips/TR03_praise.mp4",
+      "sha256": "3662ff5644a0b9ad0125ab4cd5db2eafe1fa9f87e32026b5385c1c1bddce02a1",
+      "bytes": 397855
+    },
+    {
+      "path": "artifacts/delivery-v027/approved-soundtrack.m4a",
+      "sha256": "35d8e959b4459e33743e2c2de9e00b8f20d19fe20d96cfbf4e31fa67c9caed98",
+      "bytes": 5202192
+    },
+    {
+      "path": "artifacts/delivery-v027/samtoons-final.srt",
+      "sha256": "94366a69f2f7ce0a2ca11bd7e55dc80cd39b7f16242f19f65230e1d4f63b84fe",
+      "bytes": 6140
+    },
+    {
+      "path": "artifacts/short-promo-plan-v001/plan.md",
+      "sha256": "068766a7912a6ee7f881476aeb8166ccfc4168df09825707aa32d0e242e630f7",
+      "bytes": 16948
+    },
+    {
+      "path": "artifacts/short-promo-plan-v001/inspection/source-1230.jpg",
+      "sha256": "24b356e705da55ae80010daad4596c34c3089a920050b3816593b5e06ff6f75d",
+      "bytes": 211551
+    },
+    {
+      "path": "artifacts/short-promo-plan-v001/inspection/native-clean-reaction.jpg",
+      "sha256": "02b911f57ce389e5c7fdc4edd2bd36c6b6bd6f171d32e87ee7fbafb1377c66eb",
+      "bytes": 74977
+    },
+    {
+      "path": "artifacts/short-striker-v001/samtoons-logo.png",
+      "sha256": "68ba8ed462330e5b77f65e46ad509c29090b053d3b8385849af92c94e8e6592f",
+      "bytes": 451811
+    },
+    {
+      "path": "assets/production-context.md",
+      "sha256": "da7afb6e7564aae4db2a3f9cfd7272fbd6464612fb255dfcadb733b76aec7b16",
+      "bytes": 8634
+    },
+    {
+      "path": "scripts/make_striker_short.py",
+      "sha256": "b3ae315ebad31fcdefb8d535bf95ae651c0eaf20985a17210e815e8c333325cf",
+      "bytes": 9047
+    }
+  ],
+  "tools": {
+    "python": "3.12.7",
+    "pillow": "10.0.1",
+    "ffmpeg": "ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers"
+  },
+  "thumbnail": {
+    "tool": "image_gen.imagegen",
+    "source_generated_file": "/Users/samikd/.codex/generated_images/01a0b828-0501-7652-9310-6b0d4a09d9e0/exec-f223cd42-71d2-4501-89fa-acd74b5c3c41.png",
+    "output": "thumbnail.png",
+    "resolution": [
+      941,
+      1672
+    ],
+    "reference_files": [
+      "artifacts/short-promo-plan-v001/inspection/source-1230.jpg",
+      "artifacts/short-promo-plan-v001/inspection/native-clean-reaction.jpg"
+    ],
+    "direction": "Source-matched portrait cover; offended Gyokeres, Arteta presenting corner flag in number 9 shirt; OUR REAL STRIKER title; training-ground setting",
+    "sha256": "4cfbb4bcbea735d2028fa6dc15c1d03b67647ada26ece06bd138a2249cb1bbe2"
+  }
+}

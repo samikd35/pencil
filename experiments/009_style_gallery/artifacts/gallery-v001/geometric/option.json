@@ -1,0 +1,19 @@
+{
+  "id": "geometric",
+  "name": "Geometric character",
+  "category": "Character",
+  "description": "Simple geometric head and body with thin connecting limbs.",
+  "limitation": "Sharp shapes still need overlap and pivot checks.",
+  "recipe": "recipes/geometric.md",
+  "sample": "samples/geometric.png",
+  "settings": {
+    "design": "geometric",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "status": "Not yet validated",
+  "evidence": [],
+  "sources": [
+    "https://pages.adobe.com/character/en/puppet-maker"
+  ]
+}

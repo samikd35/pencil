@@ -1,0 +1,22 @@
+{
+  "duration_seconds": 254.54166666666666,
+  "frames": 6109,
+  "fps": "24",
+  "resolution": [
+    1280,
+    720
+  ],
+  "audio": "48kHz stereo AAC192k",
+  "full_decode": "passed",
+  "script_lines": 47,
+  "shots": 55,
+  "measured_loudness": {
+    "input_i": "-23.10",
+    "input_tp": "-7.08",
+    "input_lra": "13.70",
+    "input_thresh": "-34.64"
+  },
+  "sha256": "9a480b3bba0bed570aa667f05904fd3414435c3cc0196d1de8d02e437b1c507d",
+  "agent_listening": false,
+  "motion_quality": "Storyboard exposures only, not full character animation"
+}

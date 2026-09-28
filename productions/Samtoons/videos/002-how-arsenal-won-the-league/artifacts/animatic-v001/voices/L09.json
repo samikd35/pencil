@@ -1,0 +1,19 @@
+{
+  "id": "L09",
+  "chapter": 2,
+  "beat": "TR02",
+  "role_and_direction": "ARTETA — entirely sincere",
+  "text": "Win us a corner.",
+  "word_count": 4,
+  "seconds": 1.04,
+  "file": "L09.wav",
+  "sha256": "f72281910fdcb50882ba169984aa2671b535fc0481bbd3d0f724e9c6aaad642f",
+  "reference_start_seconds": 22.228791666666666,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Entirely sincere tactical instruction, no irony. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.112326333000965,
+  "path": "artifacts/animatic-v001/voices/L09.wav"
+}

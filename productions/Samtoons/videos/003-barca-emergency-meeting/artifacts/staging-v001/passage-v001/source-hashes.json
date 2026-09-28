@@ -1,0 +1,8 @@
+{
+  "scripts/build_passage_inserts_v001.py": "5bc21c6462905728ddc6fd010d32627c822579bc05b45f817c372f2f68f3bd51",
+  "scripts/assemble_passage_v001.py": "65d3ea7982fcda51425cd826deb60f9d56940917f94d7fe2ebbd332f0b1e48d5",
+  "scripts/render_staging_scene.py": "ff5c47ea41422cb8c82dca7467dcd15fb2ceb5ec5f0ff092fcfcc33b69bee15e",
+  "scripts/build_layouts_v001.py": "2e04f33a3b8c2fdd509c8f1861114a3b19b31fe53c22deef28b94ddb411e19e5",
+  "artifacts/staging-v001/passage-v001/passage-inserts.blend": "d8e226001746ab805652847094ccd37fe5a26cf114e2d6647c76557dd4824fba",
+  "artifacts/staging-v001/passage-v001/render-selection.json": "2e81d7398947cfcb32836ff0ab85225e2ffd9ca22c8d95c0fea9456263b7d45b"
+}

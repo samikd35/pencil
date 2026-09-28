@@ -1,0 +1,13 @@
+{
+  "frames": 96,
+  "evaluated_lower_support_error": 5.612929854237336e-08,
+  "horizontal_registration_range_pixels": 0.000152587890625,
+  "camera_uniform_travel": true,
+  "full_pose_bounds": [
+    0.31692561507225037,
+    0.5966933965682983,
+    0.047081418335437775,
+    0.7554222941398621
+  ],
+  "limitations": "Checks verify deformation and tracking implementation, not anatomical leg-role correctness, normal-speed gait appeal or mouth acting."
+}

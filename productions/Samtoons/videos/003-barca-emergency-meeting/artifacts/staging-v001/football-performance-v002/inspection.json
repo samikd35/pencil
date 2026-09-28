@@ -1,0 +1,39 @@
+{
+  "decoded_without_errors": true,
+  "format": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "24/1",
+        "nb_frames": "312"
+      },
+      {
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "r_frame_rate": "0/0",
+        "nb_frames": "611"
+      }
+    ],
+    "format": {
+      "duration": "13.000000"
+    }
+  },
+  "movie_sha256": "cee13a90fc083f847294608da89205d81d41df90032417894e8d32c558822576",
+  "normal_speed_subjective_review": "Not claimed; representative stills and consecutive changed-region frames inspected.",
+  "listening": "Not performed by agent; full candidate sound is playable in the review.",
+  "reviewed_regions": {
+    "70": "Resting knee posture, feet, hips, full scene",
+    "123,151,172,199": "Contact geometry checked against the retained evaluated boot surfaces"
+  },
+  "findings": [
+    "Rest stance straightened, every authored foot endpoint retained, contact gaps remain below .001m."
+  ],
+  "remaining": [
+    "Independent surface finish in S06 is unchanged; this revision addresses the standing stance only."
+  ]
+}

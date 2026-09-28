@@ -1,0 +1,10 @@
+{
+  "first_frame": 1,
+  "last_frame": 960,
+  "fps": 24,
+  "rendered_frames": 960,
+  "render_seconds": 343.2130070410203,
+  "resolution_percentage": 100,
+  "renderer": "Native Blender EEVEE, individually rendered continuous frames",
+  "output": "picture-master.mp4"
+}

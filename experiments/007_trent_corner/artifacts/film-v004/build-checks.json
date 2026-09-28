@@ -1,0 +1,226 @@
+{
+  "blender": "5.2.0 LTS",
+  "frames": 912,
+  "fps": 24,
+  "seconds": 38,
+  "construction": "Thin native 3D ink limbs and narrow jerseys; textured editable silhouette heads; shared 3D field",
+  "contact_centers": {
+    "corner": [
+      11.699999809265137,
+      0.27000001072883606,
+      0.17000000178813934
+    ],
+    "receiver": [
+      2.0,
+      3.299999952316284,
+      0.17000000178813934
+    ],
+    "net": [
+      -0.800000011920929,
+      -1.2999999523162842,
+      1.7200000286102295
+    ]
+  },
+  "cast": [
+    {
+      "id": "Trent",
+      "team": "Liverpool",
+      "role": "corner taker",
+      "head_row": 0,
+      "kit": "#d83f49",
+      "number": "66",
+      "position": [
+        12.45,
+        0.65,
+        0
+      ]
+    },
+    {
+      "id": "Origi",
+      "team": "Liverpool",
+      "role": "unmarked receiver",
+      "head_row": 1,
+      "kit": "#d83f49",
+      "number": "27",
+      "position": [
+        2.55,
+        3.8,
+        0
+      ]
+    },
+    {
+      "id": "Shaqiri",
+      "team": "Liverpool",
+      "role": "approaching alternative taker",
+      "head_row": 2,
+      "kit": "#d83f49",
+      "number": "23",
+      "position": [
+        10,
+        5.6,
+        0
+      ]
+    },
+    {
+      "id": "Defender A",
+      "team": "Barcelona",
+      "role": "organizing near the goal",
+      "head_row": 3,
+      "kit": "#e3f348",
+      "number": "",
+      "position": [
+        -1.8,
+        3.9,
+        0
+      ]
+    },
+    {
+      "id": "Defender B",
+      "team": "Barcelona",
+      "role": "watching another attacker",
+      "head_row": 5,
+      "kit": "#e3f348",
+      "number": "",
+      "position": [
+        4.4,
+        7.3,
+        0
+      ]
+    },
+    {
+      "id": "Defender C",
+      "team": "Barcelona",
+      "role": "representative comedy defender",
+      "head_row": 2,
+      "kit": "#e3f348",
+      "number": "",
+      "position": [
+        5.7,
+        5.5,
+        0
+      ]
+    },
+    {
+      "id": "Keeper",
+      "team": "Barcelona",
+      "role": "goalkeeper",
+      "head_row": 3,
+      "kit": "#262d36",
+      "number": "1",
+      "position": [
+        0,
+        -0.2,
+        0
+      ]
+    },
+    {
+      "id": "Attacker A",
+      "team": "Liverpool",
+      "role": "waiting far-side attacker",
+      "head_row": 4,
+      "kit": "#d83f49",
+      "number": "",
+      "position": [
+        -5,
+        2.7,
+        0
+      ]
+    },
+    {
+      "id": "Attacker B",
+      "team": "Liverpool",
+      "role": "waiting central attacker",
+      "head_row": 3,
+      "kit": "#d83f49",
+      "number": "",
+      "position": [
+        -3,
+        5.3,
+        0
+      ]
+    },
+    {
+      "id": "Attacker C",
+      "team": "Liverpool",
+      "role": "waiting edge-of-box attacker",
+      "head_row": 5,
+      "kit": "#d83f49",
+      "number": "",
+      "position": [
+        0,
+        7.2,
+        0
+      ]
+    },
+    {
+      "id": "Attacker D",
+      "team": "Liverpool",
+      "role": "supporting attacker",
+      "head_row": 4,
+      "kit": "#d83f49",
+      "number": "",
+      "position": [
+        -5,
+        10.5,
+        0
+      ]
+    },
+    {
+      "id": "Defender D",
+      "team": "Barcelona",
+      "role": "marking far-side attacker",
+      "head_row": 3,
+      "kit": "#e3f348",
+      "number": "",
+      "position": [
+        -4.6,
+        7.8,
+        0
+      ]
+    },
+    {
+      "id": "Defender E",
+      "team": "Barcelona",
+      "role": "marking central attacker",
+      "head_row": 5,
+      "kit": "#e3f348",
+      "number": "",
+      "position": [
+        0,
+        5.8,
+        0
+      ]
+    },
+    {
+      "id": "Defender F",
+      "team": "Barcelona",
+      "role": "watching edge-of-box attacker",
+      "head_row": 4,
+      "kit": "#e3f348",
+      "number": "",
+      "position": [
+        2.4,
+        7.5,
+        0
+      ]
+    },
+    {
+      "id": "Defender G",
+      "team": "Barcelona",
+      "role": "covering supporting attacker",
+      "head_row": 5,
+      "kit": "#e3f348",
+      "number": "",
+      "position": [
+        -2,
+        2.7,
+        0
+      ]
+    }
+  ],
+  "head_assets": [
+    "design/treatment-v003/heads.png",
+    "design/treatment-v004/supporting-heads.png"
+  ],
+  "head_background": "Original RGB pixels retained; native silhouette geometry excludes checker background."
+}

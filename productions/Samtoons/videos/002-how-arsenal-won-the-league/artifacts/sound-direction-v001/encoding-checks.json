@@ -1,0 +1,36 @@
+{
+  "A": {
+    "duration": "35.875000",
+    "frames": 861,
+    "decode": "passed",
+    "loudness": {
+      "input_i": "-22.49",
+      "input_tp": "-7.14",
+      "input_lra": "9.90",
+      "input_thresh": "-34.03",
+      "output_i": "-17.10",
+      "output_tp": "-1.70",
+      "output_lra": "8.70",
+      "output_thresh": "-28.35",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.90"
+    }
+  },
+  "B": {
+    "duration": "35.875000",
+    "frames": 861,
+    "decode": "passed",
+    "loudness": {
+      "input_i": "-22.41",
+      "input_tp": "-7.14",
+      "input_lra": "9.90",
+      "input_thresh": "-33.92",
+      "output_i": "-17.11",
+      "output_tp": "-1.76",
+      "output_lra": "8.70",
+      "output_thresh": "-28.25",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.89"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "scripts/build_photograph_v001.py": "927d8ebb04174bcaad378f7900bdd7433452648d108426ed113bd934f31f9fbb",
+  "scripts/build_consultation_v001.py": "e90a0ce26f5077650af09d424e540948ceb4fe069da9f98dbdb46572d4295c75",
+  "scripts/build_call_performance_v002.py": "88d898194901ba77de70538319bc91c7f2af5c94c85675ec1939d624a53a32bc",
+  "scripts/build_call_performance_v004.py": "7894ec066a9d4fad4f9624e9ff38615ba5f3d932f4c7fadb20363091b3e18531",
+  "scripts/build_call_performance_v005.py": "9c58b6ec0b4a72f3a667b8c46948c38d1fed00b855564999c5aedc14f737f9a4",
+  "scripts/build_call_performance_v006.py": "3e6eed363a7265b4319968d2d269df56ceb2032718ed9f980020f8f39b0fd487",
+  "scripts/render_staging_scene.py": "7430710f22107ae2bf28c3f8baac5d6ad9de40626e10e23c6b7d515a5704d4c6",
+  "assets/lewandowski-v001/robert.json": "13b6fa5ccf07cc0d0e194b5622384d7ec25685a6f4779bfd7b75c453d16ca593",
+  "assets/reference-redraw-v003/muller-contours.json": "b934ef41f0319525b83a5c75556d672913ff318274afd7806593df79c76499c5",
+  "assets/reference-redraw-v003/perez-contours.json": "4c6c8ef062b7f81cc06f9ad14de2ad83b99569e192b87533334448ce758753fe",
+  "assets/voices-s11-v001/robert-picture.json": "b11b585d4bb627b79230caa8e00b5f5d851a221b93e57294d8b1ee114f95373c",
+  "assets/voices-s11-v001/robert-picture.wav": "03c3ea9b154e467c734cad1cf7631864d6c611e9cb764d79aba72d2fda0e5bfb",
+  "assets/voices-s11-v001/robert-four.wav": "d34acff50c3933d9a22df919960686d422602ef4d9ce10e575fdfa0e2e12a962",
+  "assets/voices-s11-v001/muller-relevant.wav": "e105915d89724c4647eb4b7ac95c243bd5d5c47bab520cd7a0a176f124389239",
+  "assets/voices-s11-v001/muller-relevant.json": "4f55660780b4d648c1c91066869fd5ed714ae504a78bbcd4121eea780d1cfa50",
+  "assets/voices-s11-v001/robert-four.json": "3ed2a6a3d1492bd5206e1f0d4362f54df043137350f2d8b86f74757aa72e0e17"
+}

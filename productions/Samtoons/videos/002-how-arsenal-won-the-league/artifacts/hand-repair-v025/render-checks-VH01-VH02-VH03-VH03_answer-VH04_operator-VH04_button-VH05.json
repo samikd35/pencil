@@ -1,0 +1,18 @@
+{
+  "rendered": 867,
+  "elapsed_seconds": 208.32576487500046,
+  "selection": [
+    "VH01",
+    "VH02",
+    "VH03",
+    "VH03_answer",
+    "VH04_operator",
+    "VH04_button",
+    "VH05"
+  ],
+  "review_resolution": [
+    1280,
+    720
+  ],
+  "fps": 24
+}

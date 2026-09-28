@@ -1,0 +1,13 @@
+{
+  "frames": 240,
+  "foundation_saved_before_art": true,
+  "prior_pose_or_animate_called": false,
+  "new_body_and_head_motion": true,
+  "one_skeleton_per_actor": true,
+  "independent_joint_objects": 0,
+  "wrist_shape_keys": 0,
+  "max_joint_error_source_pixels": 0.0013514153946218585,
+  "foundation_motion_unchanged_after_binding": true,
+  "motion_sha256": "1203ae84a9d83e473ae5ca571888d36f22c3ccc1e8bf07ad76aa39802159caef",
+  "audio": "Exact v004 track reused"
+}

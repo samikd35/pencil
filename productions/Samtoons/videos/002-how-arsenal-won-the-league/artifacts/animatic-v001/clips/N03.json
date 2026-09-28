@@ -1,0 +1,19 @@
+{
+  "id": "N03",
+  "chapter": 1,
+  "panel": 0,
+  "start_frame": 4807,
+  "frames": 93,
+  "lines": [
+    38
+  ],
+  "source": "boards/chapter-1.png",
+  "camera": "hold",
+  "crop": [
+    5,
+    5,
+    673,
+    372
+  ],
+  "source_sha256": "5e7d4d7c8655aa6aeb366fe50a7b02c3131b647b064e013b8bd744746d0cfcac"
+}

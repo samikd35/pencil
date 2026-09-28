@@ -1,0 +1,16 @@
+{
+  "frames": 312,
+  "fps": 24,
+  "max_joint_error": 0.00012230849870209807,
+  "max_grip_anchor_error": 4.864279515956961e-05,
+  "turn_frames": [
+    216,
+    246
+  ],
+  "score_hold_frames": 66,
+  "voice_listened_by_agent": false,
+  "limitations": [
+    "Fixed drawn finger grip during rigid prop turnover; requires visual review",
+    "Small seated motion range; not an extreme-motion guarantee"
+  ]
+}

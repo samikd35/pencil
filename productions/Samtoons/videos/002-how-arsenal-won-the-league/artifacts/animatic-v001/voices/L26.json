@@ -1,0 +1,19 @@
+{
+  "id": "L26",
+  "chapter": 4,
+  "beat": "CP05",
+  "role_and_direction": "ARTETA",
+  "text": "Keep hold of the lead!",
+  "word_count": 5,
+  "seconds": 1.12,
+  "file": "L26.wav",
+  "sha256": "189ef0fa100e26cc8d1ac8fa89a8c08dde02dc55fb16dfa9ca2c0b6c27d7383e",
+  "reference_start_seconds": 63.843,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Shout as the podium slips, urgent warning. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.2051411249994999,
+  "path": "artifacts/animatic-v001/voices/L26.wav"
+}

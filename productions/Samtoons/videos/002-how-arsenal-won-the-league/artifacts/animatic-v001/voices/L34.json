@@ -1,0 +1,19 @@
+{
+  "id": "L34",
+  "chapter": 5,
+  "beat": "VH05",
+  "role_and_direction": "RECORDED VOICE",
+  "text": "Your call is very important to us.",
+  "word_count": 7,
+  "seconds": 2.32,
+  "file": "L34.wav",
+  "sha256": "2808901a68a9a3996cb1c5bfea3d7262f3f8d69f270dcac9e876120fff33ece8",
+  "reference_start_seconds": 83.38464583333334,
+  "role": "RECORDED VOICE",
+  "direction": "Adult female telephone customer-service voice. Bright polished British English. An absurdly cheerful automatic announcement, oblivious to the callers despair. Natural clear character delivery; make the sentence a thought, not a reading. Clean dry microphone, no music or extra words.",
+  "seed": 45,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 2.354268499999307,
+  "path": "artifacts/animatic-v001/voices/L34.wav"
+}

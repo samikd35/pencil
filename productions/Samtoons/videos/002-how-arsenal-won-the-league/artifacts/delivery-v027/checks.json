@@ -1,0 +1,16 @@
+{
+  "resolution": [
+    1920,
+    1080
+  ],
+  "native_render": true,
+  "frames": 6634,
+  "fps": 24,
+  "seconds": 276.416667,
+  "audio_seconds": 276.45,
+  "decode_passed": true,
+  "uniform_frame_timestamps": true,
+  "approved_audio_pcm_sha256": "SHA256=f0dfcef2f7da12bb0b564814990af38efdd6dfcf1a287fd15bb7f87999363851",
+  "sha256": "516025cbe42bd57a68a759d9caac6ee6d1d8f76357995b8aa0501af823b3b924",
+  "bytes": 58780011
+}

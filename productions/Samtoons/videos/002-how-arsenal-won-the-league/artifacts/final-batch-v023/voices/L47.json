@@ -1,0 +1,19 @@
+{
+  "id": "L47",
+  "chapter": 7,
+  "beat": "N04c",
+  "role_and_direction": "FERGUSON",
+  "text": "STOP GIVING ME REASONS TO COME BACK!",
+  "word_count": 7,
+  "seconds": 2.8,
+  "file": "L47.wav",
+  "sha256": "183a67674087e970bb132ab975351efd20d44e35797fdb96c6f8862d8304419c",
+  "reference_start_seconds": 111.70477083333333,
+  "role": "FERGUSON",
+  "direction": "An elderly man, low weathered gravelly voice, restrained Scottish English accent. Original theatrical cartoon football manager voice. Desperate full-throated appeal to ceiling. Outrage tips into helplessness, stress STOP and COME BACK. Clean dry microphone, no music or extra words.",
+  "seed": 42,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 2.900847832999716,
+  "path": "artifacts/animatic-v001/voices/L47.wav"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L36",
+  "chapter": 6,
+  "beat": "FR02",
+  "role_and_direction": "GY\u00d6KERES",
+  "text": "Do I finally get to shoot?",
+  "word_count": 6,
+  "seconds": 2.08,
+  "file": "L36.wav",
+  "sha256": "95f8ddeab67563f011f4435f0cf89cbceafa8d52b5e622c62747596f144c1b7e",
+  "reference_start_seconds": 90.26216666666667,
+  "role": "GY\u00d6KERES",
+  "direction": "Young adult man with a warm mid-low baritone and light Swedish accent speaking clear English. Footballer bewildered by his manager. Dry, understated comic reactions. Hopeful frustrated appeal, stress FINALLY. Clean dry microphone, no music or extra words.",
+  "seed": 47,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 2.2772114159961347,
+  "path": "artifacts/animatic-v001/voices/L36.wav"
+}

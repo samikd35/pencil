@@ -1,0 +1,88 @@
+{
+  "delivery": "Ten Men. Two Posts. No Points.",
+  "render": {
+    "frames": 3768,
+    "fps": 24,
+    "seconds": 157.0,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "shots": 17,
+    "native_reopened": true,
+    "elapsed_seconds": 6014.89964399999,
+    "quality": "Full-resolution render of approved animatic-v004"
+  },
+  "export": {
+    "frames": 3768,
+    "seconds": 157.0,
+    "fps": 24,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "audio_sample_rate": 48000,
+    "channels": 2,
+    "full_decode": "passed MP4 and WebM",
+    "encoded_loudness": {
+      "input_i": "-19.12",
+      "input_tp": "-1.99",
+      "input_lra": "14.60",
+      "input_thresh": "-31.09",
+      "output_i": "-19.20",
+      "output_tp": "-2.00",
+      "output_lra": "13.90",
+      "output_thresh": "-31.10",
+      "normalization_type": "dynamic",
+      "target_offset": "0.20"
+    },
+    "movie_sha256": "6fa3e28d095a8a1bdf523e592fd3361a365e57e609f155c17ce647a9e879368f",
+    "listening": "Approved mix preserved exactly; exact encoded delivery awaits user playback approval.",
+    "mouths": "Approved animation retained; all frames compared against animatic-v004."
+  },
+  "native": {
+    "scenes": 17,
+    "frames": 3768,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 24,
+    "eevee_samples": 64,
+    "scene_strip_timing": "passed",
+    "mix_packed": true,
+    "opening_scene": "SAMTOONS / repaired complete animatic"
+  },
+  "conformance": {
+    "all_3768_frames_compared": true,
+    "comparison_flags": 0,
+    "minimum_frame_similarity": 0.974496,
+    "approved_mix_bit_identical": true
+  },
+  "visual_inspection": {
+    "frames": [
+      "00-077",
+      "01-077",
+      "01-154",
+      "03-077",
+      "04-110",
+      "08-120",
+      "11-077"
+    ],
+    "scope": "Selected full-resolution frame inspection plus every-frame comparison to approved edit; not a new design approval"
+  },
+  "browser": {
+    "video_width": 1920,
+    "video_height": 1080,
+    "duration": 157,
+    "playback_rate": 1,
+    "seekable": [
+      0,
+      157
+    ],
+    "playback_reached_end": true,
+    "player_error": null,
+    "heard_by_agent": false
+  },
+  "delivery_review": "Pending user playback of the exact final encoded file"
+}

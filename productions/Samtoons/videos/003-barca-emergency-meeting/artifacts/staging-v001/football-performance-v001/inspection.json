@@ -1,0 +1,66 @@
+{
+  "status": "staging_candidate_pending_creative_review",
+  "reviewer": "assistant",
+  "export": {
+    "frames": 312,
+    "fps": 24,
+    "duration_seconds": 13,
+    "resolution": [
+      1280,
+      720
+    ],
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "full_decode": "passed"
+  },
+  "actually_inspected": {
+    "wide_frames": [
+      73,
+      123,
+      151,
+      199,
+      312
+    ],
+    "focused_contact_frames": [
+      119,
+      123,
+      127,
+      148,
+      151,
+      154,
+      193,
+      199,
+      207
+    ],
+    "native_ui": "Screenshot of frame 199 in visible Blender; playback was running. This is not a claim of continuous normal-speed audiovisual review."
+  },
+  "findings": [
+    "Pass, reception and strike show contact with the visible boots rather than only matching control targets.",
+    "Anticipation/contact/follow-through poses differ; the planted strike foot is measured across frames 190\u2013212.",
+    "Native viewport hide flags did not match rendered drawing swaps; synchronized in shared save path and assertions added.",
+    "The new bodies are more simply drawn than S08 artwork: angular limbs, boxy defender bibs and limited body/head views remain below the intended final finish.",
+    "Defender reactions and finish acting remain restrained; net response and richer sound details are pending."
+  ],
+  "limits": [
+    "No benchmark parity or final quality approval claimed.",
+    "Subjective listening and continuous normal-speed timing review are pending.",
+    "These scene-specific baked keys do not establish a universal live skinning rig.",
+    "S08 hand/cuff repair stays deferred."
+  ],
+  "post_export_visibility_revision": {
+    "render_inputs": "render-inputs.json",
+    "original_selection_snapshot": "render-selection.json",
+    "render_equivalence_frames": [
+      73,
+      199,
+      312
+    ],
+    "result": "Identical RGB pixels after reopening the revised native file in background Blender."
+  },
+  "current_artifacts": {
+    "artifacts/staging-v001/football-performance-v001/football-performance.blend": "f76819b0e473794d5a7e45c885d7614575e6d95aec72d6096bb885538bf3bad1",
+    "artifacts/staging-v001/football-performance-v001/football-review.mp4": "2cc1d2091c310fcce8ddee8e83fbd46550067b00a22f0b456caadf30f721732c",
+    "scripts/build_football_v001.py": "2551333446673163bd8052debcfc3d346210f15d62eee58fbdcc1a314ff7b72a",
+    "production.json": "ff59bb85f573150a883c54ede47cf013ce42d0fac8a9d3887fd9b90368ec8a38"
+  }
+}

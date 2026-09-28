@@ -1,0 +1,237 @@
+{
+  "opening Arteta": {
+    "words": [
+      {
+        "word": "this",
+        "first": 67,
+        "last": 76
+      },
+      {
+        "word": "year",
+        "first": 76,
+        "last": 88
+      },
+      {
+        "word": "we",
+        "first": 92,
+        "last": 97
+      },
+      {
+        "word": "finish",
+        "first": 97,
+        "last": 104
+      },
+      {
+        "word": "the",
+        "first": 104,
+        "last": 111
+      },
+      {
+        "word": "job",
+        "first": 111,
+        "last": 121
+      },
+      {
+        "word": "i",
+        "first": 213,
+        "last": 219
+      },
+      {
+        "word": "ordered",
+        "first": 219,
+        "last": 224
+      },
+      {
+        "word": "a",
+        "first": 224,
+        "last": 230
+      },
+      {
+        "word": "striker",
+        "first": 230,
+        "last": 237
+      },
+      {
+        "word": "get",
+        "first": 346,
+        "last": 350
+      },
+      {
+        "word": "me",
+        "first": 350,
+        "last": 354
+      },
+      {
+        "word": "the",
+        "first": 354,
+        "last": 360
+      },
+      {
+        "word": "striker",
+        "first": 360,
+        "last": 369
+      },
+      {
+        "word": "now",
+        "first": 378,
+        "last": 382
+      }
+    ],
+    "mouth_keys": {
+      "1": "rest",
+      "67": "L",
+      "71": "E",
+      "76": "E",
+      "82": "U",
+      "88": "rest",
+      "92": "U",
+      "94": "E",
+      "97": "FV",
+      "101": "E",
+      "104": "L",
+      "108": "E",
+      "111": "A",
+      "116": "MBP",
+      "121": "rest",
+      "213": "A",
+      "216": "E",
+      "219": "O",
+      "221": "E",
+      "224": "E",
+      "230": "E",
+      "232": "A",
+      "235": "E",
+      "237": "rest",
+      "346": "E",
+      "348": "L",
+      "350": "MBP",
+      "352": "E",
+      "354": "L",
+      "357": "E",
+      "360": "E",
+      "363": "A",
+      "366": "E",
+      "369": "rest",
+      "378": "A",
+      "380": "O",
+      "382": "rest"
+    }
+  },
+  "delivery driver": {
+    "words": [
+      {
+        "word": "sorry",
+        "first": 272,
+        "last": 284
+      },
+      {
+        "word": "force",
+        "first": 299,
+        "last": 304
+      },
+      {
+        "word": "of",
+        "first": 304,
+        "last": 309
+      },
+      {
+        "word": "habit",
+        "first": 309,
+        "last": 315
+      }
+    ],
+    "mouth_keys": {
+      "1": "rest",
+      "272": "O",
+      "278": "E",
+      "284": "rest",
+      "299": "FV",
+      "301": "O",
+      "304": "O",
+      "306": "FV",
+      "309": "A",
+      "311": "MBP",
+      "313": "E",
+      "315": "rest"
+    }
+  },
+  "unveiling Gyokeres": {
+    "words": [
+      {
+        "word": "then",
+        "first": 301,
+        "last": 313
+      },
+      {
+        "word": "why",
+        "first": 313,
+        "last": 320
+      },
+      {
+        "word": "am",
+        "first": 320,
+        "last": 323
+      },
+      {
+        "word": "i",
+        "first": 323,
+        "last": 327
+      },
+      {
+        "word": "here",
+        "first": 327,
+        "last": 335
+      }
+    ],
+    "mouth_keys": {
+      "1": "rest",
+      "301": "L",
+      "307": "E",
+      "313": "U",
+      "315": "A",
+      "318": "E",
+      "320": "A",
+      "322": "MBP",
+      "323": "A",
+      "325": "E",
+      "327": "E",
+      "331": "U",
+      "335": "rest"
+    }
+  },
+  "unveiling Arteta": {
+    "words": [
+      {
+        "word": "win",
+        "first": 351,
+        "last": 356
+      },
+      {
+        "word": "us",
+        "first": 356,
+        "last": 361
+      },
+      {
+        "word": "a",
+        "first": 361,
+        "last": 364
+      },
+      {
+        "word": "corner",
+        "first": 364,
+        "last": 370
+      }
+    ],
+    "mouth_keys": {
+      "1": "rest",
+      "351": "U",
+      "353": "E",
+      "356": "A",
+      "358": "E",
+      "361": "E",
+      "364": "O",
+      "367": "U",
+      "370": "rest"
+    }
+  }
+}

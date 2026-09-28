@@ -1,0 +1,15 @@
+{
+  "frames": 5954,
+  "seconds": 248.08333333333334,
+  "body_motion_shots": [
+    "CP01",
+    "CP03_pep"
+  ],
+  "approved_body_motion": [
+    "CP03_pep"
+  ],
+  "decode": "passed",
+  "sha256": "d0a6968f9536f5ac155486497fb9ef6cdd6eec95df936a59d7a72195cb25cd0f",
+  "sound": "Unchanged approved master; CP01 preview exact 98.6667\u2013107.6667 second source interval",
+  "finished": false
+}
