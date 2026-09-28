@@ -1,33 +1,67 @@
-# Pencil — animation production
+# Pencil
 
-Pencil supports different animation subjects and treatments through one shared production method. [Production profiles](productions/README.md#creative-context) define the audience, niche and creative direction; each video keeps its selected context, assets and explicit exceptions. [Samtoons](productions/Samtoons/README.md) is the current football-comedy production, not the identity of the entire pipeline. Simple expressive character controls remain a useful construction route when the film calls for characters; other media use their relevant techniques.
+**A code-driven animation lab and production archive.** Pencil explores whether Codex, Python, and Blender can make short films that are expressive on screen, editable afterward, and clear enough to revise shot by shot. It began with a simple character pushing a box and grew into factual football stories, a reference-matched everyday comedy, and the Samtoons football-comedy production.
 
-Reusable production workflow: use `$produce-pencil-animation` to plan, create or revise a film with picture and sound developed together. [pipeline/SKILL.md](pipeline/SKILL.md) is the authoritative method; the installed skill links to it. The [pipeline guide](pipeline/README.md) owns execution conventions, the [sound guide](pipeline/sound-planning-method.md) owns the adopted sound method, and the existing style guides hold scoped construction lessons. Research and production journals retain their evidence.
+| Early motion test | Football story | Samtoons comedy |
+| --- | --- | --- |
+| ![A simple character pushes a heavy box](docs/images/heavy-box.jpg) | ![Characters line up in a Manchester derby animation](docs/images/manchester-derby.jpg) | ![Arsenal characters run with a league-position graphic](docs/images/arsenal-comedy.jpg) |
+| [Heavy Box](experiments/001_heavy_box/README.md) | [Manchester derby](productions/Samtoons/videos/001-manchester-derby-2026-09-13/brief.md) | [Arsenal comedy](productions/Samtoons/videos/002-how-arsenal-won-the-league/brief.md) |
 
-New normal work lives in [productions/](productions/README.md), with each named production holding context, reusable assets and neutral `videos/` folders. Standalone creative development is the default; only an explicit user request establishes a series. Existing films and tests below remain in `experiments/`, with their assets and reviewed versions preserved. [Production terms](CONTEXT.md).
+*Frames from rendered films in this repository. They show different treatments; none is a mandatory Pencil style.*
 
-Visual treatment selection: the [image style menu](pipeline/styles/gallery.html) has 19 researched directions, one attributed external artwork reference per option, concise recipes and explicit evidence limits. Earlier native stills and motion proofs remain separate construction evidence. After the story is understood, choose a treatment for that film; the production workflow pins the selection and reuses it on resume. [Implementation and tests](experiments/009_style_gallery/README.md).
+## What the experiment tests
 
-Current workflow: the [Phase A implementation record](pipeline/revisions/performance-workflow-v002/implementation.md) tracks the prepared authoring/review improvements. New Samtoons work adopts the current [profile](productions/Samtoons/README.md), benchmark and scoped reuse catalogue. Improved creative quality must still be demonstrated using the next story's representative sequence; preparing the workflow does not establish benchmark parity.
+The central question is: **Can code help author animation without sacrificing acting, visual quality, sound, or the ability to change a scene later?** The work tests that question on actual shots and finished films:
 
-Historical construction exploration: [cartoon appearance on the working stickman controls](experiments/008_cartoon_skin/README.md). A [10-second comparison](experiments/008_cartoon_skin/artifacts/proof-v002/stickman-to-cartoon.mp4) tested fuller cartoon surfaces while preserving Heavy Box's controls. Its native curves/meshes demonstrate that limited construction, not a required starting point or a Grease Pencil armature. Use each current film's accepted design and intended performance.
+- **Editable construction:** Python builds or modifies native Blender scenes. Character bodies can be simple, but poses, contact, movement, facial acting, camera, and environment must read in the finished cut.
+- **Revision without erasure:** Each film keeps its brief, scripts, selected assets, editable `.blend` files, review notes, and versioned deliveries. A change should preserve accepted work outside its scope.
+- **Picture and sound together:** Voice, effects, music, silence, timing, and visual action are planned and reviewed as one audiovisual sequence.
+- **Evidence over templates:** A working rig, still image, technical check, or successful earlier film proves only what was actually tested. New films choose their own subject, visual treatment, format, and duration.
 
-Historical football revision: [Barcelona wasn't ready. Trent was.](experiments/007_trent_corner/README.md). The completed 38-second [film-v004](experiments/007_trent_corner/artifacts/film-v004/barcelona-wasnt-ready-trent-was.mp4) uses the user-accepted expanded player arrangement and sparse sound A, varied supporting faces and clearer close-ups. The user delegated remaining checkpoint decisions for this film. [Revision and workflow notes](experiments/007_trent_corner/artifacts/film-v004/review.md). Its choices and delegation stay scoped to that film.
+The reusable result is a **production method**, not one character design. Samtoons is the current football-comedy identity; Pencil can support other subjects. Real football incidents and factual educational stories require source checks. Invented dialogue and physical exaggeration belong to a film's chosen treatment and should remain distinguishable from the underlying facts.
 
-Previous animation test: [Just Five Minutes](experiments/006_just_five_minutes/artifacts/film-v001/just-five-minutes.mp4), a 30-second landscape comedy that reconstructs the user-supplied Meesha video's character designs, ruled-paper environment, desk, and limited-animation treatment with a new script. Editable native Blender artwork and original sound, with no voiceover. [Production notes, comparison and checks](experiments/006_just_five_minutes/README.md). This is a reference-replication test, not a final channel-niche selection.
+## Watch the work
 
-Previous film: [Three Goals. One Heartbreak.](experiments/005_three_goals/artifacts/film-v001/three-goals-one-heartbreak.mp4), a 30-second, voiceless dramatization of Mbappé's three goals and France's eventual shootout defeat in the 2022 World Cup final. New illustrated player faces and simplified bodies, original sound and editable native motion. [Production notes, sources and checks](experiments/005_three_goals/README.md).
+| Work | What it explored | Film and notes |
+| --- | --- | --- |
+| **Heavy Box** | The first 10-second action test: readable effort, continuous contact, editable motion, and a targeted revision. | [Watch](experiments/001_heavy_box/artifacts/finish-v002/preview-with-sound.mp4) · [Blender source](experiments/001_heavy_box/artifacts/finish-v002/character-and-effects.blend) · [Experiment](experiments/001_heavy_box/README.md) |
+| **The Goalkeeper Who Scored the Winner** | A complete vertical football Short about Alisson's 2021 winner. | [Watch](experiments/003_alisson_winner/artifacts/film-v001/the-goalkeeper-who-scored-the-winner.mp4) · [Notes](experiments/003_alisson_winner/README.md) |
+| **How Was This Ball Still In?** | A visual explanation of Japan's 2022 goal against Spain and the whole-ball rule. | [Watch](experiments/004_japan_line/artifacts/film-v001/how-was-this-ball-still-in.mp4) · [Notes](experiments/004_japan_line/README.md) |
+| **Three Goals. One Heartbreak.** | Recognizable player faces on simple expressive bodies, with original sound and editable native motion. | [Watch](experiments/005_three_goals/artifacts/film-v001/three-goals-one-heartbreak.mp4) · [Notes](experiments/005_three_goals/README.md) |
+| **Just Five Minutes** | A different niche and a reference-matched limited-animation treatment. | [Watch](experiments/006_just_five_minutes/artifacts/film-v001/just-five-minutes.mp4) · [Notes](experiments/006_just_five_minutes/README.md) |
+| **Barcelona wasn't ready. Trent was.** | Football staging, supporting cast, close-ups, and a revised 38-second film. | [Watch](experiments/007_trent_corner/artifacts/film-v004/barcelona-wasnt-ready-trent-was.mp4) · [Notes](experiments/007_trent_corner/README.md) |
+| **Samtoons: Manchester derby** | A longer animated parody with recognizable players, scene changes, voices, and a native Blender delivery. | [Watch](productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/samtoons-final-1080p.mp4) · [Delivery](productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v003/README.md) |
+| **Samtoons: Arsenal comedy** | A completed, approved cut followed by a documented audit of acting and reuse limits. | [Watch](productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/samtoons-final-1080p.mp4) · [Delivery](productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/README.md) · [Audit](productions/Samtoons/videos/002-how-arsenal-won-the-league/research/benchmark-audit-v001/report.md) |
 
-Previous film: [How Was This Ball Still In?](experiments/004_japan_line/artifacts/film-v001/how-was-this-ball-still-in.mp4), a 32-second visual football puzzle about Japan's 2022 goal against Spain. The camera reveal explains the whole-ball rule, then returns to the goal. [Production notes, editable project and checks](experiments/004_japan_line/README.md). This tests the audience value of explanation beyond a recreated highlight; audience response has not yet been measured.
+The [Barcelona emergency meeting](productions/Samtoons/videos/003-barca-emergency-meeting/Samtoons_Barcelona_Emergency_Meeting_Script_Brief.md) is recorded at staging, with selected native scenes and reviews; it is not a finished film. Earlier rough work and construction tests remain under [`experiments/`](experiments/).
 
-Previous film: [The Goalkeeper Who Scored the Winner](experiments/003_alisson_winner/artifacts/film-v001/the-goalkeeper-who-scored-the-winner.mp4), a complete 40-second vertical Short about Alisson's 2021 winner against West Brom. [Production notes, editable project and checks](experiments/003_alisson_winner/README.md).
+## Find your way around
 
-Historical construction reference: the [10-second animation with color and sound](experiments/001_heavy_box/artifacts/finish-v002/preview-with-sound.mp4) and its [editable Blender project](experiments/001_heavy_box/artifacts/finish-v002/character-and-effects.blend). The [experiment guide](experiments/001_heavy_box/README.md) explains its assets, revisions and checks. Heavy Box is an optional test for changes to its existing construction. New films start from their own briefs and references and are evaluated through their actual shots, animatic and delivery; see the [production evaluation guidance](pipeline/styles/construction.md#evaluate-the-current-production).
+| Path | Purpose |
+| --- | --- |
+| [`productions/`](productions/README.md) | Normal film work. A production has its own creative profile and reusable assets; each video owns its brief, script, plan, journal, sources, and deliveries. |
+| [`experiments/`](experiments/) | Historical films and focused tests. They are evidence and possible technique references, not starting templates for every new film. |
+| [`pipeline/`](pipeline/README.md) | Shared workflow, audio and checkpoint tools, style guidance, and implementation notes. |
+| [`research/`](research/) | Source checks, visual references, sound research, and earlier strategy exploration. |
+| [`PyBlend_Stickman_Starter/`](PyBlend_Stickman_Starter/) | Historical construction reference. Its unfinished plans and creative choices do not govern new work. |
+| [`ARCHIVE.md`](ARCHIVE.md) | What this GitHub copy includes, what stays local, and known gaps. |
 
-The [three-minute procrastination animatic](experiments/002_procrastination/README.md) remains a rough story and pacing experiment. Earlier 32-60-second Shorts planning and the football/education comparison are historical exploration, not universal duration or niche constraints. Samtoons is now an established football-comedy production; another production can select a different niche, treatment and format. Keep independent topic exploration separate unless the user combines it.
+### Guides for a new or resumed film
 
-The [channel strategy](research/stickman-channel-strategy.md) ([PDF](output/pdf/stickman-channel-strategy.pdf)) researches those two options independently for an international English-speaking audience. It includes source-backed animation practices, separate pilot outlines and a proposed validation plan. Its pilot concepts predate the current topic and Shorts direction; use the direction above when planning new films. The recommendations are research conclusions, not approval to begin a new film.
+1. Read [`AGENTS.md`](AGENTS.md), the [production terms](CONTEXT.md), and the [authoritative animation workflow](pipeline/SKILL.md).
+2. Read the relevant production profile—[Samtoons](productions/Samtoons/README.md) for the football comedy—then the video's brief, selected script, `production.json`, and latest `events.jsonl`. Follow recorded selections; the newest filename is not necessarily current.
+3. Open only the guides needed for the work: [character construction](pipeline/styles/construction.md), [motion planning](pipeline/motion-planning.md), [sound planning](pipeline/sound-planning-method.md), or the [19-option visual reference menu](pipeline/styles/menu.png) ([interactive gallery to open locally](pipeline/styles/gallery.html)). The menu's attributed external artwork is a quality reference, not a finished Pencil scene.
+4. Develop the actual story and shots, then review staging, sound, animatic, and delivery through the shared workflow. Keep earlier accepted versions and record the decisions in the existing journal.
 
-Continue recording actual work with the existing `journal.py` and each video's or experiment's `events.jsonl`. Shared workflow changes use `pipeline/events.jsonl`. Record inputs, outputs, review results and user decisions; no additional workflow database is needed.
+## Using this archive
 
-`PyBlend_Stickman_Starter/` is historical reference material. Reuse useful techniques after checking their fit. Current user instructions and each new film's creative brief govern the work.
+Large selected `.blend`, video, and audio files use Git LFS:
+
+```sh
+git lfs install
+git clone https://github.com/samikd35/pencil.git
+cd pencil
+git lfs pull
+```
+
+This is a **curated archive** of source code, production records, reusable assets, selected editable Blender files, and selected films. Generated previews, caches, and some superseded work remain outside GitHub. The Qwen voice runtime was moved to `~/Models/qwen-voice` on the original computer; model weights are not in this repository. Some Arsenal source files were already missing from the local project, so its complete editable reconstruction is unverified. Read [the archive inventory and limits](ARCHIVE.md) before relying on this copy as a backup.
