@@ -1,0 +1,77 @@
+[
+  {
+    "actor": "Arteta",
+    "scene": "S002_clarity_v024_CP00",
+    "color": "#fdb172"
+  },
+  {
+    "actor": "Referee",
+    "scene": "S002_clarity_v024_VH01",
+    "color": "#fba363"
+  },
+  {
+    "actor": "Gabriel",
+    "scene": "S002_clarity_v024_VH01",
+    "color": "#d3773c"
+  },
+  {
+    "actor": "Referee",
+    "scene": "S002_clarity_v024_VH02",
+    "color": "#fba363"
+  },
+  {
+    "actor": "Operator",
+    "scene": "S002_clarity_v024_VH03",
+    "color": "#fdac6d"
+  },
+  {
+    "actor": "Operator",
+    "scene": "S002_clarity_v024_VH03_answer",
+    "color": "#fdac6d"
+  },
+  {
+    "actor": "Arteta",
+    "scene": "S002_clarity_v024_VH04_mikel",
+    "color": "#fdb172"
+  },
+  {
+    "actor": "Operator",
+    "scene": "S002_clarity_v024_VH04_operator",
+    "color": "#fdac6d"
+  },
+  {
+    "actor": "Arteta",
+    "scene": "S002_clarity_v024_VH04_two",
+    "color": "#fdb172"
+  },
+  {
+    "actor": "Operator",
+    "scene": "S002_clarity_v024_VH04_button",
+    "color": "#fdac6d"
+  },
+  {
+    "actor": "Referee",
+    "scene": "S002_clarity_v024_VH05",
+    "color": "#fba363"
+  },
+  {
+    "actor": "Arteta",
+    "scene": "S002_clarity_v024_FR05",
+    "color": "#fdb172"
+  },
+  {
+    "actor": "Gyokeres",
+    "scene": "S002_clarity_v024_N04_trophy",
+    "color": "#feb373"
+  },
+  {
+    "actor": "Saka",
+    "scene": "S002_clarity_v024_N04_trophy",
+    "color": "#874d2b"
+  },
+  {
+    "actor": "Gabriel",
+    "scene": "S002_clarity_v024_N04_trophy",
+    "color": "#d3773c"
+  }
+]

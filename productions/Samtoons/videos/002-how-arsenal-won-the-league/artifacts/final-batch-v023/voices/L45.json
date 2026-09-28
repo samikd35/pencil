@@ -1,0 +1,19 @@
+{
+  "id": "L45",
+  "chapter": 6,
+  "beat": "VH06",
+  "role_and_direction": "RECORDED VOICE",
+  "text": "Thank you for waiting. The season has now ended.",
+  "word_count": 9,
+  "seconds": 3.36,
+  "file": "L45.wav",
+  "sha256": "cce42e3a53f845c98219588001851f5fea4cfffde4c3a8d3d52160bbb09fafbd",
+  "reference_start_seconds": 106.3151875,
+  "role": "RECORDED VOICE",
+  "direction": "Adult female telephone customer-service voice. Bright polished British English. An absurdly cheerful automatic announcement, oblivious to the callers despair. Polished cheerful automation, terrible news delivered pleasantly. Clean dry microphone, no music or extra words.",
+  "seed": 45,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 3.3628505829983624,
+  "path": "artifacts/animatic-v001/voices/L45.wav"
+}

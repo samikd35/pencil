@@ -1,0 +1,8 @@
+{
+  "old_frame28": 3,
+  "expected_frame28": 5,
+  "corrected_all_frames": 96,
+  "root_cause": "Inherited ID-property max3 clamps pose Fcurve values4and5",
+  "live_authoring": false,
+  "reason": "Connector disconnected; current user window shows unrelated Untitled scene, not overwritten"
+}

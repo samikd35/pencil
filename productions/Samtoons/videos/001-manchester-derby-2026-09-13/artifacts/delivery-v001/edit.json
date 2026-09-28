@@ -1,0 +1,104 @@
+[
+  {
+    "beat": "S01",
+    "scene": "FILM S01 / Morning Pep",
+    "frames": 192,
+    "start_frame": 1
+  },
+  {
+    "beat": "S02",
+    "scene": "S02 / kick and overreaction",
+    "frames": 336,
+    "start_frame": 193
+  },
+  {
+    "beat": "S02",
+    "scene": "FILM S02 / Gone fishing",
+    "frames": 240,
+    "start_frame": 529
+  },
+  {
+    "beat": "S03",
+    "scene": "REPAIR S03 / strike and scratch",
+    "frames": 216,
+    "start_frame": 769
+  },
+  {
+    "beat": "S04",
+    "scene": "FILM S04 / Post saves again",
+    "frames": 288,
+    "start_frame": 985
+  },
+  {
+    "beat": "S05",
+    "scene": "FILM S05 / Goal then flag",
+    "frames": 264,
+    "start_frame": 1273
+  },
+  {
+    "beat": "S05",
+    "scene": "FILM S05 / VAR office",
+    "frames": 216,
+    "start_frame": 1537
+  },
+  {
+    "beat": "S05",
+    "scene": "FILM S05 / What about him",
+    "frames": 216,
+    "start_frame": 1753
+  },
+  {
+    "beat": "S06",
+    "scene": "FILM S06 / Ours works too",
+    "frames": 168,
+    "start_frame": 1969
+  },
+  {
+    "beat": "S07",
+    "scene": "FILM S07 / Square head",
+    "frames": 216,
+    "start_frame": 2137
+  },
+  {
+    "beat": "S08",
+    "scene": "FILM S08 / Surely now",
+    "frames": 120,
+    "start_frame": 2353
+  },
+  {
+    "beat": "S08",
+    "scene": "S08 / hope and parry",
+    "frames": 168,
+    "start_frame": 2473
+  },
+  {
+    "beat": "S08",
+    "scene": "FILM S08 / Good wolf",
+    "frames": 120,
+    "start_frame": 2641
+  },
+  {
+    "beat": "S09",
+    "scene": "FILM S09 / Pep two point oh",
+    "frames": 288,
+    "start_frame": 2761
+  },
+  {
+    "beat": "S10",
+    "scene": "S10 / tears and umbrella",
+    "frames": 264,
+    "start_frame": 3049
+  },
+  {
+    "beat": "S10",
+    "scene": "REVISION S10 / Foden exits VAR Room",
+    "frames": 144,
+    "start_frame": 3313
+  },
+  {
+    "beat": "S10",
+    "scene": "REPAIR S10 / roof waterfall and fishing",
+    "frames": 312,
+    "start_frame": 3457
+  }
+]

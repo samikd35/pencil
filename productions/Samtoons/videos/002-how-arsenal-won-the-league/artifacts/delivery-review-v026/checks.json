@@ -1,0 +1,23 @@
+{
+  "frames": 6634,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "video_seconds": "276.428304",
+  "audio_seconds": "276.450000",
+  "decoded": true,
+  "audio_unchanged": "SHA256=f0dfcef2f7da12bb0b564814990af38efdd6dfcf1a287fd15bb7f87999363851",
+  "sha256": "e190ed54757ec2db33f101d44078d16730c8b670b83ad3777e4cb4397e743048",
+  "caption_fixes": [
+    "C00",
+    "C19",
+    "C30",
+    "C31",
+    "C35",
+    "C46"
+  ],
+  "listening": "Not available to agent; full-film audition required",
+  "normal_speed_motion_review": "User accepted v025 fixes; current agent pass samples frames and checks timing, not a new playback approval"
+}

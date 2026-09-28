@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "plan": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/003-barca-emergency-meeting/production.json",
+  "plan_sha256": "4724a7a0d02b38523038c245a78f70092c81a3bf586b84e49c354f04824ec2e8",
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 4968,
+    "sample_rate": 48000
+  },
+  "samples": 9936000,
+  "assets": {
+    "muller_call_candidate_v001": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/003-barca-emergency-meeting/assets/voices-v001/muller-call.wav",
+      "sha256": "2ecf7c478d36fc0154f80a2db8af29d388a194feaa0ae572eed443567f5aa0f6",
+      "source": "Original local Qwen voice-design generation; candidate",
+      "license": "Project-generated speech; model provenance in adjacent JSON",
+      "attribution": "",
+      "notes": "Not auditioned by agent; candidate only, not approved voice identity.",
+      "format": {
+        "sample_rate": 24000,
+        "channels": 1,
+        "duration": "74/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "perez_call_candidate_v001": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/003-barca-emergency-meeting/assets/voices-v001/perez-call.wav",
+      "sha256": "e74cca448cceb5a656508cf351fbcf729ac57c8ea588a07c54cad6f9895fb5fb",
+      "source": "Original local Qwen voice-design generation; candidate",
+      "license": "Project-generated speech; model provenance in adjacent JSON",
+      "attribution": "",
+      "notes": "Not auditioned by agent; candidate only, not approved voice identity.",
+      "format": {
+        "sample_rate": 24000,
+        "channels": 1,
+        "duration": "86/25",
+        "codec": "pcm_s24le"
+      }
+    }
+  },
+  "cues": [
+    {
+      "id": "muller_call_candidate_v001",
+      "shot": "S08",
+      "event": "muller_boast",
+      "intent": "Boast establishes confidence",
+      "asset": "muller_call_candidate_v001",
+      "stem": "dialogue",
+      "duration_seconds": 2.96,
+      "gain_db": 0.0,
+      "pan": 0.0,
+      "event_frame": "1873",
+      "event_sample": 3744000,
+      "start_sample": 3744000,
+      "source_start_sample": 0,
+      "samples": 142080,
+      "onset_samples": 0,
+      "fade_in_samples": 0,
+      "fade_out_samples": 0,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    },
+    {
+      "id": "perez_call_candidate_v001",
+      "shot": "S08",
+      "event": "perez_question",
+      "intent": "Mention of Flick triggers confidence collapse",
+      "asset": "perez_call_candidate_v001",
+      "stem": "dialogue",
+      "duration_seconds": 3.44,
+      "gain_db": 0.0,
+      "pan": 0.0,
+      "event_frame": "1961",
+      "event_sample": 3920000,
+      "start_sample": 3920000,
+      "source_start_sample": 0,
+      "samples": 165120,
+      "onset_samples": 0,
+      "fade_in_samples": 0,
+      "fade_out_samples": 0,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    }
+  ],
+  "mix_gain_db": 0.0
+}

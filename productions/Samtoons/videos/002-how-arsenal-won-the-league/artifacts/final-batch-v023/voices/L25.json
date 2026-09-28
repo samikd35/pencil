@@ -1,0 +1,21 @@
+{
+  "id": "L25",
+  "chapter": 4,
+  "beat": "CP04",
+  "role_and_direction": "ARTETA",
+  "text": "NOT NOW!",
+  "word_count": 2,
+  "seconds": 1.36,
+  "file": "L25.wav",
+  "sha256": "5b0998e4677e1880ce83f44b134d68f37709675b7daeb5bcac44e3cc5ab52a21",
+  "reference_start_seconds": 62.71327083333333,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Explosive irritated shouted interruption. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.2182962920051068,
+  "path": "artifacts/animatic-v001/voices/L25.wav",
+  "reference": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/opening-v002/voices/B02.wav",
+  "reference_sha256": "ca668129e73ddb80305bf3c65d3dfdc28682430cb6f279885f6ece800d822023"
+}

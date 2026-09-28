@@ -1,0 +1,10 @@
+{
+  "id": "B04",
+  "text": "Sorry. Force of habit.",
+  "seed": 51,
+  "direction": "Middle-aged British male delivery driver with a warm slightly husky voice. Matter-of-fact apology followed by a dry offhand explanation. No exaggerated joking or laughter. Clean dry microphone, no music or extra words.",
+  "duration": 1.92,
+  "sha256": "7b242551cfe1ee3c1e538688a3395520c920a68056767dfeaa1a0a53ab51d191",
+  "heard_by_agent": false,
+  "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording"
+}

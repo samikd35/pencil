@@ -1,0 +1,195 @@
+{
+  "requirements": {
+    "1_catalogue": "19 options in three roles; 5 motion-reviewed presets and 14 still-only presets explicitly distinguished",
+    "2_shared_guide": "construction.md maps demonstrated joints, continuous waist, native neck, contact and texture limits to existing helpers",
+    "3_recipes": "19 specific recipes with actual settings, runnable adapter commands, adjustments, sources and limits",
+    "4_samples": "19 distinct native PNGs match their retained Blender renders; all projects saved/reopened and mechanically checked",
+    "5_menu": "Offline HTML with filters/choice preparation plus a visually inspected static image menu; actual browser preview blocked by URL policy, DOM-fixture behavior checks pass",
+    "6_skill_integration": "Installed skill updated; per-film choice pins inputs, resumes unchanged, loads selected settings; tests prove audio preservation and affected checkpoint invalidation",
+    "7_end_to_end": "5 real selections consumed by Blender; five 240-frame native projects and encoded animatics through shared audio; sequential-frame reviews and actual delegated review records",
+    "8_lessons": "Paper waist shadow correction in shared builder; texture/proportion/depth lessons and checkpoint-binding fix recorded in guides, recipes and existing journal"
+  },
+  "samples": [
+    {
+      "id": "expressive-stickman",
+      "sample_sha256": "20acd8f25ab35b17f0db35fc07473ce9bb8989724a67bbbb51bd858077522a90",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/expressive-stickman/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "rubber-hose",
+      "sample_sha256": "fa0b2c026926be1d5666c9b99910f78e8ba31d3076555b3050948de9893e58b1",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/rubber-hose/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "flat-vector",
+      "sample_sha256": "643cfb478187f723dc6abf984180c5d58a14cd21f73dca2eb633a0b0f51e4094",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/flat-vector/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "caricature",
+      "sample_sha256": "1e77337f1b8aa3e11a87741aa9293bcc10d3ea57b8a7a38686c68cbcd088b2fe",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/caricature/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "chibi",
+      "sample_sha256": "58765144aea7af0bf64bedbeb42174ec7cf888270db4a4abe5fd93bc970ae0af",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/chibi/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "geometric",
+      "sample_sha256": "38f6fe078a58b4ced67cf491dfb9dc991722d3c8263481dcdba36139afca256f",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/geometric/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "food-mascot",
+      "sample_sha256": "880d6b93c245ee22c8e1dfb539d1e387f7901abb6446bd79fcbb18f2f07d3295",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/food-mascot/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "rounded-mascot",
+      "sample_sha256": "30ce5ceb404dea9d582f7542b6c1ea099df097bcc602068a08d145ea29c5e7a1",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/rounded-mascot/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "animal-mascot",
+      "sample_sha256": "c55654e3ace54ac781683e2b3a04bf305850c3626bcc4e9f0ad21a8f487bddf5",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/animal-mascot/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "doodle",
+      "sample_sha256": "3860e184bcb075b78dcac09d350a2bc4a3302c24cce14f15d831248984a5880a",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/doodle/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "silhouette",
+      "sample_sha256": "210c421ecf5dd8c4a4bcb3cabe2a7f93b5b8caeb99004b2047d24675c1a0c44d",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/silhouette/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "paper-cutout",
+      "sample_sha256": "928eb53f434fdc3797a6a2fd3f18f90a72fdf9021e41937d7d3d0e87c76bd4f5",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v002/paper-cutout/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "midcentury",
+      "sample_sha256": "81ec37396047b9d1fd32a202995734407a9cc981dae6611090b3789354c85e01",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/midcentury/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "whiteboard",
+      "sample_sha256": "f91dc4c3dac24ae70b2d6af2de1cfb2dca3f23cb785c05c117a630380a47a4d0",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/whiteboard/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "storybook",
+      "sample_sha256": "feefc54e7dcdcc2cf382e44c9ff2aaea7a12f8c68733f9daecdb063e88396bb3",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/storybook/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "collage",
+      "sample_sha256": "21ff9002f121922c617c69ff894d5914291610b67782d0a6df2a57b78da6a4cf",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v002/collage/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "pixelated",
+      "sample_sha256": "138e7bffdd447753ff1737badb151cfb18bd6bc9c15a3d8e1cad7d77375e257f",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v001/pixelated/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "motion-comic",
+      "sample_sha256": "4761feb612aac5f2d422569a4681ac153e6d0b9091dea7d7f1362079ff14087c",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v002/motion-comic/character.blend",
+      "mechanical_check": "passed"
+    },
+    {
+      "id": "parallax",
+      "sample_sha256": "02af8f73442743ac0c4d74c4eb35ad773fbefdac395a9c60cdcd9553f652cb29",
+      "native": "experiments/009_style_gallery/artifacts/gallery-v002/parallax/character.blend",
+      "mechanical_check": "passed"
+    }
+  ],
+  "proofs": [
+    {
+      "id": "chibi",
+      "movie_sha256": "dd1622eb648eb64d56c8d95a69622c34b6f76bb72ad068b57cbb055c7c9ef2b6",
+      "review_sha256": "f579a1240dfb7f93f9aa264a06a650211a506872ccad7dd16ab572be46ce658c"
+    },
+    {
+      "id": "food-mascot",
+      "movie_sha256": "c22b711799cb13d22496e4030d7027500258b5fec3a6d79ea247914716dbe7b7",
+      "review_sha256": "4e2dca95c7b6c51f97f5358cbda64b9ed438544038f674df4c35f7488cb2289b"
+    },
+    {
+      "id": "paper-cutout",
+      "movie_sha256": "32949c35d4faf212fd1a5efa3ecfce2cecdd259f4df5347e2049458ba4b2e316",
+      "review_sha256": "9ded5ad124e056ced65a7c532ef9a6ee41f92cdd64434cb9243991599a435098"
+    },
+    {
+      "id": "collage",
+      "movie_sha256": "0181143e833204e2403054ea5938203c9d45570ccfc2d1aa6980a7d1de958ec6",
+      "review_sha256": "d3a2bc10dc9708e0d71384cae44ac4726904c1b560dbb8e60fe592e0e7617fcf"
+    },
+    {
+      "id": "parallax",
+      "movie_sha256": "a6ee6027d43cd7f9be4a493e9813b65260b2409e152a94e8b32b5d332033e281",
+      "review_sha256": "8bd2250d61e17bb8add175fa7e357c06c728bba4a812faff97db2cbd9a8d69b7"
+    }
+  ],
+  "tests": [
+    {
+      "command": [
+        "python3",
+        "pipeline/test_styles.py"
+      ],
+      "output": "PASS: 19 real PNGs/recipes/evidence; selection preserves audio/timing/metadata; resume is idempotent; explicit replacement archives inputs; changed style invalidates only bound visual approval; tampering rejected."
+    },
+    {
+      "command": [
+        "node",
+        "pipeline/styles/test_gallery.cjs"
+      ],
+      "output": "PASS: shipped offline menu creates 19 accessible image cards; category filters, selected state, prepared message, clipboard and manual-copy fallback work in a DOM fixture. Browser layout/playback are not covered."
+    },
+    {
+      "command": [
+        "python3",
+        "pipeline/checkpoints.py",
+        "--self-test"
+      ],
+      "output": "PASS: absent, pending, agent-only, changed and rejected reviews block; current user acceptance and explicit user waiver pass"
+    },
+    {
+      "command": [
+        "/Users/samikd/MyProjects/PyBlend/.venv/bin/python",
+        "/Users/samikd/.codex/skills/.system/skill-creator/scripts/quick_validate.py",
+        "/Users/samikd/.codex/skills/produce-pencil-animation"
+      ],
+      "output": "Skill is valid!"
+    }
+  ],
+  "skill_sha256": "74a9223252456bc4c324f24bac4b2f87cca58224321d9a92738e7edc17accb34",
+  "menu_sha256": "cb8e608fbec9b78d4d748805fae90fa2a85d6ab34609c0c29e35a01b594bc5a1",
+  "limitations": [
+    "14 new presets have no sequential-frame motion review; existing foundation evidence is retained.",
+    "Fixed-view benchmark, not arbitrary character/angle retargeting; new films author their own poses and staging.",
+    "No real-time playback or new listening claimed. Original soundtrack preserved and verified.",
+    "Browser URL policy blocked local HTML preview. Static menu visually reviewed; HTML logic tested with an isolated DOM fixture."
+  ]
+}

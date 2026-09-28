@@ -1,0 +1,58 @@
+[
+  {
+    "id": "L12",
+    "speaker": "NARRATOR",
+    "text": "Their attacking philosophy? Win a corner. Somebody\u2019s forehead will do the rest.",
+    "start": 0.2916666666666667,
+    "end": 7.331666666666667,
+    "shot": "CD01_cross"
+  },
+  {
+    "id": "L13",
+    "speaker": "ARTETA",
+    "text": "One nil! That's enough football. Everybody back!",
+    "start": 11.416666666666666,
+    "end": 14.296666666666667,
+    "shot": "CD02"
+  },
+  {
+    "id": "L14",
+    "speaker": "NARRATOR",
+    "text": "Lovely. A goalkeeper protecting nine defenders.",
+    "start": 21.791666666666668,
+    "end": 28.75166666666667,
+    "shot": "CD04"
+  },
+  {
+    "id": "L15",
+    "speaker": "GY\u00d6KERES",
+    "text": "What am I supposed to do?",
+    "start": 29.916666666666668,
+    "end": 31.436666666666667,
+    "shot": "CD05"
+  },
+  {
+    "id": "L16",
+    "speaker": "ARTETA",
+    "text": "Win another corner!",
+    "start": 32.416666666666664,
+    "end": 33.61666666666667,
+    "shot": "CD05"
+  },
+  {
+    "id": "L17",
+    "speaker": "ARTETA",
+    "text": "Nobody is getting past us.",
+    "start": 37.833333333333336,
+    "end": 39.67333333333334,
+    "shot": "CD05_proud"
+  },
+  {
+    "id": "L18",
+    "speaker": "ARTETA",
+    "text": "Again?",
+    "start": 41.833333333333336,
+    "end": 42.71333333333334,
+    "shot": "CD05_ping"
+  }
+]

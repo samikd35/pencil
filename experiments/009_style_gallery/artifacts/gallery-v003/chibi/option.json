@@ -1,0 +1,37 @@
+{
+  "id": "chibi",
+  "name": "Chibi / super-deformed",
+  "category": "Character",
+  "description": "A very large head over a compact body.",
+  "limitation": "Compact hips need foot-clearance constraints and action-specific reach tuning.",
+  "recipe": "recipes/chibi.md",
+  "sample": "samples/chibi.png",
+  "settings": {
+    "design": "chibi",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "status": "Motion proof checked",
+  "evidence": [
+    {
+      "label": "Native project",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/chibi/character.blend"
+    },
+    {
+      "label": "240-frame connection check",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/chibi/checks.json"
+    },
+    {
+      "label": "Motion proof and review",
+      "path": "../../experiments/009_style_gallery/proofs/workflow-v001/chibi/animatic-v001/review.md"
+    },
+    {
+      "label": "Combined animatic",
+      "path": "../../experiments/009_style_gallery/proofs/workflow-v001/chibi/animatic-v001/animatic-with-sound.mp4"
+    }
+  ],
+  "sources": [
+    "https://www.clipstudio.net/how-to-draw/archives/155423"
+  ],
+  "motion_tested": true
+}

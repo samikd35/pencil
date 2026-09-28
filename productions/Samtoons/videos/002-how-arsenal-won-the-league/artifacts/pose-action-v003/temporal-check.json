@@ -1,0 +1,21 @@
+{
+  "version": "v003",
+  "frames": 192,
+  "steady_run_frames": [
+    29,
+    100
+  ],
+  "neck_screen_step_range_pixels": [
+    -0.000457763671875,
+    0.000457763671875
+  ],
+  "background_step_range_pixels": [
+    -48.57177734375,
+    -48.5711669921875
+  ],
+  "background_step_stddev_pixels": 0.0001218354220413607,
+  "maximum_evaluated_contact_error_world_units": 9.571730998914063e-07,
+  "maximum_vertex_horizontal_correction": 0.32450926303863525,
+  "original_delivery_hash_unchanged": true,
+  "creative_status": "temporal revision pending playback review"
+}

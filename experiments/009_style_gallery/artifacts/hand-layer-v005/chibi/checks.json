@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "frames": 240,
+  "controllers": 12,
+  "max_endpoint_gap": 6.664001874625056e-08,
+  "saved_project_hand_edit": "passed",
+  "limits": "Endpoint/driver evidence does not certify every visible overlap or cartoon appeal.",
+  "source_sha256": "1e73d9dfdaed3839f6e43fe6b1d8d6d40164839912e6f6d8c71fd12cd3e6db74",
+  "all_arm_and_sleeve_curves_240_frames": "Identical before/after layering; shoulder-side correction changes upper-arm geometry relative to source",
+  "all_hand_and_foot_meshes_240_frames": "identical",
+  "original_control_tracks": "identical, including original elbow controls",
+  "shoulder_correction": "Near shoulder screen-left; far shoulder screen-right. Derived bends follow attachments; hand paths unchanged.",
+  "front_arm": [
+    "Arm_near",
+    "Arm_near fill",
+    "STYLE sleeve near",
+    "Foreground sleeve outline"
+  ],
+  "front_hand": [
+    "Mitten_near",
+    "Mitten_near_outline"
+  ]
+}

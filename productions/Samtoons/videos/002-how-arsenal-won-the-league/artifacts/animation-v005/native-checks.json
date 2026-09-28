@@ -1,0 +1,43 @@
+{
+  "shared_environment_scenes": 7,
+  "same_collection_identity": true,
+  "dark_reveal_camera_match": true,
+  "seated_rigs": [
+    {
+      "scene": "S002_v005_N01",
+      "frames": 180,
+      "max_chain_length_error": 2.011193307449588e-07,
+      "rest_skin_error": 7.251217997429633e-07,
+      "floor_vertex_error": 1.192238405779396e-07
+    },
+    {
+      "scene": "S002_v005_N02",
+      "frames": 48,
+      "max_chain_length_error": 1.879296942508546e-07,
+      "rest_skin_error": 7.251217997429633e-07,
+      "floor_vertex_error": 1.192238405779396e-07
+    },
+    {
+      "scene": "S002_v005_N03",
+      "frames": 93,
+      "max_chain_length_error": 1.8911376620245335e-07,
+      "rest_skin_error": 7.251217997429633e-07,
+      "floor_vertex_error": 1.192238405779396e-07
+    },
+    {
+      "scene": "S002_v005_N04_dark",
+      "frames": 96,
+      "max_chain_length_error": 1.92594801662338e-07,
+      "rest_skin_error": 2.5344242603146195e-06,
+      "floor_vertex_error": 0
+    },
+    {
+      "scene": "S002_v005_N04_reveal",
+      "frames": 36,
+      "max_chain_length_error": 2.0348690688010151e-07,
+      "rest_skin_error": 2.5344242603146195e-06,
+      "floor_vertex_error": 0
+    }
+  ],
+  "limit": "Seated construction checks only. No claim that rise/throw or the film rebuild is complete."
+}

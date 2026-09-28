@@ -1,0 +1,19 @@
+{
+  "goal_inner_width": 7.32,
+  "goal_inner_height": 2.44,
+  "pitch": [
+    105,
+    68
+  ],
+  "native_environment_no_image_planes": true,
+  "creative_acceptance": false,
+  "blender": "5.2.0 LTS",
+  "native": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/003-barca-emergency-meeting/artifacts/staging-v001/training-set-v001/training-set.blend",
+  "render": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/003-barca-emergency-meeting/artifacts/staging-v001/training-set-v001/wide-after-reopen.png",
+  "scope": "Environment geometry only; acting, mechanics, sound and final art direction not passed.",
+  "decoded_pixel_hash_before_after": [
+    "SHA256=fda4270e129f1812c2a1e46d6e297b4209947292c0d10992b851bb48417968dd",
+    "SHA256=fda4270e129f1812c2a1e46d6e297b4209947292c0d10992b851bb48417968dd"
+  ],
+  "same_pixels_after_save_reopen": true
+}

@@ -1,0 +1,18 @@
+{
+  "boot_surface_gap": 8.107896480938348e-08,
+  "hand_clearances": [
+    1.639766780126688,
+    0.6227116509644932
+  ],
+  "sprint_plant_drifts": [
+    0.0,
+    0.0
+  ],
+  "knee_surface_gap": -1.50604248048275e-07,
+  "macro_stationary_frames": 240,
+  "checked_state_label_frames": 185,
+  "embedded_soundtrack": true,
+  "frames": 768,
+  "source_unchanged_sha256": "24bf61f9cd4a965084153f779990b289e3ce87e7d9854986d25ea252b0697923",
+  "limits": "Geometric illustration, not measured match reconstruction. Technical checks do not establish audience comprehension or world-class quality."
+}

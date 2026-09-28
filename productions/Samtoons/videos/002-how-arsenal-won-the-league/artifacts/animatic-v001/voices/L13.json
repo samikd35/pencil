@@ -1,0 +1,19 @@
+{
+  "id": "L13",
+  "chapter": 3,
+  "beat": "CD02",
+  "role_and_direction": "ARTETA — cutting through the celebration",
+  "text": "ONE–NIL! That’s enough football. Everybody back!",
+  "word_count": 7,
+  "seconds": 4.0,
+  "file": "L13.wav",
+  "sha256": "f4ad466cdf6b618a8bb5cd7f52192ce981d218ac62aee105f3d67f68a1c65d1c",
+  "reference_start_seconds": 32.813375,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Loud decisive order interrupting celebration. Full projected voice on ONE NIL and EVERYBODY BACK. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 4.042160416996921,
+  "path": "artifacts/animatic-v001/voices/L13.wav"
+}

@@ -1,0 +1,11 @@
+{
+  "frames": 192,
+  "visible_complete_poses_per_frame": 1,
+  "maximum_contact_anchor_error_world_units": 8.562624067565139e-07,
+  "jump_proxy_acceleration_world_units_per_second_squared": -9.81,
+  "gravity_applies_to": "uniform-area silhouette mass proxy; not anatomical COM",
+  "original_delivery_unchanged": true,
+  "pose_selector_keyed": true,
+  "creative_review": "pending; no normal-speed acceptance inferred",
+  "pose_selector_picture_matches_original_render_frame_019": true
+}

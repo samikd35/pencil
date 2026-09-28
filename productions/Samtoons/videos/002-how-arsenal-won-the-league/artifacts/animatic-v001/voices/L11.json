@@ -1,0 +1,19 @@
+{
+  "id": "L11",
+  "chapter": 2,
+  "beat": "TR03",
+  "role_and_direction": "ARTETA",
+  "text": "Now we’re dangerous.",
+  "word_count": 3,
+  "seconds": 1.36,
+  "file": "L11.wav",
+  "sha256": "c532aed69edc1649362df611ff897f2db840172e7a25e5c2306fb0e59eb07515",
+  "reference_start_seconds": 25.671895833333334,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Delighted, self-satisfied certainty. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.419849208999949,
+  "path": "artifacts/animatic-v001/voices/L11.wav"
+}

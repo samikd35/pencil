@@ -1,0 +1,62 @@
+{
+  "samtoons-final-1080p.mp4": {
+    "sha256": "516025cbe42bd57a68a759d9caac6ee6d1d8f76357995b8aa0501af823b3b924",
+    "bytes": 58780011
+  },
+  "samtoons-final.srt": {
+    "sha256": "94366a69f2f7ce0a2ca11bd7e55dc80cd39b7f16242f19f65230e1d4f63b84fe",
+    "bytes": 6140
+  },
+  "subtitles.ass": {
+    "sha256": "bc8c1ba12c5e20e5a0a9a359b20470a18ace8ca5e9ed0318404f212d31acce50",
+    "bytes": 11138
+  },
+  "approved-soundtrack.m4a": {
+    "sha256": "35d8e959b4459e33743e2c2de9e00b8f20d19fe20d96cfbf4e31fa67c9caed98",
+    "bytes": 5202192
+  },
+  "README.md": {
+    "sha256": "a6a3b341b17bf6f4e2855c9b27d1918d3246bae7f915297032b58d1568f9780d",
+    "bytes": 7758
+  },
+  "script.md": {
+    "sha256": "2b5893e852d28950391a03bf4bd97761eace491c98a7e25f4b0a7ecbdad35e3b",
+    "bytes": 13234
+  },
+  "edit.json": {
+    "sha256": "82ed6b90ca1cb7cf84fa291ede827bd5b06705ac990110d4abe74497a0e86690",
+    "bytes": 8724
+  },
+  "sources.json": {
+    "sha256": "9c33254dde7fb00cac2795ff4bcac3c826b8bc83fb4bf36cdd02491d2f4f271f",
+    "bytes": 647
+  },
+  "source-dependencies.json": {
+    "sha256": "26d47c4d4bc8c2df98c49a8a3c53a4c2885f4e5e69bae4fc0af9faff8ddec18e",
+    "bytes": 699
+  },
+  "checks.json": {
+    "sha256": "3b2f7f8629cde0e0a0a4a43eb016d4dd43df5dbf18b50cd42029cb68a7e1de92",
+    "bytes": 420
+  },
+  "encoded-delivery-review.jpg": {
+    "sha256": "3ff2f04dbf882348ed20f8f89084fca27d8d74fb4b37baee4cdfbb2d65a96173",
+    "bytes": 244012
+  },
+  "sources/defence.blend": {
+    "sha256": "10d05293acbb77d2c89b8cf7325b46335b5989fb4e063ae6985d0e925e5428c5",
+    "bytes": 59806890
+  },
+  "sources/opening-motion.blend": {
+    "sha256": "e5c5e011acb7c36c50a1e5286da627c2ed0330968f71002cf22dc83e110ef24a",
+    "bytes": 28286767
+  },
+  "sources/remaining.blend": {
+    "sha256": "c97c34f47cfe01623c84a4da80a4a0c30bfe1c266f5f1b4567ba9f5acf3697b9",
+    "bytes": 88644028
+  },
+  "sources/opening-dialogue.blend": {
+    "sha256": "3964284af0e26cc2b4ff55d3a38dfff90aabc7c853c3ea4a6ad07aacbe9ec081",
+    "bytes": 28371989
+  }
+}

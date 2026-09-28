@@ -1,0 +1,17 @@
+{
+  "id": "TR02_flag",
+  "chapter": 2,
+  "panel": 1,
+  "start_frame": 937,
+  "frames": 96,
+  "lines": [],
+  "source": "boards/chapter-2.png",
+  "camera": "hold",
+  "crop": [
+    688,
+    5,
+    673,
+    374
+  ],
+  "source_sha256": "cc22d241288d8ad53cde382cc85ea2c786b7b658e1b2f5b7ce1853e9fe84713f"
+}

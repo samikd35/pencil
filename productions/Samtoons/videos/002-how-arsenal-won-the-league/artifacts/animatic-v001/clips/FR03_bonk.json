@@ -1,0 +1,17 @@
+{
+  "id": "FR03_bonk",
+  "chapter": 6,
+  "panel": 3,
+  "start_frame": 5078,
+  "frames": 24,
+  "lines": [],
+  "source": "boards/chapter-6.png",
+  "camera": "hold",
+  "crop": [
+    687,
+    388,
+    674,
+    373
+  ],
+  "source_sha256": "07bcbfe4dd77e80f52d9b4d37c64a2e683c2eef92a9ec76676b854ba9681039f"
+}

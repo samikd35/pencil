@@ -1,0 +1,192 @@
+{
+  "approved_revision": "animatic-v004",
+  "audio_assets": [
+    {
+      "id": "paper-handoff",
+      "path": "assets/audio-v003/paper-handoff.wav",
+      "sha256": "4881e483b8b698397afb1fe87b5988886dd54d46388648130b2a4cd3cbf6959e"
+    },
+    {
+      "id": "paper-crumple",
+      "path": "assets/audio-v003/paper-crumple.wav",
+      "sha256": "aec7d37ae05bb3a9fd306c730dd07070f4927f6e2d134ee4594f0950e3c80501"
+    },
+    {
+      "id": "card-flick",
+      "path": "assets/audio-v003/card-flick.wav",
+      "sha256": "ed7eed8b26c2ea8414abb0f03f02db4db34972197a95ed8eafdc764664f2fcb5"
+    },
+    {
+      "id": "shirt-move",
+      "path": "assets/audio-v003/shirt-move.wav",
+      "sha256": "c06498b9e083f4fc3c3c2d577827fc4af6d0caf237afe8f326350f767fcdcfe3"
+    },
+    {
+      "id": "ball-strike",
+      "path": "assets/audio-v003/ball-strike.wav",
+      "sha256": "a5670c8592b954ae9d5336e7fbc84c0ddb7c785467a911bb9db4e4936c297ec1"
+    },
+    {
+      "id": "glove-parry",
+      "path": "assets/audio-v003/glove-parry.wav",
+      "sha256": "8a57001aee01f0da23ca6ec6f9055115650a0639387c11d336b8234d0c0aae9e"
+    },
+    {
+      "id": "sob-A",
+      "path": "assets/audio-v003/sob-A.wav",
+      "sha256": "559bdecc0eaf2a1c8f92a876041ee615e76dc6efe33654ef7c173fdaa2548f57"
+    },
+    {
+      "id": "sob-B",
+      "path": "assets/audio-v003/sob-B.wav",
+      "sha256": "b3a39b4a9e707daf628df41dd3ab3fa2f9d4dabc0dd0e3d153e9c0fb4f8b4cd4"
+    },
+    {
+      "id": "innocent-chime",
+      "path": "assets/audio-v003/innocent-chime.wav",
+      "sha256": "cc9adf91a89d9079da33a004997027a238f8acb42793fcff8b52e5579b7eeefd"
+    },
+    {
+      "id": "comic-recoil",
+      "path": "assets/audio-v003/comic-recoil.wav",
+      "sha256": "c554a4a49afb79f766611bdc4be6155de0c440603e4896dcdd414b2ad9211f43"
+    },
+    {
+      "id": "dry-impact",
+      "path": "assets/audio-v002/dry-impact.wav",
+      "sha256": "e63d24f9c2d3f2028256cf1baa274b1b891514e5d110919f904e14cc4618d84e"
+    },
+    {
+      "id": "whistle",
+      "path": "assets/audio-v002/ref-whistle.wav",
+      "sha256": "989cdfce394bd2efa2939da2fdbf29a8eed84a0192322162d707bac51b8db781"
+    },
+    {
+      "id": "bruno-directed",
+      "path": "assets/voices-v002/bruno.wav",
+      "sha256": "48e802d3bac62f3e8cc8e8fa143a8b1e64928295ce858ee5e8d78ee27e8a02f9"
+    },
+    {
+      "id": "oliver-directed",
+      "path": "assets/voices-v002/oliver.wav",
+      "sha256": "7113136f76c81f30d2958820a2d0930046fbedfe087896ee6be4fba63916600d"
+    },
+    {
+      "id": "carrick-directed",
+      "path": "assets/voices-v002/carrick.wav",
+      "sha256": "52954c899f277a4473710f9434cead14cf969887b03518c325b1a561dc77d160"
+    },
+    {
+      "id": "servo",
+      "path": "assets/audio-v001/head-servo.wav",
+      "sha256": "7e1e1bb74755d0e587d0bfacca57b2269382b0b9603880d8b8399b148d1917db"
+    },
+    {
+      "id": "badge",
+      "path": "assets/audio-v001/badge-pop.wav",
+      "sha256": "192985b8216257fa190d978e7eeea407b4fcf6c983911c8fa7d568fe79224956"
+    },
+    {
+      "id": "morning",
+      "path": "assets/film-voices-v002/morning.wav",
+      "sha256": "d5576335af0f1793e5d63cfdc6de72fca0e27f12bca73f7444cae6c016aede56"
+    },
+    {
+      "id": "and-him",
+      "path": "assets/film-voices-v002/and-him.wav",
+      "sha256": "7e8cfcbeaf97cf0361cb20ebac0e4017f3150ee8ee76282159e04c06287733d3"
+    },
+    {
+      "id": "fishing",
+      "path": "assets/film-voices-v002/fishing.wav",
+      "sha256": "57d1bfd8568c5199b01766e83c8a50db06a3e1fa5c515739790ea34988f1a080"
+    },
+    {
+      "id": "less-problem",
+      "path": "assets/film-voices-v002/less-problem.wav",
+      "sha256": "883f13e3ece933899ed7cd1dd35f1e8e21aec3ccd8c359952ad9279031a76c8a"
+    },
+    {
+      "id": "contract",
+      "path": "assets/film-voices-v002/contract.wav",
+      "sha256": "d85f168ae7c13387359964090a866d550003ace3c11b92199a242005c17ff395"
+    },
+    {
+      "id": "var",
+      "path": "assets/film-voices-v003/var.wav",
+      "sha256": "7b6a4e0b8228ebd18dcef488c1a70bea852f1b8bd7b01181f372afefdd1d4080"
+    },
+    {
+      "id": "him",
+      "path": "assets/film-voices-v002/him.wav",
+      "sha256": "e6cf119edfa722d3e60847e39b7c2d1961fad471e5500b4733c3510fdbd47c4f"
+    },
+    {
+      "id": "yes",
+      "path": "assets/film-voices-v002/yes.wav",
+      "sha256": "5307245ce873b6476533ffd2363e2176013ee931c7dfb3db73b75ddb932cf548"
+    },
+    {
+      "id": "ours",
+      "path": "assets/film-voices-v002/ours.wav",
+      "sha256": "acf1ca964cc336f09c683477ccf53bfab2165db88b33e4519175dd130a26c80d"
+    },
+    {
+      "id": "surely",
+      "path": "assets/film-voices-v002/surely.wav",
+      "sha256": "4ca316ba5403165f06e770960e7a3b96c57890196bcc077c08d030e014eab54a"
+    },
+    {
+      "id": "wolf",
+      "path": "assets/film-voices-v002/wolf.wav",
+      "sha256": "12b7779683bb33c993fa8ff82e755bf216e589a5b4e888204090465158c15e3f"
+    },
+    {
+      "id": "thanks",
+      "path": "assets/film-voices-v002/thanks.wav",
+      "sha256": "8cd5a3cef1091d0df8e1d2936122904deec59a05fac4f928c514c4b9c166222d"
+    },
+    {
+      "id": "enzo",
+      "path": "assets/film-voices-v002/enzo.wav",
+      "sha256": "5b671f400c78668297a6e170ba23299665a65e9ae77a07712743847bb8967c90"
+    },
+    {
+      "id": "pep-two",
+      "path": "assets/film-voices-v002/pep-two.wav",
+      "sha256": "9d995447dfbc34c55d3975637a0cc76fb739d7bb0a5d8904e8598164f82470db"
+    },
+    {
+      "id": "biting",
+      "path": "assets/film-voices-v002/biting.wav",
+      "sha256": "8d5996a551d432b5f908987db395a6f74e144027deb0703b4382e00e8c6e12f6"
+    },
+    {
+      "id": "float",
+      "path": "assets/audio-v002/float-plop.wav",
+      "sha256": "1b9549abd3784c7e64e50c67f2b077202c43b1de423ff51b7ea7467cbbbc9517"
+    },
+    {
+      "id": "tail",
+      "path": "assets/audio-v002/whistle-squeak.wav",
+      "sha256": "14c0c2da40c76dc407a2d3e6040a5cc424277fa5cc2d85bc56cf1cab238df0d3"
+    },
+    {
+      "id": "post-clang",
+      "path": "assets/rashford-v002/post-clang.wav",
+      "sha256": "df3a895cf8edc96c181a66a163a681e351d86f28dbe26d509567edb569003bd3"
+    },
+    {
+      "id": "roof-water",
+      "path": "assets/audio-v002/comic-fountain.wav",
+      "sha256": "0f4871e6d13fdefd38a80a3f020ec44d686d482418b20703531a16ccf28346cf"
+    },
+    {
+      "id": "boot-step",
+      "path": "assets/door-v003/boot-step.wav",
+      "sha256": "8a0a021e90900cca49cceca0182e41b8f9354cdfb17609e6b2a8437c8ec29ae8"
+    }
+  ],
+  "approved_mix_sha256": "6ae5cc345abe2f975a9755dbf813913d4a37ca112d7f162b139e96da58fec63a",
+  "edit_frames": 3768
+}

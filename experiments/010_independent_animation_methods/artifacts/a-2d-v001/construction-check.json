@@ -1,0 +1,1594 @@
+{
+  "method": "New native planar vector drawings + armature deformation + authored hand/head substitutions. Not raster cutouts; not Grease Pencil.",
+  "new_scene": true,
+  "old_assets_imported": false,
+  "reference_only_images": true,
+  "body_drawings": 10,
+  "hand_drawings": 3,
+  "frames": [
+    {
+      "frame": 1,
+      "wrist": [
+        -0.949999988079071,
+        0.0,
+        2.119999885559082
+      ],
+      "hand": "open",
+      "head_drawing": 12,
+      "grip_error": null
+    },
+    {
+      "frame": 2,
+      "wrist": [
+        -0.953690230846405,
+        0.0,
+        2.1188032627105713
+      ],
+      "hand": "open",
+      "head_drawing": 12,
+      "grip_error": null
+    },
+    {
+      "frame": 3,
+      "wrist": [
+        -0.9641583561897278,
+        0.0,
+        2.115408182144165
+      ],
+      "hand": "open",
+      "head_drawing": 12,
+      "grip_error": null
+    },
+    {
+      "frame": 4,
+      "wrist": [
+        -0.9805006980895996,
+        0.0,
+        2.110107898712158
+      ],
+      "hand": "open",
+      "head_drawing": 12,
+      "grip_error": null
+    },
+    {
+      "frame": 5,
+      "wrist": [
+        -1.001813530921936,
+        0.0,
+        2.1031956672668457
+      ],
+      "hand": "open",
+      "head_drawing": 6,
+      "grip_error": null
+    },
+    {
+      "frame": 6,
+      "wrist": [
+        -1.0271931886672974,
+        0.0,
+        2.0949642658233643
+      ],
+      "hand": "open",
+      "head_drawing": 6,
+      "grip_error": null
+    },
+    {
+      "frame": 7,
+      "wrist": [
+        -1.0557358264923096,
+        0.0,
+        2.085707426071167
+      ],
+      "hand": "open",
+      "head_drawing": 6,
+      "grip_error": null
+    },
+    {
+      "frame": 8,
+      "wrist": [
+        -1.0865377187728882,
+        0.0,
+        2.0757174491882324
+      ],
+      "hand": "open",
+      "head_drawing": 6,
+      "grip_error": null
+    },
+    {
+      "frame": 9,
+      "wrist": [
+        -1.1186952590942383,
+        0.0,
+        2.0652880668640137
+      ],
+      "hand": "open",
+      "head_drawing": 0,
+      "grip_error": null
+    },
+    {
+      "frame": 10,
+      "wrist": [
+        -1.1513047218322754,
+        0.0,
+        2.0547120571136475
+      ],
+      "hand": "open",
+      "head_drawing": 0,
+      "grip_error": null
+    },
+    {
+      "frame": 11,
+      "wrist": [
+        -1.1834622621536255,
+        0.0,
+        2.0442824363708496
+      ],
+      "hand": "open",
+      "head_drawing": 0,
+      "grip_error": null
+    },
+    {
+      "frame": 12,
+      "wrist": [
+        -1.214264154434204,
+        0.0,
+        2.034292697906494
+      ],
+      "hand": "open",
+      "head_drawing": -6,
+      "grip_error": null
+    },
+    {
+      "frame": 13,
+      "wrist": [
+        -1.2428067922592163,
+        0.0,
+        2.0250356197357178
+      ],
+      "hand": "open",
+      "head_drawing": -6,
+      "grip_error": null
+    },
+    {
+      "frame": 14,
+      "wrist": [
+        -1.2681864500045776,
+        0.0,
+        2.0168044567108154
+      ],
+      "hand": "open",
+      "head_drawing": -6,
+      "grip_error": null
+    },
+    {
+      "frame": 15,
+      "wrist": [
+        -1.289499282836914,
+        0.0,
+        2.009892225265503
+      ],
+      "hand": "open",
+      "head_drawing": -6,
+      "grip_error": null
+    },
+    {
+      "frame": 16,
+      "wrist": [
+        -1.3058416843414307,
+        0.0,
+        2.004591941833496
+      ],
+      "hand": "open",
+      "head_drawing": -12,
+      "grip_error": null
+    },
+    {
+      "frame": 17,
+      "wrist": [
+        -1.3163098096847534,
+        0.0,
+        2.00119686126709
+      ],
+      "hand": "open",
+      "head_drawing": -12,
+      "grip_error": null
+    },
+    {
+      "frame": 18,
+      "wrist": [
+        -1.3200000524520874,
+        0.0,
+        2.0
+      ],
+      "hand": "open",
+      "head_drawing": -12,
+      "grip_error": null
+    },
+    {
+      "frame": 19,
+      "wrist": [
+        -1.3222460746765137,
+        0.0,
+        1.999326229095459
+      ],
+      "hand": "open",
+      "head_drawing": -12,
+      "grip_error": null
+    },
+    {
+      "frame": 20,
+      "wrist": [
+        -1.3285937309265137,
+        0.0,
+        1.9974218606948853
+      ],
+      "hand": "open",
+      "head_drawing": -12,
+      "grip_error": null
+    },
+    {
+      "frame": 21,
+      "wrist": [
+        -1.3384569883346558,
+        0.0,
+        1.9944628477096558
+      ],
+      "hand": "open",
+      "head_drawing": -12,
+      "grip_error": null
+    },
+    {
+      "frame": 22,
+      "wrist": [
+        -1.3512500524520874,
+        0.0,
+        1.990625023841858
+      ],
+      "hand": "open",
+      "head_drawing": -12,
+      "grip_error": null
+    },
+    {
+      "frame": 23,
+      "wrist": [
+        -1.3663867712020874,
+        0.0,
+        1.986083984375
+      ],
+      "hand": "open",
+      "head_drawing": -12,
+      "grip_error": null
+    },
+    {
+      "frame": 24,
+      "wrist": [
+        -1.3832812309265137,
+        0.0,
+        1.981015682220459
+      ],
+      "hand": "closing",
+      "head_drawing": -12,
+      "grip_error": null
+    },
+    {
+      "frame": 25,
+      "wrist": [
+        -1.4013476371765137,
+        0.0,
+        1.9755957126617432
+      ],
+      "hand": "closing",
+      "head_drawing": -12,
+      "grip_error": null
+    },
+    {
+      "frame": 26,
+      "wrist": [
+        -1.4199999570846558,
+        0.0,
+        1.9700000286102295
+      ],
+      "hand": "closing",
+      "head_drawing": -12,
+      "grip_error": null
+    },
+    {
+      "frame": 27,
+      "wrist": [
+        -1.4386523962020874,
+        0.0,
+        1.9644043445587158
+      ],
+      "hand": "closing",
+      "head_drawing": -12,
+      "grip_error": null
+    },
+    {
+      "frame": 28,
+      "wrist": [
+        -1.4567188024520874,
+        0.0,
+        1.958984375
+      ],
+      "hand": "closing",
+      "head_drawing": -12,
+      "grip_error": null
+    },
+    {
+      "frame": 29,
+      "wrist": [
+        -1.4736132621765137,
+        0.0,
+        1.953916072845459
+      ],
+      "hand": "closing",
+      "head_drawing": -18,
+      "grip_error": null
+    },
+    {
+      "frame": 30,
+      "wrist": [
+        -1.4887499809265137,
+        0.0,
+        1.949375033378601
+      ],
+      "hand": "closing",
+      "head_drawing": -18,
+      "grip_error": null
+    },
+    {
+      "frame": 31,
+      "wrist": [
+        -1.5015429258346558,
+        0.0,
+        1.9455370903015137
+      ],
+      "hand": "grip",
+      "head_drawing": -18,
+      "grip_error": null
+    },
+    {
+      "frame": 32,
+      "wrist": [
+        -1.5114063024520874,
+        0.0,
+        1.9425780773162842
+      ],
+      "hand": "grip",
+      "head_drawing": -18,
+      "grip_error": null
+    },
+    {
+      "frame": 33,
+      "wrist": [
+        -1.5177539587020874,
+        0.0,
+        1.940673828125
+      ],
+      "hand": "grip",
+      "head_drawing": -18,
+      "grip_error": null
+    },
+    {
+      "frame": 34,
+      "wrist": [
+        -1.5199999809265137,
+        0.0,
+        1.940000057220459
+      ],
+      "hand": "grip",
+      "head_drawing": -18,
+      "grip_error": 0
+    },
+    {
+      "frame": 35,
+      "wrist": [
+        -1.5202548503875732,
+        0.0,
+        1.945860743522644
+      ],
+      "hand": "grip",
+      "head_drawing": -18,
+      "grip_error": 0
+    },
+    {
+      "frame": 36,
+      "wrist": [
+        -1.5209718942642212,
+        0.0,
+        1.9623526334762573
+      ],
+      "hand": "grip",
+      "head_drawing": -18,
+      "grip_error": 0
+    },
+    {
+      "frame": 37,
+      "wrist": [
+        -1.5220799446105957,
+        0.0,
+        1.9878400564193726
+      ],
+      "hand": "grip",
+      "head_drawing": -18,
+      "grip_error": 0
+    },
+    {
+      "frame": 38,
+      "wrist": [
+        -1.5235081911087036,
+        0.0,
+        2.0206873416900635
+      ],
+      "hand": "grip",
+      "head_drawing": -18,
+      "grip_error": 0
+    },
+    {
+      "frame": 39,
+      "wrist": [
+        -1.525185227394104,
+        0.0,
+        2.0592591762542725
+      ],
+      "hand": "grip",
+      "head_drawing": -12,
+      "grip_error": 0
+    },
+    {
+      "frame": 40,
+      "wrist": [
+        -1.5270400047302246,
+        0.0,
+        2.1019198894500732
+      ],
+      "hand": "grip",
+      "head_drawing": -12,
+      "grip_error": 0
+    },
+    {
+      "frame": 41,
+      "wrist": [
+        -1.5290014743804932,
+        0.0,
+        2.147034168243408
+      ],
+      "hand": "grip",
+      "head_drawing": -12,
+      "grip_error": 0
+    },
+    {
+      "frame": 42,
+      "wrist": [
+        -1.5309984683990479,
+        0.0,
+        2.1929659843444824
+      ],
+      "hand": "grip",
+      "head_drawing": -12,
+      "grip_error": 0
+    },
+    {
+      "frame": 43,
+      "wrist": [
+        -1.532960057258606,
+        0.0,
+        2.2380800247192383
+      ],
+      "hand": "grip",
+      "head_drawing": -12,
+      "grip_error": 0
+    },
+    {
+      "frame": 44,
+      "wrist": [
+        -1.5348148345947266,
+        0.0,
+        2.280740737915039
+      ],
+      "hand": "grip",
+      "head_drawing": -12,
+      "grip_error": 0
+    },
+    {
+      "frame": 45,
+      "wrist": [
+        -1.536491870880127,
+        0.0,
+        2.319312572479248
+      ],
+      "hand": "grip",
+      "head_drawing": -12,
+      "grip_error": 0
+    },
+    {
+      "frame": 46,
+      "wrist": [
+        -1.5379199981689453,
+        0.0,
+        2.3521599769592285
+      ],
+      "hand": "grip",
+      "head_drawing": -6,
+      "grip_error": 0
+    },
+    {
+      "frame": 47,
+      "wrist": [
+        -1.5390281677246094,
+        0.0,
+        2.3776473999023438
+      ],
+      "hand": "grip",
+      "head_drawing": -6,
+      "grip_error": 0
+    },
+    {
+      "frame": 48,
+      "wrist": [
+        -1.5397452116012573,
+        0.0,
+        2.394139289855957
+      ],
+      "hand": "grip",
+      "head_drawing": -6,
+      "grip_error": 0
+    },
+    {
+      "frame": 49,
+      "wrist": [
+        -1.5399999618530273,
+        0.0,
+        2.4000000953674316
+      ],
+      "hand": "grip",
+      "head_drawing": -6,
+      "grip_error": 0
+    },
+    {
+      "frame": 50,
+      "wrist": [
+        -1.5404349565505981,
+        0.0,
+        2.4043500423431396
+      ],
+      "hand": "grip",
+      "head_drawing": -6,
+      "grip_error": 0
+    },
+    {
+      "frame": 51,
+      "wrist": [
+        -1.5416799783706665,
+        0.0,
+        2.416800022125244
+      ],
+      "hand": "grip",
+      "head_drawing": -6,
+      "grip_error": 0
+    },
+    {
+      "frame": 52,
+      "wrist": [
+        -1.5436450242996216,
+        0.0,
+        2.4364500045776367
+      ],
+      "hand": "grip",
+      "head_drawing": -6,
+      "grip_error": 0
+    },
+    {
+      "frame": 53,
+      "wrist": [
+        -1.546239972114563,
+        0.0,
+        2.462399959564209
+      ],
+      "hand": "grip",
+      "head_drawing": -6,
+      "grip_error": 0
+    },
+    {
+      "frame": 54,
+      "wrist": [
+        -1.549375057220459,
+        0.0,
+        2.4937500953674316
+      ],
+      "hand": "grip",
+      "head_drawing": -6,
+      "grip_error": 0
+    },
+    {
+      "frame": 55,
+      "wrist": [
+        -1.5529600381851196,
+        0.0,
+        2.529599905014038
+      ],
+      "hand": "grip",
+      "head_drawing": -6,
+      "grip_error": 0
+    },
+    {
+      "frame": 56,
+      "wrist": [
+        -1.5569050312042236,
+        0.0,
+        2.5690500736236572
+      ],
+      "hand": "grip",
+      "head_drawing": 0,
+      "grip_error": 0
+    },
+    {
+      "frame": 57,
+      "wrist": [
+        -1.5611200332641602,
+        0.0,
+        2.6112000942230225
+      ],
+      "hand": "grip",
+      "head_drawing": 0,
+      "grip_error": 0
+    },
+    {
+      "frame": 58,
+      "wrist": [
+        -1.5655150413513184,
+        0.0,
+        2.6551499366760254
+      ],
+      "hand": "grip",
+      "head_drawing": 0,
+      "grip_error": 0
+    },
+    {
+      "frame": 59,
+      "wrist": [
+        -1.5700000524520874,
+        0.0,
+        2.700000047683716
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 60,
+      "wrist": [
+        -1.574484944343567,
+        0.0,
+        2.744849920272827
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 61,
+      "wrist": [
+        -1.578879952430725,
+        0.0,
+        2.788800001144409
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 62,
+      "wrist": [
+        -1.5830949544906616,
+        0.0,
+        2.8309500217437744
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 63,
+      "wrist": [
+        -1.5870399475097656,
+        0.0,
+        2.8703999519348145
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 64,
+      "wrist": [
+        -1.5906250476837158,
+        0.0,
+        2.90625
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 65,
+      "wrist": [
+        -1.5937600135803223,
+        0.0,
+        2.9375998973846436
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 66,
+      "wrist": [
+        -1.5963549613952637,
+        0.0,
+        2.963550090789795
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 67,
+      "wrist": [
+        -1.5983200073242188,
+        0.0,
+        2.9832000732421875
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 68,
+      "wrist": [
+        -1.599565029144287,
+        0.0,
+        2.995650053024292
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 69,
+      "wrist": [
+        -1.600000023841858,
+        0.0,
+        3.0
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 70,
+      "wrist": [
+        -1.594997525215149,
+        0.0,
+        3.0005075931549072
+      ],
+      "hand": "grip",
+      "head_drawing": 18,
+      "grip_error": 0
+    },
+    {
+      "frame": 71,
+      "wrist": [
+        -1.580680012702942,
+        0.0,
+        3.001960039138794
+      ],
+      "hand": "grip",
+      "head_drawing": 18,
+      "grip_error": 0
+    },
+    {
+      "frame": 72,
+      "wrist": [
+        -1.5580824613571167,
+        0.0,
+        3.0042524337768555
+      ],
+      "hand": "grip",
+      "head_drawing": 18,
+      "grip_error": 0
+    },
+    {
+      "frame": 73,
+      "wrist": [
+        -1.5282399654388428,
+        0.0,
+        3.007280111312866
+      ],
+      "hand": "grip",
+      "head_drawing": 18,
+      "grip_error": 0
+    },
+    {
+      "frame": 74,
+      "wrist": [
+        -1.4921875,
+        0.0,
+        3.010937452316284
+      ],
+      "hand": "grip",
+      "head_drawing": 18,
+      "grip_error": 0
+    },
+    {
+      "frame": 75,
+      "wrist": [
+        -1.4509600400924683,
+        0.0,
+        3.015120029449463
+      ],
+      "hand": "grip",
+      "head_drawing": 18,
+      "grip_error": 0
+    },
+    {
+      "frame": 76,
+      "wrist": [
+        -1.405592441558838,
+        0.0,
+        3.0197224617004395
+      ],
+      "hand": "grip",
+      "head_drawing": 18,
+      "grip_error": 0
+    },
+    {
+      "frame": 77,
+      "wrist": [
+        -1.3571200370788574,
+        0.0,
+        3.0246400833129883
+      ],
+      "hand": "grip",
+      "head_drawing": 18,
+      "grip_error": 0
+    },
+    {
+      "frame": 78,
+      "wrist": [
+        -1.306577444076538,
+        0.0,
+        3.0297675132751465
+      ],
+      "hand": "grip",
+      "head_drawing": 18,
+      "grip_error": 0
+    },
+    {
+      "frame": 79,
+      "wrist": [
+        -1.2549999952316284,
+        0.0,
+        3.0350000858306885
+      ],
+      "hand": "grip",
+      "head_drawing": 24,
+      "grip_error": 0
+    },
+    {
+      "frame": 80,
+      "wrist": [
+        -1.2034225463867188,
+        0.0,
+        3.0402324199676514
+      ],
+      "hand": "grip",
+      "head_drawing": 24,
+      "grip_error": 0
+    },
+    {
+      "frame": 81,
+      "wrist": [
+        -1.1528799533843994,
+        0.0,
+        3.0453600883483887
+      ],
+      "hand": "grip",
+      "head_drawing": 24,
+      "grip_error": 0
+    },
+    {
+      "frame": 82,
+      "wrist": [
+        -1.104407548904419,
+        0.0,
+        3.0502774715423584
+      ],
+      "hand": "grip",
+      "head_drawing": 24,
+      "grip_error": 0
+    },
+    {
+      "frame": 83,
+      "wrist": [
+        -1.0590399503707886,
+        0.0,
+        3.054879903793335
+      ],
+      "hand": "grip",
+      "head_drawing": 24,
+      "grip_error": 0
+    },
+    {
+      "frame": 84,
+      "wrist": [
+        -1.0178124904632568,
+        0.0,
+        3.0590624809265137
+      ],
+      "hand": "grip",
+      "head_drawing": 24,
+      "grip_error": 0
+    },
+    {
+      "frame": 85,
+      "wrist": [
+        -0.9817600250244141,
+        0.0,
+        3.0627200603485107
+      ],
+      "hand": "grip",
+      "head_drawing": 24,
+      "grip_error": 0
+    },
+    {
+      "frame": 86,
+      "wrist": [
+        -0.9519175291061401,
+        0.0,
+        3.0657474994659424
+      ],
+      "hand": "grip",
+      "head_drawing": 30,
+      "grip_error": 0
+    },
+    {
+      "frame": 87,
+      "wrist": [
+        -0.9293199777603149,
+        0.0,
+        3.068039894104004
+      ],
+      "hand": "grip",
+      "head_drawing": 30,
+      "grip_error": 0
+    },
+    {
+      "frame": 88,
+      "wrist": [
+        -0.9150025248527527,
+        0.0,
+        3.0694925785064697
+      ],
+      "hand": "grip",
+      "head_drawing": 30,
+      "grip_error": 0
+    },
+    {
+      "frame": 89,
+      "wrist": [
+        -0.9100000262260437,
+        0.0,
+        3.069999933242798
+      ],
+      "hand": "grip",
+      "head_drawing": 30,
+      "grip_error": 0
+    },
+    {
+      "frame": 90,
+      "wrist": [
+        -0.9128084182739258,
+        0.0,
+        3.069504499435425
+      ],
+      "hand": "grip",
+      "head_drawing": 30,
+      "grip_error": 0
+    },
+    {
+      "frame": 91,
+      "wrist": [
+        -0.9208983182907104,
+        0.0,
+        3.0680768489837646
+      ],
+      "hand": "grip",
+      "head_drawing": 30,
+      "grip_error": 0
+    },
+    {
+      "frame": 92,
+      "wrist": [
+        -0.9337667226791382,
+        0.0,
+        3.0658059120178223
+      ],
+      "hand": "grip",
+      "head_drawing": 30,
+      "grip_error": 0
+    },
+    {
+      "frame": 93,
+      "wrist": [
+        -0.9509106874465942,
+        0.0,
+        3.0627803802490234
+      ],
+      "hand": "grip",
+      "head_drawing": 24,
+      "grip_error": 0
+    },
+    {
+      "frame": 94,
+      "wrist": [
+        -0.9718270897865295,
+        0.0,
+        3.059089422225952
+      ],
+      "hand": "grip",
+      "head_drawing": 24,
+      "grip_error": 0
+    },
+    {
+      "frame": 95,
+      "wrist": [
+        -0.9960129857063293,
+        0.0,
+        3.054821252822876
+      ],
+      "hand": "grip",
+      "head_drawing": 24,
+      "grip_error": 0
+    },
+    {
+      "frame": 96,
+      "wrist": [
+        -1.022965431213379,
+        0.0,
+        3.050065040588379
+      ],
+      "hand": "grip",
+      "head_drawing": 24,
+      "grip_error": 0
+    },
+    {
+      "frame": 97,
+      "wrist": [
+        -1.052181363105774,
+        0.0,
+        3.0449092388153076
+      ],
+      "hand": "grip",
+      "head_drawing": 24,
+      "grip_error": 0
+    },
+    {
+      "frame": 98,
+      "wrist": [
+        -1.0831577777862549,
+        0.0,
+        3.039442777633667
+      ],
+      "hand": "grip",
+      "head_drawing": 18,
+      "grip_error": 0
+    },
+    {
+      "frame": 99,
+      "wrist": [
+        -1.1153916120529175,
+        0.0,
+        3.033754348754883
+      ],
+      "hand": "grip",
+      "head_drawing": 18,
+      "grip_error": 0
+    },
+    {
+      "frame": 100,
+      "wrist": [
+        -1.1483800411224365,
+        0.0,
+        3.02793288230896
+      ],
+      "hand": "grip",
+      "head_drawing": 18,
+      "grip_error": 0
+    },
+    {
+      "frame": 101,
+      "wrist": [
+        -1.1816200017929077,
+        0.0,
+        3.022067070007324
+      ],
+      "hand": "grip",
+      "head_drawing": 18,
+      "grip_error": 0
+    },
+    {
+      "frame": 102,
+      "wrist": [
+        -1.2146083116531372,
+        0.0,
+        3.0162456035614014
+      ],
+      "hand": "grip",
+      "head_drawing": 18,
+      "grip_error": 0
+    },
+    {
+      "frame": 103,
+      "wrist": [
+        -1.2468422651290894,
+        0.0,
+        3.010557174682617
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 104,
+      "wrist": [
+        -1.2778186798095703,
+        0.0,
+        3.0050907135009766
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 105,
+      "wrist": [
+        -1.3070346117019653,
+        0.0,
+        2.9999351501464844
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 106,
+      "wrist": [
+        -1.3339869976043701,
+        0.0,
+        2.995178699493408
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 107,
+      "wrist": [
+        -1.35817289352417,
+        0.0,
+        2.990910768508911
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 108,
+      "wrist": [
+        -1.37908935546875,
+        0.0,
+        2.9872195720672607
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 109,
+      "wrist": [
+        -1.3962332010269165,
+        0.0,
+        2.984194040298462
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 110,
+      "wrist": [
+        -1.4091017246246338,
+        0.0,
+        2.9819233417510986
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 111,
+      "wrist": [
+        -1.4171916246414185,
+        0.0,
+        2.9804956912994385
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 112,
+      "wrist": [
+        -1.4199999570846558,
+        0.0,
+        2.9800000190734863
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 113,
+      "wrist": [
+        -1.4195507764816284,
+        0.0,
+        2.9797754287719727
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 114,
+      "wrist": [
+        -1.4182811975479126,
+        0.0,
+        2.979140520095825
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 115,
+      "wrist": [
+        -1.4163086414337158,
+        0.0,
+        2.978154182434082
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 116,
+      "wrist": [
+        -1.4137500524520874,
+        0.0,
+        2.976875066757202
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 117,
+      "wrist": [
+        -1.4107226133346558,
+        0.0,
+        2.9753613471984863
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 118,
+      "wrist": [
+        -1.4073437452316284,
+        0.0,
+        2.9736719131469727
+      ],
+      "hand": "grip",
+      "head_drawing": 6,
+      "grip_error": 0
+    },
+    {
+      "frame": 119,
+      "wrist": [
+        -1.4037305116653442,
+        0.0,
+        2.971865177154541
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 120,
+      "wrist": [
+        -1.399999976158142,
+        0.0,
+        2.9700000286102295
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 121,
+      "wrist": [
+        -1.3962695598602295,
+        0.0,
+        2.968134880065918
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 122,
+      "wrist": [
+        -1.3926562070846558,
+        0.0,
+        2.9663281440734863
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 123,
+      "wrist": [
+        -1.3892773389816284,
+        0.0,
+        2.9646387100219727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 124,
+      "wrist": [
+        -1.3862500190734863,
+        0.0,
+        2.963124990463257
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 125,
+      "wrist": [
+        -1.383691430091858,
+        0.0,
+        2.961845636367798
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 126,
+      "wrist": [
+        -1.3817187547683716,
+        0.0,
+        2.9608592987060547
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 127,
+      "wrist": [
+        -1.3804491758346558,
+        0.0,
+        2.9602246284484863
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 128,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 129,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 130,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 131,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 132,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 133,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 134,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 135,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 136,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 137,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 138,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 139,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 140,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 141,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 142,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 143,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    },
+    {
+      "frame": 144,
+      "wrist": [
+        -1.3799999952316284,
+        0.0,
+        2.9600000381469727
+      ],
+      "hand": "grip",
+      "head_drawing": 12,
+      "grip_error": 0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "N01",
+    "start_frame": 1,
+    "frames": 180,
+    "scene": "S002_B01_v016_narrator",
+    "local_start": 1
+  },
+  {
+    "id": "OP01_banner",
+    "start_frame": 181,
+    "frames": 48,
+    "scene": "S002_B01_v016_opening",
+    "local_start": 1
+  },
+  {
+    "id": "OP01_year",
+    "start_frame": 229,
+    "frames": 101,
+    "scene": "S002_B01_v016_opening",
+    "local_start": 49
+  },
+  {
+    "id": "OP02_truck",
+    "start_frame": 330,
+    "frames": 56,
+    "scene": "S002_B01_v016_opening",
+    "local_start": 150
+  },
+  {
+    "id": "OP02_arteta",
+    "start_frame": 386,
+    "frames": 60,
+    "scene": "S002_B01_v016_opening",
+    "local_start": 206
+  },
+  {
+    "id": "OP02_driver",
+    "start_frame": 446,
+    "frames": 72,
+    "scene": "S002_B01_v016_opening",
+    "local_start": 266
+  },
+  {
+    "id": "OP03_phone",
+    "start_frame": 518,
+    "frames": 72,
+    "scene": "S002_B01_v016_opening",
+    "local_start": 338
+  },
+  {
+    "id": "TR01",
+    "start_frame": 590,
+    "frames": 192,
+    "scene": "S002_B01_v016_unveiling",
+    "local_start": 1
+  },
+  {
+    "id": "TR02_flag",
+    "start_frame": 782,
+    "frames": 96,
+    "scene": "S002_B01_v016_unveiling",
+    "local_start": 193
+  },
+  {
+    "id": "TR02_reaction",
+    "start_frame": 878,
+    "frames": 144,
+    "scene": "S002_B01_v016_unveiling",
+    "local_start": 289
+  }
+]

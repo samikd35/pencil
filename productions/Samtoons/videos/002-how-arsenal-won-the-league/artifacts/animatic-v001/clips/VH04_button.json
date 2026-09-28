@@ -1,0 +1,17 @@
+{
+  "id": "VH04_button",
+  "chapter": 5,
+  "panel": 5,
+  "start_frame": 4187,
+  "frames": 48,
+  "lines": [],
+  "source": "boards/chapter-5.png",
+  "camera": "hold",
+  "crop": [
+    689,
+    749,
+    672,
+    398
+  ],
+  "source_sha256": "b039bc8664a318ce3c8235b70d059d2925934b797cc4d36af33aa5d20a4d7dd8"
+}

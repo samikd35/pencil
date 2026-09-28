@@ -1,0 +1,6 @@
+{
+  "artifacts/staging-v001/coaching-performance-v001/coaching-performance.blend": "8997f087b4eb09f9ba0ab1f0cb9f804771ff047c8d9da5314a01dda64538fbca",
+  "scripts/render_staging_scene.py": "fea439b651a5621f8b8731791e53d2f14514e980246b918a28ec63b3b1ffd7d8",
+  "artifacts/staging-v001/coaching-performance-v001/render-selection.json": "22c77378c5fd65c18fc6fbecac261b250f17e77903b5c40a431ea3f23381404a",
+  "artifacts/staging-v001/coaching-performance-v001/audio/mix-premaster.wav": "f48df3ddc45d3907a1e9cfe98cffc77c24f9dc3df1d2d6c26e1e591071de8cf7"
+}

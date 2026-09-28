@@ -1,0 +1,10 @@
+{
+  "first_frame": 577,
+  "last_frame": 696,
+  "fps": 24,
+  "rendered_frames": 120,
+  "render_seconds": 65.25140666597872,
+  "resolution_percentage": 100,
+  "renderer": "Native Blender EEVEE, individually rendered continuous frames",
+  "output": "net-correction.mp4"
+}

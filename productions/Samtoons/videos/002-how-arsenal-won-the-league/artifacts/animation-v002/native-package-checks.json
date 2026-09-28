@@ -1,0 +1,12 @@
+[
+  {
+    "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v002/CP01/CP01-v001.blend",
+    "startup_scene": "S002_CP01_loaded_run_v001",
+    "frame": 1
+  },
+  {
+    "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v002/arsenal-progress-v002.blend",
+    "startup_scene": "S002_animation_progress_v002",
+    "frame": 2369
+  }
+]

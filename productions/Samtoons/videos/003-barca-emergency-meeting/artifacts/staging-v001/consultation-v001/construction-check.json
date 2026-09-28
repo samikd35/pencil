@@ -1,0 +1,13 @@
+{
+  "frames": 384,
+  "fps": 24,
+  "cup_contact_frame": 222,
+  "cup_moves_after_contact": false,
+  "max_caller_joint_error": 0.0001856311807341986,
+  "source_pose": "reference-supported.png",
+  "limits": [
+    "Small supported cup set-down only; not an extreme-motion solution",
+    "S07 balance and limb mechanics remain rejected",
+    "Unheard voice candidates; facial mouth shapes are approximate"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "CP04_courier",
+  "chapter": 4,
+  "panel": 4,
+  "start_frame": 3235,
+  "frames": 144,
+  "lines": [
+    24,
+    25
+  ],
+  "source": "boards/chapter-4.png",
+  "camera": "hold",
+  "crop": [
+    5,
+    764,
+    673,
+    381
+  ],
+  "source_sha256": "96ca0d7543ed41895f2901df29c84d645dcc454023836c954c0ef7f9329ae3b2"
+}

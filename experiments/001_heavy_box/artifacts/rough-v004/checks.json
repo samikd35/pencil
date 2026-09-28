@@ -1,0 +1,10 @@
+{
+  "frames": 240,
+  "fps": 24,
+  "contact_error_max": 0,
+  "planted_drift_max": 5.551115123125783e-17,
+  "max_limb_endpoint_distance": 2.1723897486529844,
+  "curve_driver_count": 48,
+  "checks": "passed: source contact targets, foot plants, driver validity and evaluated arm endpoint",
+  "limits": "Contact includes mitten contour and outline radius; rendered occlusions still need review. Curve arc lengths are elastic. No automated creative-quality claim."
+}

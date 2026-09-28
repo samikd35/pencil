@@ -1,0 +1,214 @@
+[
+  {
+    "shot": "N01",
+    "mean_error_255": 1.816501225490196
+  },
+  {
+    "shot": "OP01_banner",
+    "mean_error_255": 2.4813245506535946
+  },
+  {
+    "shot": "OP01_year",
+    "mean_error_255": 2.4048713235294117
+  },
+  {
+    "shot": "OP02_truck",
+    "mean_error_255": 2.4006316380718955
+  },
+  {
+    "shot": "OP02_arteta",
+    "mean_error_255": 1.9207557189542483
+  },
+  {
+    "shot": "OP02_driver",
+    "mean_error_255": 1.9159890727124183
+  },
+  {
+    "shot": "OP03_phone",
+    "mean_error_255": 1.8321303104575164
+  },
+  {
+    "shot": "TR01",
+    "mean_error_255": 2.4089465890522876
+  },
+  {
+    "shot": "TR02_flag",
+    "mean_error_255": 2.4301516544117647
+  },
+  {
+    "shot": "TR02_reaction",
+    "mean_error_255": 2.4329907066993464
+  },
+  {
+    "shot": "TR03_warning",
+    "mean_error_255": 2.37945414624183
+  },
+  {
+    "shot": "TR03_kick",
+    "mean_error_255": 2.6307521446078432
+  },
+  {
+    "shot": "TR03_praise",
+    "mean_error_255": 2.063535539215686
+  },
+  {
+    "shot": "TR04",
+    "mean_error_255": 1.3017938112745098
+  },
+  {
+    "shot": "CD01_cross",
+    "mean_error_255": 2.2188689746732027
+  },
+  {
+    "shot": "CD01_header",
+    "mean_error_255": 3.055828737745098
+  },
+  {
+    "shot": "CD02",
+    "mean_error_255": 1.8101286764705882
+  },
+  {
+    "shot": "CD03",
+    "mean_error_255": 3.7377910539215686
+  },
+  {
+    "shot": "CD04",
+    "mean_error_255": 3.9909119689542485
+  },
+  {
+    "shot": "CD05",
+    "mean_error_255": 1.9943923611111112
+  },
+  {
+    "shot": "N02",
+    "mean_error_255": 1.9037571486928104
+  },
+  {
+    "shot": "CD05_proud",
+    "mean_error_255": 2.0365635212418303
+  },
+  {
+    "shot": "CD05_ping",
+    "mean_error_255": 2.157497446895425
+  },
+  {
+    "shot": "CP00",
+    "mean_error_255": 2.63249897875817
+  },
+  {
+    "shot": "CP01",
+    "mean_error_255": 2.644796772875817
+  },
+  {
+    "shot": "CP02_far",
+    "mean_error_255": 2.603792892156863
+  },
+  {
+    "shot": "CP02_near",
+    "mean_error_255": 2.668244485294118
+  },
+  {
+    "shot": "CP03_panic",
+    "mean_error_255": 2.3561534926470586
+  },
+  {
+    "shot": "CP03_pep",
+    "mean_error_255": 1.7769281045751635
+  },
+  {
+    "shot": "CP04_courier",
+    "mean_error_255": 2.410746527777778
+  },
+  {
+    "shot": "CP04_reply",
+    "mean_error_255": 2.405592830882353
+  },
+  {
+    "shot": "CP05",
+    "mean_error_255": 2.6233374183006535
+  },
+  {
+    "shot": "VH01",
+    "mean_error_255": 3.097173713235294
+  },
+  {
+    "shot": "VH02",
+    "mean_error_255": 2.4018535539215686
+  },
+  {
+    "shot": "VH03",
+    "mean_error_255": 1.797921772875817
+  },
+  {
+    "shot": "VH03_answer",
+    "mean_error_255": 1.7935523897058823
+  },
+  {
+    "shot": "VH04_mikel",
+    "mean_error_255": 2.3433675449346407
+  },
+  {
+    "shot": "VH04_operator",
+    "mean_error_255": 1.796469566993464
+  },
+  {
+    "shot": "VH04_two",
+    "mean_error_255": 2.352635314542484
+  },
+  {
+    "shot": "VH04_button",
+    "mean_error_255": 1.7966738153594772
+  },
+  {
+    "shot": "VH05",
+    "mean_error_255": 2.815046466503268
+  },
+  {
+    "shot": "FR01",
+    "mean_error_255": 1.930498876633987
+  },
+  {
+    "shot": "FR02",
+    "mean_error_255": 3.0757444852941176
+  },
+  {
+    "shot": "N03",
+    "mean_error_255": 1.484047691993464
+  },
+  {
+    "shot": "FR03_complain",
+    "mean_error_255": 3.1533506944444443
+  },
+  {
+    "shot": "FR03_cross",
+    "mean_error_255": 3.555144505718954
+  },
+  {
+    "shot": "FR04",
+    "mean_error_255": 3.0758563112745096
+  },
+  {
+    "shot": "FR05",
+    "mean_error_255": 3.043579452614379
+  },
+  {
+    "shot": "N04_trophy",
+    "mean_error_255": 2.470167994281046
+  },
+  {
+    "shot": "N04_dark",
+    "mean_error_255": 1.6279866217320262
+  },
+  {
+    "shot": "N04_reveal",
+    "mean_error_255": 2.086359272875817
+  },
+  {
+    "shot": "N04_meltdown",
+    "mean_error_255": 1.8189419934640523
+  },
+  {
+    "shot": "N04_tap",
+    "mean_error_255": 1.7766967933006537
+  }
+]

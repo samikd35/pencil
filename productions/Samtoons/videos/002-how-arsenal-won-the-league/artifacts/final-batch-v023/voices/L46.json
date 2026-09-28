@@ -1,0 +1,19 @@
+{
+  "id": "L46",
+  "chapter": 7,
+  "beat": "N04c",
+  "role_and_direction": "FERGUSON \u2014 exploding at the television",
+  "text": "I SAID I WAS RETIRED!",
+  "word_count": 5,
+  "seconds": 1.68,
+  "file": "L46.wav",
+  "sha256": "3238b342400b6c044f289a1a9a15b05f081f7745a20566bce647bbbbe6831bdb",
+  "reference_start_seconds": 109.83045833333334,
+  "role": "FERGUSON",
+  "direction": "An elderly man, low weathered gravelly voice, restrained Scottish English accent. Original theatrical cartoon football manager voice. Full-throated furious comic outrage toward television. Strong breath pressure and cracked raspy attack, stress RETIRED. Clean dry microphone, no music or extra words.",
+  "seed": 42,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.8153708330064546,
+  "path": "artifacts/animatic-v001/voices/L46.wav"
+}

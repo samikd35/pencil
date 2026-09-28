@@ -1,0 +1,19 @@
+{
+  "id": "L32",
+  "chapter": 5,
+  "beat": "VH04",
+  "role_and_direction": "ARTETA",
+  "text": "Make it two.",
+  "word_count": 3,
+  "seconds": 0.88,
+  "file": "L32.wav",
+  "sha256": "a95aa40bddf719da56443e636fb1a70c8910c5d6cbc964937756658940139464",
+  "reference_start_seconds": 79.90389583333334,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Calm efficient order, no concern. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 0.9720428750006249,
+  "path": "artifacts/animatic-v001/voices/L32.wav"
+}

@@ -1,0 +1,44 @@
+{
+  "outputs": [
+    {
+      "file": "final-batch-review-v023.mp4",
+      "sha256": "da4b9a1b0e26b30681fb6f3bdfb8d258e815a10bbb358bbd7636ff743392d2c0",
+      "frames": 3586,
+      "video_seconds": 149.416667,
+      "audio_seconds": 149.416,
+      "resolution": [
+        1280,
+        720
+      ],
+      "fps": 24,
+      "decoded": true
+    },
+    {
+      "file": "samtoons-complete-review-v023.mp4",
+      "sha256": "3a58a014f60c4b63d7d319cd0c75c08fddce835161da706c11750f36b12ee764",
+      "frames": 6578,
+      "video_seconds": 274.094971,
+      "audio_seconds": 274.116,
+      "resolution": [
+        1280,
+        720
+      ],
+      "fps": 24,
+      "decoded": true
+    }
+  ],
+  "premaster_loudness": {
+    "input_i": "-22.94",
+    "input_tp": "-7.00",
+    "input_lra": "13.50",
+    "input_thresh": "-34.99",
+    "output_i": "-16.15",
+    "output_tp": "-1.50",
+    "output_lra": "9.30",
+    "output_thresh": "-27.91",
+    "normalization_type": "dynamic",
+    "target_offset": "0.15"
+  },
+  "listening": "Not performed by agent; user playback review pending",
+  "visual_review": "See README for exact inspected frames and limits"
+}

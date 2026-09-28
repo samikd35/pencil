@@ -1,0 +1,19 @@
+{
+  "id": "L02",
+  "chapter": 1,
+  "beat": "OP01",
+  "role_and_direction": "NARRATOR",
+  "text": "Before a ball was kicked, their runners-up medals had arrived.",
+  "word_count": 10,
+  "seconds": 3.6,
+  "file": "L02.wav",
+  "sha256": "98a38f81118754aa8ca6d4afe5442f80f23afc9c9ad8d132845c0d2a0745a64d",
+  "reference_start_seconds": 4.194770833333333,
+  "role": "NARRATOR",
+  "direction": "An elderly man, low weathered gravelly voice, restrained Scottish English accent. Original theatrical cartoon football manager voice. Dry matter-of-fact sarcasm, let runners-up land. Clean dry microphone, no music or extra words.",
+  "seed": 42,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 4.100969874998555,
+  "path": "artifacts/animatic-v001/voices/L02.wav"
+}

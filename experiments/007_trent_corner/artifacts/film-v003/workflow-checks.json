@@ -1,0 +1,39 @@
+{
+  "changed_files": [
+    {
+      "path": "/Users/samikd/.codex/skills/produce-pencil-animation/SKILL.md",
+      "sha256": "6c71996f987f93e58ea74016e67abe005ba9935256407233a9a190d6fef57d43"
+    },
+    {
+      "path": "/Users/samikd/.codex/skills/produce-pencil-animation/agents/openai.yaml",
+      "sha256": "ea9fa99c8c4e6aba429142f9781194c015994e7d55ccf780a6167bea4497b927"
+    },
+    {
+      "path": "/Users/samikd/MyProjects/Pencil/AGENTS.md",
+      "sha256": "a08a1dac617444595044b9d028df8ce108bdccad9187bf9ec6566321dbcc5c6a"
+    },
+    {
+      "path": "/Users/samikd/MyProjects/Pencil/pipeline/README.md",
+      "sha256": "2ad6014324f3c5ff6e85a27905f0df84c60746e149b9d82dc3eeed6124c10ee0"
+    },
+    {
+      "path": "/Users/samikd/MyProjects/Pencil/pipeline/checkpoints.py",
+      "sha256": "7823bb3c9bd6404bedaa43c409e8952a566888e4c8e8378b9ed41c5312d6d5f1"
+    },
+    {
+      "path": "/Users/samikd/MyProjects/Pencil/experiments/001_heavy_box/journal.py",
+      "sha256": "8d87790c12a29f6ed69599774f1d20bf89fd8afced839d19c5a2dcc2da528a19"
+    },
+    {
+      "path": "/Users/samikd/MyProjects/Pencil/research/audio-tools/sound-planning-method.md",
+      "sha256": "6aa9de0fd98b10143002c0aeb95a49d03237ac1d18cae29c34683751e9bbf35a"
+    }
+  ],
+  "validation": {
+    "skill": "passed quick_validate.py with PyYAML in uv environment",
+    "guard_self_test": "passed missing, pending, assistant-only, accepted, changed, rejected and explicit waiver cases",
+    "python_syntax": "passed all changed/new Python scripts",
+    "full_render_gate": "Blender exited 1 before rendering with --python-exit-code 1; missing staging acceptance blocked as intended"
+  },
+  "creative_acceptance": "Separate from these technical checks; recorded in checkpoint events."
+}

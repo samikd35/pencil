@@ -1,0 +1,19 @@
+{
+  "id": "L29",
+  "chapter": 5,
+  "beat": "VH03",
+  "role_and_direction": "OPERATOR",
+  "text": "Mikel! Straight through, as always.",
+  "word_count": 5,
+  "seconds": 3.12,
+  "file": "L29.wav",
+  "sha256": "712f2904322877afba1229c959bdfc017a7f1176cc23090a8264aa3545f4ba5b",
+  "reference_start_seconds": 71.29802083333334,
+  "role": "OPERATOR",
+  "direction": "Adult British man, smooth warm customer-service baritone. Unctuous professional courtesy, delighted to help his favourite customer. Suddenly delighted warmth for a privileged caller. Clean dry microphone, no music or extra words.",
+  "seed": 49,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 3.130556834003073,
+  "path": "artifacts/animatic-v001/voices/L29.wav"
+}

@@ -1,0 +1,292 @@
+[
+  {
+    "id": "L19",
+    "shot": "CP01",
+    "speaker": "NARRATOR",
+    "text": "They could defend a one\u2013nil. They couldn\u2019t defend a lead on the table.",
+    "local_frame": 18,
+    "duration": 5.04,
+    "start": 0.7083333333333334,
+    "end": 5.748333333333333
+  },
+  {
+    "id": "L20",
+    "shot": "CP02_far",
+    "speaker": "ARTETA",
+    "text": "He\u2019s only walking. We\u2019re fine.",
+    "local_frame": 18,
+    "duration": 2.160041666666667,
+    "start": 9.708333333333334,
+    "end": 11.868375
+  },
+  {
+    "id": "L21",
+    "shot": "CP03_panic",
+    "speaker": "ARTETA",
+    "text": "WHY IS HE WALKING?",
+    "local_frame": 15,
+    "duration": 1.2800416666666667,
+    "start": 17.583333333333332,
+    "end": 18.863374999999998
+  },
+  {
+    "id": "L22",
+    "shot": "CP03_pep",
+    "speaker": "PEP",
+    "text": "Long season, Mikel.",
+    "local_frame": 18,
+    "duration": 1.8996666666666666,
+    "start": 21.208333333333332,
+    "end": 23.107999999999997
+  },
+  {
+    "id": "L23",
+    "shot": "CP04_forward",
+    "speaker": "ARTETA",
+    "text": "Eyes forward! Nobody look back!",
+    "local_frame": 11,
+    "duration": 2.24,
+    "start": 24.916666666666668,
+    "end": 27.156666666666666
+  },
+  {
+    "id": "L24",
+    "shot": "CP04_courier",
+    "speaker": "COURIER",
+    "text": "Still delivering in May?",
+    "local_frame": 13,
+    "duration": 1.68,
+    "start": 30.125,
+    "end": 31.805
+  },
+  {
+    "id": "L25",
+    "shot": "CP04_courier",
+    "speaker": "ARTETA",
+    "text": "NOT NOW!",
+    "local_frame": 65,
+    "duration": 1.36,
+    "start": 32.291666666666664,
+    "end": 33.651666666666664
+  },
+  {
+    "id": "L26",
+    "shot": "CP05",
+    "speaker": "ARTETA",
+    "text": "Keep hold of the lead!",
+    "local_frame": 39,
+    "duration": 1.2,
+    "start": 37.208333333333336,
+    "end": 38.40833333333334
+  },
+  {
+    "id": "L27",
+    "shot": "VH01",
+    "speaker": "REFEREE",
+    "text": "Penalty. Against Arsenal.",
+    "local_frame": 44,
+    "duration": 2.4,
+    "start": 42.416666666666664,
+    "end": 44.81666666666666
+  },
+  {
+    "id": "L28",
+    "shot": "VH02",
+    "speaker": "RECORDED VOICE",
+    "text": "For a penalty against Arsenal, please hold.",
+    "local_frame": 15,
+    "duration": 2.8,
+    "start": 46.291666666666664,
+    "end": 49.09166666666666
+  },
+  {
+    "id": "L29",
+    "shot": "VH03_answer",
+    "speaker": "OPERATOR",
+    "text": "Mikel! Straight through, as always.",
+    "local_frame": 15,
+    "duration": 3.12,
+    "start": 54.291666666666664,
+    "end": 57.41166666666666
+  },
+  {
+    "id": "L30",
+    "shot": "VH04_mikel",
+    "speaker": "ARTETA",
+    "text": "Can you make that go away?",
+    "local_frame": 18,
+    "duration": 2.0,
+    "start": 59.0,
+    "end": 61.0
+  },
+  {
+    "id": "L31",
+    "shot": "VH04_operator",
+    "speaker": "OPERATOR",
+    "text": "Of course. Would you like a corner with that?",
+    "local_frame": 13,
+    "duration": 2.96,
+    "start": 62.791666666666664,
+    "end": 65.75166666666667
+  },
+  {
+    "id": "L32",
+    "shot": "VH04_two",
+    "speaker": "ARTETA",
+    "text": "Make it two.",
+    "local_frame": 11,
+    "duration": 1.2,
+    "start": 67.20833333333333,
+    "end": 68.40833333333333
+  },
+  {
+    "id": "L33",
+    "shot": "VH05",
+    "speaker": "REFEREE",
+    "text": "Hello? I\u2019m still here.",
+    "local_frame": 11,
+    "duration": 2.3052916666666667,
+    "start": 71.70833333333333,
+    "end": 74.01362499999999
+  },
+  {
+    "id": "L34",
+    "shot": "VH05",
+    "speaker": "RECORDED VOICE",
+    "text": "Your call is very important to us.",
+    "local_frame": 78,
+    "duration": 2.32,
+    "start": 74.5,
+    "end": 76.82
+  },
+  {
+    "id": "L35",
+    "shot": "FR01",
+    "speaker": "NARRATOR",
+    "text": "One goal for the title. And of course, one bloody corner.",
+    "local_frame": 25,
+    "duration": 6.48,
+    "start": 81.79166666666667,
+    "end": 88.27166666666668
+  },
+  {
+    "id": "L36",
+    "shot": "FR02",
+    "speaker": "GY\u00d6KERES",
+    "text": "Do I finally get to shoot?",
+    "local_frame": 13,
+    "duration": 2.08,
+    "start": 89.625,
+    "end": 91.705
+  },
+  {
+    "id": "L37",
+    "shot": "FR02",
+    "speaker": "ARTETA",
+    "text": "No. Stand there.",
+    "local_frame": 75,
+    "duration": 1.84,
+    "start": 92.20833333333333,
+    "end": 94.04833333333333
+  },
+  {
+    "id": "L38",
+    "shot": "N03",
+    "speaker": "NARRATOR",
+    "text": "There\u2019s still time.",
+    "local_frame": 15,
+    "duration": 2.4,
+    "start": 95.70833333333333,
+    "end": 98.10833333333333
+  },
+  {
+    "id": "L39",
+    "shot": "FR03_complain",
+    "speaker": "GY\u00d6KERES",
+    "text": "I\u2019m supposed to be the stri\u2014",
+    "local_frame": 15,
+    "duration": 2.96,
+    "start": 102.58333333333333,
+    "end": 105.54333333333332
+  },
+  {
+    "id": "L40",
+    "shot": "FR04",
+    "speaker": "GY\u00d6KERES",
+    "text": "That counts?",
+    "local_frame": 15,
+    "duration": 1.2,
+    "start": 111.0,
+    "end": 112.2
+  },
+  {
+    "id": "L41",
+    "shot": "FR04",
+    "speaker": "ARTETA",
+    "text": "Exactly as rehearsed.",
+    "local_frame": 56,
+    "duration": 1.44,
+    "start": 112.70833333333333,
+    "end": 114.14833333333333
+  },
+  {
+    "id": "L42",
+    "shot": "FR05",
+    "speaker": "COURIER",
+    "text": "So\u2026 who signs for these?",
+    "local_frame": 15,
+    "duration": 1.68,
+    "start": 117.0,
+    "end": 118.68
+  },
+  {
+    "id": "L43",
+    "shot": "FR05",
+    "speaker": "ARTETA",
+    "text": "Wrong address.",
+    "local_frame": 68,
+    "duration": 1.36,
+    "start": 119.20833333333333,
+    "end": 120.56833333333333
+  },
+  {
+    "id": "L44",
+    "shot": "VH06",
+    "speaker": "REFEREE",
+    "text": "Finally!",
+    "local_frame": 13,
+    "duration": 0.88,
+    "start": 122.91666666666667,
+    "end": 123.79666666666667
+  },
+  {
+    "id": "L45",
+    "shot": "VH06",
+    "speaker": "RECORDED VOICE",
+    "text": "Thank you for waiting. The season has now ended.",
+    "local_frame": 46,
+    "duration": 3.36,
+    "start": 124.29166666666667,
+    "end": 127.65166666666667
+  },
+  {
+    "id": "L46",
+    "shot": "N04_meltdown",
+    "speaker": "FERGUSON",
+    "text": "I SAID I WAS RETIRED!",
+    "local_frame": 3,
+    "duration": 2.2083333333333335,
+    "start": 140.0,
+    "end": 142.20833333333334
+  },
+  {
+    "id": "L47",
+    "shot": "N04_meltdown",
+    "speaker": "FERGUSON",
+    "text": "STOP GIVING ME REASONS TO COME BACK!",
+    "local_frame": 71,
+    "duration": 2.5,
+    "start": 142.83333333333334,
+    "end": 145.33333333333334
+  }
+]

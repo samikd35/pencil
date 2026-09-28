@@ -1,0 +1,27 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Speech,Arial,30,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,3,2,0,2,65,65,10,1
+Style: Music,Arial,23,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,0,-1,0,0,100,100,0,0,3,2,0,2,65,65,106,1
+Style: Title,Arial,39,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,3,3,0,8,50,50,45,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:09.87,0:00:11.20,Title,,0,0,0,,ARSENAL  1–0\N{\fs25}ONE CORNER. ONE GOAL.
+Dialogue: 1,0:00:41.25,0:00:43.62,Title,,0,0,0,,{\an9\pos(1190,65)\fs34}CITY WIN AGAIN
+Dialogue: 0,0:00:00.29,0:00:02.79,Speech,NARRATOR,0,0,0,,{\c&H84DBFF&}NARRATOR:{\c&HFFFFFF&} Their attacking philosophy?
+Dialogue: 0,0:00:03.49,0:00:04.84,Speech,NARRATOR,0,0,0,,{\c&H84DBFF&}NARRATOR:{\c&HFFFFFF&} Win a corner.
+Dialogue: 0,0:00:05.09,0:00:07.33,Speech,NARRATOR,0,0,0,,{\c&H84DBFF&}NARRATOR:{\c&HFFFFFF&} Somebody’s forehead will do the rest.
+Dialogue: 0,0:00:11.42,0:00:13.12,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} One nil! That’s enough football.
+Dialogue: 0,0:00:13.12,0:00:14.30,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Everybody back!
+Dialogue: 0,0:00:21.79,0:00:23.39,Speech,NARRATOR,0,0,0,,{\c&H84DBFF&}NARRATOR:{\c&HFFFFFF&} Lovely.
+Dialogue: 0,0:00:24.14,0:00:27.59,Speech,NARRATOR,0,0,0,,{\c&H84DBFF&}NARRATOR:{\c&HFFFFFF&} A goalkeeper protecting nine defenders.
+Dialogue: 0,0:00:29.92,0:00:31.44,Speech,GYÖKERES,0,0,0,,{\c&H84DBFF&}GYÖKERES:{\c&HFFFFFF&} What am I supposed to do?
+Dialogue: 0,0:00:32.42,0:00:33.62,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Win another corner!
+Dialogue: 0,0:00:35.62,0:00:37.22,Music,MUSIC,0,0,0,,[{\c&H84DBFF&}MUSIC:{\c&HFFFFFF&} Two-note mystery motif]
+Dialogue: 0,0:00:37.83,0:00:39.67,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Nobody is getting past us.
+Dialogue: 0,0:00:41.83,0:00:42.71,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Again?

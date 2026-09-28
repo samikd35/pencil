@@ -1,0 +1,6 @@
+{
+  "artifacts/staging-v001/memory-v002/memory.blend": "58d84b1a004fe6b4ce809b03a2913b9603d693fa0c3382453caa3a2ac6122bf6",
+  "scripts/render_staging_scene.py": "ada3d0812b989a5e796d76d5476efd3c6ef3a3e67e9a18d1199217b5167bb785",
+  "artifacts/staging-v001/memory-v002/render-selection.json": "9b2f144248331f26ec35d7c0f624429e80f6529ea4762fa7b2be9f88ccc1c524",
+  "artifacts/staging-v001/memory-v002/audio/mix-premaster.wav": "fa1bb582a1f2e3aa651ef664c89131a378c57da79f8e5705e9978ba1711aab17"
+}

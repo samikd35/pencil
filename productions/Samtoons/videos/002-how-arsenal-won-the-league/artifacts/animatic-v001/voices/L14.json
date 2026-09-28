@@ -1,0 +1,19 @@
+{
+  "id": "L14",
+  "chapter": 3,
+  "beat": "CD04",
+  "role_and_direction": "NARRATOR",
+  "text": "Lovely. A goalkeeper protecting nine defenders.",
+  "word_count": 6,
+  "seconds": 6.96,
+  "file": "L14.wav",
+  "sha256": "54c3e9d2ab9189e3a9d694b19d75ad49da3965ef4f2c4c15a2ddb8d3a7d05f56",
+  "reference_start_seconds": 36.903020833333336,
+  "role": "NARRATOR",
+  "direction": "An elderly man, low weathered gravelly voice, restrained Scottish English accent. Original theatrical cartoon football manager voice. Natural clear character delivery; make the sentence a thought, not a reading. Clean dry microphone, no music or extra words.",
+  "seed": 42,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 7.072378791002848,
+  "path": "artifacts/animatic-v001/voices/L14.wav"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L19",
+  "chapter": 4,
+  "beat": "CP01",
+  "role_and_direction": "NARRATOR",
+  "text": "They could defend a one–nil. They couldn’t defend a lead on the table.",
+  "word_count": 14,
+  "seconds": 5.04,
+  "file": "L19.wav",
+  "sha256": "08053808f94661f8b70632d85ce76385563fbecd33b91b35555425674e40e63a",
+  "reference_start_seconds": 47.333875,
+  "role": "NARRATOR",
+  "direction": "An elderly man, low weathered gravelly voice, restrained Scottish English accent. Original theatrical cartoon football manager voice. Natural clear character delivery; make the sentence a thought, not a reading. Clean dry microphone, no music or extra words.",
+  "seed": 42,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 5.150381499996001,
+  "path": "artifacts/animatic-v001/voices/L19.wav"
+}

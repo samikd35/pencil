@@ -1,0 +1,491 @@
+[
+  {
+    "id": "CP00",
+    "start_frame": 1,
+    "frames": 178,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP00",
+    "dialogue": [
+      {
+        "id": "C00",
+        "frame": 23,
+        "seconds": 5.92,
+        "role": "ARTETA",
+        "text": "City won again. They are right behind us! We are NOT handing Pep first place this year!"
+      }
+    ],
+    "source_scene": "S002_final_v023_VH04_mikel"
+  },
+  {
+    "id": "CP01",
+    "start_frame": 179,
+    "frames": 178,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP01",
+    "dialogue": [
+      {
+        "id": "C19",
+        "frame": 16,
+        "seconds": 6.24,
+        "role": "NARRATOR",
+        "text": "Arsenal were leading the league. Unfortunately, they had seen what happens when Pep starts following them."
+      }
+    ],
+    "source_scene": "S002_final_v023_CP01"
+  },
+  {
+    "id": "CP02_far",
+    "start_frame": 357,
+    "frames": 75,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP02_far",
+    "dialogue": [
+      {
+        "id": "L20",
+        "frame": 7,
+        "seconds": 2.160041666666667,
+        "role": "ARTETA",
+        "text": "He\u2019s only walking. We\u2019re fine."
+      }
+    ],
+    "source_scene": "S002_final_v023_CP02_far"
+  },
+  {
+    "id": "CP02_near",
+    "start_frame": 432,
+    "frames": 36,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP02_near",
+    "dialogue": [],
+    "source_scene": "S002_final_v023_CP02_near"
+  },
+  {
+    "id": "CP03_panic",
+    "start_frame": 468,
+    "frames": 98,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP03_panic",
+    "dialogue": [
+      {
+        "id": "C21",
+        "frame": 7,
+        "seconds": 3.2800416666666665,
+        "role": "ARTETA",
+        "text": "We are sprinting! How is he getting closer?"
+      }
+    ],
+    "source_scene": "S002_final_v023_CP03_panic"
+  },
+  {
+    "id": "CP03_pep",
+    "start_frame": 566,
+    "frames": 89,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP03_pep",
+    "dialogue": [
+      {
+        "id": "C22",
+        "frame": 7,
+        "seconds": 2.88,
+        "role": "PEP",
+        "text": "You always get tired around this part, Mikel."
+      }
+    ],
+    "source_scene": "S002_final_v023_CP03_pep"
+  },
+  {
+    "id": "CP04_courier",
+    "start_frame": 655,
+    "frames": 121,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP04_courier",
+    "dialogue": [
+      {
+        "id": "C24",
+        "frame": 7,
+        "seconds": 4.24,
+        "role": "COURIER",
+        "text": "Your annual second-place delivery! Same shelf as last time?"
+      }
+    ],
+    "source_scene": "S002_final_v023_CP04_courier"
+  },
+  {
+    "id": "CP04_reply",
+    "start_frame": 776,
+    "frames": 102,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP04_reply",
+    "dialogue": [
+      {
+        "id": "C25",
+        "frame": 7,
+        "seconds": 3.44,
+        "role": "ARTETA",
+        "text": "Cancel the subscription! We are winning it this year!"
+      }
+    ],
+    "source_scene": "S002_final_v023_CP04_forward"
+  },
+  {
+    "id": "CP05",
+    "start_frame": 878,
+    "frames": 48,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_CP05",
+    "dialogue": [
+      {
+        "id": "L26",
+        "frame": 7,
+        "seconds": 1.2,
+        "role": "ARTETA",
+        "text": "Keep hold of the lead!"
+      }
+    ],
+    "source_scene": "S002_final_v023_CP05"
+  },
+  {
+    "id": "VH01",
+    "start_frame": 926,
+    "frames": 174,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH01",
+    "dialogue": [
+      {
+        "id": "C27",
+        "frame": 46,
+        "seconds": 4.8,
+        "role": "REFEREE",
+        "text": "He has pulled him down inside the box. Penalty against Arsenal!"
+      }
+    ],
+    "source_scene": "S002_final_v023_VH01"
+  },
+  {
+    "id": "VH02",
+    "start_frame": 1100,
+    "frames": 87,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH02",
+    "dialogue": [
+      {
+        "id": "L28",
+        "frame": 7,
+        "seconds": 2.8,
+        "role": "RECORDED VOICE",
+        "text": "For a penalty against Arsenal, please hold."
+      }
+    ],
+    "source_scene": "S002_final_v023_VH02"
+  },
+  {
+    "id": "VH03",
+    "start_frame": 1187,
+    "frames": 30,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH03",
+    "dialogue": [],
+    "source_scene": "S002_final_v023_VH03"
+  },
+  {
+    "id": "VH03_answer",
+    "start_frame": 1217,
+    "frames": 162,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH03_answer",
+    "dialogue": [
+      {
+        "id": "C29",
+        "frame": 7,
+        "seconds": 5.92,
+        "role": "OPERATOR",
+        "text": "Mikel! Our priority customer. What can we cancel today?"
+      }
+    ],
+    "source_scene": "S002_final_v023_VH03_answer"
+  },
+  {
+    "id": "VH04_mikel",
+    "start_frame": 1379,
+    "frames": 165,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH04_mikel",
+    "dialogue": [
+      {
+        "id": "C30",
+        "frame": 7,
+        "seconds": 6.080041666666666,
+        "role": "ARTETA",
+        "text": "That penalty against us. Make it disappear. Same service as the rest of the season."
+      }
+    ],
+    "source_scene": "S002_final_v023_VH04_mikel"
+  },
+  {
+    "id": "VH04_operator",
+    "start_frame": 1544,
+    "frames": 135,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH04_operator",
+    "dialogue": [
+      {
+        "id": "C31",
+        "frame": 7,
+        "seconds": 4.8,
+        "role": "OPERATOR",
+        "text": "Penalty cancelled. Would you like an Arsenal corner as a complimentary extra?"
+      }
+    ],
+    "source_scene": "S002_final_v023_VH04_operator"
+  },
+  {
+    "id": "VH04_two",
+    "start_frame": 1679,
+    "frames": 71,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH04_two",
+    "dialogue": [
+      {
+        "id": "C32",
+        "frame": 7,
+        "seconds": 2.160041666666667,
+        "role": "ARTETA",
+        "text": "Now that is customer service."
+      }
+    ],
+    "source_scene": "S002_final_v023_VH04_two"
+  },
+  {
+    "id": "VH04_button",
+    "start_frame": 1750,
+    "frames": 30,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH04_button",
+    "dialogue": [],
+    "source_scene": "S002_final_v023_VH04_button"
+  },
+  {
+    "id": "VH05",
+    "start_frame": 1780,
+    "frames": 249,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_VH05",
+    "dialogue": [
+      {
+        "id": "C33",
+        "frame": 7,
+        "seconds": 4.4,
+        "role": "OPERATOR",
+        "text": "Decision: no penalty. Corner to Arsenal."
+      },
+      {
+        "id": "C34",
+        "frame": 120,
+        "seconds": 2.4,
+        "role": "REFEREE",
+        "text": "But Arsenal committed the foul!"
+      },
+      {
+        "id": "C34b",
+        "frame": 185,
+        "seconds": 2.16,
+        "role": "OPERATOR",
+        "text": "And Arsenal will take the corner."
+      }
+    ],
+    "source_scene": "S002_final_v023_VH05"
+  },
+  {
+    "id": "FR01",
+    "start_frame": 2029,
+    "frames": 169,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_FR01",
+    "dialogue": [
+      {
+        "id": "C35",
+        "frame": 16,
+        "seconds": 5.84,
+        "role": "NARRATOR",
+        "text": "One goal would make Arsenal champions. Their entire season had come down to another corner."
+      }
+    ],
+    "source_scene": "S002_final_v023_FR01"
+  },
+  {
+    "id": "FR02",
+    "start_frame": 2198,
+    "frames": 121,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_FR02",
+    "dialogue": [
+      {
+        "id": "L36",
+        "frame": 7,
+        "seconds": 2.08,
+        "role": "GY\u00d6KERES",
+        "text": "Do I finally get to shoot?"
+      },
+      {
+        "id": "L37",
+        "frame": 64,
+        "seconds": 1.84,
+        "role": "ARTETA",
+        "text": "No. Stand there."
+      }
+    ],
+    "source_scene": "S002_final_v023_FR02"
+  },
+  {
+    "id": "N03",
+    "start_frame": 2319,
+    "frames": 127,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_N03",
+    "dialogue": [
+      {
+        "id": "C38",
+        "frame": 7,
+        "seconds": 4.48,
+        "role": "NARRATOR",
+        "text": "Come on. There is still time for Arsenal to bottle this."
+      }
+    ],
+    "source_scene": "S002_final_v023_N03"
+  },
+  {
+    "id": "FR03_complain",
+    "start_frame": 2446,
+    "frames": 139,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_FR03_complain",
+    "dialogue": [
+      {
+        "id": "C39",
+        "frame": 7,
+        "seconds": 4.96,
+        "role": "GY\u00d6KERES",
+        "text": "You signed a striker, Mikel! When do I actually get to shoot?"
+      }
+    ],
+    "source_scene": "S002_final_v023_FR03_complain"
+  },
+  {
+    "id": "FR03_cross",
+    "start_frame": 2585,
+    "frames": 120,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_FR03_cross",
+    "dialogue": [],
+    "source_scene": "S002_final_v023_FR03_cross"
+  },
+  {
+    "id": "FR04",
+    "start_frame": 2705,
+    "frames": 159,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_FR04",
+    "dialogue": [
+      {
+        "id": "C40",
+        "frame": 7,
+        "seconds": 4.08,
+        "role": "GY\u00d6KERES",
+        "text": "My first title-winning goal, and I did not even face the goal?"
+      },
+      {
+        "id": "L41",
+        "frame": 112,
+        "seconds": 1.44,
+        "role": "ARTETA",
+        "text": "Exactly as rehearsed."
+      }
+    ],
+    "source_scene": "S002_final_v023_FR04"
+  },
+  {
+    "id": "FR05",
+    "start_frame": 2864,
+    "frames": 210,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_FR05",
+    "dialogue": [
+      {
+        "id": "C42",
+        "frame": 7,
+        "seconds": 2.96,
+        "role": "COURIER",
+        "text": "Then where am I taking all these second-place medals?"
+      },
+      {
+        "id": "C43",
+        "frame": 86,
+        "seconds": 4.64,
+        "role": "ARTETA",
+        "text": "Etihad Pharmacy. Ask for Pep. He will need something for the pain."
+      }
+    ],
+    "source_scene": "S002_final_v023_FR05"
+  },
+  {
+    "id": "N04_trophy",
+    "start_frame": 3074,
+    "frames": 144,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_N04_trophy",
+    "dialogue": [
+      {
+        "id": "C48",
+        "frame": 16,
+        "seconds": 2.32,
+        "role": "ARTETA",
+        "text": "Nobody deserves this more than you."
+      }
+    ],
+    "source_scene": "S002_final_v023_N04_trophy"
+  },
+  {
+    "id": "N04_dark",
+    "start_frame": 3218,
+    "frames": 72,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_N04_dark",
+    "dialogue": [],
+    "source_scene": "S002_final_v023_N04_dark"
+  },
+  {
+    "id": "N04_reveal",
+    "start_frame": 3290,
+    "frames": 36,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_N04_reveal",
+    "dialogue": [],
+    "source_scene": "S002_final_v023_N04_reveal"
+  },
+  {
+    "id": "N04_meltdown",
+    "start_frame": 3326,
+    "frames": 257,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_N04_meltdown",
+    "dialogue": [
+      {
+        "id": "C46",
+        "frame": 3,
+        "seconds": 10.08,
+        "role": "FERGUSON",
+        "text": "I SAID I WAS RETIRED! Now Arsenal have won the league with a CORNER FLAG and a BACKSIDE! STOP GIVING ME REASONS TO COME BACK!"
+      }
+    ],
+    "source_scene": "S002_final_v023_N04_meltdown"
+  },
+  {
+    "id": "N04_tap",
+    "start_frame": 3583,
+    "frames": 60,
+    "local_start": 1,
+    "scene": "S002_clarity_v024_N04_tap",
+    "dialogue": [],
+    "source_scene": "S002_final_v023_N04_tap"
+  }
+]

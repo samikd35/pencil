@@ -1,0 +1,32 @@
+[
+  {
+    "production": "proofs/workflow-v001/chibi/production.json",
+    "id": "chibi",
+    "catalog_version": 1,
+    "resumed_without_changes": true
+  },
+  {
+    "production": "proofs/workflow-v001/collage/production.json",
+    "id": "collage",
+    "catalog_version": 1,
+    "resumed_without_changes": true
+  },
+  {
+    "production": "proofs/workflow-v001/food-mascot/production.json",
+    "id": "food-mascot",
+    "catalog_version": 1,
+    "resumed_without_changes": true
+  },
+  {
+    "production": "proofs/workflow-v001/paper-cutout/production.json",
+    "id": "paper-cutout",
+    "catalog_version": 1,
+    "resumed_without_changes": true
+  },
+  {
+    "production": "proofs/workflow-v001/parallax/production.json",
+    "id": "parallax",
+    "catalog_version": 1,
+    "resumed_without_changes": true
+  }
+]

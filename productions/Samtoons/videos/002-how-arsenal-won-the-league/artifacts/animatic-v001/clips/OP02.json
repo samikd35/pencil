@@ -1,0 +1,20 @@
+{
+  "id": "OP02",
+  "chapter": 1,
+  "panel": 3,
+  "start_frame": 481,
+  "frames": 144,
+  "lines": [
+    4,
+    5
+  ],
+  "source": "boards/chapter-1.png",
+  "camera": "hold",
+  "crop": [
+    688,
+    387,
+    673,
+    373
+  ],
+  "source_sha256": "5e7d4d7c8655aa6aeb366fe50a7b02c3131b647b064e013b8bd744746d0cfcac"
+}

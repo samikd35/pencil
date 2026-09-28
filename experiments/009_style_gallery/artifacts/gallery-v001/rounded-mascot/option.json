@@ -1,0 +1,19 @@
+{
+  "id": "rounded-mascot",
+  "name": "Emoji / rounded mascot",
+  "category": "Character",
+  "description": "A round yellow character built around its expression.",
+  "limitation": "Large body tilts can hide hands; new expression states need drawings.",
+  "recipe": "recipes/rounded-mascot.md",
+  "sample": "samples/rounded-mascot.png",
+  "settings": {
+    "design": "emoji",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "status": "Not yet validated",
+  "evidence": [],
+  "sources": [
+    "https://pages.adobe.com/character/en/puppet-maker"
+  ]
+}

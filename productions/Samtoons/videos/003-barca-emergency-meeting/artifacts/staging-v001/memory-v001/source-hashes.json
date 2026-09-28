@@ -1,0 +1,13 @@
+{
+  "scripts/build_memory_v001.py": "281c709e437640cce696cb14f86efbbaa794fe970678871813674b1075f5d815",
+  "scripts/prepare_memory_v001.py": "df94d44f9d58dfa1afbbab971823066947a02eba934622ab83ac0a054018aea0",
+  "scripts/build_football_v001.py": "2551333446673163bd8052debcfc3d346210f15d62eee58fbdcc1a314ff7b72a",
+  "scripts/revise_coaching_surfaces_v002.py": "d9ee24405c97ed2117f17116f9bdc2d02a8b497b68fd0e3d2bd6f8205718249e",
+  "scripts/render_staging_scene.py": "ada3d0812b989a5e796d76d5476efd3c6ef3a3e67e9a18d1199217b5167bb785",
+  "assets/memory-v001/lewandowski.json": "b167569ba31075b9932a16431290178ef954b70d534c50ac88e656cabe2f0743",
+  "assets/memory-v001/raphinha.json": "f43b1fb34364ac7cb14acdcf82e380cd6c1077b3cad490046c204467a7cff798",
+  "assets/memory-v001/flick.json": "d9de303f7f67eaf0e5b2ac3a96480266588b9f5f83c5685f2ce25dc4ab60d0c7",
+  "assets/memory-v001/lewandowski-reference.png": "d863e5a95463e77c63d1508ae576e661bd57e1d4c18ad037c92dddcdf8a8850a",
+  "assets/memory-v001/prompt.md": "04d441f139a46bb7a37816336e8f7379dc371d29f410e9fce452cfc6c125c903",
+  "assets/voices-s10-v001/robert-memory.wav": "0a2f3d9f5ae70121bf9e5765b8ddc21ea0bb10b86932254209b5c06d79769ae3"
+}

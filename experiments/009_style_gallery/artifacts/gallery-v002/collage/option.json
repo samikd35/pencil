@@ -1,0 +1,19 @@
+{
+  "id": "collage",
+  "name": "Animated collage look",
+  "category": "Finish",
+  "description": "Coordinated patterned cutouts across the whole character.",
+  "limitation": "The sample uses original procedural patterns; imported photography needs preparation and source records.",
+  "recipe": "recipes/collage.md",
+  "sample": "samples/collage.png",
+  "settings": {
+    "design": "human",
+    "finish": "collage",
+    "presentation": "scene"
+  },
+  "status": "Not yet validated",
+  "evidence": [],
+  "sources": [
+    "https://www.domestika.org/en/courses/333-animated-collage-with-adobe-after-effects"
+  ]
+}

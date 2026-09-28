@@ -1,0 +1,1 @@
+The check read excluded GP body-layer geometry. Evaluate all candidate character layers during geometry checks, then restore render exclusions.

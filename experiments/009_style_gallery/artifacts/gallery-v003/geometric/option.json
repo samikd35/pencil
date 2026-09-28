@@ -1,0 +1,29 @@
+{
+  "id": "geometric",
+  "name": "Geometric character",
+  "category": "Character",
+  "description": "Simple geometric head and body with thin connecting limbs.",
+  "limitation": "Sharp shapes still need overlap and pivot checks.",
+  "recipe": "recipes/geometric.md",
+  "sample": "samples/geometric.png",
+  "settings": {
+    "design": "geometric",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "status": "Still tested \u00b7 motion untested",
+  "evidence": [
+    {
+      "label": "Native project",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/geometric/character.blend"
+    },
+    {
+      "label": "240-frame connection check",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/geometric/checks.json"
+    }
+  ],
+  "sources": [
+    "https://pages.adobe.com/character/en/puppet-maker"
+  ],
+  "motion_tested": false
+}

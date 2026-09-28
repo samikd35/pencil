@@ -1,0 +1,19 @@
+{
+  "id": "chibi",
+  "name": "Chibi / super-deformed",
+  "category": "Character",
+  "description": "A very large head over a compact body.",
+  "limitation": "Compact hips need foot-clearance constraints and action-specific reach tuning.",
+  "recipe": "recipes/chibi.md",
+  "sample": "samples/chibi.png",
+  "settings": {
+    "design": "chibi",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "status": "Not yet validated",
+  "evidence": [],
+  "sources": [
+    "https://www.clipstudio.net/how-to-draw/archives/155423"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "artifacts/staging-v001/passage-v001/passage-inserts.blend": "d8e226001746ab805652847094ccd37fe5a26cf114e2d6647c76557dd4824fba",
+  "scripts/render_staging_scene.py": "ff5c47ea41422cb8c82dca7467dcd15fb2ceb5ec5f0ff092fcfcc33b69bee15e",
+  "artifacts/staging-v001/passage-v001/render-selection.json": "2e81d7398947cfcb32836ff0ab85225e2ffd9ca22c8d95c0fea9456263b7d45b",
+  "artifacts/staging-v001/passage-v001/audio/mix-premaster.wav": "0375dabbe00b422f58092b3c604aa0c98f81ac5efaed2dcf2b5c8d643a882e41"
+}

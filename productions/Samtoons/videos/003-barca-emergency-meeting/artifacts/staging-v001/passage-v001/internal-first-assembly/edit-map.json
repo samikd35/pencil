@@ -1,0 +1,59 @@
+{
+  "fps": 24,
+  "frames": 1272,
+  "seconds": 53.0,
+  "clips": [
+    {
+      "shot": "S05",
+      "source": "artifacts/staging-v001/passage-v001/plan-review.mp4",
+      "sha256": "998be9d970ecff2ec10f78a7df19d1939b8637fab5805213fb0cb0680cfc5f5e",
+      "source_start_frame": 1,
+      "frames": 168,
+      "preview_start_frame": 1,
+      "preview_start_seconds": 0.0,
+      "note": "Rough plan insert; new reference-conditioned Perez line."
+    },
+    {
+      "shot": "S06",
+      "source": "artifacts/staging-v001/football-performance-v002/football-review.mp4",
+      "sha256": "cee13a90fc083f847294608da89205d81d41df90032417894e8d32c558822576",
+      "source_start_frame": 1,
+      "frames": 312,
+      "preview_start_frame": 169,
+      "preview_start_seconds": 7.0,
+      "note": "Selected football staging, complete."
+    },
+    {
+      "shot": "S07",
+      "source": "artifacts/staging-v001/coaching-performance-v002/coaching-review.mp4",
+      "sha256": "96a185231516b2e8b55b19a02c0008c4c82d192cb99e6afd94d5a299639b075a",
+      "source_start_frame": 1,
+      "frames": 360,
+      "preview_start_frame": 481,
+      "preview_start_seconds": 20.0,
+      "note": "Selected connected-surface staging, complete through release."
+    },
+    {
+      "shot": "S08 link",
+      "source": "artifacts/staging-v001/passage-v001/call-link-review.mp4",
+      "sha256": "ced8de6f1946336553e36f221275b80cba0408fbf0d4a70ee81924f235906dd1",
+      "source_start_frame": 1,
+      "frames": 192,
+      "preview_start_frame": 841,
+      "preview_start_seconds": 35.0,
+      "note": "Rough decision insert; new reference-conditioned Perez line."
+    },
+    {
+      "shot": "S08 call",
+      "source": "artifacts/staging-v001/call-performance-v006/call-review.mp4",
+      "sha256": "ea22868317dce482b57c28f503dc1df44b7aea8637e44386ea42b4e1fb02bcd5",
+      "source_start_frame": 1,
+      "frames": 240,
+      "preview_start_frame": 1033,
+      "preview_start_seconds": 43.0,
+      "note": "Selected call performance, complete; wrist work stays deferred."
+    }
+  ],
+  "source_frames_trimmed": 0,
+  "audio": "Selected performance tracks retained at original speed; one AAC encoding for the joined preview."
+}

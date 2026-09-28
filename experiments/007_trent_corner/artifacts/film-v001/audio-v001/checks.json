@@ -1,0 +1,79 @@
+{
+  "scope": "Technical premaster checks; subjective listening and final encoded checks are separate",
+  "ffmpeg": "ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers",
+  "outputs": [
+    {
+      "path": "stems/atmosphere.wav",
+      "sha256": "040126331851a96a6e082d47a5aec15505377271def41124c4edb8121a13b891",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "36",
+        "codec": "pcm_f32le"
+      },
+      "samples": 1728000,
+      "decoded": true,
+      "finite_samples": true
+    },
+    {
+      "path": "stems/editorial.wav",
+      "sha256": "989fa9c7112aee3c8778fe5e7df1ba374854e4709cc9adec30e4fef8681b8cdb",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "36",
+        "codec": "pcm_f32le"
+      },
+      "samples": 1728000,
+      "decoded": true,
+      "finite_samples": true
+    },
+    {
+      "path": "stems/foley.wav",
+      "sha256": "8a86ea0fdf786ac6ded330ddf488c8044608391810f6efa2648df7e30e07efbf",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "36",
+        "codec": "pcm_f32le"
+      },
+      "samples": 1728000,
+      "decoded": true,
+      "finite_samples": true
+    },
+    {
+      "path": "stems/music.wav",
+      "sha256": "80be975fe660485285cfbbbb25452020219efd30297f612a8223cd735bb77a90",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "36",
+        "codec": "pcm_f32le"
+      },
+      "samples": 1728000,
+      "decoded": true,
+      "finite_samples": true
+    },
+    {
+      "path": "mix-premaster.wav",
+      "sha256": "e3ab691ce053bc2ae17e4f927942681e6dbfbaed5497017992a1fc68dfc8341e",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "36",
+        "codec": "pcm_f32le"
+      },
+      "samples": 1728000,
+      "decoded": true,
+      "finite_samples": true
+    }
+  ],
+  "premaster_measurement": {
+    "input_i": "-30.36",
+    "input_tp": "-8.79",
+    "input_lra": "12.10",
+    "input_thresh": "-41.44"
+  },
+  "finishing_required": true,
+  "peak_above_full_scale": false
+}

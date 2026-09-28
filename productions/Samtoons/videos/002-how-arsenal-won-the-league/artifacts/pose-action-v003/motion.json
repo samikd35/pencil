@@ -1,0 +1,2573 @@
+[
+  {
+    "frame": 1,
+    "pose": "jump0",
+    "x": 0.213852712679106,
+    "z": 0.9826681381429262,
+    "phase": "ready",
+    "contact_world": [
+      0,
+      0.05
+    ],
+    "neck_world_x": 0.253,
+    "contact_compensation_x": 9.317238777825643e-05,
+    "camera_x": 0.214
+  },
+  {
+    "frame": 2,
+    "pose": "jump0",
+    "x": 0.213852712679106,
+    "z": 0.9826681381429262,
+    "phase": "ready",
+    "contact_world": [
+      0,
+      0.05
+    ],
+    "neck_world_x": 0.253,
+    "contact_compensation_x": 9.317238777825643e-05,
+    "camera_x": 0.214
+  },
+  {
+    "frame": 3,
+    "pose": "jump0",
+    "x": 0.213852712679106,
+    "z": 0.9826681381429262,
+    "phase": "ready",
+    "contact_world": [
+      0,
+      0.05
+    ],
+    "neck_world_x": 0.253,
+    "contact_compensation_x": 9.317238777825643e-05,
+    "camera_x": 0.214
+  },
+  {
+    "frame": 4,
+    "pose": "jump0",
+    "x": 0.213852712679106,
+    "z": 0.9826681381429262,
+    "phase": "ready",
+    "contact_world": [
+      0,
+      0.05
+    ],
+    "neck_world_x": 0.253,
+    "contact_compensation_x": 9.317238777825643e-05,
+    "camera_x": 0.214
+  },
+  {
+    "frame": 5,
+    "pose": "jump0",
+    "x": 0.213852712679106,
+    "z": 0.9826681381429262,
+    "phase": "ready",
+    "contact_world": [
+      0,
+      0.05
+    ],
+    "neck_world_x": 0.253,
+    "contact_compensation_x": 9.317238777825643e-05,
+    "camera_x": 0.214
+  },
+  {
+    "frame": 6,
+    "pose": "jump0",
+    "x": 0.213852712679106,
+    "z": 0.9826681381429262,
+    "phase": "ready",
+    "contact_world": [
+      0,
+      0.05
+    ],
+    "neck_world_x": 0.253,
+    "contact_compensation_x": 9.317238777825643e-05,
+    "camera_x": 0.214
+  },
+  {
+    "frame": 7,
+    "pose": "jump0",
+    "x": 0.213852712679106,
+    "z": 0.9826681381429262,
+    "phase": "ready",
+    "contact_world": [
+      0,
+      0.05
+    ],
+    "neck_world_x": 0.253,
+    "contact_compensation_x": 9.317238777825643e-05,
+    "camera_x": 0.214
+  },
+  {
+    "frame": 8,
+    "pose": "jump0",
+    "x": 0.213852712679106,
+    "z": 0.9826681381429262,
+    "phase": "ready",
+    "contact_world": [
+      0,
+      0.05
+    ],
+    "neck_world_x": 0.253,
+    "contact_compensation_x": 9.317238777825643e-05,
+    "camera_x": 0.214
+  },
+  {
+    "frame": 9,
+    "pose": "jump7",
+    "x": 0.17380574571974833,
+    "z": 0.9223163267845024,
+    "phase": "prepare_run",
+    "contact_world": [
+      0,
+      0.05
+    ],
+    "neck_world_x": 0.2470625,
+    "contact_compensation_x": -0.032112536612155435,
+    "camera_x": 0.214
+  },
+  {
+    "frame": 10,
+    "pose": "jump7",
+    "x": 0.1607432457197483,
+    "z": 0.9223163267845024,
+    "phase": "prepare_run",
+    "contact_world": [
+      0,
+      0.05
+    ],
+    "neck_world_x": 0.23399999999999999,
+    "contact_compensation_x": -0.019050036612155402,
+    "camera_x": 0.214
+  },
+  {
+    "frame": 11,
+    "pose": "jump7",
+    "x": 0.14768074571974832,
+    "z": 0.9223163267845024,
+    "phase": "prepare_run",
+    "contact_world": [
+      0,
+      0.05
+    ],
+    "neck_world_x": 0.2209375,
+    "contact_compensation_x": -0.005987536612155425,
+    "camera_x": 0.214
+  },
+  {
+    "frame": 12,
+    "pose": "jump7",
+    "x": 0.14174324571974833,
+    "z": 0.9223163267845024,
+    "phase": "prepare_run",
+    "contact_world": [
+      0,
+      0.05
+    ],
+    "neck_world_x": 0.215,
+    "contact_compensation_x": -5.003661215544075e-05,
+    "camera_x": 0.214
+  },
+  {
+    "frame": 13,
+    "pose": "run0",
+    "x": 0.09131154442531661,
+    "z": 0.987951232272623,
+    "phase": "contact",
+    "contact_world": [
+      0.5,
+      0.05
+    ],
+    "neck_world_x": 0.21999999999999997,
+    "contact_compensation_x": 0.10681535269709544,
+    "camera_x": 0.214
+  },
+  {
+    "frame": 14,
+    "pose": "run0",
+    "x": 0.30381154442531666,
+    "z": 0.987951232272623,
+    "phase": "contact",
+    "contact_world": [
+      0.5,
+      0.05
+    ],
+    "neck_world_x": 0.4325,
+    "contact_compensation_x": -0.10568464730290461,
+    "camera_x": 0.22977347222222222
+  },
+  {
+    "frame": 15,
+    "pose": "run1",
+    "x": 0.5045300780003192,
+    "z": 1.023688008697734,
+    "phase": "down",
+    "contact_world": [
+      0.5,
+      0.05
+    ],
+    "neck_world_x": 0.645,
+    "contact_compensation_x": 0.03145228215767637,
+    "camera_x": 0.294645
+  },
+  {
+    "frame": 16,
+    "pose": "run1",
+    "x": 0.717030078000319,
+    "z": 1.023688008697734,
+    "phase": "down",
+    "contact_world": [
+      0.5,
+      0.05
+    ],
+    "neck_world_x": 0.8574999999999998,
+    "contact_compensation_x": -0.18104771784232343,
+    "camera_x": 0.4096901388888887
+  },
+  {
+    "frame": 17,
+    "pose": "run2",
+    "x": 0.8597848533522127,
+    "z": 1.02732598317415,
+    "phase": "push",
+    "contact_world": [
+      0.5,
+      0.05
+    ],
+    "neck_world_x": 1.0699999999999998,
+    "contact_compensation_x": 0.10869986168741386,
+    "camera_x": 0.5749088888888888
+  },
+  {
+    "frame": 18,
+    "pose": "run2",
+    "x": 1.0722848533522127,
+    "z": 1.02732598317415,
+    "phase": "push",
+    "contact_world": [
+      0.5,
+      0.05
+    ],
+    "neck_world_x": 1.2825,
+    "contact_compensation_x": -0.10380013831258617,
+    "camera_x": 0.7825
+  },
+  {
+    "frame": 19,
+    "pose": "run3",
+    "x": 1.3102438807582262,
+    "z": 1.0314512666593398,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 1.495,
+    "contact_compensation_x": 0.0,
+    "camera_x": 0.9950000000000001
+  },
+  {
+    "frame": 20,
+    "pose": "run3",
+    "x": 1.522743880758226,
+    "z": 1.0079670334019346,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 1.7075,
+    "contact_compensation_x": 0.0,
+    "camera_x": 1.2075
+  },
+  {
+    "frame": 21,
+    "pose": "run4",
+    "x": 1.7829073268749813,
+    "z": 0.9674515501445297,
+    "phase": "contact",
+    "contact_world": [
+      2.2,
+      0.05
+    ],
+    "neck_world_x": 1.92,
+    "contact_compensation_x": 0.07273858921161835,
+    "camera_x": 1.42
+  },
+  {
+    "frame": 22,
+    "pose": "run4",
+    "x": 1.9954073268749817,
+    "z": 0.9674515501445297,
+    "phase": "contact",
+    "contact_world": [
+      2.2,
+      0.05
+    ],
+    "neck_world_x": 2.1325000000000003,
+    "contact_compensation_x": -0.139761410788382,
+    "camera_x": 1.6325000000000005
+  },
+  {
+    "frame": 23,
+    "pose": "run5",
+    "x": 2.204502540940877,
+    "z": 1.0088166894489015,
+    "phase": "down",
+    "contact_world": [
+      2.2,
+      0.05
+    ],
+    "neck_world_x": 2.3449999999999998,
+    "contact_compensation_x": -0.03950207468879663,
+    "camera_x": 1.845
+  },
+  {
+    "frame": 24,
+    "pose": "run5",
+    "x": 2.417002540940877,
+    "z": 1.0088166894489015,
+    "phase": "down",
+    "contact_world": [
+      2.2,
+      0.05
+    ],
+    "neck_world_x": 2.5574999999999997,
+    "contact_compensation_x": -0.25200207468879654,
+    "camera_x": 2.0575
+  },
+  {
+    "frame": 25,
+    "pose": "run6",
+    "x": 2.592073953269801,
+    "z": 0.9673193821805091,
+    "phase": "push",
+    "contact_world": [
+      2.2,
+      0.05
+    ],
+    "neck_world_x": 2.7700000000000005,
+    "contact_compensation_x": 0.1089452549859451,
+    "camera_x": 2.2700000000000005
+  },
+  {
+    "frame": 26,
+    "pose": "run6",
+    "x": 2.8045739532698004,
+    "z": 0.9673193821805091,
+    "phase": "push",
+    "contact_world": [
+      2.2,
+      0.05
+    ],
+    "neck_world_x": 2.9825,
+    "contact_compensation_x": -0.10355474501405437,
+    "camera_x": 2.4825
+  },
+  {
+    "frame": 27,
+    "pose": "run7",
+    "x": 2.96270832192264,
+    "z": 1.0116978072265659,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 3.195,
+    "contact_compensation_x": 0.0,
+    "camera_x": 2.695
+  },
+  {
+    "frame": 28,
+    "pose": "run7",
+    "x": 3.17520832192264,
+    "z": 1.0083401447495945,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 3.4074999999999998,
+    "contact_compensation_x": 0.0,
+    "camera_x": 2.9074999999999998
+  },
+  {
+    "frame": 29,
+    "pose": "run0",
+    "x": 3.491311544425317,
+    "z": 0.987951232272623,
+    "phase": "contact",
+    "contact_world": [
+      3.9,
+      0.05
+    ],
+    "neck_world_x": 3.62,
+    "contact_compensation_x": 0.10681535269709519,
+    "camera_x": 3.12
+  },
+  {
+    "frame": 30,
+    "pose": "run0",
+    "x": 3.7038115444253172,
+    "z": 0.987951232272623,
+    "phase": "contact",
+    "contact_world": [
+      3.9,
+      0.05
+    ],
+    "neck_world_x": 3.8325000000000005,
+    "contact_compensation_x": -0.10568464730290517,
+    "camera_x": 3.3325000000000005
+  },
+  {
+    "frame": 31,
+    "pose": "run1",
+    "x": 3.9045300780003194,
+    "z": 1.023688008697734,
+    "phase": "down",
+    "contact_world": [
+      3.9,
+      0.05
+    ],
+    "neck_world_x": 4.045,
+    "contact_compensation_x": 0.03145228215767615,
+    "camera_x": 3.545
+  },
+  {
+    "frame": 32,
+    "pose": "run1",
+    "x": 4.11703007800032,
+    "z": 1.023688008697734,
+    "phase": "down",
+    "contact_world": [
+      3.9,
+      0.05
+    ],
+    "neck_world_x": 4.2575,
+    "contact_compensation_x": -0.1810477178423242,
+    "camera_x": 3.7575000000000003
+  },
+  {
+    "frame": 33,
+    "pose": "run2",
+    "x": 4.259784853352214,
+    "z": 1.02732598317415,
+    "phase": "push",
+    "contact_world": [
+      3.9,
+      0.05
+    ],
+    "neck_world_x": 4.470000000000001,
+    "contact_compensation_x": 0.10869986168741264,
+    "camera_x": 3.97
+  },
+  {
+    "frame": 34,
+    "pose": "run2",
+    "x": 4.472284853352213,
+    "z": 1.02732598317415,
+    "phase": "push",
+    "contact_world": [
+      3.9,
+      0.05
+    ],
+    "neck_world_x": 4.6825,
+    "contact_compensation_x": -0.10380013831258683,
+    "camera_x": 4.1825
+  },
+  {
+    "frame": 35,
+    "pose": "run3",
+    "x": 4.710243880758226,
+    "z": 1.0314512666593398,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 4.895,
+    "contact_compensation_x": 0.0,
+    "camera_x": 4.395
+  },
+  {
+    "frame": 36,
+    "pose": "run3",
+    "x": 4.922743880758226,
+    "z": 1.0079670334019346,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 5.1075,
+    "contact_compensation_x": 0.0,
+    "camera_x": 4.6075
+  },
+  {
+    "frame": 37,
+    "pose": "run4",
+    "x": 5.1829073268749815,
+    "z": 0.9674515501445297,
+    "phase": "contact",
+    "contact_world": [
+      5.6,
+      0.05
+    ],
+    "neck_world_x": 5.32,
+    "contact_compensation_x": 0.07273858921161835,
+    "camera_x": 4.82
+  },
+  {
+    "frame": 38,
+    "pose": "run4",
+    "x": 5.395407326874981,
+    "z": 0.9674515501445297,
+    "phase": "contact",
+    "contact_world": [
+      5.6,
+      0.05
+    ],
+    "neck_world_x": 5.5325,
+    "contact_compensation_x": -0.1397614107883811,
+    "camera_x": 5.0325
+  },
+  {
+    "frame": 39,
+    "pose": "run5",
+    "x": 5.604502540940878,
+    "z": 1.0088166894489015,
+    "phase": "down",
+    "contact_world": [
+      5.6,
+      0.05
+    ],
+    "neck_world_x": 5.745,
+    "contact_compensation_x": -0.03950207468879796,
+    "camera_x": 5.245
+  },
+  {
+    "frame": 40,
+    "pose": "run5",
+    "x": 5.817002540940877,
+    "z": 1.0088166894489015,
+    "phase": "down",
+    "contact_world": [
+      5.6,
+      0.05
+    ],
+    "neck_world_x": 5.9575,
+    "contact_compensation_x": -0.25200207468879743,
+    "camera_x": 5.4575
+  },
+  {
+    "frame": 41,
+    "pose": "run6",
+    "x": 5.9920739532698,
+    "z": 0.9673193821805091,
+    "phase": "push",
+    "contact_world": [
+      5.6,
+      0.05
+    ],
+    "neck_world_x": 6.17,
+    "contact_compensation_x": 0.10894525498594554,
+    "camera_x": 5.67
+  },
+  {
+    "frame": 42,
+    "pose": "run6",
+    "x": 6.204573953269799,
+    "z": 0.9673193821805091,
+    "phase": "push",
+    "contact_world": [
+      5.6,
+      0.05
+    ],
+    "neck_world_x": 6.3824999999999985,
+    "contact_compensation_x": -0.10355474501405304,
+    "camera_x": 5.8824999999999985
+  },
+  {
+    "frame": 43,
+    "pose": "run7",
+    "x": 6.36270832192264,
+    "z": 1.0116978072265659,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 6.595,
+    "contact_compensation_x": 0.0,
+    "camera_x": 6.095
+  },
+  {
+    "frame": 44,
+    "pose": "run7",
+    "x": 6.5752083219226405,
+    "z": 1.0083401447495945,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 6.8075,
+    "contact_compensation_x": 0.0,
+    "camera_x": 6.3075
+  },
+  {
+    "frame": 45,
+    "pose": "run0",
+    "x": 6.891311544425316,
+    "z": 0.987951232272623,
+    "phase": "contact",
+    "contact_world": [
+      7.3,
+      0.05
+    ],
+    "neck_world_x": 7.02,
+    "contact_compensation_x": 0.10681535269709563,
+    "camera_x": 6.52
+  },
+  {
+    "frame": 46,
+    "pose": "run0",
+    "x": 7.103811544425318,
+    "z": 0.987951232272623,
+    "phase": "contact",
+    "contact_world": [
+      7.3,
+      0.05
+    ],
+    "neck_world_x": 7.232500000000001,
+    "contact_compensation_x": -0.10568464730290561,
+    "camera_x": 6.732500000000001
+  },
+  {
+    "frame": 47,
+    "pose": "run1",
+    "x": 7.30453007800032,
+    "z": 1.023688008697734,
+    "phase": "down",
+    "contact_world": [
+      7.3,
+      0.05
+    ],
+    "neck_world_x": 7.445,
+    "contact_compensation_x": 0.031452282157675704,
+    "camera_x": 6.945
+  },
+  {
+    "frame": 48,
+    "pose": "run1",
+    "x": 7.51703007800032,
+    "z": 1.023688008697734,
+    "phase": "down",
+    "contact_world": [
+      7.3,
+      0.05
+    ],
+    "neck_world_x": 7.657500000000001,
+    "contact_compensation_x": -0.18104771784232465,
+    "camera_x": 7.157500000000001
+  },
+  {
+    "frame": 49,
+    "pose": "run2",
+    "x": 7.659784853352214,
+    "z": 1.02732598317415,
+    "phase": "push",
+    "contact_world": [
+      7.3,
+      0.05
+    ],
+    "neck_world_x": 7.870000000000001,
+    "contact_compensation_x": 0.10869986168741264,
+    "camera_x": 7.370000000000001
+  },
+  {
+    "frame": 50,
+    "pose": "run2",
+    "x": 7.872284853352214,
+    "z": 1.02732598317415,
+    "phase": "push",
+    "contact_world": [
+      7.3,
+      0.05
+    ],
+    "neck_world_x": 8.082500000000001,
+    "contact_compensation_x": -0.10380013831258772,
+    "camera_x": 7.5825000000000005
+  },
+  {
+    "frame": 51,
+    "pose": "run3",
+    "x": 8.110243880758226,
+    "z": 1.0314512666593398,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 8.295,
+    "contact_compensation_x": 0.0,
+    "camera_x": 7.794999999999999
+  },
+  {
+    "frame": 52,
+    "pose": "run3",
+    "x": 8.322743880758226,
+    "z": 1.0079670334019346,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 8.5075,
+    "contact_compensation_x": 0.0,
+    "camera_x": 8.007499999999999
+  },
+  {
+    "frame": 53,
+    "pose": "run4",
+    "x": 8.582907326874981,
+    "z": 0.9674515501445297,
+    "phase": "contact",
+    "contact_world": [
+      9.0,
+      0.05
+    ],
+    "neck_world_x": 8.719999999999999,
+    "contact_compensation_x": 0.07273858921161924,
+    "camera_x": 8.219999999999999
+  },
+  {
+    "frame": 54,
+    "pose": "run4",
+    "x": 8.795407326874981,
+    "z": 0.9674515501445297,
+    "phase": "contact",
+    "contact_world": [
+      9.0,
+      0.05
+    ],
+    "neck_world_x": 8.9325,
+    "contact_compensation_x": -0.1397614107883811,
+    "camera_x": 8.4325
+  },
+  {
+    "frame": 55,
+    "pose": "run5",
+    "x": 9.004502540940877,
+    "z": 1.0088166894489015,
+    "phase": "down",
+    "contact_world": [
+      9.0,
+      0.05
+    ],
+    "neck_world_x": 9.145,
+    "contact_compensation_x": -0.039502074688796185,
+    "camera_x": 8.645
+  },
+  {
+    "frame": 56,
+    "pose": "run5",
+    "x": 9.217002540940879,
+    "z": 1.0088166894489015,
+    "phase": "down",
+    "contact_world": [
+      9.0,
+      0.05
+    ],
+    "neck_world_x": 9.357500000000002,
+    "contact_compensation_x": -0.2520020746887983,
+    "camera_x": 8.857500000000002
+  },
+  {
+    "frame": 57,
+    "pose": "run6",
+    "x": 9.3920739532698,
+    "z": 0.9673193821805091,
+    "phase": "push",
+    "contact_world": [
+      9.0,
+      0.05
+    ],
+    "neck_world_x": 9.57,
+    "contact_compensation_x": 0.10894525498594554,
+    "camera_x": 9.07
+  },
+  {
+    "frame": 58,
+    "pose": "run6",
+    "x": 9.604573953269801,
+    "z": 0.9673193821805091,
+    "phase": "push",
+    "contact_world": [
+      9.0,
+      0.05
+    ],
+    "neck_world_x": 9.7825,
+    "contact_compensation_x": -0.10355474501405482,
+    "camera_x": 9.2825
+  },
+  {
+    "frame": 59,
+    "pose": "run7",
+    "x": 9.76270832192264,
+    "z": 1.0116978072265659,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 9.995,
+    "contact_compensation_x": 0.0,
+    "camera_x": 9.495
+  },
+  {
+    "frame": 60,
+    "pose": "run7",
+    "x": 9.975208321922642,
+    "z": 1.0083401447495945,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 10.207500000000001,
+    "contact_compensation_x": 0.0,
+    "camera_x": 9.707500000000001
+  },
+  {
+    "frame": 61,
+    "pose": "run0",
+    "x": 10.291311544425318,
+    "z": 0.987951232272623,
+    "phase": "contact",
+    "contact_world": [
+      10.7,
+      0.05
+    ],
+    "neck_world_x": 10.420000000000002,
+    "contact_compensation_x": 0.10681535269709386,
+    "camera_x": 9.920000000000002
+  },
+  {
+    "frame": 62,
+    "pose": "run0",
+    "x": 10.503811544425316,
+    "z": 0.987951232272623,
+    "phase": "contact",
+    "contact_world": [
+      10.7,
+      0.05
+    ],
+    "neck_world_x": 10.6325,
+    "contact_compensation_x": -0.10568464730290472,
+    "camera_x": 10.1325
+  },
+  {
+    "frame": 63,
+    "pose": "run1",
+    "x": 10.704530078000321,
+    "z": 1.023688008697734,
+    "phase": "down",
+    "contact_world": [
+      10.7,
+      0.05
+    ],
+    "neck_world_x": 10.845000000000002,
+    "contact_compensation_x": 0.031452282157674816,
+    "camera_x": 10.345000000000002
+  },
+  {
+    "frame": 64,
+    "pose": "run1",
+    "x": 10.91703007800032,
+    "z": 1.023688008697734,
+    "phase": "down",
+    "contact_world": [
+      10.7,
+      0.05
+    ],
+    "neck_world_x": 11.057500000000001,
+    "contact_compensation_x": -0.18104771784232376,
+    "camera_x": 10.557500000000001
+  },
+  {
+    "frame": 65,
+    "pose": "run2",
+    "x": 11.059784853352214,
+    "z": 1.02732598317415,
+    "phase": "push",
+    "contact_world": [
+      10.7,
+      0.05
+    ],
+    "neck_world_x": 11.270000000000001,
+    "contact_compensation_x": 0.10869986168741086,
+    "camera_x": 10.770000000000001
+  },
+  {
+    "frame": 66,
+    "pose": "run2",
+    "x": 11.272284853352211,
+    "z": 1.02732598317415,
+    "phase": "push",
+    "contact_world": [
+      10.7,
+      0.05
+    ],
+    "neck_world_x": 11.482499999999998,
+    "contact_compensation_x": -0.10380013831258594,
+    "camera_x": 10.982499999999998
+  },
+  {
+    "frame": 67,
+    "pose": "run3",
+    "x": 11.510243880758226,
+    "z": 1.0314512666593398,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 11.695,
+    "contact_compensation_x": 0.0,
+    "camera_x": 11.195
+  },
+  {
+    "frame": 68,
+    "pose": "run3",
+    "x": 11.722743880758225,
+    "z": 1.0079670334019346,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 11.907499999999999,
+    "contact_compensation_x": 0.0,
+    "camera_x": 11.407499999999999
+  },
+  {
+    "frame": 69,
+    "pose": "run4",
+    "x": 11.982907326874983,
+    "z": 0.9674515501445297,
+    "phase": "contact",
+    "contact_world": [
+      12.4,
+      0.05
+    ],
+    "neck_world_x": 12.120000000000001,
+    "contact_compensation_x": 0.07273858921161747,
+    "camera_x": 11.620000000000001
+  },
+  {
+    "frame": 70,
+    "pose": "run4",
+    "x": 12.195407326874982,
+    "z": 0.9674515501445297,
+    "phase": "contact",
+    "contact_world": [
+      12.4,
+      0.05
+    ],
+    "neck_world_x": 12.3325,
+    "contact_compensation_x": -0.1397614107883811,
+    "camera_x": 11.8325
+  },
+  {
+    "frame": 71,
+    "pose": "run5",
+    "x": 12.404502540940879,
+    "z": 1.0088166894489015,
+    "phase": "down",
+    "contact_world": [
+      12.4,
+      0.05
+    ],
+    "neck_world_x": 12.545000000000002,
+    "contact_compensation_x": -0.03950207468879796,
+    "camera_x": 12.045000000000002
+  },
+  {
+    "frame": 72,
+    "pose": "run5",
+    "x": 12.617002540940877,
+    "z": 1.0088166894489015,
+    "phase": "down",
+    "contact_world": [
+      12.4,
+      0.05
+    ],
+    "neck_world_x": 12.7575,
+    "contact_compensation_x": -0.25200207468879654,
+    "camera_x": 12.2575
+  },
+  {
+    "frame": 73,
+    "pose": "run6",
+    "x": 12.792073953269801,
+    "z": 0.9673193821805091,
+    "phase": "push",
+    "contact_world": [
+      12.4,
+      0.05
+    ],
+    "neck_world_x": 12.97,
+    "contact_compensation_x": 0.10894525498594554,
+    "camera_x": 12.47
+  },
+  {
+    "frame": 74,
+    "pose": "run6",
+    "x": 13.004573953269801,
+    "z": 0.9673193821805091,
+    "phase": "push",
+    "contact_world": [
+      12.4,
+      0.05
+    ],
+    "neck_world_x": 13.182500000000001,
+    "contact_compensation_x": -0.10355474501405482,
+    "camera_x": 12.682500000000001
+  },
+  {
+    "frame": 75,
+    "pose": "run7",
+    "x": 13.162708321922647,
+    "z": 1.0116978072265659,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 13.395000000000007,
+    "contact_compensation_x": 0.0,
+    "camera_x": 12.895000000000007
+  },
+  {
+    "frame": 76,
+    "pose": "run7",
+    "x": 13.375208321922642,
+    "z": 1.0083401447495945,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 13.607500000000002,
+    "contact_compensation_x": 0.0,
+    "camera_x": 13.107500000000002
+  },
+  {
+    "frame": 77,
+    "pose": "run0",
+    "x": 13.691311544425316,
+    "z": 0.987951232272623,
+    "phase": "contact",
+    "contact_world": [
+      14.1,
+      0.05
+    ],
+    "neck_world_x": 13.82,
+    "contact_compensation_x": 0.10681535269709563,
+    "camera_x": 13.32
+  },
+  {
+    "frame": 78,
+    "pose": "run0",
+    "x": 13.903811544425315,
+    "z": 0.987951232272623,
+    "phase": "contact",
+    "contact_world": [
+      14.1,
+      0.05
+    ],
+    "neck_world_x": 14.032499999999999,
+    "contact_compensation_x": -0.10568464730290295,
+    "camera_x": 13.532499999999999
+  },
+  {
+    "frame": 79,
+    "pose": "run1",
+    "x": 14.10453007800032,
+    "z": 1.023688008697734,
+    "phase": "down",
+    "contact_world": [
+      14.1,
+      0.05
+    ],
+    "neck_world_x": 14.245000000000001,
+    "contact_compensation_x": 0.03145228215767659,
+    "camera_x": 13.745000000000001
+  },
+  {
+    "frame": 80,
+    "pose": "run1",
+    "x": 14.317030078000323,
+    "z": 1.023688008697734,
+    "phase": "down",
+    "contact_world": [
+      14.1,
+      0.05
+    ],
+    "neck_world_x": 14.457500000000005,
+    "contact_compensation_x": -0.18104771784232732,
+    "camera_x": 13.957500000000005
+  },
+  {
+    "frame": 81,
+    "pose": "run2",
+    "x": 14.459784853352215,
+    "z": 1.02732598317415,
+    "phase": "push",
+    "contact_world": [
+      14.1,
+      0.05
+    ],
+    "neck_world_x": 14.670000000000002,
+    "contact_compensation_x": 0.10869986168741086,
+    "camera_x": 14.170000000000002
+  },
+  {
+    "frame": 82,
+    "pose": "run2",
+    "x": 14.672284853352213,
+    "z": 1.02732598317415,
+    "phase": "push",
+    "contact_world": [
+      14.1,
+      0.05
+    ],
+    "neck_world_x": 14.8825,
+    "contact_compensation_x": -0.10380013831258772,
+    "camera_x": 14.3825
+  },
+  {
+    "frame": 83,
+    "pose": "run3",
+    "x": 14.910243880758228,
+    "z": 1.0314512666593398,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 15.095000000000002,
+    "contact_compensation_x": 0.0,
+    "camera_x": 14.595000000000002
+  },
+  {
+    "frame": 84,
+    "pose": "run3",
+    "x": 15.122743880758224,
+    "z": 1.0079670334019346,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 15.307499999999997,
+    "contact_compensation_x": 0.0,
+    "camera_x": 14.807499999999997
+  },
+  {
+    "frame": 85,
+    "pose": "run4",
+    "x": 15.382907326874983,
+    "z": 0.9674515501445297,
+    "phase": "contact",
+    "contact_world": [
+      15.799999999999999,
+      0.05
+    ],
+    "neck_world_x": 15.520000000000001,
+    "contact_compensation_x": 0.07273858921161569,
+    "camera_x": 15.020000000000001
+  },
+  {
+    "frame": 86,
+    "pose": "run4",
+    "x": 15.595407326874984,
+    "z": 0.9674515501445297,
+    "phase": "contact",
+    "contact_world": [
+      15.799999999999999,
+      0.05
+    ],
+    "neck_world_x": 15.732500000000002,
+    "contact_compensation_x": -0.13976141078838467,
+    "camera_x": 15.232500000000002
+  },
+  {
+    "frame": 87,
+    "pose": "run5",
+    "x": 15.804502540940883,
+    "z": 1.0088166894489015,
+    "phase": "down",
+    "contact_world": [
+      15.799999999999999,
+      0.05
+    ],
+    "neck_world_x": 15.945000000000006,
+    "contact_compensation_x": -0.03950207468880329,
+    "camera_x": 15.445000000000006
+  },
+  {
+    "frame": 88,
+    "pose": "run5",
+    "x": 16.017002540940876,
+    "z": 1.0088166894489015,
+    "phase": "down",
+    "contact_world": [
+      15.799999999999999,
+      0.05
+    ],
+    "neck_world_x": 16.1575,
+    "contact_compensation_x": -0.25200207468879654,
+    "camera_x": 15.657499999999999
+  },
+  {
+    "frame": 89,
+    "pose": "run6",
+    "x": 16.1920739532698,
+    "z": 0.9673193821805091,
+    "phase": "push",
+    "contact_world": [
+      15.799999999999999,
+      0.05
+    ],
+    "neck_world_x": 16.37,
+    "contact_compensation_x": 0.10894525498594376,
+    "camera_x": 15.870000000000003
+  },
+  {
+    "frame": 90,
+    "pose": "run6",
+    "x": 16.404573953269804,
+    "z": 0.9673193821805091,
+    "phase": "push",
+    "contact_world": [
+      15.799999999999999,
+      0.05
+    ],
+    "neck_world_x": 16.582500000000003,
+    "contact_compensation_x": -0.10355474501405837,
+    "camera_x": 16.082500000000003
+  },
+  {
+    "frame": 91,
+    "pose": "run7",
+    "x": 16.562708321922642,
+    "z": 1.0116978072265659,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 16.795,
+    "contact_compensation_x": 0.0,
+    "camera_x": 16.295
+  },
+  {
+    "frame": 92,
+    "pose": "run7",
+    "x": 16.77520832192264,
+    "z": 1.0083401447495945,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 17.0075,
+    "contact_compensation_x": 0.0,
+    "camera_x": 16.5075
+  },
+  {
+    "frame": 93,
+    "pose": "run0",
+    "x": 17.091311544425317,
+    "z": 0.987951232272623,
+    "phase": "contact",
+    "contact_world": [
+      17.5,
+      0.05
+    ],
+    "neck_world_x": 17.22,
+    "contact_compensation_x": 0.10681535269709386,
+    "camera_x": 16.72
+  },
+  {
+    "frame": 94,
+    "pose": "run0",
+    "x": 17.30381154442532,
+    "z": 0.987951232272623,
+    "phase": "contact",
+    "contact_world": [
+      17.5,
+      0.05
+    ],
+    "neck_world_x": 17.4325,
+    "contact_compensation_x": -0.10568464730290827,
+    "camera_x": 16.9325
+  },
+  {
+    "frame": 95,
+    "pose": "run1",
+    "x": 17.504530078000315,
+    "z": 1.023688008697734,
+    "phase": "down",
+    "contact_world": [
+      17.5,
+      0.05
+    ],
+    "neck_world_x": 17.644999999999996,
+    "contact_compensation_x": 0.031452282157680145,
+    "camera_x": 17.144999999999996
+  },
+  {
+    "frame": 96,
+    "pose": "run1",
+    "x": 17.71703007800032,
+    "z": 1.023688008697734,
+    "phase": "down",
+    "contact_world": [
+      17.5,
+      0.05
+    ],
+    "neck_world_x": 17.8575,
+    "contact_compensation_x": -0.18104771784232554,
+    "camera_x": 17.3575
+  },
+  {
+    "frame": 97,
+    "pose": "run2",
+    "x": 17.859784853352213,
+    "z": 1.02732598317415,
+    "phase": "push",
+    "contact_world": [
+      17.5,
+      0.05
+    ],
+    "neck_world_x": 18.07,
+    "contact_compensation_x": 0.10869986168741264,
+    "camera_x": 17.57
+  },
+  {
+    "frame": 98,
+    "pose": "run2",
+    "x": 18.072284853352212,
+    "z": 1.02732598317415,
+    "phase": "push",
+    "contact_world": [
+      17.5,
+      0.05
+    ],
+    "neck_world_x": 18.2825,
+    "contact_compensation_x": -0.10380013831258594,
+    "camera_x": 17.7825
+  },
+  {
+    "frame": 99,
+    "pose": "run3",
+    "x": 18.31024388075823,
+    "z": 1.0314512666593398,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 18.495,
+    "contact_compensation_x": 0.0,
+    "camera_x": 17.995
+  },
+  {
+    "frame": 100,
+    "pose": "run3",
+    "x": 18.522743880758227,
+    "z": 1.0079670334019346,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 18.707500000000003,
+    "contact_compensation_x": 0.0,
+    "camera_x": 18.207500000000003
+  },
+  {
+    "frame": 101,
+    "pose": "run4",
+    "x": 18.782907326874984,
+    "z": 0.9674515501445297,
+    "phase": "contact",
+    "contact_world": [
+      19.2,
+      0.05
+    ],
+    "neck_world_x": 18.92,
+    "contact_compensation_x": 0.07273858921161391,
+    "camera_x": 18.42
+  },
+  {
+    "frame": 102,
+    "pose": "run4",
+    "x": 18.99540732687498,
+    "z": 0.9674515501445297,
+    "phase": "contact",
+    "contact_world": [
+      19.2,
+      0.05
+    ],
+    "neck_world_x": 19.132499999999997,
+    "contact_compensation_x": -0.1397614107883811,
+    "camera_x": 18.632499999999997
+  },
+  {
+    "frame": 103,
+    "pose": "run5",
+    "x": 19.204502540940876,
+    "z": 1.0088166894489015,
+    "phase": "down",
+    "contact_world": [
+      19.2,
+      0.05
+    ],
+    "neck_world_x": 19.345,
+    "contact_compensation_x": -0.03950207468879441,
+    "camera_x": 18.845
+  },
+  {
+    "frame": 104,
+    "pose": "run5",
+    "x": 19.41700254094087,
+    "z": 1.0088166894489015,
+    "phase": "down",
+    "contact_world": [
+      19.2,
+      0.05
+    ],
+    "neck_world_x": 19.557499999999994,
+    "contact_compensation_x": -0.25200207468878943,
+    "camera_x": 19.057499999999994
+  },
+  {
+    "frame": 105,
+    "pose": "run6",
+    "x": 19.592073953269797,
+    "z": 0.9673193821805091,
+    "phase": "push",
+    "contact_world": [
+      19.2,
+      0.05
+    ],
+    "neck_world_x": 19.769999999999996,
+    "contact_compensation_x": 0.10894525498594732,
+    "camera_x": 19.269999999999996
+  },
+  {
+    "frame": 106,
+    "pose": "run6",
+    "x": 19.8045739532698,
+    "z": 0.9673193821805091,
+    "phase": "push",
+    "contact_world": [
+      19.2,
+      0.05
+    ],
+    "neck_world_x": 19.982499999999998,
+    "contact_compensation_x": -0.10355474501405482,
+    "camera_x": 19.482499999999998
+  },
+  {
+    "frame": 107,
+    "pose": "run7",
+    "x": 19.962708321922637,
+    "z": 1.0116978072265659,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 20.194999999999997,
+    "contact_compensation_x": 0.0,
+    "camera_x": 19.694999999999997
+  },
+  {
+    "frame": 108,
+    "pose": "run7",
+    "x": 20.175208321922643,
+    "z": 1.0083401447495945,
+    "phase": "run_flight",
+    "contact_world": null,
+    "neck_world_x": 20.407500000000002,
+    "contact_compensation_x": 0.0,
+    "camera_x": 19.907500000000002
+  },
+  {
+    "frame": 109,
+    "pose": "run0",
+    "x": 20.49131154442532,
+    "z": 0.987951232272623,
+    "phase": "gather_contact",
+    "contact_world": [
+      20.9,
+      0.05
+    ],
+    "neck_world_x": 20.62,
+    "contact_compensation_x": 0.1068153526970903,
+    "camera_x": 20.12
+  },
+  {
+    "frame": 110,
+    "pose": "run0",
+    "x": 20.678133558783426,
+    "z": 0.987951232272623,
+    "phase": "gather_contact",
+    "contact_world": [
+      20.9,
+      0.05
+    ],
+    "neck_world_x": 20.806822014358108,
+    "contact_compensation_x": -0.08000666166101666,
+    "camera_x": 20.306822014358108
+  },
+  {
+    "frame": 111,
+    "pose": "run0",
+    "x": 20.81913880793883,
+    "z": 0.987951232272623,
+    "phase": "gather_contact",
+    "contact_world": [
+      20.9,
+      0.05
+    ],
+    "neck_world_x": 20.947827263513513,
+    "contact_compensation_x": -0.22101191081642213,
+    "camera_x": 20.447827263513513
+  },
+  {
+    "frame": 112,
+    "pose": "run0",
+    "x": 20.922636101013154,
+    "z": 0.987951232272623,
+    "phase": "gather_contact",
+    "contact_world": [
+      20.9,
+      0.05
+    ],
+    "neck_world_x": 21.051324556587836,
+    "contact_compensation_x": -0.3245092038907451,
+    "camera_x": 20.551324556587836
+  },
+  {
+    "frame": 113,
+    "pose": "jump7",
+    "x": 21.05236594842245,
+    "z": 0.9223163267845024,
+    "phase": "gather",
+    "contact_world": [
+      20.9,
+      0.05
+    ],
+    "neck_world_x": 21.125622702702703,
+    "contact_compensation_x": -0.01067273931485957,
+    "camera_x": 20.625622702702703
+  },
+  {
+    "frame": 114,
+    "pose": "jump7",
+    "x": 21.105773756699477,
+    "z": 0.9223163267845024,
+    "phase": "gather",
+    "contact_world": [
+      20.9,
+      0.05
+    ],
+    "neck_world_x": 21.17903051097973,
+    "contact_compensation_x": -0.0640805475918853,
+    "camera_x": 20.67903051097973
+  },
+  {
+    "frame": 115,
+    "pose": "jump7",
+    "x": 21.14660003626029,
+    "z": 0.9223163267845024,
+    "phase": "gather",
+    "contact_world": [
+      20.9,
+      0.05
+    ],
+    "neck_world_x": 21.21985679054054,
+    "contact_compensation_x": -0.10490682715269628,
+    "camera_x": 20.71985679054054
+  },
+  {
+    "frame": 116,
+    "pose": "jump7",
+    "x": 21.183153596226507,
+    "z": 0.9223163267845024,
+    "phase": "gather",
+    "contact_world": [
+      20.9,
+      0.05
+    ],
+    "neck_world_x": 21.25641035050676,
+    "contact_compensation_x": -0.14146038711891507,
+    "camera_x": 20.75641035050676
+  },
+  {
+    "frame": 117,
+    "pose": "jump1",
+    "x": 21.05897214338277,
+    "z": 0.8005303448680546,
+    "phase": "load",
+    "contact_world": [
+      20.9,
+      0.05
+    ],
+    "neck_world_x": 21.297,
+    "contact_compensation_x": -0.00017131001778736277,
+    "camera_x": 20.797
+  },
+  {
+    "frame": 118,
+    "pose": "jump1",
+    "x": 21.088663613653043,
+    "z": 0.8005303448680546,
+    "phase": "load",
+    "contact_world": [
+      20.9,
+      0.05
+    ],
+    "neck_world_x": 21.326691470270273,
+    "contact_compensation_x": -0.029862780288059554,
+    "camera_x": 20.826691470270273
+  },
+  {
+    "frame": 119,
+    "pose": "jump1",
+    "x": 21.099793797436824,
+    "z": 0.8005303448680546,
+    "phase": "load",
+    "contact_world": [
+      20.9,
+      0.05
+    ],
+    "neck_world_x": 21.337821654054054,
+    "contact_compensation_x": -0.04099296407184028,
+    "camera_x": 20.837821654054054
+  },
+  {
+    "frame": 120,
+    "pose": "jump1",
+    "x": 21.111578246085475,
+    "z": 0.8005303448680546,
+    "phase": "load",
+    "contact_world": [
+      20.9,
+      0.05
+    ],
+    "neck_world_x": 21.349606102702705,
+    "contact_compensation_x": -0.05277741272049141,
+    "camera_x": 20.849606102702705
+  },
+  {
+    "frame": 121,
+    "pose": "jump2",
+    "x": 21.283093156582023,
+    "z": 1.1051547962549828,
+    "phase": "extension",
+    "contact_world": [
+      20.9,
+      0.05
+    ],
+    "neck_world_x": 21.381260367567574,
+    "contact_compensation_x": 0.07039938346976982,
+    "camera_x": 20.881260367567574
+  },
+  {
+    "frame": 122,
+    "pose": "jump2",
+    "x": 21.35383278901445,
+    "z": 1.1051547962549828,
+    "phase": "extension",
+    "contact_world": [
+      20.9,
+      0.05
+    ],
+    "neck_world_x": 21.452,
+    "contact_compensation_x": -0.0003402489626580518,
+    "camera_x": 20.952
+  },
+  {
+    "frame": 123,
+    "pose": "jump3",
+    "x": 21.359574047830993,
+    "z": 1.2178780901233726,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 21.5486875,
+    "contact_compensation_x": 0.0,
+    "camera_x": 21.0486875
+  },
+  {
+    "frame": 124,
+    "pose": "jump3",
+    "x": 21.456261547830994,
+    "z": 1.3135701339917623,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 21.645375,
+    "contact_compensation_x": 0.0,
+    "camera_x": 21.145375
+  },
+  {
+    "frame": 125,
+    "pose": "jump3",
+    "x": 21.552949047830996,
+    "z": 1.3922309278601523,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 21.742062500000003,
+    "contact_compensation_x": 0.0,
+    "camera_x": 21.242062500000003
+  },
+  {
+    "frame": 126,
+    "pose": "jump3",
+    "x": 21.649636547830994,
+    "z": 1.4538604717285422,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 21.83875,
+    "contact_compensation_x": 0.0,
+    "camera_x": 21.33875
+  },
+  {
+    "frame": 127,
+    "pose": "jump4",
+    "x": 21.828113240332762,
+    "z": 1.4984587655969321,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 21.9354375,
+    "contact_compensation_x": 0.0,
+    "camera_x": 21.4354375
+  },
+  {
+    "frame": 128,
+    "pose": "jump4",
+    "x": 21.924800740332763,
+    "z": 1.5260258094653218,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 22.032125,
+    "contact_compensation_x": 0.0,
+    "camera_x": 21.532125
+  },
+  {
+    "frame": 129,
+    "pose": "jump4",
+    "x": 22.02148824033276,
+    "z": 1.5365616033337115,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 22.1288125,
+    "contact_compensation_x": 0.0,
+    "camera_x": 21.6288125
+  },
+  {
+    "frame": 130,
+    "pose": "jump4",
+    "x": 22.118175740332763,
+    "z": 1.5300661472021015,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 22.2255,
+    "contact_compensation_x": 0.0,
+    "camera_x": 21.7255
+  },
+  {
+    "frame": 131,
+    "pose": "jump4",
+    "x": 22.21486324033276,
+    "z": 1.5065394410704913,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 22.3221875,
+    "contact_compensation_x": 0.0,
+    "camera_x": 21.8221875
+  },
+  {
+    "frame": 132,
+    "pose": "jump4",
+    "x": 22.311550740332763,
+    "z": 1.4659814849388815,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 22.418875,
+    "contact_compensation_x": 0.0,
+    "camera_x": 21.918875
+  },
+  {
+    "frame": 133,
+    "pose": "jump5",
+    "x": 22.46965803672796,
+    "z": 1.408392278807271,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 22.515562499999998,
+    "contact_compensation_x": 0.0,
+    "camera_x": 22.015562499999998
+  },
+  {
+    "frame": 134,
+    "pose": "jump5",
+    "x": 22.56634553672796,
+    "z": 1.333771822675661,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 22.61225,
+    "contact_compensation_x": 0.0,
+    "camera_x": 22.11225
+  },
+  {
+    "frame": 135,
+    "pose": "jump5",
+    "x": 22.66303303672796,
+    "z": 1.2421201165440505,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 22.708937499999998,
+    "contact_compensation_x": 0.0,
+    "camera_x": 22.208937499999998
+  },
+  {
+    "frame": 136,
+    "pose": "jump5",
+    "x": 22.75972053672796,
+    "z": 1.1334371604124402,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 22.805625,
+    "contact_compensation_x": 0.0,
+    "camera_x": 22.305625
+  },
+  {
+    "frame": 137,
+    "pose": "jump5",
+    "x": 22.856408036727963,
+    "z": 1.0077229542808301,
+    "phase": "jump_flight",
+    "contact_world": null,
+    "neck_world_x": 22.9023125,
+    "contact_compensation_x": 0.0,
+    "camera_x": 22.4023125
+  },
+  {
+    "frame": 138,
+    "pose": "jump5",
+    "x": 22.95309553672796,
+    "z": 0.8649774981492204,
+    "phase": "landing_contact",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 22.999,
+    "contact_compensation_x": 0.00039700332383318937,
+    "camera_x": 22.499
+  },
+  {
+    "frame": 139,
+    "pose": "jump5",
+    "x": 23.036898025191395,
+    "z": 0.8649774981492202,
+    "phase": "landing_contact",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.082802488463432,
+    "contact_compensation_x": -0.08340548513960044,
+    "camera_x": 22.582802488463432
+  },
+  {
+    "frame": 140,
+    "pose": "jump5",
+    "x": 23.097699920041453,
+    "z": 0.8649774981492202,
+    "phase": "landing_contact",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.14360438331349,
+    "contact_compensation_x": -0.14420737998965905,
+    "camera_x": 22.64360438331349
+  },
+  {
+    "frame": 141,
+    "pose": "jump6",
+    "x": 23.12815274043533,
+    "z": 0.749912891500326,
+    "phase": "absorb",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.185559828739798,
+    "contact_compensation_x": 0.05403634470851415,
+    "camera_x": 22.685559828739798
+  },
+  {
+    "frame": 142,
+    "pose": "jump6",
+    "x": 23.155415880627505,
+    "z": 0.749912891500326,
+    "phase": "absorb",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.212822968931974,
+    "contact_compensation_x": 0.026773204516338467,
+    "camera_x": 22.712822968931974
+  },
+  {
+    "frame": 143,
+    "pose": "jump6",
+    "x": 23.17214085977518,
+    "z": 0.749912891500326,
+    "phase": "absorb",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.22954794807965,
+    "contact_compensation_x": 0.010048225368663566,
+    "camera_x": 22.72954794807965
+  },
+  {
+    "frame": 144,
+    "pose": "jump6",
+    "x": 23.18248182206798,
+    "z": 0.749912891500326,
+    "phase": "absorb",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.23988891037245,
+    "contact_compensation_x": -0.00029273692413767094,
+    "camera_x": 22.73988891037245
+  },
+  {
+    "frame": 145,
+    "pose": "jump7",
+    "x": 23.17474324571975,
+    "z": 0.9223163267845024,
+    "phase": "recover",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.248,
+    "contact_compensation_x": -4.3074782098528885e-05,
+    "camera_x": 22.748
+  },
+  {
+    "frame": 146,
+    "pose": "jump7",
+    "x": 23.182792660301235,
+    "z": 0.9223163267845024,
+    "phase": "recover",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.256049414581486,
+    "contact_compensation_x": -0.008092489363583866,
+    "camera_x": 22.756049414581486
+  },
+  {
+    "frame": 147,
+    "pose": "jump7",
+    "x": 23.19010922224765,
+    "z": 0.9223163267845024,
+    "phase": "recover",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.2633659765279,
+    "contact_compensation_x": -0.015409051309998034,
+    "camera_x": 22.7633659765279
+  },
+  {
+    "frame": 148,
+    "pose": "jump7",
+    "x": 23.196588012936314,
+    "z": 0.9223163267845024,
+    "phase": "recover",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.269844767216565,
+    "contact_compensation_x": -0.02188784199866234,
+    "camera_x": 22.769844767216565
+  },
+  {
+    "frame": 149,
+    "pose": "jump7",
+    "x": 23.202124113744553,
+    "z": 0.9223163267845024,
+    "phase": "recover",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.275380868024804,
+    "contact_compensation_x": -0.027423942806901636,
+    "camera_x": 22.775380868024804
+  },
+  {
+    "frame": 150,
+    "pose": "jump7",
+    "x": 23.20661260604969,
+    "z": 0.9223163267845024,
+    "phase": "recover",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.27986936032994,
+    "contact_compensation_x": -0.03191243511203723,
+    "camera_x": 22.77986936032994
+  },
+  {
+    "frame": 151,
+    "pose": "jump7",
+    "x": 23.20994857122905,
+    "z": 0.9223163267845024,
+    "phase": "recover",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.2832053255093,
+    "contact_compensation_x": -0.03524840029139753,
+    "camera_x": 22.7832053255093
+  },
+  {
+    "frame": 152,
+    "pose": "jump7",
+    "x": 23.212027090659962,
+    "z": 0.9223163267845024,
+    "phase": "recover",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.285283844940214,
+    "contact_compensation_x": -0.03732691972231095,
+    "camera_x": 22.785283844940214
+  },
+  {
+    "frame": 153,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 154,
+    "pose": "jump0",
+    "x": 23.24685271267911,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286000000000005,
+    "contact_compensation_x": 0.00010013421783128251,
+    "camera_x": 22.786000000000005
+  },
+  {
+    "frame": 155,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 156,
+    "pose": "jump0",
+    "x": 23.24685271267911,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286000000000005,
+    "contact_compensation_x": 0.00010013421783128251,
+    "camera_x": 22.786000000000005
+  },
+  {
+    "frame": 157,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 158,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 159,
+    "pose": "jump0",
+    "x": 23.24685271267911,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286000000000005,
+    "contact_compensation_x": 0.00010013421783128251,
+    "camera_x": 22.786000000000005
+  },
+  {
+    "frame": 160,
+    "pose": "jump0",
+    "x": 23.24685271267911,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286000000000005,
+    "contact_compensation_x": 0.00010013421783128251,
+    "camera_x": 22.786000000000005
+  },
+  {
+    "frame": 161,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 162,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 163,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 164,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 165,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 166,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 167,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 168,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 169,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 170,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 171,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 172,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 173,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 174,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 175,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 176,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 177,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 178,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 179,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 180,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 181,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 182,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 183,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 184,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 185,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 186,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 187,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 188,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 189,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 190,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 191,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  },
+  {
+    "frame": 192,
+    "pose": "jump0",
+    "x": 23.246852712679107,
+    "z": 0.9826681381429262,
+    "phase": "settled",
+    "contact_world": [
+      23.033006961830058,
+      0.05
+    ],
+    "neck_world_x": 23.286,
+    "contact_compensation_x": 0.00010013421783483523,
+    "camera_x": 22.786
+  }
+]

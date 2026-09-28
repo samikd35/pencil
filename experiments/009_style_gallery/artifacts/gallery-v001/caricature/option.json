@@ -1,0 +1,17 @@
+{
+  "id": "caricature",
+  "name": "Exaggerated caricature",
+  "category": "Character",
+  "description": "A large angular head, bold hair and distinctive facial proportions.",
+  "limitation": "The sample is fictional; real likeness needs character-specific design review.",
+  "recipe": "recipes/caricature.md",
+  "sample": "samples/caricature.png",
+  "settings": {
+    "design": "caricature",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "status": "Not yet validated",
+  "evidence": [],
+  "sources": []
+}

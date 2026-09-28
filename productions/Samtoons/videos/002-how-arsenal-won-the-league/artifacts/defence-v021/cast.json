@@ -1,0 +1,3762 @@
+{
+  "Saka": {
+    "root": "B21 / Saka / character.002",
+    "skin": "B21 / Saka / complete neutral drawing.002",
+    "armature": "B21 / Saka / fitted bones.002",
+    "controls": {
+      "hip": "B21 / Saka / CTRL hip.002",
+      "neck": "B21 / Saka / CTRL neck.002",
+      "head": "B21 / Saka / CTRL head.002",
+      "Lshoulder": "B21 / Saka / CTRL Lshoulder.002",
+      "Lelbow": "B21 / Saka / CTRL Lelbow.002",
+      "Lwrist": "B21 / Saka / CTRL Lwrist.002",
+      "Lfinger": "B21 / Saka / CTRL Lfinger.002",
+      "Lhip": "B21 / Saka / CTRL Lhip.002",
+      "Lknee": "B21 / Saka / CTRL Lknee.002",
+      "Lankle": "B21 / Saka / CTRL Lankle.002",
+      "Ltoe": "B21 / Saka / CTRL Ltoe.002",
+      "Rshoulder": "B21 / Saka / CTRL Rshoulder.002",
+      "Relbow": "B21 / Saka / CTRL Relbow.002",
+      "Rwrist": "B21 / Saka / CTRL Rwrist.002",
+      "Rfinger": "B21 / Saka / CTRL Rfinger.002",
+      "Rhip": "B21 / Saka / CTRL Rhip.002",
+      "Rknee": "B21 / Saka / CTRL Rknee.002",
+      "Rankle": "B21 / Saka / CTRL Rankle.002",
+      "Rtoe": "B21 / Saka / CTRL Rtoe.002"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.7803871035575867,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.400516152381897,
+        0.0
+      ],
+      "head": [
+        0.032516129314899445,
+        1.6211613416671753,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.22993548214435577,
+        1.3145806789398193,
+        0.0
+      ],
+      "Lelbow": [
+        -0.2926451563835144,
+        1.0776773691177368,
+        0.0
+      ],
+      "Lwrist": [
+        -0.408774197101593,
+        0.8454193472862244,
+        0.0
+      ],
+      "Lfinger": [
+        -0.4389677345752716,
+        0.7316129207611084,
+        0.0
+      ],
+      "Lhip": [
+        -0.1114838719367981,
+        0.7734193801879883,
+        0.0
+      ],
+      "Lknee": [
+        -0.14864516258239746,
+        0.522580623626709,
+        0.0
+      ],
+      "Lankle": [
+        -0.2113548368215561,
+        0.1463225781917572,
+        0.0
+      ],
+      "Ltoe": [
+        -0.30193549394607544,
+        0.05341935530304909,
+        0.0
+      ],
+      "Rshoulder": [
+        0.23690322041511536,
+        1.3145806789398193,
+        0.0
+      ],
+      "Relbow": [
+        0.31354838609695435,
+        1.075354814529419,
+        0.0
+      ],
+      "Rwrist": [
+        0.4203870892524719,
+        0.8430967926979065,
+        0.0
+      ],
+      "Rfinger": [
+        0.4436129033565521,
+        0.7269677519798279,
+        0.0
+      ],
+      "Rhip": [
+        0.12077419459819794,
+        0.7734193801879883,
+        0.0
+      ],
+      "Rknee": [
+        0.17419354617595673,
+        0.522580623626709,
+        0.0
+      ],
+      "Rankle": [
+        0.2345806509256363,
+        0.1463225781917572,
+        0.0
+      ],
+      "Rtoe": [
+        0.34838709235191345,
+        0.05109677463769913,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        55,
+        12,
+        493,
+        798
+      ],
+      "center": 275,
+      "top": 20,
+      "floor": 795,
+      "hip": 459,
+      "neck": [
+        275,
+        192
+      ],
+      "head": [
+        289,
+        97
+      ],
+      "L": [
+        [
+          176,
+          229
+        ],
+        [
+          149,
+          331
+        ],
+        [
+          99,
+          431
+        ],
+        [
+          86,
+          480
+        ],
+        [
+          227,
+          462
+        ],
+        [
+          211,
+          570
+        ],
+        [
+          184,
+          732
+        ],
+        [
+          145,
+          772
+        ]
+      ],
+      "R": [
+        [
+          377,
+          229
+        ],
+        [
+          410,
+          332
+        ],
+        [
+          456,
+          432
+        ],
+        [
+          466,
+          482
+        ],
+        [
+          327,
+          462
+        ],
+        [
+          350,
+          570
+        ],
+        [
+          376,
+          732
+        ],
+        [
+          425,
+          773
+        ]
+      ],
+      "edge": [
+        [
+          193,
+          47
+        ],
+        [
+          240,
+          79
+        ],
+        [
+          300,
+          73
+        ],
+        [
+          350,
+          70
+        ],
+        [
+          410,
+          78
+        ],
+        [
+          427,
+          81
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "Gabriel": {
+    "root": "B21 / Gabriel / character.001",
+    "skin": "B21 / Gabriel / complete neutral drawing.001",
+    "armature": "B21 / Gabriel / fitted bones.001",
+    "controls": {
+      "hip": "B21 / Gabriel / CTRL hip.001",
+      "neck": "B21 / Gabriel / CTRL neck.001",
+      "head": "B21 / Gabriel / CTRL head.001",
+      "Lshoulder": "B21 / Gabriel / CTRL Lshoulder.001",
+      "Lelbow": "B21 / Gabriel / CTRL Lelbow.001",
+      "Lwrist": "B21 / Gabriel / CTRL Lwrist.001",
+      "Lfinger": "B21 / Gabriel / CTRL Lfinger.001",
+      "Lhip": "B21 / Gabriel / CTRL Lhip.001",
+      "Lknee": "B21 / Gabriel / CTRL Lknee.001",
+      "Lankle": "B21 / Gabriel / CTRL Lankle.001",
+      "Ltoe": "B21 / Gabriel / CTRL Ltoe.001",
+      "Rshoulder": "B21 / Gabriel / CTRL Rshoulder.001",
+      "Relbow": "B21 / Gabriel / CTRL Relbow.001",
+      "Rwrist": "B21 / Gabriel / CTRL Rwrist.001",
+      "Rfinger": "B21 / Gabriel / CTRL Rfinger.001",
+      "Rhip": "B21 / Gabriel / CTRL Rhip.001",
+      "Rknee": "B21 / Gabriel / CTRL Rknee.001",
+      "Rankle": "B21 / Gabriel / CTRL Rankle.001",
+      "Rtoe": "B21 / Gabriel / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.7773779034614563,
+        0.0
+      ],
+      "neck": [
+        -0.004627249203622341,
+        1.446015477180481,
+        0.0
+      ],
+      "head": [
+        0.03239074721932411,
+        1.6311054229736328,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.23367609083652496,
+        1.3164523839950562,
+        0.0
+      ],
+      "Lelbow": [
+        -0.3424164652824402,
+        1.0665810108184814,
+        0.0
+      ],
+      "Lwrist": [
+        -0.4627249240875244,
+        0.8375321626663208,
+        0.0
+      ],
+      "Lfinger": [
+        -0.483547568321228,
+        0.7264781594276428,
+        0.0
+      ],
+      "Lhip": [
+        -0.12030848115682602,
+        0.7727506160736084,
+        0.0
+      ],
+      "Lknee": [
+        -0.1712082326412201,
+        0.5205655694007874,
+        0.0
+      ],
+      "Lankle": [
+        -0.2475578337907791,
+        0.14575836062431335,
+        0.0
+      ],
+      "Ltoe": [
+        -0.3470436930656433,
+        0.04858611896634102,
+        0.0
+      ],
+      "Rshoulder": [
+        0.23367609083652496,
+        1.3164523839950562,
+        0.0
+      ],
+      "Relbow": [
+        0.34473007917404175,
+        1.0665810108184814,
+        0.0
+      ],
+      "Rwrist": [
+        0.4534704387187958,
+        0.8375321626663208,
+        0.0
+      ],
+      "Rfinger": [
+        0.4812339246273041,
+        0.7264781594276428,
+        0.0
+      ],
+      "Rhip": [
+        0.12030848115682602,
+        0.7727506160736084,
+        0.0
+      ],
+      "Rknee": [
+        0.1712082326412201,
+        0.5205655694007874,
+        0.0
+      ],
+      "Rankle": [
+        0.2313624620437622,
+        0.14575836062431335,
+        0.0
+      ],
+      "Rtoe": [
+        0.3516709506511688,
+        0.04858611896634102,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        521,
+        8,
+        986,
+        798
+      ],
+      "center": 755,
+      "top": 17,
+      "floor": 795,
+      "hip": 459,
+      "neck": [
+        753,
+        170
+      ],
+      "head": [
+        769,
+        90
+      ],
+      "L": [
+        [
+          654,
+          226
+        ],
+        [
+          607,
+          334
+        ],
+        [
+          555,
+          433
+        ],
+        [
+          546,
+          481
+        ],
+        [
+          703,
+          461
+        ],
+        [
+          681,
+          570
+        ],
+        [
+          648,
+          732
+        ],
+        [
+          605,
+          774
+        ]
+      ],
+      "R": [
+        [
+          856,
+          226
+        ],
+        [
+          904,
+          334
+        ],
+        [
+          951,
+          433
+        ],
+        [
+          963,
+          481
+        ],
+        [
+          807,
+          461
+        ],
+        [
+          829,
+          570
+        ],
+        [
+          855,
+          732
+        ],
+        [
+          907,
+          774
+        ]
+      ],
+      "edge": [
+        [
+          173,
+          49
+        ],
+        [
+          226,
+          94
+        ],
+        [
+          300,
+          86
+        ],
+        [
+          350,
+          79
+        ],
+        [
+          400,
+          90
+        ],
+        [
+          425,
+          91
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "opposition defender 0": {
+    "root": "B21 / opposition defender 0 / character.001",
+    "skin": "B21 / opposition defender 0 / complete neutral drawing.001",
+    "armature": "B21 / opposition defender 0 / fitted bones.001",
+    "controls": {
+      "hip": "B21 / opposition defender 0 / CTRL hip.001",
+      "neck": "B21 / opposition defender 0 / CTRL neck.001",
+      "head": "B21 / opposition defender 0 / CTRL head.001",
+      "Lshoulder": "B21 / opposition defender 0 / CTRL Lshoulder.001",
+      "Lelbow": "B21 / opposition defender 0 / CTRL Lelbow.001",
+      "Lwrist": "B21 / opposition defender 0 / CTRL Lwrist.001",
+      "Lfinger": "B21 / opposition defender 0 / CTRL Lfinger.001",
+      "Lhip": "B21 / opposition defender 0 / CTRL Lhip.001",
+      "Lknee": "B21 / opposition defender 0 / CTRL Lknee.001",
+      "Lankle": "B21 / opposition defender 0 / CTRL Lankle.001",
+      "Ltoe": "B21 / opposition defender 0 / CTRL Ltoe.001",
+      "Rshoulder": "B21 / opposition defender 0 / CTRL Rshoulder.001",
+      "Relbow": "B21 / opposition defender 0 / CTRL Relbow.001",
+      "Rwrist": "B21 / opposition defender 0 / CTRL Rwrist.001",
+      "Rfinger": "B21 / opposition defender 0 / CTRL Rfinger.001",
+      "Rhip": "B21 / opposition defender 0 / CTRL Rhip.001",
+      "Rknee": "B21 / opposition defender 0 / CTRL Rknee.001",
+      "Rankle": "B21 / opposition defender 0 / CTRL Rankle.001",
+      "Rtoe": "B21 / opposition defender 0 / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.7676113247871399,
+        0.0
+      ],
+      "neck": [
+        0.012145749293267727,
+        1.43319833278656,
+        0.0
+      ],
+      "head": [
+        0.05101214721798897,
+        1.6251012086868286,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.25506073236465454,
+        1.3360323905944824,
+        0.0
+      ],
+      "Lelbow": [
+        -0.36437246203422546,
+        1.093117356300354,
+        0.0
+      ],
+      "Lwrist": [
+        -0.44453442096710205,
+        0.8477732539176941,
+        0.0
+      ],
+      "Lfinger": [
+        -0.449392706155777,
+        0.7044534683227539,
+        0.0
+      ],
+      "Lhip": [
+        -0.12145748734474182,
+        0.75789475440979,
+        0.0
+      ],
+      "Lknee": [
+        -0.1773279309272766,
+        0.5101214647293091,
+        0.0
+      ],
+      "Lankle": [
+        -0.2502024173736572,
+        0.14574898779392242,
+        0.0
+      ],
+      "Ltoe": [
+        -0.3692307770252228,
+        0.04129554703831673,
+        0.0
+      ],
+      "Rshoulder": [
+        0.2526315748691559,
+        1.3384615182876587,
+        0.0
+      ],
+      "Relbow": [
+        0.3546558618545532,
+        1.093117356300354,
+        0.0
+      ],
+      "Rwrist": [
+        0.4542510211467743,
+        0.8502024412155151,
+        0.0
+      ],
+      "Rfinger": [
+        0.47611334919929504,
+        0.7044534683227539,
+        0.0
+      ],
+      "Rhip": [
+        0.11902833729982376,
+        0.75789475440979,
+        0.0
+      ],
+      "Rknee": [
+        0.17004048824310303,
+        0.5101214647293091,
+        0.0
+      ],
+      "Rankle": [
+        0.2502024173736572,
+        0.14574898779392242,
+        0.0
+      ],
+      "Rtoe": [
+        0.37165990471839905,
+        0.04129554703831673,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        536,
+        770,
+        985,
+        1527
+      ],
+      "center": 754,
+      "top": 779,
+      "floor": 1520,
+      "hip": 1204,
+      "neck": [
+        759,
+        930
+      ],
+      "head": [
+        775,
+        851
+      ],
+      "L": [
+        [
+          649,
+          970
+        ],
+        [
+          604,
+          1070
+        ],
+        [
+          571,
+          1171
+        ],
+        [
+          569,
+          1230
+        ],
+        [
+          704,
+          1208
+        ],
+        [
+          681,
+          1310
+        ],
+        [
+          651,
+          1460
+        ],
+        [
+          602,
+          1503
+        ]
+      ],
+      "R": [
+        [
+          858,
+          969
+        ],
+        [
+          900,
+          1070
+        ],
+        [
+          941,
+          1170
+        ],
+        [
+          950,
+          1230
+        ],
+        [
+          803,
+          1208
+        ],
+        [
+          824,
+          1310
+        ],
+        [
+          857,
+          1460
+        ],
+        [
+          907,
+          1503
+        ]
+      ],
+      "edge": [
+        [
+          932,
+          40
+        ],
+        [
+          975,
+          84
+        ],
+        [
+          1040,
+          76
+        ],
+        [
+          1110,
+          84
+        ],
+        [
+          1173,
+          89
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "opposition defender 1": {
+    "root": "B21 / opposition defender 1 / character.001",
+    "skin": "B21 / opposition defender 1 / complete neutral drawing.001",
+    "armature": "B21 / opposition defender 1 / fitted bones.001",
+    "controls": {
+      "hip": "B21 / opposition defender 1 / CTRL hip.001",
+      "neck": "B21 / opposition defender 1 / CTRL neck.001",
+      "head": "B21 / opposition defender 1 / CTRL head.001",
+      "Lshoulder": "B21 / opposition defender 1 / CTRL Lshoulder.001",
+      "Lelbow": "B21 / opposition defender 1 / CTRL Lelbow.001",
+      "Lwrist": "B21 / opposition defender 1 / CTRL Lwrist.001",
+      "Lfinger": "B21 / opposition defender 1 / CTRL Lfinger.001",
+      "Lhip": "B21 / opposition defender 1 / CTRL Lhip.001",
+      "Lknee": "B21 / opposition defender 1 / CTRL Lknee.001",
+      "Lankle": "B21 / opposition defender 1 / CTRL Lankle.001",
+      "Ltoe": "B21 / opposition defender 1 / CTRL Ltoe.001",
+      "Rshoulder": "B21 / opposition defender 1 / CTRL Rshoulder.001",
+      "Relbow": "B21 / opposition defender 1 / CTRL Relbow.001",
+      "Rwrist": "B21 / opposition defender 1 / CTRL Rwrist.001",
+      "Rfinger": "B21 / opposition defender 1 / CTRL Rfinger.001",
+      "Rhip": "B21 / opposition defender 1 / CTRL Rhip.001",
+      "Rknee": "B21 / opposition defender 1 / CTRL Rknee.001",
+      "Rankle": "B21 / opposition defender 1 / CTRL Rankle.001",
+      "Rtoe": "B21 / opposition defender 1 / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.7676113247871399,
+        0.0
+      ],
+      "neck": [
+        0.012145749293267727,
+        1.43319833278656,
+        0.0
+      ],
+      "head": [
+        0.05101214721798897,
+        1.6251012086868286,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.25506073236465454,
+        1.3360323905944824,
+        0.0
+      ],
+      "Lelbow": [
+        -0.36437246203422546,
+        1.093117356300354,
+        0.0
+      ],
+      "Lwrist": [
+        -0.44453442096710205,
+        0.8477732539176941,
+        0.0
+      ],
+      "Lfinger": [
+        -0.449392706155777,
+        0.7044534683227539,
+        0.0
+      ],
+      "Lhip": [
+        -0.12145748734474182,
+        0.75789475440979,
+        0.0
+      ],
+      "Lknee": [
+        -0.1773279309272766,
+        0.5101214647293091,
+        0.0
+      ],
+      "Lankle": [
+        -0.2502024173736572,
+        0.14574898779392242,
+        0.0
+      ],
+      "Ltoe": [
+        -0.3692307770252228,
+        0.04129554703831673,
+        0.0
+      ],
+      "Rshoulder": [
+        0.2526315748691559,
+        1.3384615182876587,
+        0.0
+      ],
+      "Relbow": [
+        0.3546558618545532,
+        1.093117356300354,
+        0.0
+      ],
+      "Rwrist": [
+        0.4542510211467743,
+        0.8502024412155151,
+        0.0
+      ],
+      "Rfinger": [
+        0.47611334919929504,
+        0.7044534683227539,
+        0.0
+      ],
+      "Rhip": [
+        0.11902833729982376,
+        0.75789475440979,
+        0.0
+      ],
+      "Rknee": [
+        0.17004048824310303,
+        0.5101214647293091,
+        0.0
+      ],
+      "Rankle": [
+        0.2502024173736572,
+        0.14574898779392242,
+        0.0
+      ],
+      "Rtoe": [
+        0.37165990471839905,
+        0.04129554703831673,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        536,
+        770,
+        985,
+        1527
+      ],
+      "center": 754,
+      "top": 779,
+      "floor": 1520,
+      "hip": 1204,
+      "neck": [
+        759,
+        930
+      ],
+      "head": [
+        775,
+        851
+      ],
+      "L": [
+        [
+          649,
+          970
+        ],
+        [
+          604,
+          1070
+        ],
+        [
+          571,
+          1171
+        ],
+        [
+          569,
+          1230
+        ],
+        [
+          704,
+          1208
+        ],
+        [
+          681,
+          1310
+        ],
+        [
+          651,
+          1460
+        ],
+        [
+          602,
+          1503
+        ]
+      ],
+      "R": [
+        [
+          858,
+          969
+        ],
+        [
+          900,
+          1070
+        ],
+        [
+          941,
+          1170
+        ],
+        [
+          950,
+          1230
+        ],
+        [
+          803,
+          1208
+        ],
+        [
+          824,
+          1310
+        ],
+        [
+          857,
+          1460
+        ],
+        [
+          907,
+          1503
+        ]
+      ],
+      "edge": [
+        [
+          932,
+          40
+        ],
+        [
+          975,
+          84
+        ],
+        [
+          1040,
+          76
+        ],
+        [
+          1110,
+          84
+        ],
+        [
+          1173,
+          89
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "opposition goalkeeper": {
+    "root": "B21 / opposition goalkeeper / character.001",
+    "skin": "B21 / opposition goalkeeper / complete neutral drawing.001",
+    "armature": "B21 / opposition goalkeeper / fitted bones.001",
+    "controls": {
+      "hip": "B21 / opposition goalkeeper / CTRL hip.001",
+      "neck": "B21 / opposition goalkeeper / CTRL neck.001",
+      "head": "B21 / opposition goalkeeper / CTRL head.001",
+      "Lshoulder": "B21 / opposition goalkeeper / CTRL Lshoulder.001",
+      "Lelbow": "B21 / opposition goalkeeper / CTRL Lelbow.001",
+      "Lwrist": "B21 / opposition goalkeeper / CTRL Lwrist.001",
+      "Lfinger": "B21 / opposition goalkeeper / CTRL Lfinger.001",
+      "Lhip": "B21 / opposition goalkeeper / CTRL Lhip.001",
+      "Lknee": "B21 / opposition goalkeeper / CTRL Lknee.001",
+      "Lankle": "B21 / opposition goalkeeper / CTRL Lankle.001",
+      "Ltoe": "B21 / opposition goalkeeper / CTRL Ltoe.001",
+      "Rshoulder": "B21 / opposition goalkeeper / CTRL Rshoulder.001",
+      "Relbow": "B21 / opposition goalkeeper / CTRL Relbow.001",
+      "Rwrist": "B21 / opposition goalkeeper / CTRL Rwrist.001",
+      "Rfinger": "B21 / opposition goalkeeper / CTRL Rfinger.001",
+      "Rhip": "B21 / opposition goalkeeper / CTRL Rhip.001",
+      "Rknee": "B21 / opposition goalkeeper / CTRL Rknee.001",
+      "Rankle": "B21 / opposition goalkeeper / CTRL Rankle.001",
+      "Rtoe": "B21 / opposition goalkeeper / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.7710843086242676,
+        0.0
+      ],
+      "neck": [
+        0.012048192322254181,
+        1.440963864326477,
+        0.0
+      ],
+      "head": [
+        0.04578313231468201,
+        1.6289156675338745,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.26024097204208374,
+        1.33493971824646,
+        0.0
+      ],
+      "Lelbow": [
+        -0.34939759969711304,
+        1.115662693977356,
+        0.0
+      ],
+      "Lwrist": [
+        -0.4192771017551422,
+        0.8819277286529541,
+        0.0
+      ],
+      "Lfinger": [
+        -0.4337349534034729,
+        0.7373493909835815,
+        0.0
+      ],
+      "Lhip": [
+        -0.12289156764745712,
+        0.759036123752594,
+        0.0
+      ],
+      "Lknee": [
+        -0.17108434438705444,
+        0.5180723071098328,
+        0.0
+      ],
+      "Lankle": [
+        -0.2530120611190796,
+        0.1493975967168808,
+        0.0
+      ],
+      "Ltoe": [
+        -0.3614457845687866,
+        0.04578313231468201,
+        0.0
+      ],
+      "Rshoulder": [
+        0.2722891569137573,
+        1.33493971824646,
+        0.0
+      ],
+      "Relbow": [
+        0.3614457845687866,
+        1.1108434200286865,
+        0.0
+      ],
+      "Rwrist": [
+        0.4337349534034729,
+        0.8819277286529541,
+        0.0
+      ],
+      "Rfinger": [
+        0.4457831382751465,
+        0.7397590279579163,
+        0.0
+      ],
+      "Rhip": [
+        0.1325301229953766,
+        0.759036123752594,
+        0.0
+      ],
+      "Rknee": [
+        0.18795180320739746,
+        0.5180723071098328,
+        0.0
+      ],
+      "Rankle": [
+        0.26265060901641846,
+        0.1493975967168808,
+        0.0
+      ],
+      "Rtoe": [
+        0.3710843324661255,
+        0.04578313231468201,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        53,
+        770,
+        497,
+        1527
+      ],
+      "center": 276,
+      "top": 773,
+      "floor": 1520,
+      "hip": 1200,
+      "neck": [
+        281,
+        922
+      ],
+      "head": [
+        295,
+        844
+      ],
+      "L": [
+        [
+          168,
+          966
+        ],
+        [
+          131,
+          1057
+        ],
+        [
+          102,
+          1154
+        ],
+        [
+          96,
+          1214
+        ],
+        [
+          225,
+          1205
+        ],
+        [
+          205,
+          1305
+        ],
+        [
+          171,
+          1458
+        ],
+        [
+          126,
+          1501
+        ]
+      ],
+      "R": [
+        [
+          389,
+          966
+        ],
+        [
+          426,
+          1059
+        ],
+        [
+          456,
+          1154
+        ],
+        [
+          461,
+          1213
+        ],
+        [
+          331,
+          1205
+        ],
+        [
+          354,
+          1305
+        ],
+        [
+          385,
+          1458
+        ],
+        [
+          430,
+          1501
+        ]
+      ],
+      "edge": [
+        [
+          922,
+          44
+        ],
+        [
+          970,
+          86
+        ],
+        [
+          1050,
+          75
+        ],
+        [
+          1115,
+          82
+        ],
+        [
+          1170,
+          92
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "Raya": {
+    "root": "B21 / Raya / character.001",
+    "skin": "B21 / Raya / complete neutral drawing.001",
+    "armature": "B21 / Raya / fitted bones.001",
+    "controls": {
+      "hip": "B21 / Raya / CTRL hip.001",
+      "neck": "B21 / Raya / CTRL neck.001",
+      "head": "B21 / Raya / CTRL head.001",
+      "Lshoulder": "B21 / Raya / CTRL Lshoulder.001",
+      "Lelbow": "B21 / Raya / CTRL Lelbow.001",
+      "Lwrist": "B21 / Raya / CTRL Lwrist.001",
+      "Lfinger": "B21 / Raya / CTRL Lfinger.001",
+      "Lhip": "B21 / Raya / CTRL Lhip.001",
+      "Lknee": "B21 / Raya / CTRL Lknee.001",
+      "Lankle": "B21 / Raya / CTRL Lankle.001",
+      "Ltoe": "B21 / Raya / CTRL Ltoe.001",
+      "Rshoulder": "B21 / Raya / CTRL Rshoulder.001",
+      "Relbow": "B21 / Raya / CTRL Relbow.001",
+      "Rwrist": "B21 / Raya / CTRL Rwrist.001",
+      "Rfinger": "B21 / Raya / CTRL Rfinger.001",
+      "Rhip": "B21 / Raya / CTRL Rhip.001",
+      "Rknee": "B21 / Raya / CTRL Rknee.001",
+      "Rankle": "B21 / Raya / CTRL Rankle.001",
+      "Rtoe": "B21 / Raya / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.7710843086242676,
+        0.0
+      ],
+      "neck": [
+        0.012048192322254181,
+        1.440963864326477,
+        0.0
+      ],
+      "head": [
+        0.04578313231468201,
+        1.6289156675338745,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.26024097204208374,
+        1.33493971824646,
+        0.0
+      ],
+      "Lelbow": [
+        -0.34939759969711304,
+        1.115662693977356,
+        0.0
+      ],
+      "Lwrist": [
+        -0.4192771017551422,
+        0.8819277286529541,
+        0.0
+      ],
+      "Lfinger": [
+        -0.4337349534034729,
+        0.7373493909835815,
+        0.0
+      ],
+      "Lhip": [
+        -0.12289156764745712,
+        0.759036123752594,
+        0.0
+      ],
+      "Lknee": [
+        -0.17108434438705444,
+        0.5180723071098328,
+        0.0
+      ],
+      "Lankle": [
+        -0.2530120611190796,
+        0.1493975967168808,
+        0.0
+      ],
+      "Ltoe": [
+        -0.3614457845687866,
+        0.04578313231468201,
+        0.0
+      ],
+      "Rshoulder": [
+        0.2722891569137573,
+        1.33493971824646,
+        0.0
+      ],
+      "Relbow": [
+        0.3614457845687866,
+        1.1108434200286865,
+        0.0
+      ],
+      "Rwrist": [
+        0.4337349534034729,
+        0.8819277286529541,
+        0.0
+      ],
+      "Rfinger": [
+        0.4457831382751465,
+        0.7397590279579163,
+        0.0
+      ],
+      "Rhip": [
+        0.1325301229953766,
+        0.759036123752594,
+        0.0
+      ],
+      "Rknee": [
+        0.18795180320739746,
+        0.5180723071098328,
+        0.0
+      ],
+      "Rankle": [
+        0.26265060901641846,
+        0.1493975967168808,
+        0.0
+      ],
+      "Rtoe": [
+        0.3710843324661255,
+        0.04578313231468201,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        53,
+        770,
+        497,
+        1527
+      ],
+      "center": 276,
+      "top": 773,
+      "floor": 1520,
+      "hip": 1200,
+      "neck": [
+        281,
+        922
+      ],
+      "head": [
+        295,
+        844
+      ],
+      "L": [
+        [
+          168,
+          966
+        ],
+        [
+          131,
+          1057
+        ],
+        [
+          102,
+          1154
+        ],
+        [
+          96,
+          1214
+        ],
+        [
+          225,
+          1205
+        ],
+        [
+          205,
+          1305
+        ],
+        [
+          171,
+          1458
+        ],
+        [
+          126,
+          1501
+        ]
+      ],
+      "R": [
+        [
+          389,
+          966
+        ],
+        [
+          426,
+          1059
+        ],
+        [
+          456,
+          1154
+        ],
+        [
+          461,
+          1213
+        ],
+        [
+          331,
+          1205
+        ],
+        [
+          354,
+          1305
+        ],
+        [
+          385,
+          1458
+        ],
+        [
+          430,
+          1501
+        ]
+      ],
+      "edge": [
+        [
+          922,
+          44
+        ],
+        [
+          970,
+          86
+        ],
+        [
+          1050,
+          75
+        ],
+        [
+          1115,
+          82
+        ],
+        [
+          1170,
+          92
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "opposing attacker": {
+    "root": "B21 / opposing attacker / character.001",
+    "skin": "B21 / opposing attacker / complete neutral drawing.001",
+    "armature": "B21 / opposing attacker / fitted bones.001",
+    "controls": {
+      "hip": "B21 / opposing attacker / CTRL hip.001",
+      "neck": "B21 / opposing attacker / CTRL neck.001",
+      "head": "B21 / opposing attacker / CTRL head.001",
+      "Lshoulder": "B21 / opposing attacker / CTRL Lshoulder.001",
+      "Lelbow": "B21 / opposing attacker / CTRL Lelbow.001",
+      "Lwrist": "B21 / opposing attacker / CTRL Lwrist.001",
+      "Lfinger": "B21 / opposing attacker / CTRL Lfinger.001",
+      "Lhip": "B21 / opposing attacker / CTRL Lhip.001",
+      "Lknee": "B21 / opposing attacker / CTRL Lknee.001",
+      "Lankle": "B21 / opposing attacker / CTRL Lankle.001",
+      "Ltoe": "B21 / opposing attacker / CTRL Ltoe.001",
+      "Rshoulder": "B21 / opposing attacker / CTRL Rshoulder.001",
+      "Relbow": "B21 / opposing attacker / CTRL Relbow.001",
+      "Rwrist": "B21 / opposing attacker / CTRL Rwrist.001",
+      "Rfinger": "B21 / opposing attacker / CTRL Rfinger.001",
+      "Rhip": "B21 / opposing attacker / CTRL Rhip.001",
+      "Rknee": "B21 / opposing attacker / CTRL Rknee.001",
+      "Rankle": "B21 / opposing attacker / CTRL Rankle.001",
+      "Rtoe": "B21 / opposing attacker / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.7676113247871399,
+        0.0
+      ],
+      "neck": [
+        0.012145749293267727,
+        1.43319833278656,
+        0.0
+      ],
+      "head": [
+        0.05101214721798897,
+        1.6251012086868286,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.25506073236465454,
+        1.3360323905944824,
+        0.0
+      ],
+      "Lelbow": [
+        -0.36437246203422546,
+        1.093117356300354,
+        0.0
+      ],
+      "Lwrist": [
+        -0.44453442096710205,
+        0.8477732539176941,
+        0.0
+      ],
+      "Lfinger": [
+        -0.449392706155777,
+        0.7044534683227539,
+        0.0
+      ],
+      "Lhip": [
+        -0.12145748734474182,
+        0.75789475440979,
+        0.0
+      ],
+      "Lknee": [
+        -0.1773279309272766,
+        0.5101214647293091,
+        0.0
+      ],
+      "Lankle": [
+        -0.2502024173736572,
+        0.14574898779392242,
+        0.0
+      ],
+      "Ltoe": [
+        -0.3692307770252228,
+        0.04129554703831673,
+        0.0
+      ],
+      "Rshoulder": [
+        0.2526315748691559,
+        1.3384615182876587,
+        0.0
+      ],
+      "Relbow": [
+        0.3546558618545532,
+        1.093117356300354,
+        0.0
+      ],
+      "Rwrist": [
+        0.4542510211467743,
+        0.8502024412155151,
+        0.0
+      ],
+      "Rfinger": [
+        0.47611334919929504,
+        0.7044534683227539,
+        0.0
+      ],
+      "Rhip": [
+        0.11902833729982376,
+        0.75789475440979,
+        0.0
+      ],
+      "Rknee": [
+        0.17004048824310303,
+        0.5101214647293091,
+        0.0
+      ],
+      "Rankle": [
+        0.2502024173736572,
+        0.14574898779392242,
+        0.0
+      ],
+      "Rtoe": [
+        0.37165990471839905,
+        0.04129554703831673,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        536,
+        770,
+        985,
+        1527
+      ],
+      "center": 754,
+      "top": 779,
+      "floor": 1520,
+      "hip": 1204,
+      "neck": [
+        759,
+        930
+      ],
+      "head": [
+        775,
+        851
+      ],
+      "L": [
+        [
+          649,
+          970
+        ],
+        [
+          604,
+          1070
+        ],
+        [
+          571,
+          1171
+        ],
+        [
+          569,
+          1230
+        ],
+        [
+          704,
+          1208
+        ],
+        [
+          681,
+          1310
+        ],
+        [
+          651,
+          1460
+        ],
+        [
+          602,
+          1503
+        ]
+      ],
+      "R": [
+        [
+          858,
+          969
+        ],
+        [
+          900,
+          1070
+        ],
+        [
+          941,
+          1170
+        ],
+        [
+          950,
+          1230
+        ],
+        [
+          803,
+          1208
+        ],
+        [
+          824,
+          1310
+        ],
+        [
+          857,
+          1460
+        ],
+        [
+          907,
+          1503
+        ]
+      ],
+      "edge": [
+        [
+          932,
+          40
+        ],
+        [
+          975,
+          84
+        ],
+        [
+          1040,
+          76
+        ],
+        [
+          1110,
+          84
+        ],
+        [
+          1173,
+          89
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "wall 1": {
+    "root": "B21 / wall 1 / character.001",
+    "skin": "B21 / wall 1 / complete neutral drawing.001",
+    "armature": "B21 / wall 1 / fitted bones.001",
+    "controls": {
+      "hip": "B21 / wall 1 / CTRL hip.001",
+      "neck": "B21 / wall 1 / CTRL neck.001",
+      "head": "B21 / wall 1 / CTRL head.001",
+      "Lshoulder": "B21 / wall 1 / CTRL Lshoulder.001",
+      "Lelbow": "B21 / wall 1 / CTRL Lelbow.001",
+      "Lwrist": "B21 / wall 1 / CTRL Lwrist.001",
+      "Lfinger": "B21 / wall 1 / CTRL Lfinger.001",
+      "Lhip": "B21 / wall 1 / CTRL Lhip.001",
+      "Lknee": "B21 / wall 1 / CTRL Lknee.001",
+      "Lankle": "B21 / wall 1 / CTRL Lankle.001",
+      "Ltoe": "B21 / wall 1 / CTRL Ltoe.001",
+      "Rshoulder": "B21 / wall 1 / CTRL Rshoulder.001",
+      "Relbow": "B21 / wall 1 / CTRL Relbow.001",
+      "Rwrist": "B21 / wall 1 / CTRL Rwrist.001",
+      "Rfinger": "B21 / wall 1 / CTRL Rfinger.001",
+      "Rhip": "B21 / wall 1 / CTRL Rhip.001",
+      "Rknee": "B21 / wall 1 / CTRL Rknee.001",
+      "Rankle": "B21 / wall 1 / CTRL Rankle.001",
+      "Rtoe": "B21 / wall 1 / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.7773779034614563,
+        0.0
+      ],
+      "neck": [
+        -0.004627249203622341,
+        1.446015477180481,
+        0.0
+      ],
+      "head": [
+        0.03239074721932411,
+        1.6311054229736328,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.23367609083652496,
+        1.3164523839950562,
+        0.0
+      ],
+      "Lelbow": [
+        -0.3424164652824402,
+        1.0665810108184814,
+        0.0
+      ],
+      "Lwrist": [
+        -0.4627249240875244,
+        0.8375321626663208,
+        0.0
+      ],
+      "Lfinger": [
+        -0.483547568321228,
+        0.7264781594276428,
+        0.0
+      ],
+      "Lhip": [
+        -0.12030848115682602,
+        0.7727506160736084,
+        0.0
+      ],
+      "Lknee": [
+        -0.1712082326412201,
+        0.5205655694007874,
+        0.0
+      ],
+      "Lankle": [
+        -0.2475578337907791,
+        0.14575836062431335,
+        0.0
+      ],
+      "Ltoe": [
+        -0.3470436930656433,
+        0.04858611896634102,
+        0.0
+      ],
+      "Rshoulder": [
+        0.23367609083652496,
+        1.3164523839950562,
+        0.0
+      ],
+      "Relbow": [
+        0.34473007917404175,
+        1.0665810108184814,
+        0.0
+      ],
+      "Rwrist": [
+        0.4534704387187958,
+        0.8375321626663208,
+        0.0
+      ],
+      "Rfinger": [
+        0.4812339246273041,
+        0.7264781594276428,
+        0.0
+      ],
+      "Rhip": [
+        0.12030848115682602,
+        0.7727506160736084,
+        0.0
+      ],
+      "Rknee": [
+        0.1712082326412201,
+        0.5205655694007874,
+        0.0
+      ],
+      "Rankle": [
+        0.2313624620437622,
+        0.14575836062431335,
+        0.0
+      ],
+      "Rtoe": [
+        0.3516709506511688,
+        0.04858611896634102,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        521,
+        8,
+        986,
+        798
+      ],
+      "center": 755,
+      "top": 17,
+      "floor": 795,
+      "hip": 459,
+      "neck": [
+        753,
+        170
+      ],
+      "head": [
+        769,
+        90
+      ],
+      "L": [
+        [
+          654,
+          226
+        ],
+        [
+          607,
+          334
+        ],
+        [
+          555,
+          433
+        ],
+        [
+          546,
+          481
+        ],
+        [
+          703,
+          461
+        ],
+        [
+          681,
+          570
+        ],
+        [
+          648,
+          732
+        ],
+        [
+          605,
+          774
+        ]
+      ],
+      "R": [
+        [
+          856,
+          226
+        ],
+        [
+          904,
+          334
+        ],
+        [
+          951,
+          433
+        ],
+        [
+          963,
+          481
+        ],
+        [
+          807,
+          461
+        ],
+        [
+          829,
+          570
+        ],
+        [
+          855,
+          732
+        ],
+        [
+          907,
+          774
+        ]
+      ],
+      "edge": [
+        [
+          173,
+          49
+        ],
+        [
+          226,
+          94
+        ],
+        [
+          300,
+          86
+        ],
+        [
+          350,
+          79
+        ],
+        [
+          400,
+          90
+        ],
+        [
+          425,
+          91
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "wall 2": {
+    "root": "B21 / wall 2 / character.001",
+    "skin": "B21 / wall 2 / complete neutral drawing.001",
+    "armature": "B21 / wall 2 / fitted bones.001",
+    "controls": {
+      "hip": "B21 / wall 2 / CTRL hip.001",
+      "neck": "B21 / wall 2 / CTRL neck.001",
+      "head": "B21 / wall 2 / CTRL head.001",
+      "Lshoulder": "B21 / wall 2 / CTRL Lshoulder.001",
+      "Lelbow": "B21 / wall 2 / CTRL Lelbow.001",
+      "Lwrist": "B21 / wall 2 / CTRL Lwrist.001",
+      "Lfinger": "B21 / wall 2 / CTRL Lfinger.001",
+      "Lhip": "B21 / wall 2 / CTRL Lhip.001",
+      "Lknee": "B21 / wall 2 / CTRL Lknee.001",
+      "Lankle": "B21 / wall 2 / CTRL Lankle.001",
+      "Ltoe": "B21 / wall 2 / CTRL Ltoe.001",
+      "Rshoulder": "B21 / wall 2 / CTRL Rshoulder.001",
+      "Relbow": "B21 / wall 2 / CTRL Relbow.001",
+      "Rwrist": "B21 / wall 2 / CTRL Rwrist.001",
+      "Rfinger": "B21 / wall 2 / CTRL Rfinger.001",
+      "Rhip": "B21 / wall 2 / CTRL Rhip.001",
+      "Rknee": "B21 / wall 2 / CTRL Rknee.001",
+      "Rankle": "B21 / wall 2 / CTRL Rankle.001",
+      "Rtoe": "B21 / wall 2 / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.706019401550293,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.3491262197494507,
+        0.0
+      ],
+      "head": [
+        0.041941747069358826,
+        1.5728155374526978,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.24116504192352295,
+        1.2267961502075195,
+        0.0
+      ],
+      "Lelbow": [
+        -0.31106796860694885,
+        0.9996116757392883,
+        0.0
+      ],
+      "Lwrist": [
+        -0.38097086548805237,
+        0.7374757528305054,
+        0.0
+      ],
+      "Lfinger": [
+        -0.3914563059806824,
+        0.6221359372138977,
+        0.0
+      ],
+      "Lhip": [
+        -0.11883495002985,
+        0.6990291476249695,
+        0.0
+      ],
+      "Lknee": [
+        -0.18524271249771118,
+        0.46485435962677,
+        0.0
+      ],
+      "Lankle": [
+        -0.2551456391811371,
+        0.13281553983688354,
+        0.0
+      ],
+      "Ltoe": [
+        -0.36000001430511475,
+        0.041941747069358826,
+        0.0
+      ],
+      "Rshoulder": [
+        0.24116504192352295,
+        1.2267961502075195,
+        0.0
+      ],
+      "Relbow": [
+        0.31106796860694885,
+        0.9996116757392883,
+        0.0
+      ],
+      "Rwrist": [
+        0.38097086548805237,
+        0.7374757528305054,
+        0.0
+      ],
+      "Rfinger": [
+        0.3914563059806824,
+        0.6221359372138977,
+        0.0
+      ],
+      "Rhip": [
+        0.11883495002985,
+        0.6990291476249695,
+        0.0
+      ],
+      "Rknee": [
+        0.18524271249771118,
+        0.46485435962677,
+        0.0
+      ],
+      "Rankle": [
+        0.2551456391811371,
+        0.13281553983688354,
+        0.0
+      ],
+      "Rtoe": [
+        0.36000001430511475,
+        0.041941747069358826,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        374.71844660194176,
+        10,
+        665.2815533980582,
+        533
+      ],
+      "center": 520,
+      "top": 14,
+      "floor": 530,
+      "hip": 327.6077669902913,
+      "neck": [
+        520.0,
+        143.25048543689323
+      ],
+      "head": [
+        532.0233009708738,
+        79.12621359223301
+      ],
+      "L": [
+        [
+          450.86601941747574,
+          178.31844660194176
+        ],
+        [
+          430.8271844660194,
+          243.4446601941748
+        ],
+        [
+          410.7883495145631,
+          318.59029126213596
+        ],
+        [
+          407.78252427184464,
+          351.6543689320389
+        ],
+        [
+          485.93398058252427,
+          329.61165048543694
+        ],
+        [
+          466.8970873786408,
+          396.74174757281554
+        ],
+        [
+          446.8582524271844,
+          491.92621359223307
+        ],
+        [
+          416.8,
+          517.9766990291263
+        ]
+      ],
+      "R": [
+        [
+          589.1339805825243,
+          178.31844660194176
+        ],
+        [
+          609.1728155339806,
+          243.4446601941748
+        ],
+        [
+          629.2116504854368,
+          318.59029126213596
+        ],
+        [
+          632.2174757281554,
+          351.6543689320389
+        ],
+        [
+          554.0660194174757,
+          329.61165048543694
+        ],
+        [
+          573.1029126213592,
+          396.74174757281554
+        ],
+        [
+          593.1417475728156,
+          491.92621359223307
+        ],
+        [
+          623.2,
+          517.9766990291263
+        ]
+      ],
+      "edge": [
+        [
+          144.25242718446603,
+          28.054368932038837
+        ],
+        [
+          185.33203883495148,
+          49.095145631067965
+        ],
+        [
+          233.4252427184466,
+          49.095145631067965
+        ],
+        [
+          287.5300970873787,
+          53.10291262135923
+        ],
+        [
+          302.55922330097087,
+          55.10679611650486
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "wall 3": {
+    "root": "B21 / wall 3 / character.001",
+    "skin": "B21 / wall 3 / complete neutral drawing.001",
+    "armature": "B21 / wall 3 / fitted bones.001",
+    "controls": {
+      "hip": "B21 / wall 3 / CTRL hip.001",
+      "neck": "B21 / wall 3 / CTRL neck.001",
+      "head": "B21 / wall 3 / CTRL head.001",
+      "Lshoulder": "B21 / wall 3 / CTRL Lshoulder.001",
+      "Lelbow": "B21 / wall 3 / CTRL Lelbow.001",
+      "Lwrist": "B21 / wall 3 / CTRL Lwrist.001",
+      "Lfinger": "B21 / wall 3 / CTRL Lfinger.001",
+      "Lhip": "B21 / wall 3 / CTRL Lhip.001",
+      "Lknee": "B21 / wall 3 / CTRL Lknee.001",
+      "Lankle": "B21 / wall 3 / CTRL Lankle.001",
+      "Ltoe": "B21 / wall 3 / CTRL Ltoe.001",
+      "Rshoulder": "B21 / wall 3 / CTRL Rshoulder.001",
+      "Relbow": "B21 / wall 3 / CTRL Relbow.001",
+      "Rwrist": "B21 / wall 3 / CTRL Rwrist.001",
+      "Rfinger": "B21 / wall 3 / CTRL Rfinger.001",
+      "Rhip": "B21 / wall 3 / CTRL Rhip.001",
+      "Rknee": "B21 / wall 3 / CTRL Rknee.001",
+      "Rankle": "B21 / wall 3 / CTRL Rankle.001",
+      "Rtoe": "B21 / wall 3 / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.7803871035575867,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.400516152381897,
+        0.0
+      ],
+      "head": [
+        0.032516129314899445,
+        1.6211613416671753,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.22993548214435577,
+        1.3145806789398193,
+        0.0
+      ],
+      "Lelbow": [
+        -0.2926451563835144,
+        1.0776773691177368,
+        0.0
+      ],
+      "Lwrist": [
+        -0.408774197101593,
+        0.8454193472862244,
+        0.0
+      ],
+      "Lfinger": [
+        -0.4389677345752716,
+        0.7316129207611084,
+        0.0
+      ],
+      "Lhip": [
+        -0.1114838719367981,
+        0.7734193801879883,
+        0.0
+      ],
+      "Lknee": [
+        -0.14864516258239746,
+        0.522580623626709,
+        0.0
+      ],
+      "Lankle": [
+        -0.2113548368215561,
+        0.1463225781917572,
+        0.0
+      ],
+      "Ltoe": [
+        -0.30193549394607544,
+        0.05341935530304909,
+        0.0
+      ],
+      "Rshoulder": [
+        0.23690322041511536,
+        1.3145806789398193,
+        0.0
+      ],
+      "Relbow": [
+        0.31354838609695435,
+        1.075354814529419,
+        0.0
+      ],
+      "Rwrist": [
+        0.4203870892524719,
+        0.8430967926979065,
+        0.0
+      ],
+      "Rfinger": [
+        0.4436129033565521,
+        0.7269677519798279,
+        0.0
+      ],
+      "Rhip": [
+        0.12077419459819794,
+        0.7734193801879883,
+        0.0
+      ],
+      "Rknee": [
+        0.17419354617595673,
+        0.522580623626709,
+        0.0
+      ],
+      "Rankle": [
+        0.2345806509256363,
+        0.1463225781917572,
+        0.0
+      ],
+      "Rtoe": [
+        0.34838709235191345,
+        0.05109677463769913,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        55,
+        12,
+        493,
+        798
+      ],
+      "center": 275,
+      "top": 20,
+      "floor": 795,
+      "hip": 459,
+      "neck": [
+        275,
+        192
+      ],
+      "head": [
+        289,
+        97
+      ],
+      "L": [
+        [
+          176,
+          229
+        ],
+        [
+          149,
+          331
+        ],
+        [
+          99,
+          431
+        ],
+        [
+          86,
+          480
+        ],
+        [
+          227,
+          462
+        ],
+        [
+          211,
+          570
+        ],
+        [
+          184,
+          732
+        ],
+        [
+          145,
+          772
+        ]
+      ],
+      "R": [
+        [
+          377,
+          229
+        ],
+        [
+          410,
+          332
+        ],
+        [
+          456,
+          432
+        ],
+        [
+          466,
+          482
+        ],
+        [
+          327,
+          462
+        ],
+        [
+          350,
+          570
+        ],
+        [
+          376,
+          732
+        ],
+        [
+          425,
+          773
+        ]
+      ],
+      "edge": [
+        [
+          193,
+          47
+        ],
+        [
+          240,
+          79
+        ],
+        [
+          300,
+          73
+        ],
+        [
+          350,
+          70
+        ],
+        [
+          410,
+          78
+        ],
+        [
+          427,
+          81
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "wall 4": {
+    "root": "B21 / wall 4 / character.001",
+    "skin": "B21 / wall 4 / complete neutral drawing.001",
+    "armature": "B21 / wall 4 / fitted bones.001",
+    "controls": {
+      "hip": "B21 / wall 4 / CTRL hip.001",
+      "neck": "B21 / wall 4 / CTRL neck.001",
+      "head": "B21 / wall 4 / CTRL head.001",
+      "Lshoulder": "B21 / wall 4 / CTRL Lshoulder.001",
+      "Lelbow": "B21 / wall 4 / CTRL Lelbow.001",
+      "Lwrist": "B21 / wall 4 / CTRL Lwrist.001",
+      "Lfinger": "B21 / wall 4 / CTRL Lfinger.001",
+      "Lhip": "B21 / wall 4 / CTRL Lhip.001",
+      "Lknee": "B21 / wall 4 / CTRL Lknee.001",
+      "Lankle": "B21 / wall 4 / CTRL Lankle.001",
+      "Ltoe": "B21 / wall 4 / CTRL Ltoe.001",
+      "Rshoulder": "B21 / wall 4 / CTRL Rshoulder.001",
+      "Relbow": "B21 / wall 4 / CTRL Relbow.001",
+      "Rwrist": "B21 / wall 4 / CTRL Rwrist.001",
+      "Rfinger": "B21 / wall 4 / CTRL Rfinger.001",
+      "Rhip": "B21 / wall 4 / CTRL Rhip.001",
+      "Rknee": "B21 / wall 4 / CTRL Rknee.001",
+      "Rankle": "B21 / wall 4 / CTRL Rankle.001",
+      "Rtoe": "B21 / wall 4 / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.706019401550293,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.3491262197494507,
+        0.0
+      ],
+      "head": [
+        0.041941747069358826,
+        1.5728155374526978,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.24116504192352295,
+        1.2267961502075195,
+        0.0
+      ],
+      "Lelbow": [
+        -0.31106796860694885,
+        0.9996116757392883,
+        0.0
+      ],
+      "Lwrist": [
+        -0.38097086548805237,
+        0.7374757528305054,
+        0.0
+      ],
+      "Lfinger": [
+        -0.3914563059806824,
+        0.6221359372138977,
+        0.0
+      ],
+      "Lhip": [
+        -0.11883495002985,
+        0.6990291476249695,
+        0.0
+      ],
+      "Lknee": [
+        -0.18524271249771118,
+        0.46485435962677,
+        0.0
+      ],
+      "Lankle": [
+        -0.2551456391811371,
+        0.13281553983688354,
+        0.0
+      ],
+      "Ltoe": [
+        -0.36000001430511475,
+        0.041941747069358826,
+        0.0
+      ],
+      "Rshoulder": [
+        0.24116504192352295,
+        1.2267961502075195,
+        0.0
+      ],
+      "Relbow": [
+        0.31106796860694885,
+        0.9996116757392883,
+        0.0
+      ],
+      "Rwrist": [
+        0.38097086548805237,
+        0.7374757528305054,
+        0.0
+      ],
+      "Rfinger": [
+        0.3914563059806824,
+        0.6221359372138977,
+        0.0
+      ],
+      "Rhip": [
+        0.11883495002985,
+        0.6990291476249695,
+        0.0
+      ],
+      "Rknee": [
+        0.18524271249771118,
+        0.46485435962677,
+        0.0
+      ],
+      "Rankle": [
+        0.2551456391811371,
+        0.13281553983688354,
+        0.0
+      ],
+      "Rtoe": [
+        0.36000001430511475,
+        0.041941747069358826,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        49.844660194174764,
+        521,
+        338.15533980582524,
+        1040
+      ],
+      "center": 194,
+      "top": 525,
+      "floor": 1037,
+      "hip": 836.1766990291262,
+      "neck": [
+        194.0,
+        653.2485436893204
+      ],
+      "head": [
+        205.93009708737864,
+        589.6213592233009
+      ],
+      "L": [
+        [
+          125.40194174757282,
+          688.0446601941748
+        ],
+        [
+          105.51844660194175,
+          752.6660194174757
+        ],
+        [
+          85.63495145631069,
+          827.2291262135923
+        ],
+        [
+          82.65242718446602,
+          860.0368932038834
+        ],
+        [
+          160.1980582524272,
+          838.1650485436893
+        ],
+        [
+          141.30873786407767,
+          904.7747572815533
+        ],
+        [
+          121.42524271844661,
+          999.221359223301
+        ],
+        [
+          91.60000000000001,
+          1025.0699029126213
+        ]
+      ],
+      "R": [
+        [
+          262.59805825242717,
+          688.0446601941748
+        ],
+        [
+          282.4815533980583,
+          752.6660194174757
+        ],
+        [
+          302.36504854368934,
+          827.2291262135923
+        ],
+        [
+          305.34757281553397,
+          860.0368932038834
+        ],
+        [
+          227.8019417475728,
+          838.1650485436893
+        ],
+        [
+          246.69126213592233,
+          904.7747572815533
+        ],
+        [
+          266.5747572815534,
+          999.221359223301
+        ],
+        [
+          296.4,
+          1025.0699029126213
+        ]
+      ],
+      "edge": [
+        [
+          654.2427184466019,
+          27.836893203883495
+        ],
+        [
+          695.0038834951456,
+          48.71456310679611
+        ],
+        [
+          742.7242718446602,
+          48.71456310679611
+        ],
+        [
+          796.4097087378641,
+          52.69126213592233
+        ],
+        [
+          811.3223300970874,
+          54.679611650485434
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "wall 5": {
+    "root": "B21 / wall 5 / character.001",
+    "skin": "B21 / wall 5 / complete neutral drawing.001",
+    "armature": "B21 / wall 5 / fitted bones.001",
+    "controls": {
+      "hip": "B21 / wall 5 / CTRL hip.001",
+      "neck": "B21 / wall 5 / CTRL neck.001",
+      "head": "B21 / wall 5 / CTRL head.001",
+      "Lshoulder": "B21 / wall 5 / CTRL Lshoulder.001",
+      "Lelbow": "B21 / wall 5 / CTRL Lelbow.001",
+      "Lwrist": "B21 / wall 5 / CTRL Lwrist.001",
+      "Lfinger": "B21 / wall 5 / CTRL Lfinger.001",
+      "Lhip": "B21 / wall 5 / CTRL Lhip.001",
+      "Lknee": "B21 / wall 5 / CTRL Lknee.001",
+      "Lankle": "B21 / wall 5 / CTRL Lankle.001",
+      "Ltoe": "B21 / wall 5 / CTRL Ltoe.001",
+      "Rshoulder": "B21 / wall 5 / CTRL Rshoulder.001",
+      "Relbow": "B21 / wall 5 / CTRL Relbow.001",
+      "Rwrist": "B21 / wall 5 / CTRL Rwrist.001",
+      "Rfinger": "B21 / wall 5 / CTRL Rfinger.001",
+      "Rhip": "B21 / wall 5 / CTRL Rhip.001",
+      "Rknee": "B21 / wall 5 / CTRL Rknee.001",
+      "Rankle": "B21 / wall 5 / CTRL Rankle.001",
+      "Rtoe": "B21 / wall 5 / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.706019401550293,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.3491262197494507,
+        0.0
+      ],
+      "head": [
+        0.041941747069358826,
+        1.5728155374526978,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.24116504192352295,
+        1.2267961502075195,
+        0.0
+      ],
+      "Lelbow": [
+        -0.31106796860694885,
+        0.9996116757392883,
+        0.0
+      ],
+      "Lwrist": [
+        -0.38097086548805237,
+        0.7374757528305054,
+        0.0
+      ],
+      "Lfinger": [
+        -0.3914563059806824,
+        0.6221359372138977,
+        0.0
+      ],
+      "Lhip": [
+        -0.11883495002985,
+        0.6990291476249695,
+        0.0
+      ],
+      "Lknee": [
+        -0.18524271249771118,
+        0.46485435962677,
+        0.0
+      ],
+      "Lankle": [
+        -0.2551456391811371,
+        0.13281553983688354,
+        0.0
+      ],
+      "Ltoe": [
+        -0.36000001430511475,
+        0.041941747069358826,
+        0.0
+      ],
+      "Rshoulder": [
+        0.24116504192352295,
+        1.2267961502075195,
+        0.0
+      ],
+      "Relbow": [
+        0.31106796860694885,
+        0.9996116757392883,
+        0.0
+      ],
+      "Rwrist": [
+        0.38097086548805237,
+        0.7374757528305054,
+        0.0
+      ],
+      "Rfinger": [
+        0.3914563059806824,
+        0.6221359372138977,
+        0.0
+      ],
+      "Rhip": [
+        0.11883495002985,
+        0.6990291476249695,
+        0.0
+      ],
+      "Rknee": [
+        0.18524271249771118,
+        0.46485435962677,
+        0.0
+      ],
+      "Rankle": [
+        0.2551456391811371,
+        0.13281553983688354,
+        0.0
+      ],
+      "Rtoe": [
+        0.36000001430511475,
+        0.041941747069358826,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        368.68932038834953,
+        524,
+        655.3106796116505,
+        1040
+      ],
+      "center": 512,
+      "top": 528,
+      "floor": 1037,
+      "hip": 837.3533980582524,
+      "neck": [
+        512.0,
+        655.4970873786408
+      ],
+      "head": [
+        523.8601941747572,
+        592.2427184466019
+      ],
+      "L": [
+        [
+          443.8038834951456,
+          690.0893203883495
+        ],
+        [
+          424.0368932038835,
+          754.3320388349515
+        ],
+        [
+          404.2699029126214,
+          828.4582524271844
+        ],
+        [
+          401.30485436893207,
+          861.073786407767
+        ],
+        [
+          478.3961165048544,
+          839.3300970873786
+        ],
+        [
+          459.61747572815534,
+          905.5495145631069
+        ],
+        [
+          439.8504854368932,
+          999.4427184466019
+        ],
+        [
+          410.2,
+          1025.1398058252428
+        ]
+      ],
+      "R": [
+        [
+          580.1961165048543,
+          690.0893203883495
+        ],
+        [
+          599.9631067961166,
+          754.3320388349515
+        ],
+        [
+          619.7300970873787,
+          828.4582524271844
+        ],
+        [
+          622.6951456310679,
+          861.073786407767
+        ],
+        [
+          545.6038834951456,
+          839.3300970873786
+        ],
+        [
+          564.3825242718447,
+          905.5495145631069
+        ],
+        [
+          584.1495145631068,
+          999.4427184466019
+        ],
+        [
+          613.8,
+          1025.1398058252428
+        ]
+      ],
+      "edge": [
+        [
+          656.4854368932039,
+          27.67378640776699
+        ],
+        [
+          697.0077669902912,
+          48.429126213592234
+        ],
+        [
+          744.4485436893203,
+          48.429126213592234
+        ],
+        [
+          797.8194174757282,
+          52.38252427184466
+        ],
+        [
+          812.6446601941748,
+          54.359223300970875
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "wall 6": {
+    "root": "B21 / wall 6 / character.001",
+    "skin": "B21 / wall 6 / complete neutral drawing.001",
+    "armature": "B21 / wall 6 / fitted bones.001",
+    "controls": {
+      "hip": "B21 / wall 6 / CTRL hip.001",
+      "neck": "B21 / wall 6 / CTRL neck.001",
+      "head": "B21 / wall 6 / CTRL head.001",
+      "Lshoulder": "B21 / wall 6 / CTRL Lshoulder.001",
+      "Lelbow": "B21 / wall 6 / CTRL Lelbow.001",
+      "Lwrist": "B21 / wall 6 / CTRL Lwrist.001",
+      "Lfinger": "B21 / wall 6 / CTRL Lfinger.001",
+      "Lhip": "B21 / wall 6 / CTRL Lhip.001",
+      "Lknee": "B21 / wall 6 / CTRL Lknee.001",
+      "Lankle": "B21 / wall 6 / CTRL Lankle.001",
+      "Ltoe": "B21 / wall 6 / CTRL Ltoe.001",
+      "Rshoulder": "B21 / wall 6 / CTRL Rshoulder.001",
+      "Relbow": "B21 / wall 6 / CTRL Relbow.001",
+      "Rwrist": "B21 / wall 6 / CTRL Rwrist.001",
+      "Rfinger": "B21 / wall 6 / CTRL Rfinger.001",
+      "Rhip": "B21 / wall 6 / CTRL Rhip.001",
+      "Rknee": "B21 / wall 6 / CTRL Rknee.001",
+      "Rankle": "B21 / wall 6 / CTRL Rankle.001",
+      "Rtoe": "B21 / wall 6 / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.706019401550293,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.3491262197494507,
+        0.0
+      ],
+      "head": [
+        0.041941747069358826,
+        1.5728155374526978,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.24116504192352295,
+        1.2267961502075195,
+        0.0
+      ],
+      "Lelbow": [
+        -0.31106796860694885,
+        0.9996116757392883,
+        0.0
+      ],
+      "Lwrist": [
+        -0.38097086548805237,
+        0.7374757528305054,
+        0.0
+      ],
+      "Lfinger": [
+        -0.3914563059806824,
+        0.6221359372138977,
+        0.0
+      ],
+      "Lhip": [
+        -0.11883495002985,
+        0.6990291476249695,
+        0.0
+      ],
+      "Lknee": [
+        -0.18524271249771118,
+        0.46485435962677,
+        0.0
+      ],
+      "Lankle": [
+        -0.2551456391811371,
+        0.13281553983688354,
+        0.0
+      ],
+      "Ltoe": [
+        -0.36000001430511475,
+        0.041941747069358826,
+        0.0
+      ],
+      "Rshoulder": [
+        0.24116504192352295,
+        1.2267961502075195,
+        0.0
+      ],
+      "Relbow": [
+        0.31106796860694885,
+        0.9996116757392883,
+        0.0
+      ],
+      "Rwrist": [
+        0.38097086548805237,
+        0.7374757528305054,
+        0.0
+      ],
+      "Rfinger": [
+        0.3914563059806824,
+        0.6221359372138977,
+        0.0
+      ],
+      "Rhip": [
+        0.11883495002985,
+        0.6990291476249695,
+        0.0
+      ],
+      "Rknee": [
+        0.18524271249771118,
+        0.46485435962677,
+        0.0
+      ],
+      "Rankle": [
+        0.2551456391811371,
+        0.13281553983688354,
+        0.0
+      ],
+      "Rtoe": [
+        0.36000001430511475,
+        0.041941747069358826,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        705.6601941747573,
+        531,
+        988.3398058252427,
+        1040
+      ],
+      "center": 847,
+      "top": 535,
+      "floor": 1037,
+      "hip": 840.0990291262135,
+      "neck": [
+        847.0,
+        660.7436893203883
+      ],
+      "head": [
+        858.6970873786407,
+        598.3592233009708
+      ],
+      "L": [
+        [
+          779.7417475728155,
+          694.8601941747572
+        ],
+        [
+          760.2466019417476,
+          758.2194174757282
+        ],
+        [
+          740.7514563106796,
+          831.326213592233
+        ],
+        [
+          737.8271844660194,
+          863.4932038834952
+        ],
+        [
+          813.8582524271844,
+          842.0485436893204
+        ],
+        [
+          795.3378640776699,
+          907.357281553398
+        ],
+        [
+          775.8427184466019,
+          999.9592233009708
+        ],
+        [
+          746.6,
+          1025.3029126213592
+        ]
+      ],
+      "R": [
+        [
+          914.2582524271845,
+          694.8601941747572
+        ],
+        [
+          933.7533980582524,
+          758.2194174757282
+        ],
+        [
+          953.2485436893204,
+          831.326213592233
+        ],
+        [
+          956.1728155339806,
+          863.4932038834952
+        ],
+        [
+          880.1417475728156,
+          842.0485436893204
+        ],
+        [
+          898.6621359223301,
+          907.357281553398
+        ],
+        [
+          918.1572815533981,
+          999.9592233009708
+        ],
+        [
+          947.4,
+          1025.3029126213592
+        ]
+      ],
+      "edge": [
+        [
+          661.7184466019418,
+          27.293203883495146
+        ],
+        [
+          701.683495145631,
+          47.7631067961165
+        ],
+        [
+          748.4718446601942,
+          47.7631067961165
+        ],
+        [
+          801.1087378640777,
+          51.662135922330094
+        ],
+        [
+          815.7300970873787,
+          53.61165048543689
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "wall 7": {
+    "root": "B21 / wall 7 / character.001",
+    "skin": "B21 / wall 7 / complete neutral drawing.001",
+    "armature": "B21 / wall 7 / fitted bones.001",
+    "controls": {
+      "hip": "B21 / wall 7 / CTRL hip.001",
+      "neck": "B21 / wall 7 / CTRL neck.001",
+      "head": "B21 / wall 7 / CTRL head.001",
+      "Lshoulder": "B21 / wall 7 / CTRL Lshoulder.001",
+      "Lelbow": "B21 / wall 7 / CTRL Lelbow.001",
+      "Lwrist": "B21 / wall 7 / CTRL Lwrist.001",
+      "Lfinger": "B21 / wall 7 / CTRL Lfinger.001",
+      "Lhip": "B21 / wall 7 / CTRL Lhip.001",
+      "Lknee": "B21 / wall 7 / CTRL Lknee.001",
+      "Lankle": "B21 / wall 7 / CTRL Lankle.001",
+      "Ltoe": "B21 / wall 7 / CTRL Ltoe.001",
+      "Rshoulder": "B21 / wall 7 / CTRL Rshoulder.001",
+      "Relbow": "B21 / wall 7 / CTRL Relbow.001",
+      "Rwrist": "B21 / wall 7 / CTRL Rwrist.001",
+      "Rfinger": "B21 / wall 7 / CTRL Rfinger.001",
+      "Rhip": "B21 / wall 7 / CTRL Rhip.001",
+      "Rknee": "B21 / wall 7 / CTRL Rknee.001",
+      "Rankle": "B21 / wall 7 / CTRL Rankle.001",
+      "Rtoe": "B21 / wall 7 / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.706019401550293,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.3491262197494507,
+        0.0
+      ],
+      "head": [
+        0.041941747069358826,
+        1.5728155374526978,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.24116504192352295,
+        1.2267961502075195,
+        0.0
+      ],
+      "Lelbow": [
+        -0.31106796860694885,
+        0.9996116757392883,
+        0.0
+      ],
+      "Lwrist": [
+        -0.38097086548805237,
+        0.7374757528305054,
+        0.0
+      ],
+      "Lfinger": [
+        -0.3914563059806824,
+        0.6221359372138977,
+        0.0
+      ],
+      "Lhip": [
+        -0.11883495002985,
+        0.6990291476249695,
+        0.0
+      ],
+      "Lknee": [
+        -0.18524271249771118,
+        0.46485435962677,
+        0.0
+      ],
+      "Lankle": [
+        -0.2551456391811371,
+        0.13281553983688354,
+        0.0
+      ],
+      "Ltoe": [
+        -0.36000001430511475,
+        0.041941747069358826,
+        0.0
+      ],
+      "Rshoulder": [
+        0.24116504192352295,
+        1.2267961502075195,
+        0.0
+      ],
+      "Relbow": [
+        0.31106796860694885,
+        0.9996116757392883,
+        0.0
+      ],
+      "Rwrist": [
+        0.38097086548805237,
+        0.7374757528305054,
+        0.0
+      ],
+      "Rfinger": [
+        0.3914563059806824,
+        0.6221359372138977,
+        0.0
+      ],
+      "Rhip": [
+        0.11883495002985,
+        0.6990291476249695,
+        0.0
+      ],
+      "Rknee": [
+        0.18524271249771118,
+        0.46485435962677,
+        0.0
+      ],
+      "Rankle": [
+        0.2551456391811371,
+        0.13281553983688354,
+        0.0
+      ],
+      "Rtoe": [
+        0.36000001430511475,
+        0.041941747069358826,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        52.32038834951456,
+        1035,
+        327.6796116504854,
+        1531
+      ],
+      "center": 190,
+      "top": 1039,
+      "floor": 1528,
+      "hip": 1336.1980582524272,
+      "neck": [
+        190.0,
+        1161.4873786407768
+      ],
+      "head": [
+        201.39417475728155,
+        1100.7184466019417
+      ],
+      "L": [
+        [
+          124.48349514563107,
+          1194.7203883495145
+        ],
+        [
+          105.49320388349514,
+          1256.4388349514563
+        ],
+        [
+          86.50291262135921,
+          1327.652427184466
+        ],
+        [
+          83.65436893203884,
+          1358.9864077669904
+        ],
+        [
+          157.71650485436894,
+          1338.0970873786407
+        ],
+        [
+          139.6757281553398,
+          1401.714563106796
+        ],
+        [
+          120.68543689320389,
+          1491.9184466019417
+        ],
+        [
+          92.19999999999999,
+          1516.6058252427185
+        ]
+      ],
+      "R": [
+        [
+          255.51650485436892,
+          1194.7203883495145
+        ],
+        [
+          274.50679611650486,
+          1256.4388349514563
+        ],
+        [
+          293.4970873786408,
+          1327.652427184466
+        ],
+        [
+          296.34563106796116,
+          1358.9864077669904
+        ],
+        [
+          222.28349514563106,
+          1338.0970873786407
+        ],
+        [
+          240.3242718446602,
+          1401.714563106796
+        ],
+        [
+          259.31456310679613,
+          1491.9184466019417
+        ],
+        [
+          287.8,
+          1516.6058252427185
+        ]
+      ],
+      "edge": [
+        [
+          1162.4368932038835,
+          26.58640776699029
+        ],
+        [
+          1201.366990291262,
+          46.52621359223301
+        ],
+        [
+          1246.9436893203883,
+          46.52621359223301
+        ],
+        [
+          1298.2174757281555,
+          50.324271844660196
+        ],
+        [
+          1312.4601941747574,
+          52.22330097087379
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "wall 8": {
+    "root": "B21 / wall 8 / character.001",
+    "skin": "B21 / wall 8 / complete neutral drawing.001",
+    "armature": "B21 / wall 8 / fitted bones.001",
+    "controls": {
+      "hip": "B21 / wall 8 / CTRL hip.001",
+      "neck": "B21 / wall 8 / CTRL neck.001",
+      "head": "B21 / wall 8 / CTRL head.001",
+      "Lshoulder": "B21 / wall 8 / CTRL Lshoulder.001",
+      "Lelbow": "B21 / wall 8 / CTRL Lelbow.001",
+      "Lwrist": "B21 / wall 8 / CTRL Lwrist.001",
+      "Lfinger": "B21 / wall 8 / CTRL Lfinger.001",
+      "Lhip": "B21 / wall 8 / CTRL Lhip.001",
+      "Lknee": "B21 / wall 8 / CTRL Lknee.001",
+      "Lankle": "B21 / wall 8 / CTRL Lankle.001",
+      "Ltoe": "B21 / wall 8 / CTRL Ltoe.001",
+      "Rshoulder": "B21 / wall 8 / CTRL Rshoulder.001",
+      "Relbow": "B21 / wall 8 / CTRL Relbow.001",
+      "Rwrist": "B21 / wall 8 / CTRL Rwrist.001",
+      "Rfinger": "B21 / wall 8 / CTRL Rfinger.001",
+      "Rhip": "B21 / wall 8 / CTRL Rhip.001",
+      "Rknee": "B21 / wall 8 / CTRL Rknee.001",
+      "Rankle": "B21 / wall 8 / CTRL Rankle.001",
+      "Rtoe": "B21 / wall 8 / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.706019401550293,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.3491262197494507,
+        0.0
+      ],
+      "head": [
+        0.041941747069358826,
+        1.5728155374526978,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.24116504192352295,
+        1.2267961502075195,
+        0.0
+      ],
+      "Lelbow": [
+        -0.31106796860694885,
+        0.9996116757392883,
+        0.0
+      ],
+      "Lwrist": [
+        -0.38097086548805237,
+        0.7374757528305054,
+        0.0
+      ],
+      "Lfinger": [
+        -0.3914563059806824,
+        0.6221359372138977,
+        0.0
+      ],
+      "Lhip": [
+        -0.11883495002985,
+        0.6990291476249695,
+        0.0
+      ],
+      "Lknee": [
+        -0.18524271249771118,
+        0.46485435962677,
+        0.0
+      ],
+      "Lankle": [
+        -0.2551456391811371,
+        0.13281553983688354,
+        0.0
+      ],
+      "Ltoe": [
+        -0.36000001430511475,
+        0.041941747069358826,
+        0.0
+      ],
+      "Rshoulder": [
+        0.24116504192352295,
+        1.2267961502075195,
+        0.0
+      ],
+      "Relbow": [
+        0.31106796860694885,
+        0.9996116757392883,
+        0.0
+      ],
+      "Rwrist": [
+        0.38097086548805237,
+        0.7374757528305054,
+        0.0
+      ],
+      "Rfinger": [
+        0.3914563059806824,
+        0.6221359372138977,
+        0.0
+      ],
+      "Rhip": [
+        0.11883495002985,
+        0.6990291476249695,
+        0.0
+      ],
+      "Rknee": [
+        0.18524271249771118,
+        0.46485435962677,
+        0.0
+      ],
+      "Rankle": [
+        0.2551456391811371,
+        0.13281553983688354,
+        0.0
+      ],
+      "Rtoe": [
+        0.36000001430511475,
+        0.041941747069358826,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        368.7864077669903,
+        1026,
+        649.2135922330096,
+        1531
+      ],
+      "center": 509,
+      "top": 1030,
+      "floor": 1528,
+      "hip": 1332.6679611650486,
+      "neck": [
+        509.0,
+        1154.7417475728155
+      ],
+      "head": [
+        520.6038834951456,
+        1092.8543689320388
+      ],
+      "L": [
+        [
+          442.27766990291263,
+          1188.5864077669903
+        ],
+        [
+          422.93786407766993,
+          1251.4407766990291
+        ],
+        [
+          403.5980582524272,
+          1323.9650485436894
+        ],
+        [
+          400.6970873786408,
+          1355.8757281553399
+        ],
+        [
+          476.1223300970874,
+          1334.6019417475727
+        ],
+        [
+          457.7495145631068,
+          1399.3902912621359
+        ],
+        [
+          438.4097087378641,
+          1491.2543689320387
+        ],
+        [
+          409.4,
+          1516.3961165048543
+        ]
+      ],
+      "R": [
+        [
+          575.7223300970874,
+          1188.5864077669903
+        ],
+        [
+          595.0621359223301,
+          1251.4407766990291
+        ],
+        [
+          614.4019417475728,
+          1323.9650485436894
+        ],
+        [
+          617.3029126213592,
+          1355.8757281553399
+        ],
+        [
+          541.8776699029127,
+          1334.6019417475727
+        ],
+        [
+          560.2504854368932,
+          1399.3902912621359
+        ],
+        [
+          579.5902912621359,
+          1491.2543689320387
+        ],
+        [
+          608.6,
+          1516.3961165048543
+        ]
+      ],
+      "edge": [
+        [
+          1155.7087378640776,
+          27.075728155339803
+        ],
+        [
+          1195.3553398058252,
+          47.38252427184466
+        ],
+        [
+          1241.7708737864077,
+          47.38252427184466
+        ],
+        [
+          1293.9883495145632,
+          51.2504854368932
+        ],
+        [
+          1308.4932038834952,
+          53.18446601941747
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  },
+  "wall 9": {
+    "root": "B21 / wall 9 / character.001",
+    "skin": "B21 / wall 9 / complete neutral drawing.001",
+    "armature": "B21 / wall 9 / fitted bones.001",
+    "controls": {
+      "hip": "B21 / wall 9 / CTRL hip.001",
+      "neck": "B21 / wall 9 / CTRL neck.001",
+      "head": "B21 / wall 9 / CTRL head.001",
+      "Lshoulder": "B21 / wall 9 / CTRL Lshoulder.001",
+      "Lelbow": "B21 / wall 9 / CTRL Lelbow.001",
+      "Lwrist": "B21 / wall 9 / CTRL Lwrist.001",
+      "Lfinger": "B21 / wall 9 / CTRL Lfinger.001",
+      "Lhip": "B21 / wall 9 / CTRL Lhip.001",
+      "Lknee": "B21 / wall 9 / CTRL Lknee.001",
+      "Lankle": "B21 / wall 9 / CTRL Lankle.001",
+      "Ltoe": "B21 / wall 9 / CTRL Ltoe.001",
+      "Rshoulder": "B21 / wall 9 / CTRL Rshoulder.001",
+      "Relbow": "B21 / wall 9 / CTRL Relbow.001",
+      "Rwrist": "B21 / wall 9 / CTRL Rwrist.001",
+      "Rfinger": "B21 / wall 9 / CTRL Rfinger.001",
+      "Rhip": "B21 / wall 9 / CTRL Rhip.001",
+      "Rknee": "B21 / wall 9 / CTRL Rknee.001",
+      "Rankle": "B21 / wall 9 / CTRL Rankle.001",
+      "Rtoe": "B21 / wall 9 / CTRL Rtoe.001"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.706019401550293,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.3491262197494507,
+        0.0
+      ],
+      "head": [
+        0.041941747069358826,
+        1.5728155374526978,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.24116504192352295,
+        1.2267961502075195,
+        0.0
+      ],
+      "Lelbow": [
+        -0.31106796860694885,
+        0.9996116757392883,
+        0.0
+      ],
+      "Lwrist": [
+        -0.38097086548805237,
+        0.7374757528305054,
+        0.0
+      ],
+      "Lfinger": [
+        -0.3914563059806824,
+        0.6221359372138977,
+        0.0
+      ],
+      "Lhip": [
+        -0.11883495002985,
+        0.6990291476249695,
+        0.0
+      ],
+      "Lknee": [
+        -0.18524271249771118,
+        0.46485435962677,
+        0.0
+      ],
+      "Lankle": [
+        -0.2551456391811371,
+        0.13281553983688354,
+        0.0
+      ],
+      "Ltoe": [
+        -0.36000001430511475,
+        0.041941747069358826,
+        0.0
+      ],
+      "Rshoulder": [
+        0.24116504192352295,
+        1.2267961502075195,
+        0.0
+      ],
+      "Relbow": [
+        0.31106796860694885,
+        0.9996116757392883,
+        0.0
+      ],
+      "Rwrist": [
+        0.38097086548805237,
+        0.7374757528305054,
+        0.0
+      ],
+      "Rfinger": [
+        0.3914563059806824,
+        0.6221359372138977,
+        0.0
+      ],
+      "Rhip": [
+        0.11883495002985,
+        0.6990291476249695,
+        0.0
+      ],
+      "Rknee": [
+        0.18524271249771118,
+        0.46485435962677,
+        0.0
+      ],
+      "Rankle": [
+        0.2551456391811371,
+        0.13281553983688354,
+        0.0
+      ],
+      "Rtoe": [
+        0.36000001430511475,
+        0.041941747069358826,
+        0.0
+      ]
+    },
+    "cfg": {
+      "box": [
+        709.0388349514562,
+        1034,
+        984.9611650485438,
+        1531
+      ],
+      "center": 847,
+      "top": 1038,
+      "floor": 1528,
+      "hip": 1335.8058252427186,
+      "neck": [
+        847.0,
+        1160.7378640776699
+      ],
+      "head": [
+        858.4174757281553,
+        1099.8446601941748
+      ],
+      "L": [
+        [
+          781.3495145631068,
+          1194.0388349514562
+        ],
+        [
+          762.3203883495146,
+          1255.883495145631
+        ],
+        [
+          743.2912621359224,
+          1327.2427184466019
+        ],
+        [
+          740.4368932038835,
+          1358.6407766990292
+        ],
+        [
+          814.6504854368932,
+          1337.7087378640776
+        ],
+        [
+          796.5728155339806,
+          1401.4563106796118
+        ],
+        [
+          777.5436893203884,
+          1491.8446601941748
+        ],
+        [
+          749.0,
+          1516.5825242718447
+        ]
+      ],
+      "R": [
+        [
+          912.6504854368932,
+          1194.0388349514562
+        ],
+        [
+          931.6796116504854,
+          1255.883495145631
+        ],
+        [
+          950.7087378640776,
+          1327.2427184466019
+        ],
+        [
+          953.5631067961165,
+          1358.6407766990292
+        ],
+        [
+          879.3495145631068,
+          1337.7087378640776
+        ],
+        [
+          897.4271844660194,
+          1401.4563106796118
+        ],
+        [
+          916.4563106796116,
+          1491.8446601941748
+        ],
+        [
+          945.0,
+          1516.5825242718447
+        ]
+      ],
+      "edge": [
+        [
+          1161.6893203883494,
+          26.640776699029125
+        ],
+        [
+          1200.6990291262136,
+          46.62135922330097
+        ],
+        [
+          1246.368932038835,
+          46.62135922330097
+        ],
+        [
+          1297.747572815534,
+          50.42718446601942
+        ],
+        [
+          1312.0194174757282,
+          52.33009708737864
+        ]
+      ]
+    },
+    "construction": "neutral full-body drawing; v016 fitted continuous mesh; alpha-aware weights; rigid shoes; semantic depth"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "scripts/build_memory_v001.py": {
+    "sha256": "281c709e437640cce696cb14f86efbbaa794fe970678871813674b1075f5d815",
+    "snapshot": "artifacts/staging-v001/memory-v002/inputs/scripts/build_memory_v001.py"
+  },
+  "scripts/build_football_v001.py": {
+    "sha256": "2551333446673163bd8052debcfc3d346210f15d62eee58fbdcc1a314ff7b72a",
+    "snapshot": "artifacts/staging-v001/memory-v002/inputs/scripts/build_football_v001.py"
+  },
+  "scripts/revise_coaching_surfaces_v002.py": {
+    "sha256": "d9ee24405c97ed2117f17116f9bdc2d02a8b497b68fd0e3d2bd6f8205718249e",
+    "snapshot": "artifacts/staging-v001/memory-v002/inputs/scripts/revise_coaching_surfaces_v002.py"
+  },
+  "scripts/revise_memory_connections_v002.py": {
+    "sha256": "9c64783e432d0686942a6d0ebaa27bf3588abd1e50f6e3f94650ffc652b6e45a",
+    "snapshot": "artifacts/staging-v001/memory-v002/inputs/scripts/revise_memory_connections_v002.py"
+  },
+  "scripts/prepare_memory_hands_v002.py": {
+    "sha256": "e68366b81f5181a34529bf85056776e0d286529dd15269274b58c03586d6105f",
+    "snapshot": "artifacts/staging-v001/memory-v002/inputs/scripts/prepare_memory_hands_v002.py"
+  },
+  "scripts/review_memory_connections_v002.py": {
+    "sha256": "c0c67ed17b04cc98b1ef4a202943fd6fa90e73d04ffffaa5c8744ed2a9530de6",
+    "snapshot": "artifacts/staging-v001/memory-v002/inputs/scripts/review_memory_connections_v002.py"
+  },
+  "assets/memory-v001/lewandowski.json": {
+    "sha256": "b167569ba31075b9932a16431290178ef954b70d534c50ac88e656cabe2f0743",
+    "snapshot": "artifacts/staging-v001/memory-v002/inputs/assets/memory-v001/lewandowski.json"
+  },
+  "assets/memory-v001/raphinha.json": {
+    "sha256": "f43b1fb34364ac7cb14acdcf82e380cd6c1077b3cad490046c204467a7cff798",
+    "snapshot": "artifacts/staging-v001/memory-v002/inputs/assets/memory-v001/raphinha.json"
+  },
+  "assets/memory-v002/lewandowski-hands.json": {
+    "sha256": "c6f2c08b861d837553286c2bf752c96daf974e0391dbfbc8cb70612ed3a64a7e",
+    "snapshot": "artifacts/staging-v001/memory-v002/inputs/assets/memory-v002/lewandowski-hands.json"
+  },
+  "assets/memory-v002/raphinha-hands.json": {
+    "sha256": "d47eedec938d115b204c7a1083a87455761514feafaa6879eb49e275e645f73b",
+    "snapshot": "artifacts/staging-v001/memory-v002/inputs/assets/memory-v002/raphinha-hands.json"
+  }
+}

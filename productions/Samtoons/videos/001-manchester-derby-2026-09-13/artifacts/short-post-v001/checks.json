@@ -1,0 +1,22 @@
+{
+  "seconds": 20.25,
+  "frames": 486,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "channels": 2,
+  "full_decode": true,
+  "audio_source_correlation_excluding_edge_fades": 0.9998247778206553,
+  "loudness_lufs": -19.16,
+  "true_peak_dbtp": -1.89,
+  "visual_review": "All 486 encoded frames in six contact sheets, plus enlarged representative framing and final cover",
+  "listening": "Not performed by agent; user playback review remains",
+  "source_sha256": "4cb9cca4f8da2a3e2938e7fdea11624fb0edaf9cfa6700b936d04948fc3cf239",
+  "output_sha256": "086b1df89224febd0742217a6bb82df10226c8526043d5da55a652fff82f5885",
+  "bytes": 3771848
+}

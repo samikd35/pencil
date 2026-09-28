@@ -1,0 +1,181 @@
+{
+  "sample_rate": 48000,
+  "samples": 480000,
+  "seconds": 10.0,
+  "raw_peak": 0.24990495488549055,
+  "seed": 4821,
+  "origin": "Procedural oscillators, filtered noise and harmonic formants. No recordings, speech model, voice clone or third-party samples.",
+  "cues": [
+    {
+      "kind": "step",
+      "frame": 20,
+      "duration": 0.13,
+      "gain": 0.22,
+      "pan": -0.5,
+      "start_sample": 38000,
+      "stem": "footsteps"
+    },
+    {
+      "kind": "step",
+      "frame": 28,
+      "duration": 0.13,
+      "gain": 0.24,
+      "pan": -0.4,
+      "start_sample": 54000,
+      "stem": "footsteps"
+    },
+    {
+      "kind": "step",
+      "frame": 44,
+      "duration": 0.13,
+      "gain": 0.25,
+      "pan": -0.25,
+      "start_sample": 86000,
+      "stem": "footsteps"
+    },
+    {
+      "kind": "step",
+      "frame": 52,
+      "duration": 0.15,
+      "gain": 0.28,
+      "pan": -0.15,
+      "start_sample": 102000,
+      "stem": "footsteps"
+    },
+    {
+      "kind": "tap",
+      "frame": 54,
+      "duration": 0.12,
+      "gain": 0.13,
+      "pan": 0.2,
+      "start_sample": 106000,
+      "stem": "foley"
+    },
+    {
+      "kind": "effort",
+      "frame": 60,
+      "duration": 0.43,
+      "gain": 0.19,
+      "pan": -0.15,
+      "start_sample": 118000,
+      "stem": "character"
+    },
+    {
+      "kind": "creak",
+      "frame": 66,
+      "duration": 0.35,
+      "gain": 0.085,
+      "pan": 0.2,
+      "start_sample": 130000,
+      "stem": "foley"
+    },
+    {
+      "kind": "breath",
+      "frame": 99,
+      "duration": 0.35,
+      "gain": 0.06,
+      "pan": -0.2,
+      "start_sample": 196000,
+      "stem": "character"
+    },
+    {
+      "kind": "step",
+      "frame": 104,
+      "duration": 0.16,
+      "gain": 0.25,
+      "pan": -0.35,
+      "start_sample": 206000,
+      "stem": "footsteps"
+    },
+    {
+      "kind": "effort",
+      "frame": 117,
+      "duration": 1.12,
+      "gain": 0.24,
+      "pan": -0.1,
+      "start_sample": 232000,
+      "stem": "character"
+    },
+    {
+      "kind": "creak",
+      "frame": 121,
+      "duration": 0.9,
+      "gain": 0.095,
+      "pan": 0.2,
+      "start_sample": 240000,
+      "stem": "foley"
+    },
+    {
+      "kind": "electric",
+      "frame": 128,
+      "duration": 0.79,
+      "gain": 0.075,
+      "pan": 0.05,
+      "start_sample": 254000,
+      "stem": "electric"
+    },
+    {
+      "kind": "scrape",
+      "frame": 147,
+      "duration": 0.7,
+      "gain": 0.19,
+      "pan": 0.45,
+      "start_sample": 292000,
+      "stem": "foley"
+    },
+    {
+      "kind": "gasp",
+      "frame": 154,
+      "duration": 0.3,
+      "gain": 0.18,
+      "pan": 0.08,
+      "start_sample": 306000,
+      "stem": "character"
+    },
+    {
+      "kind": "whoosh",
+      "frame": 154,
+      "duration": 0.43,
+      "gain": 0.095,
+      "pan": 0.3,
+      "start_sample": 306000,
+      "stem": "foley"
+    },
+    {
+      "kind": "step",
+      "frame": 167,
+      "duration": 0.19,
+      "gain": 0.32,
+      "pan": 0.03,
+      "start_sample": 332000,
+      "stem": "footsteps"
+    },
+    {
+      "kind": "step",
+      "frame": 170,
+      "duration": 0.17,
+      "gain": 0.26,
+      "pan": 0.22,
+      "start_sample": 338000,
+      "stem": "footsteps"
+    },
+    {
+      "kind": "step",
+      "frame": 190,
+      "duration": 0.12,
+      "gain": 0.16,
+      "pan": 0.08,
+      "start_sample": 378000,
+      "stem": "footsteps"
+    },
+    {
+      "kind": "hum",
+      "frame": 216,
+      "duration": 0.65,
+      "gain": 0.17,
+      "pan": 0.12,
+      "start_sample": 430000,
+      "stem": "character"
+    }
+  ]
+}

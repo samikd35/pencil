@@ -1,0 +1,52 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Speech,Arial,30,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,3,2,0,2,65,65,10,1
+Style: Music,Arial,23,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,0,-1,0,0,100,100,0,0,3,2,0,2,65,65,106,1
+Style: Title,Arial,39,&H00FFFFFF,&H00FFFFFF,&H80000000,&H80000000,-1,0,0,0,100,100,0,0,3,3,0,8,50,50,45,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.92,0:00:06.14,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} City won again. They are right behind us! We\Nare NOT handing Pep first place
+Dialogue: 0,0:00:06.14,0:00:06.84,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} this year!
+Dialogue: 0,0:00:07.42,0:00:08.92,Music,MUSIC,0,0,0,,[{\c&H84DBFF&}MUSIC:{\c&HFFFFFF&} The title chase]
+Dialogue: 0,0:00:08.04,0:00:12.33,Speech,NARRATOR,0,0,0,,{\c&H84DBFF&}NARRATOR:{\c&HFFFFFF&} Arsenal were leading the league.\NUnfortunately, they had seen what happens
+Dialogue: 0,0:00:12.33,0:00:14.28,Speech,NARRATOR,0,0,0,,{\c&H84DBFF&}NARRATOR:{\c&HFFFFFF&} when Pep starts following them.
+Dialogue: 0,0:00:15.08,0:00:17.24,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} He’s only walking. We’re fine.
+Dialogue: 0,0:00:19.71,0:00:22.99,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} We are sprinting! How is he getting closer?
+Dialogue: 0,0:00:23.79,0:00:26.67,Speech,PEP,0,0,0,,{\c&H84DBFF&}PEP:{\c&HFFFFFF&} You always get tired around this part, Mikel.
+Dialogue: 0,0:00:27.50,0:00:31.74,Speech,COURIER,0,0,0,,{\c&H84DBFF&}COURIER:{\c&HFFFFFF&} Your annual second-place delivery! Same shelf\Nas last time?
+Dialogue: 0,0:00:32.54,0:00:35.98,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Cancel the subscription! We are winning it\Nthis year!
+Dialogue: 0,0:00:36.79,0:00:37.99,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Keep hold of the lead!
+Dialogue: 0,0:00:40.42,0:00:45.22,Speech,REFEREE,0,0,0,,{\c&H84DBFF&}REFEREE:{\c&HFFFFFF&} He has pulled him down inside the box.\NPenalty against Arsenal!
+Dialogue: 0,0:00:45.79,0:00:47.29,Music,MUSIC,0,0,0,,[{\c&H84DBFF&}MUSIC:{\c&HFFFFFF&} Telephone hold music]
+Dialogue: 0,0:00:46.04,0:00:48.84,Speech,RECORDED VOICE,0,0,0,,{\c&H84DBFF&}RECORDED VOICE:{\c&HFFFFFF&} For a penalty against Arsenal, please\Nhold.
+Dialogue: 0,0:00:50.92,0:00:56.84,Speech,OPERATOR,0,0,0,,{\c&H84DBFF&}OPERATOR:{\c&HFFFFFF&} Mikel! Our priority customer. What can we\Ncancel today?
+Dialogue: 0,0:00:57.67,0:01:03.34,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} That penalty against us. Make it disappear.\NSame service as the rest of the
+Dialogue: 0,0:01:03.34,0:01:03.75,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} season.
+Dialogue: 0,0:01:04.54,0:01:08.94,Speech,OPERATOR,0,0,0,,{\c&H84DBFF&}OPERATOR:{\c&HFFFFFF&} Penalty cancelled. Would you like an Arsenal\Ncorner as a complimentary
+Dialogue: 0,0:01:08.94,0:01:09.34,Speech,OPERATOR,0,0,0,,{\c&H84DBFF&}OPERATOR:{\c&HFFFFFF&} extra?
+Dialogue: 0,0:01:10.17,0:01:12.33,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Now that is customer service.
+Dialogue: 0,0:01:14.38,0:01:18.78,Speech,OPERATOR,0,0,0,,{\c&H84DBFF&}OPERATOR:{\c&HFFFFFF&} Decision: no penalty. Corner to Arsenal.
+Dialogue: 0,0:01:19.08,0:01:21.48,Speech,REFEREE,0,0,0,,{\c&H84DBFF&}REFEREE:{\c&HFFFFFF&} But Arsenal committed the foul!
+Dialogue: 0,0:01:21.79,0:01:23.95,Speech,OPERATOR,0,0,0,,{\c&H84DBFF&}OPERATOR:{\c&HFFFFFF&} And Arsenal will take the corner.
+Dialogue: 0,0:01:25.12,0:01:30.19,Speech,NARRATOR,0,0,0,,{\c&H84DBFF&}NARRATOR:{\c&HFFFFFF&} One goal would make Arsenal champions. Their\Nentire season had come down to
+Dialogue: 0,0:01:30.19,0:01:30.96,Speech,NARRATOR,0,0,0,,{\c&H84DBFF&}NARRATOR:{\c&HFFFFFF&} another corner.
+Dialogue: 0,0:01:31.79,0:01:33.87,Speech,GYÖKERES,0,0,0,,{\c&H84DBFF&}GYÖKERES:{\c&HFFFFFF&} Do I finally get to shoot?
+Dialogue: 0,0:01:34.17,0:01:36.01,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} No. Stand there.
+Dialogue: 0,0:01:36.67,0:01:38.07,Music,MUSIC,0,0,0,,[{\c&H84DBFF&}MUSIC:{\c&HFFFFFF&} Two-note mystery motif]
+Dialogue: 0,0:01:36.83,0:01:41.31,Speech,NARRATOR,0,0,0,,{\c&H84DBFF&}NARRATOR:{\c&HFFFFFF&} Come on. There is still time for Arsenal to\Nbottle this.
+Dialogue: 0,0:01:42.12,0:01:47.08,Speech,GYÖKERES,0,0,0,,{\c&H84DBFF&}GYÖKERES:{\c&HFFFFFF&} You signed a striker, Mikel! When do I\Nactually get to shoot?
+Dialogue: 0,0:01:52.92,0:01:57.00,Speech,GYÖKERES,0,0,0,,{\c&H84DBFF&}GYÖKERES:{\c&HFFFFFF&} My first title-winning goal, and I did not\Neven face the goal?
+Dialogue: 0,0:01:57.29,0:01:58.73,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Exactly as rehearsed.
+Dialogue: 0,0:01:59.54,0:02:02.50,Speech,COURIER,0,0,0,,{\c&H84DBFF&}COURIER:{\c&HFFFFFF&} Then where am I taking all these second-place\Nmedals?
+Dialogue: 0,0:02:02.83,0:02:07.47,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Etihad Pharmacy. Ask for Pep. He will need\Nsomething for the pain.
+Dialogue: 0,0:02:08.67,0:02:10.99,Speech,ARTETA,0,0,0,,{\c&H84DBFF&}ARTETA:{\c&HFFFFFF&} Nobody deserves this more than you.
+Dialogue: 0,0:02:16.33,0:02:17.83,Music,MUSIC,0,0,0,,[{\c&H84DBFF&}MUSIC:{\c&HFFFFFF&} The familiar two notes]
+Dialogue: 0,0:02:17.04,0:02:18.24,Music,MUSIC,0,0,0,,[{\c&H84DBFF&}MUSIC:{\c&HFFFFFF&} The final note]
+Dialogue: 0,0:02:18.62,0:02:25.08,Speech,FERGUSON,0,0,0,,{\c&H84DBFF&}FERGUSON:{\c&HFFFFFF&} I SAID I WAS RETIRED! Now Arsenal have won\Nthe league with a CORNER FLAG and
+Dialogue: 0,0:02:25.08,0:02:28.71,Speech,FERGUSON,0,0,0,,{\c&H84DBFF&}FERGUSON:{\c&HFFFFFF&} a BACKSIDE! STOP GIVING ME REASONS TO COME\NBACK!

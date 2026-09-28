@@ -1,0 +1,27 @@
+{
+  "id": "expressive-stickman",
+  "name": "Expressive stickman",
+  "category": "Character",
+  "description": "Sparse lines, clear gestures and a lively face.",
+  "limitation": "New props and actions still need contact checks.",
+  "recipe": "recipes/expressive-stickman.md",
+  "sample": "samples/expressive-stickman.png",
+  "settings": {
+    "design": "stick",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "status": "Still tested \u00b7 motion untested",
+  "evidence": [
+    {
+      "label": "Native project",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/expressive-stickman/character.blend"
+    },
+    {
+      "label": "240-frame connection check",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/expressive-stickman/checks.json"
+    }
+  ],
+  "sources": [],
+  "motion_tested": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rubber-hose",
+  "name": "Rubber-hose cartoon",
+  "category": "Character",
+  "description": "Rounded gloves, pie-cut eyes and smooth elastic limbs.",
+  "limitation": "Vintage redraws, smears and extreme squash need extra artwork.",
+  "recipe": "recipes/rubber-hose.md",
+  "sample": "samples/rubber-hose.png",
+  "settings": {
+    "design": "hose",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "status": "Not yet validated",
+  "evidence": [],
+  "sources": [
+    "https://www.adobe.com/uk/creativecloud/animation/discover/rubber-hose-animation.html"
+  ]
+}

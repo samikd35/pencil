@@ -1,0 +1,6 @@
+{
+  "frames": 240,
+  "body_head_hands_gaze_blink_brow_animation_unchanged": true,
+  "allowed_change": "Rest facial artwork, eye/brow/viseme base placement and proportions",
+  "visual_likeness_acceptance": false
+}

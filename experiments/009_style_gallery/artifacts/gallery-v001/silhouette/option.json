@@ -1,0 +1,19 @@
+{
+  "id": "silhouette",
+  "name": "Silhouette / shadow",
+  "category": "Finish",
+  "description": "A dark character whose action reads through its outline.",
+  "limitation": "Overlapping limbs lose detail; stage poses with negative space.",
+  "recipe": "recipes/silhouette.md",
+  "sample": "samples/silhouette.png",
+  "settings": {
+    "design": "human",
+    "finish": "silhouette",
+    "presentation": "scene"
+  },
+  "status": "Not yet validated",
+  "evidence": [],
+  "sources": [
+    "https://www.bfi.org.uk/sight-and-sound/features/scissors-make-films-lotte-reiniger-creating-her-magical-animations"
+  ]
+}

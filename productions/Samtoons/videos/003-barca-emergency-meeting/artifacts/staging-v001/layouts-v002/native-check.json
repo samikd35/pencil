@@ -1,0 +1,55 @@
+{
+  "blender": "5.2.0 LTS",
+  "saved_reopened_rendered": true,
+  "scenes": [
+    {
+      "scene": "S003_L01_score_reveal_v002",
+      "image": "S003_L01_score_reveal_v002.png",
+      "objects": 63,
+      "camera": "S003_L01_score_reveal_v002_camera"
+    },
+    {
+      "scene": "S003_L02_meeting_entry_v002",
+      "image": "S003_L02_meeting_entry_v002.png",
+      "objects": 83,
+      "camera": "S003_L02_meeting_entry_v002_camera"
+    },
+    {
+      "scene": "S003_L03_listening_reversal_v002",
+      "image": "S003_L03_listening_reversal_v002.png",
+      "objects": 46,
+      "camera": "S003_L03_listening_reversal_v002_camera"
+    },
+    {
+      "scene": "S003_L04_failed_plan_v002",
+      "image": "S003_L04_failed_plan_v002.png",
+      "objects": 135,
+      "camera": "S003_L04_failed_plan_v002_camera"
+    },
+    {
+      "scene": "S003_L05_flick_response_v002",
+      "image": "S003_L05_flick_response_v002.png",
+      "objects": 66,
+      "camera": "S003_L05_flick_response_v002_camera"
+    },
+    {
+      "scene": "S003_L06_bayern_call_v002",
+      "image": "S003_L06_bayern_call_v002.png",
+      "objects": 63,
+      "camera": "S003_L06_bayern_call_v002_camera"
+    },
+    {
+      "scene": "S003_L07_transfer_v002",
+      "image": "S003_L07_transfer_v002.png",
+      "objects": 67,
+      "camera": "S003_L07_transfer_v002_camera"
+    },
+    {
+      "scene": "S003_L08_support_group_v002",
+      "image": "S003_L08_support_group_v002.png",
+      "objects": 81,
+      "camera": "S003_L08_support_group_v002_camera"
+    }
+  ],
+  "evidence": "Static native layout render only. No character likeness or animation approval."
+}

@@ -1,0 +1,28 @@
+{
+  "animatic-with-sound.mp4": {
+    "frames": 240,
+    "fps": 24,
+    "video_seconds": 10.0,
+    "size": [
+      640,
+      360
+    ],
+    "decode": "passed",
+    "sha256": "6142b1904a6b7344c34e6412a5b6a7ec41e5181658b993e43879dd2b37004877"
+  },
+  "before-after.mp4": {
+    "frames": 240,
+    "fps": 24,
+    "video_seconds": 10.0,
+    "size": [
+      1280,
+      400
+    ],
+    "decode": "passed",
+    "sha256": "4ce9d21de9eb2a4a4deea597d54d5abaa5f2c0d3345f1fe2ad53b919e860a512"
+  },
+  "aac_stream_sha256": "265962ccea9febc929637cb358ba2cd5e631289161c4f177dbdb558994be0733",
+  "decoded_audio_pcm_sha256": "b992a87d58b678041898844984a22715c1ed013cd12df9d2c6e1f330bc0cea8d",
+  "audio": "Original movie AAC copied unchanged; decoded PCM also identical. No new listening claimed.",
+  "review_status": "Encoded frame sequences reviewed: full-action overview, walking 1-45 every two frames, push 103-110, release/settle 150-197. User playback remains creative review; no new listening claimed."
+}

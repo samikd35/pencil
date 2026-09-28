@@ -1,0 +1,8 @@
+file '/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/section-00-cuesv3/mix-premaster.wv'
+file '/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/section-01-cuesv3/mix-premaster.wv'
+file '/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/section-02-scorev2/mix-premaster.wv'
+file '/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/section-03-cuesv3/mix-premaster.wv'
+file '/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/section-04-cuesv3/mix-premaster.wv'
+file '/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/section-05-cuesv3/mix-premaster.wv'
+file '/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/section-06-cuesv3/mix-premaster.wv'
+file '/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/section-07/mix-premaster.wv'

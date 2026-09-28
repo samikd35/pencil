@@ -1,0 +1,19 @@
+{
+  "id": "L24",
+  "chapter": 4,
+  "beat": "CP04",
+  "role_and_direction": "COURIER",
+  "text": "Still delivering in May?",
+  "word_count": 4,
+  "seconds": 1.68,
+  "file": "L24.wav",
+  "sha256": "5a8f92138b062c54eb7c9ad099f6188d0d73845eb7df6737d8751e0c8eaa56b8",
+  "reference_start_seconds": 60.81977083333334,
+  "role": "COURIER",
+  "direction": "Adult British man with a light nasal tenor, crisply cheerful delivery-driver manner. Smiling efficiency, oblivious to how insulting his words are. Natural clear character delivery; make the sentence a thought, not a reading. Clean dry microphone, no music or extra words.",
+  "seed": 48,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.8022693340026308,
+  "path": "artifacts/animatic-v001/voices/L24.wav"
+}

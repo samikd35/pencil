@@ -1,0 +1,7 @@
+{
+  "artifacts/staging-v001/football-performance-v001/football-performance.blend": "ec202cc07edfce4d57d11b570b43cab6cabb62eed2c131da027fb174043a9c71",
+  "scripts/render_football_v001.py": "beee1806a9ad597c911c0573b5d9a4de94a200717f56ec01ff7d97faa2caa61a",
+  "scripts/build_football_v001.py": "388f69a5471c5ef5bd2d9326fdd4af78f6c1ed9e1cb31c36c8f8781ccf99ffbf",
+  "production.json": "3528aa01c381982f973be863eab6850e460c36db93d9cf90f2ff3e7178c7cdd3",
+  "artifacts/staging-v001/football-performance-v001/audio/mix-premaster.wav": "074e0a3948ca3bb3b024e0189c678dd6fcbe960c59b87dfd36e70d09c2412e30"
+}

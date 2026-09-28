@@ -1,0 +1,82 @@
+{
+  "source": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/delivery-v029/samtoons-final-1080p.mp4",
+  "method": "Sampled frames for segment/framing planning; not continuous playback or listening. Labels describe intended beat, not contact validation.",
+  "sets": {
+    "striker-selection": [
+      [
+        "Point/setup",
+        48.125
+      ],
+      [
+        "Reveal movement",
+        49.5
+      ],
+      [
+        "Number nine flag",
+        51.25
+      ],
+      [
+        "Why am I here?",
+        54
+      ],
+      [
+        "Corners instruction",
+        56.5
+      ],
+      [
+        "Training correction",
+        60.5
+      ],
+      [
+        "Kick approach/contact",
+        64.583333
+      ],
+      [
+        "Ball outcome",
+        65.833333
+      ],
+      [
+        "Arteta payoff",
+        68.5
+      ]
+    ],
+    "alternatives": [
+      [
+        "Bottle delivery",
+        21
+      ],
+      [
+        "Bottle complaint",
+        25
+      ],
+      [
+        "Subscription payoff",
+        31.5
+      ],
+      [
+        "Everybody back",
+        85
+      ],
+      [
+        "Defensive wall",
+        94
+      ],
+      [
+        "Coach cameos",
+        103
+      ],
+      [
+        "Title chase",
+        139
+      ],
+      [
+        "Pep pressure",
+        150
+      ],
+      [
+        "VAR room",
+        184
+      ]
+    ]
+  }
+}

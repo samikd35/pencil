@@ -1,0 +1,12 @@
+{
+  "scripts/build_membership_v001.py": "f47f2512cd9c7af9b6412f23ea9aa1bbda46e82cec5b39c466b48919b745d5c8",
+  "scripts/prepare_membership_v001.py": "b1ec32aabc4d84360bf56574d3dc3d74924b7c541fd527bb719f1417616b35af",
+  "scripts/render_staging_scene.py": "615a6a575949f86570023a3d849d0625cb3aa08a6ae0ea976449bea501b509b7",
+  "assets/membership-v001/reference.png": "02895dfd95db7649023ac03dfd4661256e7341a9e588da16f7ee422f9b75589d",
+  "assets/membership-v001/fan.json": "015a28d208de63112448896b219c94ab6c95f0942c04c3b9317066385f401e7f",
+  "assets/membership-v001/valencia.json": "0122c17619bc25753e45bfd6f8492dac429f06e387c48a31c814e070e2cc3ed5",
+  "assets/voices-s12-v001/fan-delighted.wav": "4dabd263b4a7348262783ba6c674c56578c4280699411054addfd1512ccff6bb",
+  "assets/voices-s12-v001/fan-defensive.wav": "bc086ab8248270706a7a368b48aef27f14bf0820176b984415be92e6aa3034ba",
+  "artifacts/staging-v001/membership-v001/render-selection.json": "0b6aec305e1be356db1cff091b5d669828a1d2b8446fd7bf8982450d3ec9e176",
+  "artifacts/staging-v001/membership-v001/check_native.py": "76f18d52f2bf3afc36e54b7db29560121df7bb266b113a881d7b7e8dc3a96337"
+}

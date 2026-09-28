@@ -1,0 +1,27 @@
+{
+  "id": "flat-vector",
+  "name": "Flat vector cartoon",
+  "category": "Character",
+  "description": "Clean shapes, solid colors and a unified outfit.",
+  "limitation": "Turns and foreshortening need authored views.",
+  "recipe": "recipes/flat-vector.md",
+  "sample": "samples/flat-vector.png",
+  "settings": {
+    "design": "human",
+    "finish": "flat",
+    "presentation": "scene"
+  },
+  "status": "Still tested \u00b7 motion untested",
+  "evidence": [
+    {
+      "label": "Native project",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/flat-vector/character.blend"
+    },
+    {
+      "label": "240-frame connection check",
+      "path": "../../experiments/009_style_gallery/artifacts/gallery-v001/flat-vector/checks.json"
+    }
+  ],
+  "sources": [],
+  "motion_tested": false
+}

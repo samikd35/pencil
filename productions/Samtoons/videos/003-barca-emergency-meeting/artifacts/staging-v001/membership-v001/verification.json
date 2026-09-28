@@ -1,0 +1,41 @@
+{
+  "frames": 312,
+  "fps": 24,
+  "size": [
+    1280,
+    720
+  ],
+  "duration_seconds": 13,
+  "audio_sample_rate": 48000,
+  "full_decode": "passed",
+  "render_input_hashes": "matched",
+  "extracted_encoded_frames": [
+    1,
+    20,
+    25,
+    31,
+    35,
+    43,
+    69,
+    89,
+    99,
+    108,
+    116,
+    118,
+    124,
+    131,
+    138,
+    146,
+    210,
+    211,
+    222,
+    230,
+    275,
+    291,
+    312
+  ],
+  "visual_review": "Inspected encoded grip/retrieval crops 20,31,43,99,108,118,124,138 and wide/insert/reaction sheet. Prior scarf stretch and torso holes absent; minor source-edge/cuff artifacts remain documented.",
+  "normal_speed_playback_review": "User checkpoint pending",
+  "audio_listened_by_agent": false,
+  "repackaging_picture_comparison": "Both reviewed contact sheets are byte-identical after normal-project save/re-render."
+}

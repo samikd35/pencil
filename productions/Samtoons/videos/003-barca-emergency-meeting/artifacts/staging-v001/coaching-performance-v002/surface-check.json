@@ -1,0 +1,27 @@
+{
+  "frames_per_actor": 360,
+  "actors": [
+    "Flick",
+    "Assistant"
+  ],
+  "checks": [
+    "Every baked shirt/sleeve union is one connected polygon",
+    "Every baked pelvis/leg union is one connected polygon",
+    "Standing knee flexion below 10 degrees at frame 70, measured in v001 construction check",
+    "Existing action schedule retained; all frames baked to native drawings"
+  ],
+  "implementation_dependency": "Shapely 2.1.2, offline only",
+  "limits": "Connectivity does not certify anatomy, appeal, screen contacts, arbitrary motions, timing or sound.",
+  "active_garment_drawings_at_review_frames": {
+    "1": 4,
+    "70": 4,
+    "140": 4,
+    "240": 4,
+    "277": 4,
+    "307": 4,
+    "337": 4,
+    "348": 4,
+    "360": 4
+  },
+  "viewport_matches_render_at_review_frames": true
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "food-mascot",
+    "local_path": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/artifacts/reference-gallery-v001/downloads/food-mascot-sukiya3.jpg",
+    "title": "The World of Suki-Ya — food mascot ensemble",
+    "creator": "Poh Zi Qun (AK) / Big 3 Media for Creative Eateries",
+    "source_url": "https://www.ziqun-ak.com/sukiya",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/558fb9e3e4b09d60c5d5f0de/1629726264459-VMP3290P4PGPNI6W4UCB/Sukiya_Group.jpg",
+    "credit": "The World of Suki-Ya · Poh Zi Qun (AK) / Big 3 Media",
+    "rationale": "The character designer’s published artwork shows a coordinated ensemble of lively food mascots with distinct ingredient silhouettes, tiny faces and simple limbs. The central mascot’s bowl and spoon gestures provide clear prop-contact examples. The project page also describes six animated skits, making this a useful art-direction target for animated food characters.",
+    "quality_targets": [
+      "Keep each ingredient recognizable through its outer shape, with facial features integrated into the same illustration.",
+      "Use consistent rounded limb shapes and simple hands; stage active gestures clearly and show a convincing grip on props.",
+      "Unify the cast with warm brown contours, controlled flat colors and restrained surface details that describe the ingredient."
+    ],
+    "notes": "Original opaque RGB JPEG, 1920×1080, inspected individually at full size; no transparency, cropping, retouching or source-pixel changes. This replaces the rejected NomNom Club WEBP: its transparency materially changes the visible design, and its hidden RGB must not be displayed by discarding alpha. Candidate originals remain preserved.",
+    "use": "Attributed external visual quality reference; not a production asset or evidence of Pencil motion performance.",
+    "width": 1920,
+    "height": 1080,
+    "original_dimensions": {
+      "width": 1920,
+      "height": 1080
+    },
+    "sha256": "6835e0e91b7af1abb8f327adece27066ce2154c59a45b318a18d995650501f62"
+  },
+  {
+    "id": "rounded-mascot",
+    "local_path": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/artifacts/reference-gallery-v001/downloads/rounded-mascot-sleep-scene.jpg",
+    "title": "Headspace: Sleep — headphones in a dream landscape",
+    "creator": "Moth Studio for Headspace",
+    "source_url": "https://www.moth.studio/projects/sleep-headspace",
+    "image_url": "https://a2.storyblok.com/f/285360335129517/2000x1125/8a25d5350f/c1d6bfc8a856addc1ba861ad1f3cb349aa1f8614_headspace_sleep_animation_advertising_2d_3d_london_agency_moth_studio_.jpg",
+    "credit": "Headspace: Sleep · Moth Studio / Headspace",
+    "rationale": "A clean, finished scene shows how a friendly mascot with soft shapes and minimal facial marks can sit in a carefully composed world. One hand touches the headphones while the other rests over the blanket. The scene demonstrates rounded character design, readable contact and a unified palette without injury imagery.",
+    "quality_targets": [
+      "Use generous rounded contours and a few well-placed facial curves to make emotion immediately readable.",
+      "Keep simplified hands continuous with the forearms and make headphone or prop contact clear; preserve the gap inside the bent arm.",
+      "Use a coordinated limited palette, with restrained pink accents and value differences that separate the character from the layered environment."
+    ],
+    "notes": "Original 2000×1125 still from Moth Studio’s Headspace: Sleep project page, preserved without cropping or retouching. Reviewed individually at full size: the character is intact. This replaces the rejected Dumb Ways classroom candidate, whose center character has a severed-head gag.",
+    "use": "Attributed external visual quality reference; not a production asset or evidence of Pencil motion performance.",
+    "width": 2000,
+    "height": 1125,
+    "original_dimensions": {
+      "width": 2000,
+      "height": 1125
+    },
+    "sha256": "cb32159e10c4fbe30e4c356136809a2d56e0552d555d87f6e9bde0731a648328"
+  },
+  {
+    "id": "animal-mascot",
+    "title": "Bluey — Keepy Uppy episode artwork",
+    "creator": "Ludo Studio / BBC Studios",
+    "source_url": "https://www.bluey.tv/watch/season-1/keepy-uppy/",
+    "image_url": "https://www.bluey.tv/wp-content/uploads/2023/08/ABTI300N50_KEEPY_UPPY_Image_01-scaled.jpg",
+    "credit": "Bluey · Ludo Studio / BBC Studios",
+    "rationale": "A clear upright animal character in a finished room shows how silhouette, ears, muzzle and flat fur patches create identity while hands perform one readable action. The continuous drawing language and controlled scene palette are suitable targets for a simple articulated native character.",
+    "quality_targets": [
+      "Use the same contour and fill language across head, muzzle, body and paws.",
+      "Establish identity through ear shape, muzzle proportions and a small number of large fur markings.",
+      "Show convincing paw-to-balloon contact and planted feet, with background detail subordinate to the action."
+    ],
+    "notes": "Official episode page open-graph artwork, downloaded at its published 2560×1440 size.",
+    "local_path": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/artifacts/reference-gallery-v001/downloads/animal-mascot-bluey.jpg",
+    "width": 2560,
+    "height": 1440,
+    "original_dimensions": {
+      "width": 2560,
+      "height": 1440
+    },
+    "sha256": "7f3404106a604e5535f08fb31b6f7a76651e036179bd831d50f5685d51d96017",
+    "use": "Attributed external visual quality reference; not a production asset or evidence of Pencil motion performance."
+  },
+  {
+    "id": "doodle",
+    "title": "Simon’s Cat — Cat Man Do featured artwork",
+    "creator": "Simon Tofield / Simon’s Cat Ltd.",
+    "source_url": "https://simonscat.com/watch",
+    "image_url": "https://www.simonscat.com/assets/images/_AUTOxAUTO_crop_center-center_85_none_ns/Thumbnail_Cat_man_do_resized.jpg?v=1704987988%2C0.5%2C0.5",
+    "credit": "Simon’s Cat · Simon Tofield / Simon’s Cat Ltd.",
+    "rationale": "The official Watch page’s large, clean artwork shows expressive line drawing with readable paw-to-cloth contact. It is more useful at menu scale than a four-panel comic strip or the small YouTube thumbnail. The small creator badge is preserved.",
+    "quality_targets": [
+      "Use economical, lively contours with controlled irregularity and consistent visual weight.",
+      "Make gaze, mouth and body posture communicate the action without color or extra facial detail.",
+      "Keep the hand or paw contact legible and preserve open white space around the active silhouette."
+    ],
+    "notes": "Author-published 1920×1080 featured image. The source filename calls it resized; no upscaling or sharpening was added by Pencil.",
+    "local_path": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/artifacts/reference-gallery-v001/downloads/doodle-cat-man-do.jpg",
+    "width": 1920,
+    "height": 1080,
+    "original_dimensions": {
+      "width": 1920,
+      "height": 1080
+    },
+    "sha256": "9eda3d8769bc843464b3d48107aa874420d0c724ec9c490272dc06a95dbacc23",
+    "use": "Attributed external visual quality reference; not a production asset or evidence of Pencil motion performance."
+  },
+  {
+    "id": "silhouette",
+    "title": "Princes et princesses — queen with hourglass",
+    "creator": "Michel Ocelot / La Fabrique; distributed by Gebeka Films",
+    "source_url": "https://www.gebekafilms.com/fiches-films/princes-et-princesses/",
+    "image_url": "https://www.gebekafilms.com/app/uploads/2019/07/Princes-02.jpg",
+    "credit": "Princes et princesses · Michel Ocelot / Gebeka Films",
+    "rationale": "A sharply readable profile, crown, bent arms and held hourglass show how a black silhouette can carry character and action. Fine ornamental scenery and a luminous magenta background set an ambitious finish target while preserving simple articulated posing.",
+    "quality_targets": [
+      "Make identity readable through profile, crown and posture before adding any internal detail.",
+      "Protect negative-space gaps around arms, torso and the held prop so contact remains clear.",
+      "Use strong foreground/background value contrast; keep decorative cutwork from merging into the acting silhouette."
+    ],
+    "notes": "The distributor’s full gallery image and advertised HD ZIP both contain the same 732×691 source. It is sharp at card size; do not upscale it or label it HD. This is the one source-resolution limitation in this group.",
+    "local_path": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/artifacts/reference-gallery-v001/downloads/silhouette-princes-2.jpg",
+    "width": 732,
+    "height": 691,
+    "original_dimensions": {
+      "width": 732,
+      "height": 691
+    },
+    "sha256": "0a874abf0983b5e3ffeb42fbc3db291aa967dddfe98cccd647dc8c26e918f757",
+    "use": "Attributed external visual quality reference; not a production asset or evidence of Pencil motion performance."
+  },
+  {
+    "id": "paper-cutout",
+    "title": "The Old Red Rooster — rooster on the barn",
+    "creator": "Anders Sundstedt / Sundstedt Animation",
+    "source_url": "https://sundstedt.co.uk/blog/portfolio/the-old-red-rooster-animated-music-video/",
+    "image_url": "https://sundstedt.co.uk/blog/wp-content/uploads/2018/08/The-Old-Red-Rooster-Music-Video-Sundstedt-Animation-0-00-09-15.jpg",
+    "credit": "The Old Red Rooster · Anders Sundstedt / Sundstedt Animation",
+    "rationale": "The close, readable rooster shows separate feather shapes, painted texture and shallow layered scenery. The studio explicitly describes digitally illustrated paper-cutout styling, so the target is the paper appearance and art direction, not a requirement to photograph physical paper.",
+    "quality_targets": [
+      "Build a readable character from layered cut shapes, with feather or clothing detail following the form.",
+      "Use restrained painted texture and shallow edge shadows consistently across character and scenery.",
+      "Keep feet visibly on the supporting surface and use warm/cool color contrast to separate the character from the set."
+    ],
+    "notes": "The 1180×664 original includes the studio’s watermark and URL; both are preserved. Source production is a paper-cutout-look digital animation, not a Blender implementation claim.",
+    "local_path": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/artifacts/reference-gallery-v001/downloads/paper-cutout-rooster-4.jpg",
+    "width": 1180,
+    "height": 664,
+    "original_dimensions": {
+      "width": 1180,
+      "height": 664
+    },
+    "sha256": "1de8b093eab9926582e50f6f4c989877580f8a2a9d707deb10782db1e6d4fc6c",
+    "use": "Attributed external visual quality reference; not a production asset or evidence of Pencil motion performance."
+  }
+]

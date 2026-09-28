@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "encoded_panels_checked": 68,
+  "maximum_mean_pixel_error": 2.4511752128601074,
+  "decoded_audio_seconds": 180.01066666666668,
+  "decoded_audio_peak": 0.84912109375,
+  "scope": "Each encoded panel midpoint matches its source within compression tolerance. Full decode and mastered audio peak/duration checks. No audience-comprehension claim."
+}

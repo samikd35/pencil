@@ -1,0 +1,74 @@
+{
+  "frames": [
+    1,
+    48,
+    137,
+    175,
+    214,
+    240
+  ],
+  "surface_count": 3,
+  "self_intersections": [
+    {
+      "frame": 1,
+      "object": "C3V4 / Perez L fitted sleeve fill",
+      "crossing_edges": [
+        [
+          4,
+          28
+        ]
+      ]
+    },
+    {
+      "frame": 48,
+      "object": "C3V4 / Perez L fitted sleeve fill",
+      "crossing_edges": [
+        [
+          4,
+          28
+        ]
+      ]
+    },
+    {
+      "frame": 137,
+      "object": "C3V4 / Perez L fitted sleeve fill",
+      "crossing_edges": [
+        [
+          28,
+          48
+        ]
+      ]
+    },
+    {
+      "frame": 175,
+      "object": "C3V4 / Perez L fitted sleeve fill",
+      "crossing_edges": [
+        [
+          27,
+          49
+        ]
+      ]
+    },
+    {
+      "frame": 214,
+      "object": "C3V4 / Perez L fitted sleeve fill",
+      "crossing_edges": [
+        [
+          4,
+          26
+        ]
+      ]
+    },
+    {
+      "frame": 240,
+      "object": "C3V4 / Perez L fitted sleeve fill",
+      "crossing_edges": [
+        [
+          4,
+          27
+        ]
+      ]
+    }
+  ],
+  "scope": "Evaluated boundary topology only; not likeness, occlusion, or motion approval."
+}

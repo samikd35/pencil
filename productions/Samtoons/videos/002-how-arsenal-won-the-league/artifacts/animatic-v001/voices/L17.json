@@ -1,0 +1,19 @@
+{
+  "id": "L17",
+  "chapter": 3,
+  "beat": "N02",
+  "role_and_direction": "ARTETA",
+  "text": "Nobody is getting past us.",
+  "word_count": 5,
+  "seconds": 1.52,
+  "file": "L17.wav",
+  "sha256": "20d5ed9e6db1871e4dd954633c62afd2af0876e0dd0289c83b47fbf02c7fb246",
+  "reference_start_seconds": 44.12202083333333,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Natural clear character delivery; make the sentence a thought, not a reading. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.6532517499945243,
+  "path": "artifacts/animatic-v001/voices/L17.wav"
+}

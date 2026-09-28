@@ -1,0 +1,53 @@
+{
+  "scope": "Technical premaster checks; subjective listening and final encoded checks are separate",
+  "ffmpeg": "ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers",
+  "outputs": [
+    {
+      "path": "stems/dialogue.wav",
+      "sha256": "715b53e17852fec0a1d9b3709d2640017c1af768ccf9f35938b4eb2bc24ee7e0",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "737/24",
+        "codec": "pcm_f32le"
+      },
+      "samples": 1474000,
+      "decoded": true,
+      "finite_samples": true
+    },
+    {
+      "path": "stems/foley.wav",
+      "sha256": "2c607e02b220420321f15b74605c18ba1fafdfbda25d8ad76e4055b837c68a4a",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "737/24",
+        "codec": "pcm_f32le"
+      },
+      "samples": 1474000,
+      "decoded": true,
+      "finite_samples": true
+    },
+    {
+      "path": "mix-premaster.wav",
+      "sha256": "e96a39443098d18a958a31eaeb528dec4afc21d3050af6754e70994d8d335063",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "737/24",
+        "codec": "pcm_f32le"
+      },
+      "samples": 1474000,
+      "decoded": true,
+      "finite_samples": true
+    }
+  ],
+  "premaster_measurement": {
+    "input_i": "-22.44",
+    "input_tp": "-7.29",
+    "input_lra": "15.70",
+    "input_thresh": "-33.37"
+  },
+  "finishing_required": true,
+  "peak_above_full_scale": false
+}

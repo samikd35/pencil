@@ -1,0 +1,10 @@
+{
+  "source": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/001-manchester-derby-2026-09-13/artifacts/delivery-v001/samtoons-final.blend",
+  "source_sha256": "5e98787d7e235776c2e025cdddddbdf0956a4ee8382a38085b427b612e546f73",
+  "surface_binding_sha256_before": "4f9d37b48868bf3e51abc0db9b7a216ff09b6e8cc7939de07f92c7ccdd9c1f7a",
+  "surface_binding_sha256_after": "4f9d37b48868bf3e51abc0db9b7a216ff09b6e8cc7939de07f92c7ccdd9c1f7a",
+  "vertices": 9709,
+  "controls": 19,
+  "scene": "S002_Bruno_action_v001",
+  "artwork_changed": false
+}

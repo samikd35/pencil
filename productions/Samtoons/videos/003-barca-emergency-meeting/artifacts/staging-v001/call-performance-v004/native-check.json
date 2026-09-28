@@ -1,0 +1,22 @@
+{
+  "tested_frames": [
+    1,
+    35,
+    48,
+    74,
+    102,
+    137,
+    152,
+    156,
+    175,
+    192,
+    214,
+    240
+  ],
+  "limb_length_max_error_source_pixels": 2.2394388508928387e-05,
+  "normalized_shared_surface_weights": true,
+  "character_image_textures": false,
+  "construction": "Native vector-derived meshes and source-fitted armatures; independent face drawings",
+  "visual_review": "Not supplied by these numerical checks",
+  "audio_listened_by_agent": false
+}

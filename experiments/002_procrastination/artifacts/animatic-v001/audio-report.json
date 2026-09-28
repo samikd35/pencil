@@ -1,0 +1,179 @@
+{
+  "seconds": 180.0,
+  "sample_rate": 24000,
+  "samples": 4320000,
+  "peak_before_master": 0.14043523371219635,
+  "origin": "Original deterministic oscillator/noise synthesis; no recordings, narration, voice model or third-party music.",
+  "seed": 917,
+  "quiet_section": [
+    122.45833333333333,
+    140.25
+  ],
+  "foley_cues": [
+    {
+      "seconds": 8.455,
+      "kind": "step",
+      "panel": 4
+    },
+    {
+      "seconds": 11.58,
+      "kind": "tap",
+      "panel": 5
+    },
+    {
+      "seconds": 13.705,
+      "kind": "lift",
+      "panel": 6
+    },
+    {
+      "seconds": 22.03833333333333,
+      "kind": "pop",
+      "panel": 9
+    },
+    {
+      "seconds": 27.28833333333333,
+      "kind": "tick",
+      "panel": 11
+    },
+    {
+      "seconds": 29.371666666666666,
+      "kind": "pop",
+      "panel": 12
+    },
+    {
+      "seconds": 42.99666666666666,
+      "kind": "thud",
+      "panel": 17
+    },
+    {
+      "seconds": 46.12166666666666,
+      "kind": "scribble",
+      "panel": 18
+    },
+    {
+      "seconds": 49.24666666666666,
+      "kind": "tick",
+      "panel": 19
+    },
+    {
+      "seconds": 59.74666666666666,
+      "kind": "scribble",
+      "panel": 23
+    },
+    {
+      "seconds": 62.87166666666666,
+      "kind": "paper",
+      "panel": 24
+    },
+    {
+      "seconds": 64.955,
+      "kind": "paper",
+      "panel": 25
+    },
+    {
+      "seconds": 67.03833333333333,
+      "kind": "unroll",
+      "panel": 26
+    },
+    {
+      "seconds": 75.41333333333333,
+      "kind": "thud",
+      "panel": 29
+    },
+    {
+      "seconds": 80.66333333333333,
+      "kind": "pin",
+      "panel": 31
+    },
+    {
+      "seconds": 83.78833333333333,
+      "kind": "pin",
+      "panel": 32
+    },
+    {
+      "seconds": 85.91333333333333,
+      "kind": "pin",
+      "panel": 33
+    },
+    {
+      "seconds": 87.99666666666667,
+      "kind": "pin",
+      "panel": 34
+    },
+    {
+      "seconds": 90.08,
+      "kind": "scribble",
+      "panel": 35
+    },
+    {
+      "seconds": 101.58,
+      "kind": "tick",
+      "panel": 39
+    },
+    {
+      "seconds": 103.705,
+      "kind": "paper",
+      "panel": 40
+    },
+    {
+      "seconds": 108.91333333333333,
+      "kind": "tick",
+      "panel": 42
+    },
+    {
+      "seconds": 110.99666666666667,
+      "kind": "paper",
+      "panel": 43
+    },
+    {
+      "seconds": 137.16333333333336,
+      "kind": "tap",
+      "panel": 52
+    },
+    {
+      "seconds": 142.41333333333336,
+      "kind": "step",
+      "panel": 54
+    },
+    {
+      "seconds": 144.49666666666667,
+      "kind": "step",
+      "panel": 55
+    },
+    {
+      "seconds": 146.58,
+      "kind": "step",
+      "panel": 56
+    },
+    {
+      "seconds": 148.705,
+      "kind": "tap",
+      "panel": 57
+    },
+    {
+      "seconds": 150.78833333333336,
+      "kind": "lift",
+      "panel": 58
+    },
+    {
+      "seconds": 152.87166666666667,
+      "kind": "click",
+      "panel": 59
+    },
+    {
+      "seconds": 158.12166666666667,
+      "kind": "step",
+      "panel": 61
+    },
+    {
+      "seconds": 167.53833333333336,
+      "kind": "tap",
+      "panel": 65
+    },
+    {
+      "seconds": 172.74666666666667,
+      "kind": "step",
+      "panel": 67
+    }
+  ]
+}

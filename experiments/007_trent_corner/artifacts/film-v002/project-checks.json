@@ -1,0 +1,37 @@
+{
+  "frames_checked": 912,
+  "contacts": [
+    {
+      "frame": 403,
+      "player": "Trent",
+      "toe_ball_surface_gap_scene_units": -7.805695379781152e-07
+    },
+    {
+      "frame": 433,
+      "player": "Origi",
+      "toe_ball_surface_gap_scene_units": -4.693865851557177e-09
+    },
+    {
+      "frame": 633,
+      "player": "Trent",
+      "toe_ball_surface_gap_scene_units": -7.805695379781152e-07
+    },
+    {
+      "frame": 673,
+      "player": "Origi",
+      "toe_ball_surface_gap_scene_units": -4.693865851557177e-09
+    }
+  ],
+  "planted_support_feet_intervals": 2,
+  "maximum_ball_step_scene_units": 0.3998761081124216,
+  "ball_frame_bounds_during_action_and_replay": [
+    0.11551147699356079,
+    0.49306541681289673,
+    0.18245314061641693,
+    0.6431239247322083
+  ],
+  "events_match_plan": true,
+  "packed_head_and_stadium_art": true,
+  "packed_authoritative_mix": true,
+  "limits": "Technical checks do not establish exact historical player positions, audience response or listening quality."
+}

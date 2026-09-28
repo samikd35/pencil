@@ -1,0 +1,26 @@
+{
+  "frames": 5954,
+  "seconds": 248.08333333333334,
+  "opening_seconds": 42.541666666666664,
+  "replaced_opening_seconds": 24.541666666666668,
+  "old_opening_seconds": 31,
+  "timeline_shift_frames": -155,
+  "full_decode": "passed",
+  "loudness": {
+    "input_i": "-23.08",
+    "input_tp": "-7.06",
+    "input_lra": "12.00",
+    "input_thresh": "-34.66",
+    "output_i": "-23.74",
+    "output_tp": "-5.34",
+    "output_lra": "7.80",
+    "output_thresh": "-35.06",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.26"
+  },
+  "sha256": "f4d0272c618aee553d9f3d6b6882ad6a2074d6de718b326b9d997ba00835e144",
+  "agent_listening": false,
+  "scope": "Held storyboard drawings, revised sound; not finished body motion or lip-sync",
+  "unchanged_tail_pcm": "bit-exact float32 sample comparison passed",
+  "preserved_tail_samples": 10730000
+}

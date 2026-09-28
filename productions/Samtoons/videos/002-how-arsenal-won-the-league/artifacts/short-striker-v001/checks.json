@@ -1,0 +1,20 @@
+{
+  "resolution": [
+    1080,
+    1920
+  ],
+  "frames": 542,
+  "fps": 24,
+  "video_seconds": 22.583333,
+  "audio_seconds": 22.583,
+  "sample_rate": 48000,
+  "channels": 2,
+  "full_decode": "passed",
+  "max_frame_interval_error_seconds": 6.66666667349658e-07,
+  "source_audio_correlation_excluding_edge_fades": 0.9999482837207947,
+  "decoded_audio_peak_dbfs": -7.2188544273376465,
+  "bytes": 3149940,
+  "sha256": "dc2516ab864e419a3765a3e2d4adb9f9b5d6566b344004e1703c782ecaee0c23",
+  "listening_by_agent": false,
+  "user_review": "pending"
+}

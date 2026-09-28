@@ -1,0 +1,10 @@
+{
+  "seconds": 180,
+  "frames": 4320,
+  "fps": 24,
+  "panels": 68,
+  "preserved_limb_drivers": 48,
+  "character_source": "/Users/samikd/MyProjects/Pencil/experiments/001_heavy_box/artifacts/finish-v002/character-and-effects.blend",
+  "status": "passed",
+  "scope": "Timing, reused native character and valid endpoint drivers. Creative review is separate."
+}

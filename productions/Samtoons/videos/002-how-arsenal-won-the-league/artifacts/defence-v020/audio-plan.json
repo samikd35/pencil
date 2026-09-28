@@ -1,0 +1,430 @@
+{
+  "version": 1,
+  "scope": "Complete illustrated audiovisual storyboard animatic; no finished body-animation claim",
+  "status": "v019 next chronological batch review",
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 1047,
+    "sample_rate": 48000
+  },
+  "shots": [
+    {
+      "id": "CD01_cross",
+      "start_frame": 1,
+      "events": {
+        "CD01_cross_L12_11": 7,
+        "CD01_cross_ball-strike_69": 167
+      }
+    },
+    {
+      "id": "CD01_header",
+      "start_frame": 198,
+      "events": {
+        "CD01_header_ball-strike_71": 19,
+        "CD01_header_goal-cheer_72": 40
+      }
+    },
+    {
+      "id": "CD02",
+      "start_frame": 270,
+      "events": {
+        "CD02_L13_12": 5
+      }
+    },
+    {
+      "id": "CD03",
+      "start_frame": 392,
+      "events": {
+        "CD03_dry-impact_76": 96,
+        "shuffle-0": 13,
+        "shuffle-1": 29,
+        "shuffle-2": 46,
+        "shuffle-3": 64,
+        "shuffle-4": 85,
+        "shuffle-5": 97
+      }
+    },
+    {
+      "id": "CD04",
+      "start_frame": 512,
+      "events": {
+        "CD04_L14_13": 12
+      }
+    },
+    {
+      "id": "CD05",
+      "start_frame": 712,
+      "events": {
+        "CD05_L15_14": 7,
+        "CD05_L16_15": 67
+      }
+    },
+    {
+      "id": "N02",
+      "start_frame": 856,
+      "events": {
+        "N02_question-motif_48": 0,
+        "N02_paper_49": 20
+      }
+    },
+    {
+      "id": "CD05_proud",
+      "start_frame": 904,
+      "events": {
+        "CD05_proud_L17_16": 5
+      }
+    },
+    {
+      "id": "CD05_ping",
+      "start_frame": 988,
+      "events": {
+        "CD05_ping_L18_17": 17,
+        "CD05_ping_city-ping_50": 1
+      }
+    }
+  ],
+  "assets": {
+    "question-motif": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/question-motif.wav",
+      "sha256": "d0aeef3fa6d16357f15e96449053e2bc63d20072e8b1aa11e3771013ec65f919",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "city-ping": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/city-ping.wav",
+      "sha256": "0a0091a3079c5fc77a2b5941ffa572b65f1f5e43f0915fa624e413c5301b52a3",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "boot": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/boot.wav",
+      "sha256": "8a0a021e90900cca49cceca0182e41b8f9354cdfb17609e6b2a8437c8ec29ae8",
+      "source": "Original episode 001 seeded boot-contact synthesis, prepare_revision_audio.py",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "paper": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/paper.wav",
+      "sha256": "aec7d37ae05bb3a9fd306c730dd07070f4927f6e2d134ee4594f0950e3c80501",
+      "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+      "license": "CC0",
+      "attribution": "Paper by Ezcah, Freesound 248178; processed excerpt."
+    },
+    "L12": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/defence-v019/voices/L12-mix.wav",
+      "source": "Selected synthetic narrator or original reference-conditioned character voice",
+      "license": "Generated voice",
+      "sha256": "8555daca319b508a7891ca12a29b908d30e3eadfb19264f68f2619ef52ab17c0",
+      "attribution": ""
+    },
+    "L13": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/defence-v019/voices/L13-mix.wav",
+      "source": "Selected synthetic narrator or original reference-conditioned character voice",
+      "license": "Generated voice",
+      "sha256": "df64cefe167ff74dae23f6c41c3f776c4a34c24565bf46f31362377cee0efcf9",
+      "attribution": ""
+    },
+    "L14": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/defence-v019/voices/L14-mix.wav",
+      "source": "Selected synthetic narrator or original reference-conditioned character voice",
+      "license": "Generated voice",
+      "sha256": "84be557f7684d6c60c69ecdbbac2c8b36c43ccdb79ea06a0bccebee65c704b84",
+      "attribution": ""
+    },
+    "L15": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/defence-v019/voices/L15-mix.wav",
+      "source": "Selected synthetic narrator or original reference-conditioned character voice",
+      "license": "Generated voice",
+      "sha256": "ef8d8a98f2b099892ae9a8de78b2e1949b22e373ef5e0d3aa088edd2038a54fc",
+      "attribution": ""
+    },
+    "L16": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/defence-v019/voices/L16-mix.wav",
+      "source": "Selected synthetic narrator or original reference-conditioned character voice",
+      "license": "Generated voice",
+      "sha256": "2ab058d1902d6cc6573389daf4961ede86ee447a2d8401d368a2fd68932fc354",
+      "attribution": ""
+    },
+    "L17": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/defence-v019/voices/L17-mix.wav",
+      "source": "Selected synthetic narrator or original reference-conditioned character voice",
+      "license": "Generated voice",
+      "sha256": "25e1a8e6c1326c40f03449c80208e9171479ecad1e605124ef5ef01d47785b37",
+      "attribution": ""
+    },
+    "L18": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/defence-v019/voices/L18-mix.wav",
+      "source": "Selected synthetic narrator or original reference-conditioned character voice",
+      "license": "Generated voice",
+      "sha256": "025655569e91569c4600d177934924ece8c5908fcd2dfb557eeb2f8edae77538",
+      "attribution": ""
+    },
+    "ball-strike": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/ball-strike.wav",
+      "sha256": "a5670c8592b954ae9d5336e7fbc84c0ddb7c785467a911bb9db4e4936c297ec1",
+      "source": "https://freesound.org/people/volivieri/sounds/37157/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "kick by volivieri \u2014 https://freesound.org/people/volivieri/sounds/37157/ \u2014 https://creativecommons.org/licenses/by/4.0/; excerpted and processed."
+    },
+    "dry-impact": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/dry-impact.wav",
+      "sha256": "e63d24f9c2d3f2028256cf1baa274b1b891514e5d110919f904e14cc4618d84e",
+      "source": "Original episode001 graphic synthesis",
+      "license": "Original production synthesis",
+      "attribution": ""
+    },
+    "goal-cheer": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/crowd-goal.wav",
+      "sha256": "ba9525c914dded27d61dd4ea1ffd22ae0b4a92f8ce9bf838efb01b11fac3f485",
+      "source": "https://freesound.org/people/Krizin/sounds/651646/; public HQ preview acquired 2026-09-12; original preview retained in assets/audio-v002.",
+      "license": "CC0 1.0, per individual sound page; page snapshot retained locally.",
+      "attribution": "Krizin / Freesound (voluntary credit)"
+    }
+  },
+  "cues": [
+    {
+      "id": "CD01_cross_L12_11",
+      "shot": "CD01_cross",
+      "event": "CD01_cross_L12_11",
+      "asset": "L12",
+      "stem": "dialogue",
+      "intent": "L12",
+      "duration_seconds": "176/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD02_L13_12",
+      "shot": "CD02",
+      "event": "CD02_L13_12",
+      "asset": "L13",
+      "stem": "dialogue",
+      "intent": "L13",
+      "duration_seconds": "72/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD04_L14_13",
+      "shot": "CD04",
+      "event": "CD04_L14_13",
+      "asset": "L14",
+      "stem": "dialogue",
+      "intent": "L14",
+      "duration_seconds": "174/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD05_L15_14",
+      "shot": "CD05",
+      "event": "CD05_L15_14",
+      "asset": "L15",
+      "stem": "dialogue",
+      "intent": "L15",
+      "duration_seconds": "38/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD05_L16_15",
+      "shot": "CD05",
+      "event": "CD05_L16_15",
+      "asset": "L16",
+      "stem": "dialogue",
+      "intent": "L16",
+      "duration_seconds": "6/5",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD05_proud_L17_16",
+      "shot": "CD05_proud",
+      "event": "CD05_proud_L17_16",
+      "asset": "L17",
+      "stem": "dialogue",
+      "intent": "L17",
+      "duration_seconds": "46/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD05_ping_L18_17",
+      "shot": "CD05_ping",
+      "event": "CD05_ping_L18_17",
+      "asset": "L18",
+      "stem": "dialogue",
+      "intent": "L18",
+      "duration_seconds": "22/25",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "N02_question-motif_48",
+      "shot": "N02",
+      "event": "N02_question-motif_48",
+      "asset": "question-motif",
+      "stem": "music",
+      "intent": "question-motif",
+      "duration_seconds": "8/5",
+      "gain_db": -4,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "N02_paper_49",
+      "shot": "N02",
+      "event": "N02_paper_49",
+      "asset": "paper",
+      "stem": "foley",
+      "intent": "paper",
+      "duration_seconds": "1",
+      "gain_db": -10,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD05_ping_city-ping_50",
+      "shot": "CD05_ping",
+      "event": "CD05_ping_city-ping_50",
+      "asset": "city-ping",
+      "stem": "plot-effects",
+      "intent": "city-ping",
+      "duration_seconds": "1/2",
+      "gain_db": -2,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD01_cross_ball-strike_69",
+      "shot": "CD01_cross",
+      "event": "CD01_cross_ball-strike_69",
+      "asset": "ball-strike",
+      "stem": "foley",
+      "intent": "ball-strike",
+      "duration_seconds": "11/20",
+      "gain_db": -6,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD01_header_ball-strike_71",
+      "shot": "CD01_header",
+      "event": "CD01_header_ball-strike_71",
+      "asset": "ball-strike",
+      "stem": "foley",
+      "intent": "ball-strike",
+      "duration_seconds": "11/20",
+      "gain_db": -7,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD01_header_goal-cheer_72",
+      "shot": "CD01_header",
+      "event": "CD01_header_goal-cheer_72",
+      "asset": "goal-cheer",
+      "stem": "crowd",
+      "intent": "goal-cheer",
+      "duration_seconds": "5/2",
+      "gain_db": -5,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "CD03_dry-impact_76",
+      "shot": "CD03",
+      "event": "CD03_dry-impact_76",
+      "asset": "dry-impact",
+      "stem": "foley",
+      "intent": "dry-impact",
+      "duration_seconds": "9/50",
+      "gain_db": -7,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06
+    },
+    {
+      "id": "shuffle-0",
+      "shot": "CD03",
+      "event": "shuffle-0",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "Short boot shuffle aligned to defensive wall / goalkeeper step",
+      "duration_seconds": "17/100",
+      "gain_db": -17,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.035
+    },
+    {
+      "id": "shuffle-1",
+      "shot": "CD03",
+      "event": "shuffle-1",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "Short boot shuffle aligned to defensive wall / goalkeeper step",
+      "duration_seconds": "17/100",
+      "gain_db": -17,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.035
+    },
+    {
+      "id": "shuffle-2",
+      "shot": "CD03",
+      "event": "shuffle-2",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "Short boot shuffle aligned to defensive wall / goalkeeper step",
+      "duration_seconds": "17/100",
+      "gain_db": -17,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.035
+    },
+    {
+      "id": "shuffle-3",
+      "shot": "CD03",
+      "event": "shuffle-3",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "Short boot shuffle aligned to defensive wall / goalkeeper step",
+      "duration_seconds": "17/100",
+      "gain_db": -17,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.035
+    },
+    {
+      "id": "shuffle-4",
+      "shot": "CD03",
+      "event": "shuffle-4",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "Short boot shuffle aligned to defensive wall / goalkeeper step",
+      "duration_seconds": "17/100",
+      "gain_db": -17,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.035
+    },
+    {
+      "id": "shuffle-5",
+      "shot": "CD03",
+      "event": "shuffle-5",
+      "asset": "boot",
+      "stem": "foley",
+      "intent": "Short boot shuffle aligned to defensive wall / goalkeeper step",
+      "duration_seconds": "17/100",
+      "gain_db": -17,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.035
+    }
+  ],
+  "mix_gain_db": -2
+}

@@ -1,0 +1,22 @@
+{
+  "grease-pencil-with-sound.mp4": {
+    "frames": 240,
+    "seconds": 10,
+    "fps": 24,
+    "width": 640,
+    "height": 360,
+    "complete_decode": "passed",
+    "sha256": "a33d3fe9feb8e5245787c72d6c386617f41a07c82a23d638c72bee32e0ca72d0"
+  },
+  "curves-vs-grease-pencil.mp4": {
+    "frames": 240,
+    "seconds": 10,
+    "fps": 24,
+    "width": 1280,
+    "height": 404,
+    "complete_decode": "passed",
+    "sha256": "0c0840395374ca8253f05e180d0379c063cf445de96355cf134690cfc838db19"
+  },
+  "original_decoded_sound_preserved": true,
+  "review_limit": "Native pose and encoded sample inspection; full subjective playback acceptance remains with the user."
+}

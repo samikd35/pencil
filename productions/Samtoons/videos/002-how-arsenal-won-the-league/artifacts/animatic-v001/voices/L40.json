@@ -1,0 +1,19 @@
+{
+  "id": "L40",
+  "chapter": 6,
+  "beat": "FR04",
+  "role_and_direction": "GYÖKERES",
+  "text": "That counts?",
+  "word_count": 2,
+  "seconds": 1.2,
+  "file": "L40.wav",
+  "sha256": "0b29dd4d5073af5f571b6428038a841bfcc0b41704ecc88046886e8cc8593afe",
+  "reference_start_seconds": 98.08641666666666,
+  "role": "GYÖKERES",
+  "direction": "Young adult man with a warm mid-low baritone and light Swedish accent speaking clear English. Footballer bewildered by his manager. Dry, understated comic reactions. Small incredulous question, stunned surprise. Clean dry microphone, no music or extra words.",
+  "seed": 47,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.3986269169981824,
+  "path": "artifacts/animatic-v001/voices/L40.wav"
+}

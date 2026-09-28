@@ -1,0 +1,6 @@
+{
+  "artifacts/staging-v001/photograph-v001/photograph.blend": "419dae41ea52e429529e2d4f2f4066b64e4fbdd36d9139ed23e207ce993b78ec",
+  "scripts/render_staging_scene.py": "7430710f22107ae2bf28c3f8baac5d6ad9de40626e10e23c6b7d515a5704d4c6",
+  "artifacts/staging-v001/photograph-v001/render-selection.json": "86b940df27cf854436811e03ff6a562d5d4f0a268167000fdd829fc4ba514ebc",
+  "artifacts/staging-v001/photograph-v001/audio/mix-premaster.wav": "fd07df03f8018495f4656d2f8401cd5e4ef45be8368ef6ae619eef7492023248"
+}

@@ -1,0 +1,26 @@
+{
+  "frames": 264,
+  "fps": 24,
+  "events": {
+    "narration": 13,
+    "windup": 38,
+    "strike": 47,
+    "goal": 64,
+    "recovery": 81,
+    "roll_release": 119,
+    "match_cut": 139,
+    "receive": 171,
+    "settled": 185,
+    "flick_answer": 221
+  },
+  "contact_gaps_m": {
+    "strike": 1.4096498489324372e-07,
+    "receive": 3.665685653631012e-08
+  },
+  "support": "Lewandowski left foot fixed through strike/follow-through; Flick pelvis fixed over seat; no reused S07 squat",
+  "limits": [
+    "Numerical contact does not certify visual acting",
+    "Current source drawings support this view; other turns need drawings",
+    "Voice candidate not heard by agent"
+  ]
+}

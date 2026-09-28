@@ -1,0 +1,24 @@
+{
+  "encoded": {
+    "frames": 192,
+    "fps": 24,
+    "seconds": 8,
+    "width": 1280,
+    "height": 720,
+    "audio_streams": 0
+  },
+  "script_unchanged": true,
+  "control_checks": {
+    "joint_targets_per_actor": 19,
+    "weights_normalized": true,
+    "fixed_foot_target_frames": [
+      1,
+      53,
+      68,
+      128,
+      166,
+      192
+    ]
+  },
+  "visual_inspection": "All frames on three consecutive-frame sheets plus selected full-size poses; normal-speed acceptance pending."
+}

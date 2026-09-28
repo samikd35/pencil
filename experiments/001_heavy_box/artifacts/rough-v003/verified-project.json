@@ -1,0 +1,15 @@
+{
+  "blender": "5.2.0 LTS",
+  "checked_frames": 240,
+  "max_hand_contact_error": 6.580352773788434e-08,
+  "max_planted_foot_drift": 0,
+  "max_limb_endpoint_error": 6.664001874625056e-08,
+  "min_shoe_height": -0.0004999967217445382,
+  "release_hand_step": {
+    "far": 0.03213072887627601,
+    "near": 0.043537959277695625
+  },
+  "external_files": [],
+  "status": "passed",
+  "scope": "240 evaluated frames in a reopened .blend: hand contour contact, foot plants, limb attachments, release continuity, shoe-ground bounds, framing and external dependencies. Artistic timing remains a human review."
+}

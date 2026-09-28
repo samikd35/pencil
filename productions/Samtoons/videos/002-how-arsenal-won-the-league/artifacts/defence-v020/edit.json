@@ -1,0 +1,65 @@
+[
+  {
+    "id": "CD01_cross",
+    "frames": 197,
+    "start_frame": 1,
+    "local_start": 1,
+    "scene": "S002_defence_v020"
+  },
+  {
+    "id": "CD01_header",
+    "frames": 72,
+    "start_frame": 198,
+    "local_start": 198,
+    "scene": "S002_defence_v020"
+  },
+  {
+    "id": "CD02",
+    "frames": 122,
+    "start_frame": 270,
+    "local_start": 270,
+    "scene": "S002_defence_v020"
+  },
+  {
+    "id": "CD03",
+    "frames": 120,
+    "start_frame": 392,
+    "local_start": 392,
+    "scene": "S002_defence_v020"
+  },
+  {
+    "id": "CD04",
+    "frames": 200,
+    "start_frame": 512,
+    "local_start": 512,
+    "scene": "S002_defence_v020"
+  },
+  {
+    "id": "CD05",
+    "frames": 144,
+    "start_frame": 712,
+    "local_start": 712,
+    "scene": "S002_defence_v020"
+  },
+  {
+    "id": "N02",
+    "frames": 48,
+    "start_frame": 856,
+    "local_start": 1,
+    "scene": "S002_narrator_v020"
+  },
+  {
+    "id": "CD05_proud",
+    "frames": 84,
+    "start_frame": 904,
+    "local_start": 904,
+    "scene": "S002_defence_v020"
+  },
+  {
+    "id": "CD05_ping",
+    "frames": 60,
+    "start_frame": 988,
+    "local_start": 988,
+    "scene": "S002_defence_v020"
+  }
+]

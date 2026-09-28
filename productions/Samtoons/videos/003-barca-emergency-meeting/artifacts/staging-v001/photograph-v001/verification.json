@@ -1,0 +1,55 @@
+{
+  "frames": 312,
+  "fps": 24,
+  "size": [
+    1280,
+    720
+  ],
+  "duration_seconds": 13,
+  "audio_sample_rate": 48000,
+  "full_decode": "passed",
+  "render_input_hashes": "matched",
+  "extracted_encoded_frames": [
+    1,
+    95,
+    150,
+    214,
+    220,
+    227,
+    231,
+    233,
+    235,
+    238,
+    240,
+    241,
+    246,
+    270,
+    312
+  ],
+  "visual_review": {
+    "reviewer": "Assistant",
+    "method": "Inspected exact encoded grip/wrist crop sheet through entry, edge-on, front-facing and held reveal; inspected six full-scene frames.",
+    "frames": [
+      1,
+      95,
+      150,
+      214,
+      220,
+      227,
+      231,
+      233,
+      235,
+      238,
+      240,
+      241,
+      246,
+      270,
+      312
+    ],
+    "findings": "Frame no longer occludes/cuts through the drawn fingers mid-turn. Wrist remains connected in inspected poses; final frame score is unobstructed and close-up excludes neighboring call-tile slivers.",
+    "limits": "Small light fringe and stylized fixed finger grip remain in reused source contours. Seated movement is bounded; no extreme-pose or benchmark-level claim. Normal-speed aesthetic and listening review remain pending."
+  },
+  "normal_speed_playback_review": "User checkpoint pending",
+  "audio_listened_by_agent": false,
+  "native_face_and_planar_rotation_checks": 312
+}

@@ -1,0 +1,22 @@
+{
+  "frames": 312,
+  "fps": 24,
+  "duration": 13.0,
+  "visible_contact_gap_m": {
+    "Pedri:123": 4.0918588638250153e-07,
+    "Yamal:151": 7.390975952092926e-08,
+    "Yamal:172": -1.4960765838678558e-07,
+    "Yamal:199": 4.1663646697942536e-07
+  },
+  "goal_crossing_frame": 213,
+  "actors": [
+    "Raphinha",
+    "Pedri",
+    "Yamal",
+    "Defender 1",
+    "Defender 2",
+    "Defender 3"
+  ],
+  "construction": "Native traced portraits/kit, articulated drawn limbs driven from connected skeleton poses; absolute contour keys preserve the authored silhouettes. No raster character planes. Dedicated S06 action, not copied S08 animation.",
+  "scope": "Target/contact geometry only; visual review required. Restored file needs no Python playback handler."
+}

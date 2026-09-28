@@ -1,0 +1,19 @@
+{
+  "id": "CP02_far",
+  "chapter": 4,
+  "panel": 1,
+  "start_frame": 2740,
+  "frames": 120,
+  "lines": [
+    20
+  ],
+  "source": "boards/chapter-4.png",
+  "camera": "hold",
+  "crop": [
+    688,
+    5,
+    674,
+    372
+  ],
+  "source_sha256": "96ca0d7543ed41895f2901df29c84d645dcc454023836c954c0ef7f9329ae3b2"
+}

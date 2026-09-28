@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "scope": "TR02 motion-proof excerpt only; full-film timeline remains unassembled",
+  "status": "pending_review",
+  "film_runtime_target_seconds": [
+    240,
+    300
+  ],
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 192,
+    "sample_rate": 48000
+  },
+  "shots": [
+    {
+      "id": "TR02",
+      "start_frame": 1,
+      "events": {
+        "flag_reveal": 35,
+        "reaction_cut": 63,
+        "shrug_peak": 68,
+        "arteta_reply_nod": 128,
+        "wide_return": 131,
+        "deflation": 166
+      }
+    }
+  ],
+  "native_scene": "artifacts/unveiling-motion-v001/unveiling-motion-v001.blend",
+  "picture": "artifacts/unveiling-motion-v001/unveiling-motion-v001.mp4",
+  "audio_status": "intentionally absent for this diagnostic proof; final film sound unselected",
+  "assets": {},
+  "cues": [],
+  "latest_motion_diagnostic": {
+    "picture": "artifacts/pose-action-v003/pose-action-v003.mp4",
+    "native_scene": "artifacts/pose-action-v003/pose-action-v003.blend",
+    "status": "passed",
+    "finding": "Same user-liked complete pose drawings/exposures; registered continuous horizontal travel, independent camera and keyed support compensation remove measured temporal oscillation.",
+    "diagnosis": "research/body-mechanics-v001/diagnosis.md",
+    "next_step": "Baseline retained for film-character adaptations.",
+    "user_review": "User calls revised run/jump almost perfect and better than video001; authorizes Gyokeres chase adaptation.",
+    "temporal_diagnosis": "research/temporal-jitter-v001/diagnosis.md"
+  },
+  "latest_chase_excerpt": {
+    "picture": "artifacts/chase-v002/chase-v002.mp4",
+    "native_scene": "artifacts/chase-v002/chase-v002.blend",
+    "status": "revision_required_deferred_by_user",
+    "shots": "CP02/CP03 picture excerpt: 5s carrier sprint, 3s Pep walk cutaway",
+    "audio": "intentionally silent picture review",
+    "scope_limits": "Not full gap-closing gag, whole chase, or combined animatic",
+    "user_review": "Below accepted Bruno pose-action-v003 quality, especially Pep walking and the running. User requests no re-render of this excerpt; improve the movements during full-video production.",
+    "next_step": "Sound-direction audition, then full audiovisual animatic; carry movement defects into full-film revision. No new action-quality acceptance inferred."
+  }
+}

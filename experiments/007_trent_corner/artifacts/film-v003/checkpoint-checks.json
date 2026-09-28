@@ -1,0 +1,63 @@
+{
+  "candidates": [
+    {
+      "candidate": "A",
+      "path": "checkpoint-A-clean.mp4",
+      "sha256": "828be9acf5eb96371b25e23532aa299745685aa48cfab25dd0ed9b8860ed4bb1",
+      "width": 540,
+      "height": 960,
+      "frames": 288,
+      "fps": 24,
+      "seconds": 12,
+      "channels": 2,
+      "sample_rate": 48000,
+      "full_decode": true,
+      "levels": {
+        "input_i": "-17.51",
+        "input_tp": "-2.04",
+        "input_lra": "10.90",
+        "input_thresh": "-28.43",
+        "output_i": "-17.05",
+        "output_tp": "-2.00",
+        "output_lra": "9.60",
+        "output_thresh": "-27.59",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.95"
+      }
+    },
+    {
+      "candidate": "B",
+      "path": "checkpoint-B-crowd.mp4",
+      "sha256": "49d19b02c3b6e51c0877ffa8c46e4971a28f9a594c4026b6740a32f9641115ea",
+      "width": 540,
+      "height": 960,
+      "frames": 288,
+      "fps": 24,
+      "seconds": 12,
+      "channels": 2,
+      "sample_rate": 48000,
+      "full_decode": true,
+      "levels": {
+        "input_i": "-18.73",
+        "input_tp": "-2.04",
+        "input_lra": "13.70",
+        "input_thresh": "-30.40",
+        "output_i": "-16.07",
+        "output_tp": "-2.00",
+        "output_lra": "7.70",
+        "output_thresh": "-26.10",
+        "normalization_type": "dynamic",
+        "target_offset": "-1.93"
+      }
+    }
+  ],
+  "comparison": "Same picture and foreground gain; B adds recorded crowd ambience.",
+  "audio_finishing": "Common +3 dB gain and -2 dBFS peak limiter; no separate A/B loudness normalization.",
+  "contacts_seconds": [
+    6.75,
+    8.0,
+    8.625
+  ],
+  "listening": "Pending user audition; numerical checks do not certify perceived quality.",
+  "scope": "Staging and sound proof, not a complete animatic or final film."
+}

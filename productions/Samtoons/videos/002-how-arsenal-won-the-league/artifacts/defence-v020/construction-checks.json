@@ -1,0 +1,110 @@
+{
+  "Saka": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / football actor / pose 0",
+    "vertices": 6161
+  },
+  "Gabriel": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / football actor / pose 0.001",
+    "vertices": 6161
+  },
+  "opposition defender 0": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / football actor / pose 0.002",
+    "vertices": 6161
+  },
+  "opposition defender 1": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / football actor / pose 0.003",
+    "vertices": 6161
+  },
+  "opposition goalkeeper": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / football actor / pose 0.004",
+    "vertices": 6161
+  },
+  "Raya": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / football actor / pose 0.005",
+    "vertices": 6161
+  },
+  "wall 1": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / wall actor / pose 0",
+    "vertices": 6161
+  },
+  "wall 2": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / wall actor / pose 0.001",
+    "vertices": 6161
+  },
+  "wall 3": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / wall actor / pose 0.002",
+    "vertices": 6161
+  },
+  "wall 4": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / wall actor / pose 0.003",
+    "vertices": 6161
+  },
+  "wall 5": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / wall actor / pose 0.004",
+    "vertices": 6161
+  },
+  "wall 6": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / wall actor / pose 0.005",
+    "vertices": 6161
+  },
+  "wall 7": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / wall actor / pose 0.006",
+    "vertices": 6161
+  },
+  "wall 8": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / wall actor / pose 0.007",
+    "vertices": 6161
+  },
+  "wall 9": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / wall actor / pose 0.008",
+    "vertices": 6161
+  },
+  "opposing attacker": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "S002_defence_v019 / football actor / pose 0.006",
+    "vertices": 6161
+  },
+  "Arteta": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "B17 / v019 Arteta / complete source drawing",
+    "vertices": 15015
+  },
+  "Gyokeres": {
+    "bones": 14,
+    "controls": 19,
+    "mesh": "B17 / v019 Gyokeres / complete source drawing",
+    "vertices": 15015
+  }
+}

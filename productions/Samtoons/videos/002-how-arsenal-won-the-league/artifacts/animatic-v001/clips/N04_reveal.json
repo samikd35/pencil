@@ -1,0 +1,17 @@
+{
+  "id": "N04_reveal",
+  "chapter": 7,
+  "panel": 4,
+  "start_frame": 5846,
+  "frames": 36,
+  "lines": [],
+  "source": "../../artifacts/ferguson-design-v001/reveal-proposal.png",
+  "camera": "hold",
+  "crop": [
+    5,
+    760,
+    671,
+    387
+  ],
+  "source_sha256": "86676a8b3e7869bae4e7e64d1767124d1facf5633f74cfea700977b945abb215"
+}

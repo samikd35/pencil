@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "duration_seconds": 180.0,
+  "frames": 4320,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": "24/1",
+  "audio_channels": 2,
+  "panel_count": 68,
+  "bytes": 4169254,
+  "scope": "Encoded video timing, frame count, dimensions, stereo audio and panel presence."
+}

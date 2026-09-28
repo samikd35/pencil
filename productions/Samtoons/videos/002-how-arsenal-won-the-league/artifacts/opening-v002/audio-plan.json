@@ -1,0 +1,250 @@
+{
+  "version": 1,
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 589,
+    "sample_rate": 48000
+  },
+  "shots": [
+    {
+      "id": "N01",
+      "start_frame": 1,
+      "events": {
+        "N01_B01": 31,
+        "N01_switch": 0,
+        "N01_question-motif": 4
+      }
+    },
+    {
+      "id": "OP01_banner",
+      "start_frame": 181,
+      "events": {}
+    },
+    {
+      "id": "OP01_year",
+      "start_frame": 229,
+      "events": {
+        "OP01_year_B02": 18,
+        "OP01_year_paper-handoff": 1
+      }
+    },
+    {
+      "id": "OP02_truck",
+      "start_frame": 330,
+      "events": {
+        "OP02_truck_reverse": 0
+      }
+    },
+    {
+      "id": "OP02_arteta",
+      "start_frame": 386,
+      "events": {
+        "OP02_arteta_B03": 7
+      }
+    },
+    {
+      "id": "OP02_driver",
+      "start_frame": 446,
+      "events": {
+        "OP02_driver_B04": 6
+      }
+    },
+    {
+      "id": "OP03_phone",
+      "start_frame": 518,
+      "events": {
+        "OP03_phone_B05": 8,
+        "OP03_phone_switch": 68
+      }
+    }
+  ],
+  "assets": {
+    "switch": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/switch.wav",
+      "sha256": "38a8432760ac3205588a6ac226a396285a16e25ad20ccc278e09a87158c93152",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "question-motif": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/question-motif.wav",
+      "sha256": "d0aeef3fa6d16357f15e96449053e2bc63d20072e8b1aa11e3771013ec65f919",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": ""
+    },
+    "paper-handoff": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/paper-handoff.wav",
+      "sha256": "4881e483b8b698397afb1fe87b5988886dd54d46388648130b2a4cd3cbf6959e",
+      "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "paper by Ezcah \u2014 https://freesound.org/people/Ezcah/sounds/248178/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed."
+    },
+    "B01": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/opening-v002/voices/B01-mix.wav",
+      "sha256": "748e7c8f69e0cc3ef7b0240f67c9b487dc6e143895f605da63dffe2723d91bd9",
+      "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording; highpass65Hz and RMS level matching existing takes",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "B02": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/opening-v002/voices/B02-mix.wav",
+      "sha256": "b2f65c587610f4515d8c3c184e2ee8315f2d4aeaa13e602d5b75c368ded0664d",
+      "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording; highpass65Hz and RMS level matching existing takes",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "B03": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/opening-v002/voices/B03-mix.wav",
+      "sha256": "2663794a6037048a24de92116273520a64ebb3745b5e351a1fa0e6f14cdd2d12",
+      "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording; highpass65Hz and RMS level matching existing takes",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "B04": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/opening-v002/voices/B04-mix.wav",
+      "sha256": "e7d0795607ba7ba75e9058eda3295cfa8b72a7bd201b89c9456b031f93a2797b",
+      "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording; highpass65Hz and RMS level matching existing takes",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "B05": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/opening-v002/voices/B05-mix.wav",
+      "sha256": "e0ccaa3f2edef1f5bd5a539a6a5dddbb023eee177fcf6bb6621ba5ebbfffaea2",
+      "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording; highpass65Hz and RMS level matching existing takes",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": ""
+    },
+    "reverse": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/opening-v002/reverse.wav",
+      "sha256": "94f582a44b9a6f9c2ed445e998c80a2bece5a2829fdb90f939eeb4a35e469500",
+      "source": "Original two-beep reversing alert synthesized for truck arrival; no engine bed",
+      "license": "Original production sound",
+      "attribution": ""
+    }
+  },
+  "cues": [
+    {
+      "id": "N01_B01",
+      "shot": "N01",
+      "event": "N01_B01",
+      "asset": "B01",
+      "stem": "dialogue",
+      "intent": "B01",
+      "duration_seconds": "4.72",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "N01_switch",
+      "shot": "N01",
+      "event": "N01_switch",
+      "asset": "switch",
+      "stem": "foley",
+      "intent": "switch",
+      "duration_seconds": "0.09",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "N01_question-motif",
+      "shot": "N01",
+      "event": "N01_question-motif",
+      "asset": "question-motif",
+      "stem": "music",
+      "intent": "question-motif",
+      "duration_seconds": "1.6",
+      "gain_db": -2,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "OP01_year_B02",
+      "shot": "OP01_year",
+      "event": "OP01_year_B02",
+      "asset": "B02",
+      "stem": "dialogue",
+      "intent": "B02",
+      "duration_seconds": "2.48",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "OP01_year_paper-handoff",
+      "shot": "OP01_year",
+      "event": "OP01_year_paper-handoff",
+      "asset": "paper-handoff",
+      "stem": "foley",
+      "intent": "Small paper detail on changed banner year",
+      "duration_seconds": "0.45",
+      "gain_db": -15,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "OP02_truck_reverse",
+      "shot": "OP02_truck",
+      "event": "OP02_truck_reverse",
+      "asset": "reverse",
+      "stem": "plot-effects",
+      "intent": "Announce bottle truck interruption",
+      "duration_seconds": "1.2",
+      "gain_db": -6,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "OP02_arteta_B03",
+      "shot": "OP02_arteta",
+      "event": "OP02_arteta_B03",
+      "asset": "B03",
+      "stem": "dialogue",
+      "intent": "B03",
+      "duration_seconds": "1.04",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "OP02_driver_B04",
+      "shot": "OP02_driver",
+      "event": "OP02_driver_B04",
+      "asset": "B04",
+      "stem": "dialogue",
+      "intent": "B04",
+      "duration_seconds": "1.92",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "OP03_phone_B05",
+      "shot": "OP03_phone",
+      "event": "OP03_phone_B05",
+      "asset": "B05",
+      "stem": "dialogue",
+      "intent": "B05",
+      "duration_seconds": "1.68",
+      "gain_db": 0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    },
+    {
+      "id": "OP03_phone_switch",
+      "shot": "OP03_phone",
+      "event": "OP03_phone_switch",
+      "asset": "switch",
+      "stem": "foley",
+      "intent": "switch",
+      "duration_seconds": "0.09",
+      "gain_db": -7,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.04
+    }
+  ],
+  "mix_gain_db": -2
+}

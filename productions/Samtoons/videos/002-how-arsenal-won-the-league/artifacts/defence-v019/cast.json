@@ -1,0 +1,4170 @@
+{
+  "Saka": {
+    "scene": "S002_defence_v019",
+    "root": "v019 Saka",
+    "skin": "S002_defence_v019 / football actor / pose 0",
+    "armature": "Saka fitted bones",
+    "controls": {
+      "hip": "Saka hip",
+      "neck": "Saka neck",
+      "head": "Saka head",
+      "Lshoulder": "Saka Lshoulder",
+      "Lelbow": "Saka Lelbow",
+      "Lwrist": "Saka Lwrist",
+      "Lfinger": "Saka Lfinger",
+      "Rshoulder": "Saka Rshoulder",
+      "Relbow": "Saka Relbow",
+      "Rwrist": "Saka Rwrist",
+      "Rfinger": "Saka Rfinger",
+      "Lhip": "Saka Lhip",
+      "Lknee": "Saka Lknee",
+      "Lankle": "Saka Lankle",
+      "Ltoe": "Saka Ltoe",
+      "Rhip": "Saka Rhip",
+      "Rknee": "Saka Rknee",
+      "Rankle": "Saka Rankle",
+      "Rtoe": "Saka Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.0973120704293251,
+        0.831207275390625,
+        0.0
+      ],
+      "neck": [
+        -0.020273348316550255,
+        1.427243709564209,
+        0.0
+      ],
+      "head": [
+        -0.004054669756442308,
+        1.634031891822815,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.20678815245628357,
+        1.3056036233901978,
+        0.0
+      ],
+      "Lelbow": [
+        -0.4297949969768524,
+        1.2042368650436401,
+        0.0
+      ],
+      "Lwrist": [
+        -0.6609111428260803,
+        1.1271982192993164,
+        0.0
+      ],
+      "Lfinger": [
+        -0.7338952422142029,
+        1.0866514444351196,
+        0.0
+      ],
+      "Rshoulder": [
+        0.24328018724918365,
+        1.2812756299972534,
+        0.0
+      ],
+      "Relbow": [
+        0.4460136592388153,
+        1.1312528848648071,
+        0.0
+      ],
+      "Rwrist": [
+        0.5635991096496582,
+        1.1555808782577515,
+        0.0
+      ],
+      "Rfinger": [
+        0.6609111428260803,
+        1.082596778869629,
+        0.0
+      ],
+      "Lhip": [
+        -0.020273348316550255,
+        0.8230979442596436,
+        0.0
+      ],
+      "Lknee": [
+        -0.03243735805153847,
+        0.5311617255210876,
+        0.0
+      ],
+      "Lankle": [
+        -0.05676537752151489,
+        0.1540774554014206,
+        0.0
+      ],
+      "Ltoe": [
+        0.05676537752151489,
+        0.04054669663310051,
+        0.0
+      ],
+      "Rhip": [
+        0.19056947529315948,
+        0.8230979442596436,
+        0.0
+      ],
+      "Rknee": [
+        0.39330294728279114,
+        0.6568564772605896,
+        0.0
+      ],
+      "Rankle": [
+        0.6568564772605896,
+        0.3892482817173004,
+        0.0
+      ],
+      "Rtoe": [
+        0.8230979442596436,
+        0.4216856360435486,
+        0.0
+      ]
+    }
+  },
+  "Gabriel": {
+    "scene": "S002_defence_v019",
+    "root": "v019 Gabriel",
+    "skin": "S002_defence_v019 / football actor / pose 0.001",
+    "armature": "Gabriel fitted bones",
+    "controls": {
+      "hip": "Gabriel hip",
+      "neck": "Gabriel neck",
+      "head": "Gabriel head",
+      "Lshoulder": "Gabriel Lshoulder",
+      "Lelbow": "Gabriel Lelbow",
+      "Lwrist": "Gabriel Lwrist",
+      "Lfinger": "Gabriel Lfinger",
+      "Rshoulder": "Gabriel Rshoulder",
+      "Relbow": "Gabriel Relbow",
+      "Rwrist": "Gabriel Rwrist",
+      "Rfinger": "Gabriel Rfinger",
+      "Lhip": "Gabriel Lhip",
+      "Lknee": "Gabriel Lknee",
+      "Lankle": "Gabriel Lankle",
+      "Ltoe": "Gabriel Ltoe",
+      "Rhip": "Gabriel Rhip",
+      "Rknee": "Gabriel Rknee",
+      "Rankle": "Gabriel Rankle",
+      "Rtoe": "Gabriel Rtoe"
+    },
+    "rest": {
+      "hip": [
+        -0.024945294484496117,
+        0.864770233631134,
+        0.0
+      ],
+      "neck": [
+        0.008315098471939564,
+        1.4592998027801514,
+        0.0
+      ],
+      "head": [
+        0.020787745714187622,
+        1.6962801218032837,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.2827133536338806,
+        1.351203441619873,
+        0.0
+      ],
+      "Lelbow": [
+        -0.4698030650615692,
+        1.172428846359253,
+        0.0
+      ],
+      "Lwrist": [
+        -0.7275711297988892,
+        0.9188183546066284,
+        0.0
+      ],
+      "Lfinger": [
+        -0.7857767939567566,
+        0.864770233631134,
+        0.0
+      ],
+      "Rshoulder": [
+        0.24113786220550537,
+        1.380306363105774,
+        0.0
+      ],
+      "Relbow": [
+        0.36170679330825806,
+        1.1391685009002686,
+        0.0
+      ],
+      "Rwrist": [
+        0.48227572441101074,
+        0.9520787596702576,
+        0.0
+      ],
+      "Rfinger": [
+        0.5571116209030151,
+        0.8980306386947632,
+        0.0
+      ],
+      "Lhip": [
+        -0.16214442253112793,
+        0.8398249745368958,
+        0.0
+      ],
+      "Lknee": [
+        -0.37002187967300415,
+        0.5363238453865051,
+        0.0
+      ],
+      "Lankle": [
+        -0.5654267072677612,
+        0.17461706697940826,
+        0.0
+      ],
+      "Ltoe": [
+        -0.6984682679176331,
+        0.04989058896899223,
+        0.0
+      ],
+      "Rhip": [
+        0.12056893110275269,
+        0.8356673717498779,
+        0.0
+      ],
+      "Rknee": [
+        0.37002187967300415,
+        0.5196936726570129,
+        0.0
+      ],
+      "Rankle": [
+        0.48227572441101074,
+        0.1787746101617813,
+        0.0
+      ],
+      "Rtoe": [
+        0.5862144231796265,
+        0.04989058896899223,
+        0.0
+      ]
+    }
+  },
+  "opposition defender 0": {
+    "scene": "S002_defence_v019",
+    "root": "v019 opposition defender 0",
+    "skin": "S002_defence_v019 / football actor / pose 0.002",
+    "armature": "opposition defender 0 fitted bones",
+    "controls": {
+      "hip": "opposition defender 0 hip",
+      "neck": "opposition defender 0 neck",
+      "head": "opposition defender 0 head",
+      "Lshoulder": "opposition defender 0 Lshoulder",
+      "Lelbow": "opposition defender 0 Lelbow",
+      "Lwrist": "opposition defender 0 Lwrist",
+      "Lfinger": "opposition defender 0 Lfinger",
+      "Rshoulder": "opposition defender 0 Rshoulder",
+      "Relbow": "opposition defender 0 Relbow",
+      "Rwrist": "opposition defender 0 Rwrist",
+      "Rfinger": "opposition defender 0 Rfinger",
+      "Lhip": "opposition defender 0 Lhip",
+      "Lknee": "opposition defender 0 Lknee",
+      "Lankle": "opposition defender 0 Lankle",
+      "Ltoe": "opposition defender 0 Ltoe",
+      "Rhip": "opposition defender 0 Rhip",
+      "Rknee": "opposition defender 0 Rknee",
+      "Rankle": "opposition defender 0 Rankle",
+      "Rtoe": "opposition defender 0 Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.014758064411580563,
+        0.8234999775886536,
+        0.0
+      ],
+      "neck": [
+        0.014758064411580563,
+        1.40910005569458,
+        0.0
+      ],
+      "head": [
+        0.014758064411580563,
+        1.6653000116348267,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.23494838178157806,
+        1.3358999490737915,
+        0.0
+      ],
+      "Lelbow": [
+        -0.248820960521698,
+        1.0980000495910645,
+        0.0
+      ],
+      "Lwrist": [
+        -0.012987096793949604,
+        0.9333000183105469,
+        0.0
+      ],
+      "Lfinger": [
+        0.014758064411580563,
+        0.8967000246047974,
+        0.0
+      ],
+      "Rshoulder": [
+        0.2783370912075043,
+        1.3358999490737915,
+        0.0
+      ],
+      "Relbow": [
+        0.2922096848487854,
+        1.0980000495910645,
+        0.0
+      ],
+      "Rwrist": [
+        0.05637580528855324,
+        0.9333000183105469,
+        0.0
+      ],
+      "Rfinger": [
+        0.014758064411580563,
+        0.8967000246047974,
+        0.0
+      ],
+      "Lhip": [
+        -0.123967744410038,
+        0.8051999807357788,
+        0.0
+      ],
+      "Lknee": [
+        -0.27656611800193787,
+        0.4392000138759613,
+        0.0
+      ],
+      "Lankle": [
+        -0.34592902660369873,
+        0.14640000462532043,
+        0.0
+      ],
+      "Ltoe": [
+        -0.5123999714851379,
+        0.02745000086724758,
+        0.0
+      ],
+      "Rhip": [
+        0.18122902512550354,
+        0.8051999807357788,
+        0.0
+      ],
+      "Rknee": [
+        0.31995484232902527,
+        0.4392000138759613,
+        0.0
+      ],
+      "Rankle": [
+        0.4031903147697449,
+        0.14640000462532043,
+        0.0
+      ],
+      "Rtoe": [
+        0.5557886958122253,
+        0.02745000086724758,
+        0.0
+      ]
+    }
+  },
+  "opposition defender 1": {
+    "scene": "S002_defence_v019",
+    "root": "v019 opposition defender 1",
+    "skin": "S002_defence_v019 / football actor / pose 0.003",
+    "armature": "opposition defender 1 fitted bones",
+    "controls": {
+      "hip": "opposition defender 1 hip",
+      "neck": "opposition defender 1 neck",
+      "head": "opposition defender 1 head",
+      "Lshoulder": "opposition defender 1 Lshoulder",
+      "Lelbow": "opposition defender 1 Lelbow",
+      "Lwrist": "opposition defender 1 Lwrist",
+      "Lfinger": "opposition defender 1 Lfinger",
+      "Rshoulder": "opposition defender 1 Rshoulder",
+      "Relbow": "opposition defender 1 Relbow",
+      "Rwrist": "opposition defender 1 Rwrist",
+      "Rfinger": "opposition defender 1 Rfinger",
+      "Lhip": "opposition defender 1 Lhip",
+      "Lknee": "opposition defender 1 Lknee",
+      "Lankle": "opposition defender 1 Lankle",
+      "Ltoe": "opposition defender 1 Ltoe",
+      "Rhip": "opposition defender 1 Rhip",
+      "Rknee": "opposition defender 1 Rknee",
+      "Rankle": "opposition defender 1 Rankle",
+      "Rtoe": "opposition defender 1 Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.014758064411580563,
+        0.8234999775886536,
+        0.0
+      ],
+      "neck": [
+        0.014758064411580563,
+        1.40910005569458,
+        0.0
+      ],
+      "head": [
+        0.014758064411580563,
+        1.6653000116348267,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.23494838178157806,
+        1.3358999490737915,
+        0.0
+      ],
+      "Lelbow": [
+        -0.248820960521698,
+        1.0980000495910645,
+        0.0
+      ],
+      "Lwrist": [
+        -0.012987096793949604,
+        0.9333000183105469,
+        0.0
+      ],
+      "Lfinger": [
+        0.014758064411580563,
+        0.8967000246047974,
+        0.0
+      ],
+      "Rshoulder": [
+        0.2783370912075043,
+        1.3358999490737915,
+        0.0
+      ],
+      "Relbow": [
+        0.2922096848487854,
+        1.0980000495910645,
+        0.0
+      ],
+      "Rwrist": [
+        0.05637580528855324,
+        0.9333000183105469,
+        0.0
+      ],
+      "Rfinger": [
+        0.014758064411580563,
+        0.8967000246047974,
+        0.0
+      ],
+      "Lhip": [
+        -0.123967744410038,
+        0.8051999807357788,
+        0.0
+      ],
+      "Lknee": [
+        -0.27656611800193787,
+        0.4392000138759613,
+        0.0
+      ],
+      "Lankle": [
+        -0.34592902660369873,
+        0.14640000462532043,
+        0.0
+      ],
+      "Ltoe": [
+        -0.5123999714851379,
+        0.02745000086724758,
+        0.0
+      ],
+      "Rhip": [
+        0.18122902512550354,
+        0.8051999807357788,
+        0.0
+      ],
+      "Rknee": [
+        0.31995484232902527,
+        0.4392000138759613,
+        0.0
+      ],
+      "Rankle": [
+        0.4031903147697449,
+        0.14640000462532043,
+        0.0
+      ],
+      "Rtoe": [
+        0.5557886958122253,
+        0.02745000086724758,
+        0.0
+      ]
+    }
+  },
+  "opposition goalkeeper": {
+    "scene": "S002_defence_v019",
+    "root": "v019 opposition goalkeeper",
+    "skin": "S002_defence_v019 / football actor / pose 0.004",
+    "armature": "opposition goalkeeper fitted bones",
+    "controls": {
+      "hip": "opposition goalkeeper hip",
+      "neck": "opposition goalkeeper neck",
+      "head": "opposition goalkeeper head",
+      "Lshoulder": "opposition goalkeeper Lshoulder",
+      "Lelbow": "opposition goalkeeper Lelbow",
+      "Lwrist": "opposition goalkeeper Lwrist",
+      "Lfinger": "opposition goalkeeper Lfinger",
+      "Rshoulder": "opposition goalkeeper Rshoulder",
+      "Relbow": "opposition goalkeeper Relbow",
+      "Rwrist": "opposition goalkeeper Rwrist",
+      "Rfinger": "opposition goalkeeper Rfinger",
+      "Lhip": "opposition goalkeeper Lhip",
+      "Lknee": "opposition goalkeeper Lknee",
+      "Lankle": "opposition goalkeeper Lankle",
+      "Ltoe": "opposition goalkeeper Ltoe",
+      "Rhip": "opposition goalkeeper Rhip",
+      "Rknee": "opposition goalkeeper Rknee",
+      "Rankle": "opposition goalkeeper Rankle",
+      "Rtoe": "opposition goalkeeper Rtoe"
+    },
+    "rest": {
+      "hip": [
+        -0.003915789537131786,
+        0.8370000123977661,
+        0.0
+      ],
+      "neck": [
+        -0.003915789537131786,
+        1.4321999549865723,
+        0.0
+      ],
+      "head": [
+        -0.003915789537131786,
+        1.6926000118255615,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.20409095287322998,
+        1.357800006866455,
+        0.0
+      ],
+      "Lelbow": [
+        -0.21521179378032684,
+        1.1160000562667847,
+        0.0
+      ],
+      "Lwrist": [
+        -0.026157474145293236,
+        0.9485999941825867,
+        0.0
+      ],
+      "Lfinger": [
+        -0.003915789537131786,
+        0.9114000201225281,
+        0.0
+      ],
+      "Rshoulder": [
+        0.20738020539283752,
+        1.357800006866455,
+        0.0
+      ],
+      "Relbow": [
+        0.2185010462999344,
+        1.1160000562667847,
+        0.0
+      ],
+      "Rwrist": [
+        0.029446735978126526,
+        0.9485999941825867,
+        0.0
+      ],
+      "Rfinger": [
+        -0.003915789537131786,
+        0.9114000201225281,
+        0.0
+      ],
+      "Lhip": [
+        -0.11512421071529388,
+        0.8184000253677368,
+        0.0
+      ],
+      "Lknee": [
+        -0.23745347559452057,
+        0.446399986743927,
+        0.0
+      ],
+      "Lankle": [
+        -0.2930576801300049,
+        0.14880000054836273,
+        0.0
+      ],
+      "Ltoe": [
+        -0.4265078008174896,
+        0.027899999171495438,
+        0.0
+      ],
+      "Rhip": [
+        0.12953431904315948,
+        0.8184000253677368,
+        0.0
+      ],
+      "Rknee": [
+        0.2407427430152893,
+        0.446399986743927,
+        0.0
+      ],
+      "Rankle": [
+        0.3074677884578705,
+        0.14880000054836273,
+        0.0
+      ],
+      "Rtoe": [
+        0.42979705333709717,
+        0.027899999171495438,
+        0.0
+      ]
+    }
+  },
+  "Raya": {
+    "scene": "S002_defence_v019",
+    "root": "v019 Raya",
+    "skin": "S002_defence_v019 / football actor / pose 0.005",
+    "armature": "Raya fitted bones",
+    "controls": {
+      "hip": "Raya hip",
+      "neck": "Raya neck",
+      "head": "Raya head",
+      "Lshoulder": "Raya Lshoulder",
+      "Lelbow": "Raya Lelbow",
+      "Lwrist": "Raya Lwrist",
+      "Lfinger": "Raya Lfinger",
+      "Rshoulder": "Raya Rshoulder",
+      "Relbow": "Raya Relbow",
+      "Rwrist": "Raya Rwrist",
+      "Rfinger": "Raya Rfinger",
+      "Lhip": "Raya Lhip",
+      "Lknee": "Raya Lknee",
+      "Lankle": "Raya Lankle",
+      "Ltoe": "Raya Ltoe",
+      "Rhip": "Raya Rhip",
+      "Rknee": "Raya Rknee",
+      "Rankle": "Raya Rankle",
+      "Rtoe": "Raya Rtoe"
+    },
+    "rest": {
+      "hip": [
+        -0.003852631663903594,
+        0.8234999775886536,
+        0.0
+      ],
+      "neck": [
+        -0.003852631663903594,
+        1.40910005569458,
+        0.0
+      ],
+      "head": [
+        -0.003852631663903594,
+        1.6653000116348267,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.2007991522550583,
+        1.3358999490737915,
+        0.0
+      ],
+      "Lelbow": [
+        -0.2117406278848648,
+        1.0980000495910645,
+        0.0
+      ],
+      "Lwrist": [
+        -0.025735579431056976,
+        0.9333000183105469,
+        0.0
+      ],
+      "Lfinger": [
+        -0.003852631663903594,
+        0.8967000246047974,
+        0.0
+      ],
+      "Rshoulder": [
+        0.20403537154197693,
+        1.3358999490737915,
+        0.0
+      ],
+      "Relbow": [
+        0.21497684717178345,
+        1.0980000495910645,
+        0.0
+      ],
+      "Rwrist": [
+        0.02897178940474987,
+        0.9333000183105469,
+        0.0
+      ],
+      "Rfinger": [
+        -0.003852631663903594,
+        0.8967000246047974,
+        0.0
+      ],
+      "Lhip": [
+        -0.11326736956834793,
+        0.8051999807357788,
+        0.0
+      ],
+      "Lknee": [
+        -0.23362357914447784,
+        0.4392000138759613,
+        0.0
+      ],
+      "Lankle": [
+        -0.28833094239234924,
+        0.14640000462532043,
+        0.0
+      ],
+      "Ltoe": [
+        -0.4196286201477051,
+        0.02745000086724758,
+        0.0
+      ],
+      "Rhip": [
+        0.1274450570344925,
+        0.8051999807357788,
+        0.0
+      ],
+      "Rknee": [
+        0.2368597835302353,
+        0.4392000138759613,
+        0.0
+      ],
+      "Rankle": [
+        0.3025086224079132,
+        0.14640000462532043,
+        0.0
+      ],
+      "Rtoe": [
+        0.4228648543357849,
+        0.02745000086724758,
+        0.0
+      ]
+    }
+  },
+  "wall 1": {
+    "scene": "S002_defence_v019",
+    "root": "v019 wall 1",
+    "skin": "S002_defence_v019 / wall actor / pose 0",
+    "armature": "wall 1 fitted bones",
+    "controls": {
+      "hip": "wall 1 hip",
+      "neck": "wall 1 neck",
+      "head": "wall 1 head",
+      "Lshoulder": "wall 1 Lshoulder",
+      "Lelbow": "wall 1 Lelbow",
+      "Lwrist": "wall 1 Lwrist",
+      "Lfinger": "wall 1 Lfinger",
+      "Rshoulder": "wall 1 Rshoulder",
+      "Relbow": "wall 1 Relbow",
+      "Rwrist": "wall 1 Rwrist",
+      "Rfinger": "wall 1 Rfinger",
+      "Lhip": "wall 1 Lhip",
+      "Lknee": "wall 1 Lknee",
+      "Lankle": "wall 1 Lankle",
+      "Ltoe": "wall 1 Ltoe",
+      "Rhip": "wall 1 Rhip",
+      "Rknee": "wall 1 Rknee",
+      "Rankle": "wall 1 Rankle",
+      "Rtoe": "wall 1 Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.8550000190734863,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.4630000591278076,
+        0.0
+      ],
+      "head": [
+        0.0,
+        1.7289999723434448,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.16734758019447327,
+        1.3869999647140503,
+        0.0
+      ],
+      "Lelbow": [
+        -0.17664465308189392,
+        1.1399999856948853,
+        0.0
+      ],
+      "Lwrist": [
+        -0.018594175577163696,
+        0.968999981880188,
+        0.0
+      ],
+      "Lfinger": [
+        0.0,
+        0.9309999942779541,
+        0.0
+      ],
+      "Rshoulder": [
+        0.17664465308189392,
+        1.3869999647140503,
+        0.0
+      ],
+      "Relbow": [
+        0.18594174087047577,
+        1.1399999856948853,
+        0.0
+      ],
+      "Rwrist": [
+        0.027891261503100395,
+        0.968999981880188,
+        0.0
+      ],
+      "Rfinger": [
+        0.0,
+        0.9309999942779541,
+        0.0
+      ],
+      "Lhip": [
+        -0.09297087043523788,
+        0.8360000252723694,
+        0.0
+      ],
+      "Lknee": [
+        -0.19523882865905762,
+        0.4560000002384186,
+        0.0
+      ],
+      "Lankle": [
+        -0.24172426760196686,
+        0.15199999511241913,
+        0.0
+      ],
+      "Ltoe": [
+        -0.35328930616378784,
+        0.02850000001490116,
+        0.0
+      ],
+      "Rhip": [
+        0.11156504601240158,
+        0.8360000252723694,
+        0.0
+      ],
+      "Rknee": [
+        0.20453591644763947,
+        0.4560000002384186,
+        0.0
+      ],
+      "Rankle": [
+        0.26031845808029175,
+        0.15199999511241913,
+        0.0
+      ],
+      "Rtoe": [
+        0.3625864088535309,
+        0.02850000001490116,
+        0.0
+      ]
+    }
+  },
+  "wall 2": {
+    "scene": "S002_defence_v019",
+    "root": "v019 wall 2",
+    "skin": "S002_defence_v019 / wall actor / pose 0.001",
+    "armature": "wall 2 fitted bones",
+    "controls": {
+      "hip": "wall 2 hip",
+      "neck": "wall 2 neck",
+      "head": "wall 2 head",
+      "Lshoulder": "wall 2 Lshoulder",
+      "Lelbow": "wall 2 Lelbow",
+      "Lwrist": "wall 2 Lwrist",
+      "Lfinger": "wall 2 Lfinger",
+      "Rshoulder": "wall 2 Rshoulder",
+      "Relbow": "wall 2 Relbow",
+      "Rwrist": "wall 2 Rwrist",
+      "Rfinger": "wall 2 Rfinger",
+      "Lhip": "wall 2 Lhip",
+      "Lknee": "wall 2 Lknee",
+      "Lankle": "wall 2 Lankle",
+      "Ltoe": "wall 2 Ltoe",
+      "Rhip": "wall 2 Rhip",
+      "Rknee": "wall 2 Rknee",
+      "Rankle": "wall 2 Rankle",
+      "Rtoe": "wall 2 Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.8640000224113464,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.4783999919891357,
+        0.0
+      ],
+      "head": [
+        0.0,
+        1.7472000122070312,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.16711798310279846,
+        1.4016000032424927,
+        0.0
+      ],
+      "Lelbow": [
+        -0.17640231549739838,
+        1.1519999504089355,
+        0.0
+      ],
+      "Lwrist": [
+        -0.01856866478919983,
+        0.979200005531311,
+        0.0
+      ],
+      "Lfinger": [
+        0.0,
+        0.9408000111579895,
+        0.0
+      ],
+      "Rshoulder": [
+        0.17640231549739838,
+        1.4016000032424927,
+        0.0
+      ],
+      "Relbow": [
+        0.1856866478919983,
+        1.1519999504089355,
+        0.0
+      ],
+      "Rwrist": [
+        0.027852997183799744,
+        0.979200005531311,
+        0.0
+      ],
+      "Rfinger": [
+        0.0,
+        0.9408000111579895,
+        0.0
+      ],
+      "Lhip": [
+        -0.09284332394599915,
+        0.8447999954223633,
+        0.0
+      ],
+      "Lknee": [
+        -0.1949709802865982,
+        0.4607999920845032,
+        0.0
+      ],
+      "Lankle": [
+        -0.24139265716075897,
+        0.15360000729560852,
+        0.0
+      ],
+      "Ltoe": [
+        -0.35280463099479675,
+        0.02879999950528145,
+        0.0
+      ],
+      "Rhip": [
+        0.11141198873519897,
+        0.8447999954223633,
+        0.0
+      ],
+      "Rknee": [
+        0.20425531268119812,
+        0.4607999920845032,
+        0.0
+      ],
+      "Rankle": [
+        0.2599613070487976,
+        0.15360000729560852,
+        0.0
+      ],
+      "Rtoe": [
+        0.36208897829055786,
+        0.02879999950528145,
+        0.0
+      ]
+    }
+  },
+  "wall 3": {
+    "scene": "S002_defence_v019",
+    "root": "v019 wall 3",
+    "skin": "S002_defence_v019 / wall actor / pose 0.002",
+    "armature": "wall 3 fitted bones",
+    "controls": {
+      "hip": "wall 3 hip",
+      "neck": "wall 3 neck",
+      "head": "wall 3 head",
+      "Lshoulder": "wall 3 Lshoulder",
+      "Lelbow": "wall 3 Lelbow",
+      "Lwrist": "wall 3 Lwrist",
+      "Lfinger": "wall 3 Lfinger",
+      "Rshoulder": "wall 3 Rshoulder",
+      "Relbow": "wall 3 Relbow",
+      "Rwrist": "wall 3 Rwrist",
+      "Rfinger": "wall 3 Rfinger",
+      "Lhip": "wall 3 Lhip",
+      "Lknee": "wall 3 Lknee",
+      "Lankle": "wall 3 Lankle",
+      "Ltoe": "wall 3 Ltoe",
+      "Rhip": "wall 3 Rhip",
+      "Rknee": "wall 3 Rknee",
+      "Rankle": "wall 3 Rankle",
+      "Rtoe": "wall 3 Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.8009999990463257,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.3705999851226807,
+        0.0
+      ],
+      "head": [
+        0.0,
+        1.6197999715805054,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.15018750727176666,
+        1.299399971961975,
+        0.0
+      ],
+      "Lelbow": [
+        -0.15853124856948853,
+        1.0679999589920044,
+        0.0
+      ],
+      "Lwrist": [
+        -0.01668749935925007,
+        0.907800018787384,
+        0.0
+      ],
+      "Lfinger": [
+        0.0,
+        0.8722000122070312,
+        0.0
+      ],
+      "Rshoulder": [
+        0.15853124856948853,
+        1.299399971961975,
+        0.0
+      ],
+      "Relbow": [
+        0.16687500476837158,
+        1.0679999589920044,
+        0.0
+      ],
+      "Rwrist": [
+        0.025031249970197678,
+        0.907800018787384,
+        0.0
+      ],
+      "Rfinger": [
+        0.0,
+        0.8722000122070312,
+        0.0
+      ],
+      "Lhip": [
+        -0.08343750238418579,
+        0.7832000255584717,
+        0.0
+      ],
+      "Lknee": [
+        -0.17521874606609344,
+        0.42719998955726624,
+        0.0
+      ],
+      "Lankle": [
+        -0.21693749725818634,
+        0.14239999651908875,
+        0.0
+      ],
+      "Ltoe": [
+        -0.31706249713897705,
+        0.02669999934732914,
+        0.0
+      ],
+      "Rhip": [
+        0.10012499988079071,
+        0.7832000255584717,
+        0.0
+      ],
+      "Rknee": [
+        0.1835625022649765,
+        0.42719998955726624,
+        0.0
+      ],
+      "Rankle": [
+        0.23362499475479126,
+        0.14239999651908875,
+        0.0
+      ],
+      "Rtoe": [
+        0.3254062533378601,
+        0.02669999934732914,
+        0.0
+      ]
+    }
+  },
+  "wall 4": {
+    "scene": "S002_defence_v019",
+    "root": "v019 wall 4",
+    "skin": "S002_defence_v019 / wall actor / pose 0.003",
+    "armature": "wall 4 fitted bones",
+    "controls": {
+      "hip": "wall 4 hip",
+      "neck": "wall 4 neck",
+      "head": "wall 4 head",
+      "Lshoulder": "wall 4 Lshoulder",
+      "Lelbow": "wall 4 Lelbow",
+      "Lwrist": "wall 4 Lwrist",
+      "Lfinger": "wall 4 Lfinger",
+      "Rshoulder": "wall 4 Rshoulder",
+      "Relbow": "wall 4 Relbow",
+      "Rwrist": "wall 4 Rwrist",
+      "Rfinger": "wall 4 Rfinger",
+      "Lhip": "wall 4 Lhip",
+      "Lknee": "wall 4 Lknee",
+      "Lankle": "wall 4 Lankle",
+      "Ltoe": "wall 4 Ltoe",
+      "Rhip": "wall 4 Rhip",
+      "Rknee": "wall 4 Rknee",
+      "Rankle": "wall 4 Rankle",
+      "Rtoe": "wall 4 Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.8324999809265137,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.4244999885559082,
+        0.0
+      ],
+      "head": [
+        0.0,
+        1.683500051498413,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.163918599486351,
+        1.3504999876022339,
+        0.0
+      ],
+      "Lelbow": [
+        -0.1730251908302307,
+        1.1100000143051147,
+        0.0
+      ],
+      "Lwrist": [
+        -0.0182131789624691,
+        0.9434999823570251,
+        0.0
+      ],
+      "Lfinger": [
+        0.0,
+        0.906499981880188,
+        0.0
+      ],
+      "Rshoulder": [
+        0.1730251908302307,
+        1.3504999876022339,
+        0.0
+      ],
+      "Relbow": [
+        0.1821317821741104,
+        1.1100000143051147,
+        0.0
+      ],
+      "Rwrist": [
+        0.027319766581058502,
+        0.9434999823570251,
+        0.0
+      ],
+      "Rfinger": [
+        0.0,
+        0.906499981880188,
+        0.0
+      ],
+      "Lhip": [
+        -0.0910658910870552,
+        0.8140000104904175,
+        0.0
+      ],
+      "Lknee": [
+        -0.1912383735179901,
+        0.4440000057220459,
+        0.0
+      ],
+      "Lankle": [
+        -0.23677131533622742,
+        0.14800000190734863,
+        0.0
+      ],
+      "Ltoe": [
+        -0.3460503816604614,
+        0.02775000035762787,
+        0.0
+      ],
+      "Rhip": [
+        0.10927906632423401,
+        0.8140000104904175,
+        0.0
+      ],
+      "Rknee": [
+        0.2003449648618698,
+        0.4440000057220459,
+        0.0
+      ],
+      "Rankle": [
+        0.2549844980239868,
+        0.14800000190734863,
+        0.0
+      ],
+      "Rtoe": [
+        0.3551569879055023,
+        0.02775000035762787,
+        0.0
+      ]
+    }
+  },
+  "wall 5": {
+    "scene": "S002_defence_v019",
+    "root": "v019 wall 5",
+    "skin": "S002_defence_v019 / wall actor / pose 0.004",
+    "armature": "wall 5 fitted bones",
+    "controls": {
+      "hip": "wall 5 hip",
+      "neck": "wall 5 neck",
+      "head": "wall 5 head",
+      "Lshoulder": "wall 5 Lshoulder",
+      "Lelbow": "wall 5 Lelbow",
+      "Lwrist": "wall 5 Lwrist",
+      "Lfinger": "wall 5 Lfinger",
+      "Rshoulder": "wall 5 Rshoulder",
+      "Relbow": "wall 5 Relbow",
+      "Rwrist": "wall 5 Rwrist",
+      "Rfinger": "wall 5 Rfinger",
+      "Lhip": "wall 5 Lhip",
+      "Lknee": "wall 5 Lknee",
+      "Lankle": "wall 5 Lankle",
+      "Ltoe": "wall 5 Ltoe",
+      "Rhip": "wall 5 Rhip",
+      "Rknee": "wall 5 Rknee",
+      "Rankle": "wall 5 Rankle",
+      "Rtoe": "wall 5 Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.8009999990463257,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.3705999851226807,
+        0.0
+      ],
+      "head": [
+        0.0,
+        1.6197999715805054,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.15521323680877686,
+        1.299399971961975,
+        0.0
+      ],
+      "Lelbow": [
+        -0.16383618116378784,
+        1.0679999589920044,
+        0.0
+      ],
+      "Lwrist": [
+        -0.017245914787054062,
+        0.907800018787384,
+        0.0
+      ],
+      "Lfinger": [
+        0.0,
+        0.8722000122070312,
+        0.0
+      ],
+      "Rshoulder": [
+        0.16383618116378784,
+        1.299399971961975,
+        0.0
+      ],
+      "Relbow": [
+        0.17245914041996002,
+        1.0679999589920044,
+        0.0
+      ],
+      "Rwrist": [
+        0.025868872180581093,
+        0.907800018787384,
+        0.0
+      ],
+      "Rfinger": [
+        0.0,
+        0.8722000122070312,
+        0.0
+      ],
+      "Lhip": [
+        -0.08622957020998001,
+        0.7832000255584717,
+        0.0
+      ],
+      "Lknee": [
+        -0.1810820996761322,
+        0.42719998955726624,
+        0.0
+      ],
+      "Lankle": [
+        -0.2241968810558319,
+        0.14239999651908875,
+        0.0
+      ],
+      "Ltoe": [
+        -0.3276723623275757,
+        0.02669999934732914,
+        0.0
+      ],
+      "Rhip": [
+        0.10347548872232437,
+        0.7832000255584717,
+        0.0
+      ],
+      "Rknee": [
+        0.18970505893230438,
+        0.42719998955726624,
+        0.0
+      ],
+      "Rankle": [
+        0.24144279956817627,
+        0.14239999651908875,
+        0.0
+      ],
+      "Rtoe": [
+        0.33629533648490906,
+        0.02669999934732914,
+        0.0
+      ]
+    }
+  },
+  "wall 6": {
+    "scene": "S002_defence_v019",
+    "root": "v019 wall 6",
+    "skin": "S002_defence_v019 / wall actor / pose 0.005",
+    "armature": "wall 6 fitted bones",
+    "controls": {
+      "hip": "wall 6 hip",
+      "neck": "wall 6 neck",
+      "head": "wall 6 head",
+      "Lshoulder": "wall 6 Lshoulder",
+      "Lelbow": "wall 6 Lelbow",
+      "Lwrist": "wall 6 Lwrist",
+      "Lfinger": "wall 6 Lfinger",
+      "Rshoulder": "wall 6 Rshoulder",
+      "Relbow": "wall 6 Relbow",
+      "Rwrist": "wall 6 Rwrist",
+      "Rfinger": "wall 6 Rfinger",
+      "Lhip": "wall 6 Lhip",
+      "Lknee": "wall 6 Lknee",
+      "Lankle": "wall 6 Lankle",
+      "Ltoe": "wall 6 Ltoe",
+      "Rhip": "wall 6 Rhip",
+      "Rknee": "wall 6 Rknee",
+      "Rankle": "wall 6 Rankle",
+      "Rtoe": "wall 6 Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.8100000023841858,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.3860000371932983,
+        0.0
+      ],
+      "head": [
+        0.0,
+        1.6380000114440918,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.1629473716020584,
+        1.3140000104904175,
+        0.0
+      ],
+      "Lelbow": [
+        -0.1720000058412552,
+        1.0800000429153442,
+        0.0
+      ],
+      "Lwrist": [
+        -0.018105262890458107,
+        0.9179999828338623,
+        0.0
+      ],
+      "Lfinger": [
+        0.0,
+        0.8820000290870667,
+        0.0
+      ],
+      "Rshoulder": [
+        0.1720000058412552,
+        1.3140000104904175,
+        0.0
+      ],
+      "Relbow": [
+        0.18105262517929077,
+        1.0800000429153442,
+        0.0
+      ],
+      "Rwrist": [
+        0.027157895267009735,
+        0.9179999828338623,
+        0.0
+      ],
+      "Rfinger": [
+        0.0,
+        0.8820000290870667,
+        0.0
+      ],
+      "Lhip": [
+        -0.09052631258964539,
+        0.7919999957084656,
+        0.0
+      ],
+      "Lknee": [
+        -0.19010525941848755,
+        0.4320000112056732,
+        0.0
+      ],
+      "Lankle": [
+        -0.23536841571331024,
+        0.14399999380111694,
+        0.0
+      ],
+      "Ltoe": [
+        -0.3440000116825104,
+        0.027000000700354576,
+        0.0
+      ],
+      "Rhip": [
+        0.10863158106803894,
+        0.7919999957084656,
+        0.0
+      ],
+      "Rknee": [
+        0.19915789365768433,
+        0.4320000112056732,
+        0.0
+      ],
+      "Rankle": [
+        0.253473699092865,
+        0.14399999380111694,
+        0.0
+      ],
+      "Rtoe": [
+        0.35305264592170715,
+        0.027000000700354576,
+        0.0
+      ]
+    }
+  },
+  "wall 7": {
+    "scene": "S002_defence_v019",
+    "root": "v019 wall 7",
+    "skin": "S002_defence_v019 / wall actor / pose 0.006",
+    "armature": "wall 7 fitted bones",
+    "controls": {
+      "hip": "wall 7 hip",
+      "neck": "wall 7 neck",
+      "head": "wall 7 head",
+      "Lshoulder": "wall 7 Lshoulder",
+      "Lelbow": "wall 7 Lelbow",
+      "Lwrist": "wall 7 Lwrist",
+      "Lfinger": "wall 7 Lfinger",
+      "Rshoulder": "wall 7 Rshoulder",
+      "Relbow": "wall 7 Relbow",
+      "Rwrist": "wall 7 Rwrist",
+      "Rfinger": "wall 7 Rfinger",
+      "Lhip": "wall 7 Lhip",
+      "Lknee": "wall 7 Lknee",
+      "Lankle": "wall 7 Lankle",
+      "Ltoe": "wall 7 Ltoe",
+      "Rhip": "wall 7 Rhip",
+      "Rknee": "wall 7 Rknee",
+      "Rankle": "wall 7 Rankle",
+      "Rtoe": "wall 7 Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.8054999709129333,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.3782999515533447,
+        0.0
+      ],
+      "head": [
+        0.0,
+        1.6289000511169434,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.16468000411987305,
+        1.3066999912261963,
+        0.0
+      ],
+      "Lelbow": [
+        -0.1738288849592209,
+        1.0740000009536743,
+        0.0
+      ],
+      "Lwrist": [
+        -0.018297778442502022,
+        0.9128999710083008,
+        0.0
+      ],
+      "Lfinger": [
+        0.0,
+        0.8770999908447266,
+        0.0
+      ],
+      "Rshoulder": [
+        0.1738288849592209,
+        1.3066999912261963,
+        0.0
+      ],
+      "Relbow": [
+        0.18297778069972992,
+        1.0740000009536743,
+        0.0
+      ],
+      "Rwrist": [
+        0.027446666732430458,
+        0.9128999710083008,
+        0.0
+      ],
+      "Rfinger": [
+        0.0,
+        0.8770999908447266,
+        0.0
+      ],
+      "Lhip": [
+        -0.09148889034986496,
+        0.7875999808311462,
+        0.0
+      ],
+      "Lknee": [
+        -0.19212666153907776,
+        0.4296000003814697,
+        0.0
+      ],
+      "Lankle": [
+        -0.23787111043930054,
+        0.14319999516010284,
+        0.0
+      ],
+      "Ltoe": [
+        -0.3476577699184418,
+        0.026850000023841858,
+        0.0
+      ],
+      "Rhip": [
+        0.10978666692972183,
+        0.7875999808311462,
+        0.0
+      ],
+      "Rknee": [
+        0.2012755572795868,
+        0.4296000003814697,
+        0.0
+      ],
+      "Rankle": [
+        0.2561689019203186,
+        0.14319999516010284,
+        0.0
+      ],
+      "Rtoe": [
+        0.3568066656589508,
+        0.026850000023841858,
+        0.0
+      ]
+    }
+  },
+  "wall 8": {
+    "scene": "S002_defence_v019",
+    "root": "v019 wall 8",
+    "skin": "S002_defence_v019 / wall actor / pose 0.007",
+    "armature": "wall 8 fitted bones",
+    "controls": {
+      "hip": "wall 8 hip",
+      "neck": "wall 8 neck",
+      "head": "wall 8 head",
+      "Lshoulder": "wall 8 Lshoulder",
+      "Lelbow": "wall 8 Lelbow",
+      "Lwrist": "wall 8 Lwrist",
+      "Lfinger": "wall 8 Lfinger",
+      "Rshoulder": "wall 8 Rshoulder",
+      "Relbow": "wall 8 Relbow",
+      "Rwrist": "wall 8 Rwrist",
+      "Rfinger": "wall 8 Rfinger",
+      "Lhip": "wall 8 Lhip",
+      "Lknee": "wall 8 Lknee",
+      "Lankle": "wall 8 Lankle",
+      "Ltoe": "wall 8 Ltoe",
+      "Rhip": "wall 8 Rhip",
+      "Rknee": "wall 8 Rknee",
+      "Rankle": "wall 8 Rankle",
+      "Rtoe": "wall 8 Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.8190000057220459,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.4013999700546265,
+        0.0
+      ],
+      "head": [
+        0.0,
+        1.6562000513076782,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.1683681309223175,
+        1.3286000490188599,
+        0.0
+      ],
+      "Lelbow": [
+        -0.17772191762924194,
+        1.0920000076293945,
+        0.0
+      ],
+      "Lwrist": [
+        -0.01870756968855858,
+        0.9282000064849854,
+        0.0
+      ],
+      "Lfinger": [
+        0.0,
+        0.8917999863624573,
+        0.0
+      ],
+      "Rshoulder": [
+        0.17772191762924194,
+        1.3286000490188599,
+        0.0
+      ],
+      "Relbow": [
+        0.18707570433616638,
+        1.0920000076293945,
+        0.0
+      ],
+      "Rwrist": [
+        0.028061354532837868,
+        0.9282000064849854,
+        0.0
+      ],
+      "Rfinger": [
+        0.0,
+        0.8917999863624573,
+        0.0
+      ],
+      "Lhip": [
+        -0.09353785216808319,
+        0.8008000254631042,
+        0.0
+      ],
+      "Lknee": [
+        -0.19642947614192963,
+        0.4368000030517578,
+        0.0
+      ],
+      "Lankle": [
+        -0.24319840967655182,
+        0.14560000598430634,
+        0.0
+      ],
+      "Ltoe": [
+        -0.3554438352584839,
+        0.027300000190734863,
+        0.0
+      ],
+      "Rhip": [
+        0.11224541813135147,
+        0.8008000254631042,
+        0.0
+      ],
+      "Rknee": [
+        0.20578326284885406,
+        0.4368000030517578,
+        0.0
+      ],
+      "Rankle": [
+        0.2619059681892395,
+        0.14560000598430634,
+        0.0
+      ],
+      "Rtoe": [
+        0.3647976219654083,
+        0.027300000190734863,
+        0.0
+      ]
+    }
+  },
+  "wall 9": {
+    "scene": "S002_defence_v019",
+    "root": "v019 wall 9",
+    "skin": "S002_defence_v019 / wall actor / pose 0.008",
+    "armature": "wall 9 fitted bones",
+    "controls": {
+      "hip": "wall 9 hip",
+      "neck": "wall 9 neck",
+      "head": "wall 9 head",
+      "Lshoulder": "wall 9 Lshoulder",
+      "Lelbow": "wall 9 Lelbow",
+      "Lwrist": "wall 9 Lwrist",
+      "Lfinger": "wall 9 Lfinger",
+      "Rshoulder": "wall 9 Rshoulder",
+      "Relbow": "wall 9 Relbow",
+      "Rwrist": "wall 9 Rwrist",
+      "Rfinger": "wall 9 Rfinger",
+      "Lhip": "wall 9 Lhip",
+      "Lknee": "wall 9 Lknee",
+      "Lankle": "wall 9 Lankle",
+      "Ltoe": "wall 9 Ltoe",
+      "Rhip": "wall 9 Rhip",
+      "Rknee": "wall 9 Rknee",
+      "Rankle": "wall 9 Rankle",
+      "Rtoe": "wall 9 Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.796500027179718,
+        0.0
+      ],
+      "neck": [
+        0.0,
+        1.3629000186920166,
+        0.0
+      ],
+      "head": [
+        0.0,
+        1.610700011253357,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.1621847152709961,
+        1.292099952697754,
+        0.0
+      ],
+      "Lelbow": [
+        -0.17119497060775757,
+        1.062000036239624,
+        0.0
+      ],
+      "Lwrist": [
+        -0.018020523712038994,
+        0.9027000069618225,
+        0.0
+      ],
+      "Lfinger": [
+        0.0,
+        0.8672999739646912,
+        0.0
+      ],
+      "Rshoulder": [
+        0.17119497060775757,
+        1.292099952697754,
+        0.0
+      ],
+      "Relbow": [
+        0.18020522594451904,
+        1.062000036239624,
+        0.0
+      ],
+      "Rwrist": [
+        0.027030784636735916,
+        0.9027000069618225,
+        0.0
+      ],
+      "Rfinger": [
+        0.0,
+        0.8672999739646912,
+        0.0
+      ],
+      "Lhip": [
+        -0.09010261297225952,
+        0.7788000106811523,
+        0.0
+      ],
+      "Lknee": [
+        -0.1892154961824417,
+        0.42480000853538513,
+        0.0
+      ],
+      "Lankle": [
+        -0.23426680266857147,
+        0.14159999787807465,
+        0.0
+      ],
+      "Ltoe": [
+        -0.34238994121551514,
+        0.02655000053346157,
+        0.0
+      ],
+      "Rhip": [
+        0.10812313854694366,
+        0.7788000106811523,
+        0.0
+      ],
+      "Rknee": [
+        0.19822575151920319,
+        0.42480000853538513,
+        0.0
+      ],
+      "Rankle": [
+        0.2522873282432556,
+        0.14159999787807465,
+        0.0
+      ],
+      "Rtoe": [
+        0.3514001965522766,
+        0.02655000053346157,
+        0.0
+      ]
+    }
+  },
+  "opposing attacker": {
+    "scene": "S002_defence_v019",
+    "root": "v019 opposing attacker",
+    "skin": "S002_defence_v019 / football actor / pose 0.006",
+    "armature": "opposing attacker fitted bones",
+    "controls": {
+      "hip": "opposing attacker hip",
+      "neck": "opposing attacker neck",
+      "head": "opposing attacker head",
+      "Lshoulder": "opposing attacker Lshoulder",
+      "Lelbow": "opposing attacker Lelbow",
+      "Lwrist": "opposing attacker Lwrist",
+      "Lfinger": "opposing attacker Lfinger",
+      "Rshoulder": "opposing attacker Rshoulder",
+      "Relbow": "opposing attacker Relbow",
+      "Rwrist": "opposing attacker Rwrist",
+      "Rfinger": "opposing attacker Rfinger",
+      "Lhip": "opposing attacker Lhip",
+      "Lknee": "opposing attacker Lknee",
+      "Lankle": "opposing attacker Lankle",
+      "Ltoe": "opposing attacker Ltoe",
+      "Rhip": "opposing attacker Rhip",
+      "Rknee": "opposing attacker Rknee",
+      "Rankle": "opposing attacker Rankle",
+      "Rtoe": "opposing attacker Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.014677419327199459,
+        0.8190000057220459,
+        0.0
+      ],
+      "neck": [
+        0.014677419327199459,
+        1.4013999700546265,
+        0.0
+      ],
+      "head": [
+        0.014677419327199459,
+        1.6562000513076782,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.23366451263427734,
+        1.3286000490188599,
+        0.0
+      ],
+      "Lelbow": [
+        -0.24746128916740417,
+        1.0920000076293945,
+        0.0
+      ],
+      "Lwrist": [
+        -0.01291612908244133,
+        0.9282000064849854,
+        0.0
+      ],
+      "Lfinger": [
+        0.014677419327199459,
+        0.8917999863624573,
+        0.0
+      ],
+      "Rshoulder": [
+        0.27681612968444824,
+        1.3286000490188599,
+        0.0
+      ],
+      "Relbow": [
+        0.2906129062175751,
+        1.0920000076293945,
+        0.0
+      ],
+      "Rwrist": [
+        0.05606774240732193,
+        0.9282000064849854,
+        0.0
+      ],
+      "Rfinger": [
+        0.014677419327199459,
+        0.8917999863624573,
+        0.0
+      ],
+      "Lhip": [
+        -0.12329032272100449,
+        0.8008000254631042,
+        0.0
+      ],
+      "Lknee": [
+        -0.27505484223365784,
+        0.4368000030517578,
+        0.0
+      ],
+      "Lankle": [
+        -0.3440386950969696,
+        0.14560000598430634,
+        0.0
+      ],
+      "Ltoe": [
+        -0.5095999836921692,
+        0.027300000190734863,
+        0.0
+      ],
+      "Rhip": [
+        0.18023870885372162,
+        0.8008000254631042,
+        0.0
+      ],
+      "Rknee": [
+        0.31820645928382874,
+        0.4368000030517578,
+        0.0
+      ],
+      "Rankle": [
+        0.40098708868026733,
+        0.14560000598430634,
+        0.0
+      ],
+      "Rtoe": [
+        0.5527516007423401,
+        0.027300000190734863,
+        0.0
+      ]
+    }
+  },
+  "Arteta": {
+    "scene": "S002_defence_v019",
+    "root": "B17 / v019 Arteta / character",
+    "skin": "B17 / v019 Arteta / complete source drawing",
+    "armature": "B17 / v019 Arteta / source fitted",
+    "controls": {
+      "hip": "B17 / v019 Arteta / CTRL hip",
+      "neck": "B17 / v019 Arteta / CTRL neck",
+      "head": "B17 / v019 Arteta / CTRL head",
+      "Lshoulder": "B17 / v019 Arteta / CTRL Lshoulder",
+      "Lelbow": "B17 / v019 Arteta / CTRL Lelbow",
+      "Lwrist": "B17 / v019 Arteta / CTRL Lwrist",
+      "Lfinger": "B17 / v019 Arteta / CTRL Lfinger",
+      "Lhip": "B17 / v019 Arteta / CTRL Lhip",
+      "Lknee": "B17 / v019 Arteta / CTRL Lknee",
+      "Lankle": "B17 / v019 Arteta / CTRL Lankle",
+      "Ltoe": "B17 / v019 Arteta / CTRL Ltoe",
+      "Rshoulder": "B17 / v019 Arteta / CTRL Rshoulder",
+      "Relbow": "B17 / v019 Arteta / CTRL Relbow",
+      "Rwrist": "B17 / v019 Arteta / CTRL Rwrist",
+      "Rfinger": "B17 / v019 Arteta / CTRL Rfinger",
+      "Rhip": "B17 / v019 Arteta / CTRL Rhip",
+      "Rknee": "B17 / v019 Arteta / CTRL Rknee",
+      "Rankle": "B17 / v019 Arteta / CTRL Rankle",
+      "Rtoe": "B17 / v019 Arteta / CTRL Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.7929515242576599,
+        0.0
+      ],
+      "neck": [
+        -0.02180616743862629,
+        1.4134361743927002,
+        0.0
+      ],
+      "head": [
+        -0.03171806037425995,
+        1.6235682964324951,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.20616739988327026,
+        1.3440529108047485,
+        0.0
+      ],
+      "Lelbow": [
+        -0.2933920621871948,
+        1.1220264434814453,
+        0.0
+      ],
+      "Lwrist": [
+        -0.40638765692710876,
+        0.8960352540016174,
+        0.0
+      ],
+      "Lfinger": [
+        -0.45198237895965576,
+        0.7770925164222717,
+        0.0
+      ],
+      "Lhip": [
+        -0.09317180514335632,
+        0.7929515242576599,
+        0.0
+      ],
+      "Lknee": [
+        -0.1447136551141739,
+        0.4757709205150604,
+        0.0
+      ],
+      "Lankle": [
+        -0.22599118947982788,
+        0.13083700835704803,
+        0.0
+      ],
+      "Ltoe": [
+        -0.3211453855037689,
+        0.03370044007897377,
+        0.0
+      ],
+      "Rshoulder": [
+        0.2101321518421173,
+        1.3440529108047485,
+        0.0
+      ],
+      "Relbow": [
+        0.26762115955352783,
+        1.1180616617202759,
+        0.0
+      ],
+      "Rwrist": [
+        0.38656386733055115,
+        0.8940528631210327,
+        0.0
+      ],
+      "Rfinger": [
+        0.44207048416137695,
+        0.775110125541687,
+        0.0
+      ],
+      "Rhip": [
+        0.11101321876049042,
+        0.7929515242576599,
+        0.0
+      ],
+      "Rknee": [
+        0.16057269275188446,
+        0.4737885594367981,
+        0.0
+      ],
+      "Rankle": [
+        0.20418502390384674,
+        0.12488986551761627,
+        0.0
+      ],
+      "Rtoe": [
+        0.3370043933391571,
+        0.03370044007897377,
+        0.0
+      ]
+    },
+    "cfg": {
+      "center": 1111,
+      "floor": 994,
+      "top": 86,
+      "hip": 594,
+      "neck": [
+        1100,
+        281
+      ],
+      "head": [
+        1095,
+        175
+      ],
+      "L": [
+        [
+          1007,
+          316
+        ],
+        [
+          963,
+          428
+        ],
+        [
+          906,
+          542
+        ],
+        [
+          883,
+          602
+        ],
+        [
+          1064,
+          594
+        ],
+        [
+          1038,
+          754
+        ],
+        [
+          997,
+          928
+        ],
+        [
+          949,
+          977
+        ]
+      ],
+      "R": [
+        [
+          1217,
+          316
+        ],
+        [
+          1246,
+          430
+        ],
+        [
+          1306,
+          543
+        ],
+        [
+          1334,
+          603
+        ],
+        [
+          1167,
+          594
+        ],
+        [
+          1192,
+          755
+        ],
+        [
+          1214,
+          931
+        ],
+        [
+          1281,
+          977
+        ]
+      ],
+      "eyes": [
+        [
+          1111,
+          168,
+          13,
+          9
+        ],
+        [
+          1143,
+          160,
+          8,
+          8
+        ]
+      ],
+      "mouth": [
+        1134,
+        205,
+        22
+      ],
+      "skin": "#ffbd83",
+      "body_edge": [
+        [
+          283,
+          40
+        ],
+        [
+          325,
+          91
+        ],
+        [
+          400,
+          91
+        ],
+        [
+          470,
+          91
+        ],
+        [
+          530,
+          94
+        ],
+        [
+          557,
+          91
+        ]
+      ],
+      "outline": [
+        [
+          1066,
+          264
+        ],
+        [
+          1063,
+          226
+        ],
+        [
+          1042,
+          217
+        ],
+        [
+          1036,
+          206
+        ],
+        [
+          1035,
+          192
+        ],
+        [
+          1027,
+          179
+        ],
+        [
+          1018,
+          167
+        ],
+        [
+          1015,
+          150
+        ],
+        [
+          1021,
+          132
+        ],
+        [
+          1035,
+          114
+        ],
+        [
+          1053,
+          104
+        ],
+        [
+          1081,
+          95
+        ],
+        [
+          1109,
+          90
+        ],
+        [
+          1123,
+          85
+        ],
+        [
+          1136,
+          90
+        ],
+        [
+          1145,
+          104
+        ],
+        [
+          1144,
+          123
+        ],
+        [
+          1149,
+          138
+        ],
+        [
+          1152,
+          158
+        ],
+        [
+          1156,
+          172
+        ],
+        [
+          1158,
+          190
+        ],
+        [
+          1163,
+          207
+        ],
+        [
+          1162,
+          222
+        ],
+        [
+          1155,
+          234
+        ],
+        [
+          1136,
+          242
+        ],
+        [
+          1137,
+          263
+        ],
+        [
+          1170,
+          273
+        ],
+        [
+          1203,
+          282
+        ],
+        [
+          1221,
+          291
+        ],
+        [
+          1234,
+          308
+        ],
+        [
+          1242,
+          336
+        ],
+        [
+          1251,
+          359
+        ],
+        [
+          1258,
+          381
+        ],
+        [
+          1256,
+          396
+        ],
+        [
+          1268,
+          412
+        ],
+        [
+          1272,
+          428
+        ],
+        [
+          1284,
+          444
+        ],
+        [
+          1296,
+          459
+        ],
+        [
+          1307,
+          486
+        ],
+        [
+          1314,
+          514
+        ],
+        [
+          1323,
+          533
+        ],
+        [
+          1332,
+          545
+        ],
+        [
+          1342,
+          565
+        ],
+        [
+          1351,
+          584
+        ],
+        [
+          1354,
+          606
+        ],
+        [
+          1349,
+          626
+        ],
+        [
+          1342,
+          637
+        ],
+        [
+          1336,
+          635
+        ],
+        [
+          1341,
+          613
+        ],
+        [
+          1337,
+          605
+        ],
+        [
+          1336,
+          620
+        ],
+        [
+          1332,
+          634
+        ],
+        [
+          1325,
+          632
+        ],
+        [
+          1330,
+          610
+        ],
+        [
+          1327,
+          589
+        ],
+        [
+          1320,
+          579
+        ],
+        [
+          1323,
+          598
+        ],
+        [
+          1319,
+          612
+        ],
+        [
+          1311,
+          612
+        ],
+        [
+          1308,
+          599
+        ],
+        [
+          1302,
+          578
+        ],
+        [
+          1299,
+          562
+        ],
+        [
+          1302,
+          546
+        ],
+        [
+          1288,
+          528
+        ],
+        [
+          1269,
+          510
+        ],
+        [
+          1258,
+          495
+        ],
+        [
+          1248,
+          476
+        ],
+        [
+          1236,
+          466
+        ],
+        [
+          1227,
+          448
+        ],
+        [
+          1221,
+          429
+        ],
+        [
+          1210,
+          408
+        ],
+        [
+          1202,
+          391
+        ],
+        [
+          1199,
+          424
+        ],
+        [
+          1200,
+          453
+        ],
+        [
+          1204,
+          479
+        ],
+        [
+          1207,
+          504
+        ],
+        [
+          1202,
+          518
+        ],
+        [
+          1207,
+          542
+        ],
+        [
+          1203,
+          548
+        ],
+        [
+          1210,
+          585
+        ],
+        [
+          1214,
+          650
+        ],
+        [
+          1219,
+          706
+        ],
+        [
+          1227,
+          759
+        ],
+        [
+          1224,
+          803
+        ],
+        [
+          1231,
+          853
+        ],
+        [
+          1232,
+          886
+        ],
+        [
+          1240,
+          910
+        ],
+        [
+          1238,
+          921
+        ],
+        [
+          1244,
+          934
+        ],
+        [
+          1262,
+          944
+        ],
+        [
+          1286,
+          954
+        ],
+        [
+          1311,
+          965
+        ],
+        [
+          1327,
+          977
+        ],
+        [
+          1327,
+          987
+        ],
+        [
+          1315,
+          993
+        ],
+        [
+          1291,
+          993
+        ],
+        [
+          1260,
+          988
+        ],
+        [
+          1225,
+          981
+        ],
+        [
+          1190,
+          979
+        ],
+        [
+          1178,
+          974
+        ],
+        [
+          1179,
+          955
+        ],
+        [
+          1185,
+          933
+        ],
+        [
+          1189,
+          922
+        ],
+        [
+          1180,
+          914
+        ],
+        [
+          1173,
+          871
+        ],
+        [
+          1163,
+          833
+        ],
+        [
+          1150,
+          793
+        ],
+        [
+          1149,
+          757
+        ],
+        [
+          1142,
+          734
+        ],
+        [
+          1131,
+          706
+        ],
+        [
+          1121,
+          671
+        ],
+        [
+          1113,
+          636
+        ],
+        [
+          1105,
+          655
+        ],
+        [
+          1097,
+          691
+        ],
+        [
+          1081,
+          730
+        ],
+        [
+          1070,
+          752
+        ],
+        [
+          1068,
+          787
+        ],
+        [
+          1056,
+          819
+        ],
+        [
+          1043,
+          858
+        ],
+        [
+          1035,
+          888
+        ],
+        [
+          1027,
+          917
+        ],
+        [
+          1018,
+          919
+        ],
+        [
+          1022,
+          932
+        ],
+        [
+          1030,
+          952
+        ],
+        [
+          1026,
+          970
+        ],
+        [
+          1016,
+          979
+        ],
+        [
+          986,
+          986
+        ],
+        [
+          956,
+          993
+        ],
+        [
+          932,
+          994
+        ],
+        [
+          913,
+          989
+        ],
+        [
+          904,
+          982
+        ],
+        [
+          906,
+          972
+        ],
+        [
+          920,
+          959
+        ],
+        [
+          943,
+          942
+        ],
+        [
+          966,
+          925
+        ],
+        [
+          969,
+          913
+        ],
+        [
+          973,
+          881
+        ],
+        [
+          978,
+          841
+        ],
+        [
+          984,
+          801
+        ],
+        [
+          995,
+          759
+        ],
+        [
+          1000,
+          724
+        ],
+        [
+          1005,
+          685
+        ],
+        [
+          1011,
+          648
+        ],
+        [
+          1013,
+          610
+        ],
+        [
+          1016,
+          566
+        ],
+        [
+          1021,
+          542
+        ],
+        [
+          1014,
+          537
+        ],
+        [
+          1017,
+          513
+        ],
+        [
+          1013,
+          501
+        ],
+        [
+          1019,
+          481
+        ],
+        [
+          1020,
+          452
+        ],
+        [
+          1016,
+          421
+        ],
+        [
+          1014,
+          405
+        ],
+        [
+          1002,
+          425
+        ],
+        [
+          995,
+          444
+        ],
+        [
+          980,
+          461
+        ],
+        [
+          970,
+          481
+        ],
+        [
+          957,
+          499
+        ],
+        [
+          944,
+          512
+        ],
+        [
+          931,
+          529
+        ],
+        [
+          915,
+          547
+        ],
+        [
+          918,
+          562
+        ],
+        [
+          916,
+          578
+        ],
+        [
+          909,
+          593
+        ],
+        [
+          908,
+          607
+        ],
+        [
+          903,
+          613
+        ],
+        [
+          897,
+          611
+        ],
+        [
+          897,
+          592
+        ],
+        [
+          892,
+          601
+        ],
+        [
+          892,
+          620
+        ],
+        [
+          888,
+          637
+        ],
+        [
+          881,
+          636
+        ],
+        [
+          883,
+          620
+        ],
+        [
+          880,
+          611
+        ],
+        [
+          880,
+          629
+        ],
+        [
+          876,
+          637
+        ],
+        [
+          870,
+          632
+        ],
+        [
+          864,
+          617
+        ],
+        [
+          862,
+          602
+        ],
+        [
+          864,
+          580
+        ],
+        [
+          873,
+          559
+        ],
+        [
+          882,
+          542
+        ],
+        [
+          890,
+          518
+        ],
+        [
+          899,
+          497
+        ],
+        [
+          906,
+          488
+        ],
+        [
+          913,
+          463
+        ],
+        [
+          923,
+          446
+        ],
+        [
+          922,
+          433
+        ],
+        [
+          929,
+          414
+        ],
+        [
+          939,
+          394
+        ],
+        [
+          947,
+          370
+        ],
+        [
+          957,
+          346
+        ],
+        [
+          969,
+          319
+        ],
+        [
+          985,
+          300
+        ],
+        [
+          1004,
+          289
+        ],
+        [
+          1035,
+          278
+        ]
+      ]
+    }
+  },
+  "Gyokeres": {
+    "scene": "S002_defence_v019",
+    "root": "B17 / v019 Gyokeres / character",
+    "skin": "B17 / v019 Gyokeres / complete source drawing",
+    "armature": "B17 / v019 Gyokeres / source fitted",
+    "controls": {
+      "hip": "B17 / v019 Gyokeres / CTRL hip",
+      "neck": "B17 / v019 Gyokeres / CTRL neck",
+      "head": "B17 / v019 Gyokeres / CTRL head",
+      "Lshoulder": "B17 / v019 Gyokeres / CTRL Lshoulder",
+      "Lelbow": "B17 / v019 Gyokeres / CTRL Lelbow",
+      "Lwrist": "B17 / v019 Gyokeres / CTRL Lwrist",
+      "Lfinger": "B17 / v019 Gyokeres / CTRL Lfinger",
+      "Lhip": "B17 / v019 Gyokeres / CTRL Lhip",
+      "Lknee": "B17 / v019 Gyokeres / CTRL Lknee",
+      "Lankle": "B17 / v019 Gyokeres / CTRL Lankle",
+      "Ltoe": "B17 / v019 Gyokeres / CTRL Ltoe",
+      "Rshoulder": "B17 / v019 Gyokeres / CTRL Rshoulder",
+      "Relbow": "B17 / v019 Gyokeres / CTRL Relbow",
+      "Rwrist": "B17 / v019 Gyokeres / CTRL Rwrist",
+      "Rfinger": "B17 / v019 Gyokeres / CTRL Rfinger",
+      "Rhip": "B17 / v019 Gyokeres / CTRL Rhip",
+      "Rknee": "B17 / v019 Gyokeres / CTRL Rknee",
+      "Rankle": "B17 / v019 Gyokeres / CTRL Rankle",
+      "Rtoe": "B17 / v019 Gyokeres / CTRL Rtoe"
+    },
+    "rest": {
+      "hip": [
+        0.0,
+        0.7916326522827148,
+        0.0
+      ],
+      "neck": [
+        0.001836734707467258,
+        1.4289796352386475,
+        0.0
+      ],
+      "head": [
+        -0.011020408011972904,
+        1.6383672952651978,
+        0.0
+      ],
+      "Lshoulder": [
+        -0.2406122386455536,
+        1.322448968887329,
+        0.0
+      ],
+      "Lelbow": [
+        -0.3012244999408722,
+        1.0579591989517212,
+        0.0
+      ],
+      "Lwrist": [
+        -0.40224489569664,
+        0.8265306353569031,
+        0.0
+      ],
+      "Lfinger": [
+        -0.42979592084884644,
+        0.7255101799964905,
+        0.0
+      ],
+      "Lhip": [
+        -0.10469387471675873,
+        0.7879591584205627,
+        0.0
+      ],
+      "Lknee": [
+        -0.1506122499704361,
+        0.5400000214576721,
+        0.0
+      ],
+      "Lankle": [
+        -0.1910204142332077,
+        0.13959184288978577,
+        0.0
+      ],
+      "Ltoe": [
+        -0.2920408248901367,
+        0.03489796072244644,
+        0.0
+      ],
+      "Rshoulder": [
+        0.2406122386455536,
+        1.322448968887329,
+        0.0
+      ],
+      "Relbow": [
+        0.3379591703414917,
+        1.0561224222183228,
+        0.0
+      ],
+      "Rwrist": [
+        0.4151020348072052,
+        0.8265306353569031,
+        0.0
+      ],
+      "Rfinger": [
+        0.44632652401924133,
+        0.7218367457389832,
+        0.0
+      ],
+      "Rhip": [
+        0.11938775330781937,
+        0.7879591584205627,
+        0.0
+      ],
+      "Rknee": [
+        0.17816326022148132,
+        0.5400000214576721,
+        0.0
+      ],
+      "Rankle": [
+        0.2442857176065445,
+        0.13959184288978577,
+        0.0
+      ],
+      "Rtoe": [
+        0.354489803314209,
+        0.03489796072244644,
+        0.0
+      ]
+    },
+    "cfg": {
+      "center": 424,
+      "floor": 998,
+      "top": 18,
+      "hip": 567,
+      "neck": [
+        425,
+        220
+      ],
+      "head": [
+        418,
+        106
+      ],
+      "L": [
+        [
+          293,
+          278
+        ],
+        [
+          260,
+          422
+        ],
+        [
+          205,
+          548
+        ],
+        [
+          190,
+          603
+        ],
+        [
+          367,
+          569
+        ],
+        [
+          342,
+          704
+        ],
+        [
+          320,
+          922
+        ],
+        [
+          265,
+          979
+        ]
+      ],
+      "R": [
+        [
+          555,
+          278
+        ],
+        [
+          608,
+          423
+        ],
+        [
+          650,
+          548
+        ],
+        [
+          667,
+          605
+        ],
+        [
+          489,
+          569
+        ],
+        [
+          521,
+          704
+        ],
+        [
+          557,
+          922
+        ],
+        [
+          617,
+          979
+        ]
+      ],
+      "eyes": [
+        [
+          428,
+          118,
+          13,
+          8
+        ],
+        [
+          465,
+          107,
+          9,
+          9
+        ]
+      ],
+      "mouth": [
+        455,
+        159,
+        18
+      ],
+      "skin": "#ffc38c",
+      "body_edge": [
+        [
+          220,
+          42
+        ],
+        [
+          280,
+          103
+        ],
+        [
+          350,
+          104
+        ],
+        [
+          420,
+          88
+        ],
+        [
+          470,
+          94
+        ],
+        [
+          515,
+          101
+        ]
+      ],
+      "outline": [
+        [
+          376,
+          197
+        ],
+        [
+          375,
+          166
+        ],
+        [
+          359,
+          153
+        ],
+        [
+          350,
+          140
+        ],
+        [
+          349,
+          127
+        ],
+        [
+          345,
+          117
+        ],
+        [
+          334,
+          101
+        ],
+        [
+          329,
+          83
+        ],
+        [
+          331,
+          68
+        ],
+        [
+          341,
+          51
+        ],
+        [
+          352,
+          42
+        ],
+        [
+          375,
+          33
+        ],
+        [
+          387,
+          28
+        ],
+        [
+          420,
+          25
+        ],
+        [
+          443,
+          18
+        ],
+        [
+          460,
+          22
+        ],
+        [
+          471,
+          33
+        ],
+        [
+          473,
+          50
+        ],
+        [
+          467,
+          63
+        ],
+        [
+          473,
+          78
+        ],
+        [
+          477,
+          98
+        ],
+        [
+          478,
+          120
+        ],
+        [
+          482,
+          137
+        ],
+        [
+          481,
+          158
+        ],
+        [
+          483,
+          177
+        ],
+        [
+          476,
+          191
+        ],
+        [
+          464,
+          199
+        ],
+        [
+          462,
+          205
+        ],
+        [
+          504,
+          214
+        ],
+        [
+          542,
+          225
+        ],
+        [
+          558,
+          234
+        ],
+        [
+          571,
+          251
+        ],
+        [
+          581,
+          277
+        ],
+        [
+          586,
+          297
+        ],
+        [
+          595,
+          320
+        ],
+        [
+          598,
+          338
+        ],
+        [
+          610,
+          352
+        ],
+        [
+          606,
+          363
+        ],
+        [
+          621,
+          397
+        ],
+        [
+          635,
+          417
+        ],
+        [
+          645,
+          451
+        ],
+        [
+          650,
+          480
+        ],
+        [
+          660,
+          513
+        ],
+        [
+          666,
+          525
+        ],
+        [
+          671,
+          546
+        ],
+        [
+          684,
+          573
+        ],
+        [
+          689,
+          597
+        ],
+        [
+          684,
+          616
+        ],
+        [
+          676,
+          632
+        ],
+        [
+          669,
+          630
+        ],
+        [
+          672,
+          613
+        ],
+        [
+          669,
+          603
+        ],
+        [
+          671,
+          616
+        ],
+        [
+          667,
+          628
+        ],
+        [
+          661,
+          628
+        ],
+        [
+          665,
+          605
+        ],
+        [
+          660,
+          587
+        ],
+        [
+          655,
+          573
+        ],
+        [
+          656,
+          591
+        ],
+        [
+          651,
+          598
+        ],
+        [
+          644,
+          595
+        ],
+        [
+          642,
+          579
+        ],
+        [
+          638,
+          564
+        ],
+        [
+          634,
+          550
+        ],
+        [
+          636,
+          533
+        ],
+        [
+          637,
+          523
+        ],
+        [
+          620,
+          497
+        ],
+        [
+          600,
+          473
+        ],
+        [
+          583,
+          448
+        ],
+        [
+          577,
+          428
+        ],
+        [
+          571,
+          413
+        ],
+        [
+          568,
+          396
+        ],
+        [
+          552,
+          375
+        ],
+        [
+          543,
+          375
+        ],
+        [
+          532,
+          354
+        ],
+        [
+          527,
+          372
+        ],
+        [
+          521,
+          409
+        ],
+        [
+          520,
+          426
+        ],
+        [
+          524,
+          439
+        ],
+        [
+          519,
+          455
+        ],
+        [
+          526,
+          477
+        ],
+        [
+          532,
+          503
+        ],
+        [
+          526,
+          506
+        ],
+        [
+          550,
+          584
+        ],
+        [
+          568,
+          650
+        ],
+        [
+          552,
+          657
+        ],
+        [
+          552,
+          683
+        ],
+        [
+          559,
+          705
+        ],
+        [
+          553,
+          720
+        ],
+        [
+          570,
+          761
+        ],
+        [
+          575,
+          793
+        ],
+        [
+          574,
+          844
+        ],
+        [
+          581,
+          891
+        ],
+        [
+          580,
+          914
+        ],
+        [
+          590,
+          932
+        ],
+        [
+          625,
+          952
+        ],
+        [
+          650,
+          969
+        ],
+        [
+          663,
+          982
+        ],
+        [
+          663,
+          993
+        ],
+        [
+          645,
+          998
+        ],
+        [
+          642,
+          1003
+        ],
+        [
+          635,
+          1003
+        ],
+        [
+          631,
+          997
+        ],
+        [
+          609,
+          997
+        ],
+        [
+          605,
+          1003
+        ],
+        [
+          596,
+          1003
+        ],
+        [
+          592,
+          996
+        ],
+        [
+          574,
+          992
+        ],
+        [
+          569,
+          999
+        ],
+        [
+          561,
+          997
+        ],
+        [
+          558,
+          989
+        ],
+        [
+          544,
+          984
+        ],
+        [
+          537,
+          969
+        ],
+        [
+          535,
+          952
+        ],
+        [
+          537,
+          933
+        ],
+        [
+          532,
+          917
+        ],
+        [
+          531,
+          894
+        ],
+        [
+          508,
+          843
+        ],
+        [
+          491,
+          808
+        ],
+        [
+          484,
+          779
+        ],
+        [
+          484,
+          751
+        ],
+        [
+          486,
+          738
+        ],
+        [
+          480,
+          719
+        ],
+        [
+          476,
+          700
+        ],
+        [
+          470,
+          663
+        ],
+        [
+          445,
+          660
+        ],
+        [
+          428,
+          581
+        ],
+        [
+          423,
+          574
+        ],
+        [
+          412,
+          651
+        ],
+        [
+          393,
+          656
+        ],
+        [
+          391,
+          677
+        ],
+        [
+          381,
+          704
+        ],
+        [
+          379,
+          723
+        ],
+        [
+          375,
+          741
+        ],
+        [
+          376,
+          779
+        ],
+        [
+          371,
+          811
+        ],
+        [
+          352,
+          849
+        ],
+        [
+          343,
+          891
+        ],
+        [
+          340,
+          922
+        ],
+        [
+          346,
+          940
+        ],
+        [
+          348,
+          962
+        ],
+        [
+          342,
+          976
+        ],
+        [
+          327,
+          981
+        ],
+        [
+          325,
+          989
+        ],
+        [
+          317,
+          989
+        ],
+        [
+          314,
+          982
+        ],
+        [
+          286,
+          990
+        ],
+        [
+          282,
+          998
+        ],
+        [
+          273,
+          998
+        ],
+        [
+          270,
+          992
+        ],
+        [
+          244,
+          995
+        ],
+        [
+          238,
+          1001
+        ],
+        [
+          230,
+          1000
+        ],
+        [
+          228,
+          993
+        ],
+        [
+          218,
+          986
+        ],
+        [
+          219,
+          978
+        ],
+        [
+          229,
+          963
+        ],
+        [
+          251,
+          948
+        ],
+        [
+          277,
+          932
+        ],
+        [
+          292,
+          920
+        ],
+        [
+          294,
+          891
+        ],
+        [
+          287,
+          844
+        ],
+        [
+          286,
+          799
+        ],
+        [
+          290,
+          764
+        ],
+        [
+          301,
+          731
+        ],
+        [
+          301,
+          713
+        ],
+        [
+          309,
+          692
+        ],
+        [
+          309,
+          659
+        ],
+        [
+          291,
+          650
+        ],
+        [
+          309,
+          578
+        ],
+        [
+          324,
+          509
+        ],
+        [
+          323,
+          506
+        ],
+        [
+          329,
+          469
+        ],
+        [
+          335,
+          456
+        ],
+        [
+          329,
+          444
+        ],
+        [
+          330,
+          424
+        ],
+        [
+          324,
+          391
+        ],
+        [
+          319,
+          370
+        ],
+        [
+          310,
+          379
+        ],
+        [
+          304,
+          398
+        ],
+        [
+          289,
+          421
+        ],
+        [
+          282,
+          453
+        ],
+        [
+          265,
+          479
+        ],
+        [
+          246,
+          505
+        ],
+        [
+          222,
+          534
+        ],
+        [
+          224,
+          550
+        ],
+        [
+          219,
+          573
+        ],
+        [
+          217,
+          593
+        ],
+        [
+          211,
+          598
+        ],
+        [
+          206,
+          593
+        ],
+        [
+          205,
+          573
+        ],
+        [
+          202,
+          588
+        ],
+        [
+          202,
+          605
+        ],
+        [
+          202,
+          617
+        ],
+        [
+          197,
+          625
+        ],
+        [
+          193,
+          622
+        ],
+        [
+          195,
+          603
+        ],
+        [
+          195,
+          594
+        ],
+        [
+          190,
+          610
+        ],
+        [
+          192,
+          624
+        ],
+        [
+          187,
+          630
+        ],
+        [
+          181,
+          623
+        ],
+        [
+          173,
+          614
+        ],
+        [
+          169,
+          598
+        ],
+        [
+          170,
+          576
+        ],
+        [
+          175,
+          562
+        ],
+        [
+          184,
+          543
+        ],
+        [
+          191,
+          528
+        ],
+        [
+          194,
+          512
+        ],
+        [
+          201,
+          490
+        ],
+        [
+          210,
+          451
+        ],
+        [
+          218,
+          423
+        ],
+        [
+          231,
+          399
+        ],
+        [
+          244,
+          381
+        ],
+        [
+          252,
+          358
+        ],
+        [
+          248,
+          354
+        ],
+        [
+          256,
+          329
+        ],
+        [
+          261,
+          307
+        ],
+        [
+          263,
+          282
+        ],
+        [
+          272,
+          254
+        ],
+        [
+          286,
+          237
+        ],
+        [
+          308,
+          227
+        ],
+        [
+          343,
+          213
+        ]
+      ]
+    }
+  }
+}

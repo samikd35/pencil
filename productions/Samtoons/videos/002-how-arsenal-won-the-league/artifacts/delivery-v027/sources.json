@@ -1,0 +1,18 @@
+{
+  "opening-motion": {
+    "original": "batch02-v017/batches01-02-v017.blend",
+    "sha256": "e5c5e011acb7c36c50a1e5286da627c2ed0330968f71002cf22dc83e110ef24a"
+  },
+  "opening-dialogue": {
+    "original": "dialogue-v018/batches01-02-v018.blend",
+    "sha256": "3964284af0e26cc2b4ff55d3a38dfff90aabc7c853c3ea4a6ad07aacbe9ec081"
+  },
+  "defence": {
+    "original": "defence-v022/batch02-v022.blend",
+    "sha256": "10d05293acbb77d2c89b8cf7325b46335b5989fb4e063ae6985d0e925e5428c5"
+  },
+  "remaining": {
+    "original": "hand-repair-v025/hand-repair-v025.blend",
+    "sha256": "c97c34f47cfe01623c84a4da80a4a0c30bfe1c266f5f1b4567ba9f5acf3697b9"
+  }
+}

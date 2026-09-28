@@ -1,0 +1,18 @@
+{
+  "frames": 216,
+  "actors": 4,
+  "actual_mesh_support_error": 1.1868815930071719e-07,
+  "horizontal_registration_ranges_px": {
+    "Gabriel": 0.000629425048828125,
+    "Saliba": 0.0006103515625,
+    "Gyokeres": 0.0006866455078125,
+    "Arteta": 0.00091552734375
+  },
+  "pose_surface_screen_bounds": [
+    0.07340940833091736,
+    0.9246183037757874,
+    0.1760021150112152,
+    0.6752836108207703
+  ],
+  "limitations": "No automated judgment of pose anatomy, natural timing, expression or audible fit."
+}

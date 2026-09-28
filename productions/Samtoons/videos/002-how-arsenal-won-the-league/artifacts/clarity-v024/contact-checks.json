@@ -1,0 +1,19 @@
+{
+  "release_frame": 29,
+  "backside_frame": 64,
+  "goal_frame": 85,
+  "surface": [
+    1.482133388519287,
+    48.699981689453125,
+    0.860185444355011
+  ],
+  "ball_center": [
+    1.482133388519287,
+    48.58998107910156,
+    0.860185444355011
+  ],
+  "surface_distance": 0.11000060929324726,
+  "ball_radius": 0.11,
+  "header_removed": true,
+  "airtime_seconds": 2.3333333333333335
+}

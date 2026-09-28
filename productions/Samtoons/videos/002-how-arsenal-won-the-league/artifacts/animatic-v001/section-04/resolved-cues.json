@@ -1,0 +1,1190 @@
+{
+  "version": 1,
+  "plan": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/section-04.json",
+  "plan_sha256": "c857675f1c32814594a7e5868cc1906b7c3f960b3cc07aec5dd8dda663b8a750",
+  "timeline": {
+    "fps": "24",
+    "start_frame": 1,
+    "frames": 784,
+    "sample_rate": 48000
+  },
+  "samples": 1568000,
+  "assets": {
+    "narrator": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/narrator.wav",
+      "sha256": "7ea9f13e9478e4ee1c4569668faedd960920d717127b5b4773f853071e36546e",
+      "source": "Local Qwen VoiceDesign; exact text, direction, seed, model provenance in narrator-raw.json",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "106537/24000",
+        "codec": "pcm_s24le"
+      }
+    },
+    "arteta": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/arteta.wav",
+      "sha256": "cf7ef4a3d6aa156e2cebf9c0e8fcb9ec158f2101651e835f53ca4c2d038b6b98",
+      "source": "Local Qwen VoiceDesign; exact text, direction, seed, model provenance in arteta-raw.json",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "93781/24000",
+        "codec": "pcm_s24le"
+      }
+    },
+    "pep": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/pep.wav",
+      "sha256": "632036ad030adcba5bfd2f272c7af52d64ee98a08eb1c4200526d29b00f0387b",
+      "source": "Local Qwen VoiceDesign; exact text, direction, seed, model provenance in pep-raw.json",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "5699/3000",
+        "codec": "pcm_s24le"
+      }
+    },
+    "hold": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/hold.wav",
+      "sha256": "e82cf06817f692f7cda674f76a32c5ecf62680141031b7de21ebe55281d9ccad",
+      "source": "Local Qwen; original menu performance with telephone-band processing",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "74881/12000",
+        "codec": "pcm_s24le"
+      }
+    },
+    "ref": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/ref.wav",
+      "sha256": "42fd15257c3579488bd6d828cc17067714b77d883139f64c2f56de4bf8c919a3",
+      "source": "Local Qwen VoiceDesign; exact text, direction, seed, model provenance in ref-raw.json",
+      "license": "Qwen model Apache-2.0; generated candidate",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "55327/24000",
+        "codec": "pcm_s24le"
+      }
+    },
+    "meltdown": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/meltdown.wav",
+      "sha256": "6287781e66a0e969070928e77fac567a258a6ec83313831c5b59f59563e09cf8",
+      "source": "Exact selected sound-direction A combined meltdown",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "42551/8000",
+        "codec": "pcm_s24le"
+      }
+    },
+    "question-motif": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/question-motif.wav",
+      "sha256": "d0aeef3fa6d16357f15e96449053e2bc63d20072e8b1aa11e3771013ec65f919",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "8/5",
+        "codec": "pcm_s24le"
+      }
+    },
+    "answer-note": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/answer-note.wav",
+      "sha256": "617f6e28c03d9118b0280fe10fe05ce0206912ccdbe53400283bdf682b8ab56b",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "11/10",
+        "codec": "pcm_s24le"
+      }
+    },
+    "city-ping": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/city-ping.wav",
+      "sha256": "0a0091a3079c5fc77a2b5941ffa572b65f1f5e43f0915fa624e413c5301b52a3",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "1/2",
+        "codec": "pcm_s24le"
+      }
+    },
+    "switch": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/switch.wav",
+      "sha256": "38a8432760ac3205588a6ac226a396285a16e25ad20ccc278e09a87158c93152",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "9/100",
+        "codec": "pcm_s24le"
+      }
+    },
+    "tiny-tap": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/tiny-tap.wav",
+      "sha256": "9aa3abd25e956d458bed7a029be1c1ca6ee9a612b5be1372d6dbd7457c05d554",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "7/50",
+        "codec": "pcm_s24le"
+      }
+    },
+    "hold-tune": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/hold-tune.wav",
+      "sha256": "85a20f4cea0c2201a9c96250a8c33f579901e9e8fd745fd0e116fad7af86352a",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "11/2",
+        "codec": "pcm_s24le"
+      }
+    },
+    "hold-phone": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/hold-phone.wav",
+      "sha256": "ad7f60b5bd1a08fb5cfd76c99a92ffec7b33314816c780ba0edf3bd4c7622d49",
+      "source": "Original production synthesis in build_sound_audition_v001.py",
+      "license": "Original production composition/synthesis",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "11/2",
+        "codec": "pcm_s24le"
+      }
+    },
+    "chase-score": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/chase-score.mp3",
+      "sha256": "f2f20d0737560a2dec0d82119810757326b1eec7eae211f2d3e056e9754834a9",
+      "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100085",
+      "license": "CC BY 4.0",
+      "attribution": "Scheming Weasel (faster version) by Kevin MacLeod (incompetech.com), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ . Excerpted and faded.",
+      "format": {
+        "sample_rate": 44100,
+        "channels": 2,
+        "duration": "628899869/7056000",
+        "codec": "mp3"
+      }
+    },
+    "boot": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/boot.wav",
+      "sha256": "8a0a021e90900cca49cceca0182e41b8f9354cdfb17609e6b2a8437c8ec29ae8",
+      "source": "Original episode 001 seeded boot-contact synthesis, prepare_revision_audio.py",
+      "license": "Original production synthesis",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "17/100",
+        "codec": "pcm_s24le"
+      }
+    },
+    "paper": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/paper.wav",
+      "sha256": "aec7d37ae05bb3a9fd306c730dd07070f4927f6e2d134ee4594f0950e3c80501",
+      "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+      "license": "CC0",
+      "attribution": "Paper by Ezcah, Freesound 248178; processed excerpt.",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "16083/16000",
+        "codec": "pcm_s16le"
+      }
+    },
+    "L01": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L01-mix.wav",
+      "sha256": "7ea9f13e9478e4ee1c4569668faedd960920d717127b5b4773f853071e36546e",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "106537/24000",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L02": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L02-mix.wav",
+      "sha256": "15cdb91a4ca12053684fdc9ec141c6ad92953a580a27446d93a5f322a0cddfd7",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "18/5",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L03": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L03-mix.wav",
+      "sha256": "a8a05ae3af595c815ee06d9c31677c325df93595c2e8e1043b8c94fa2203119a",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "38/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L04": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L04-mix.wav",
+      "sha256": "27df52f251b1fa8dc96469a3a438ee5f557f93f0824a9cb9ac5ce59f64572016",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "32/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L05": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L05-mix.wav",
+      "sha256": "16e69e8023e050fafa4bb0f40b13d391162c414c9421754f45a47ac62f33c182",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "48/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L06": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L06-mix.wav",
+      "sha256": "72e36136d3e01ed8f76d147c6c016c23b8c9482a11976b2878cf1c2289add560",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "6/5",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L07": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L07-mix.wav",
+      "sha256": "6ae5be7cc3726b4c2d3b83d1f03df51b1d8856ac3a1bda8d986a28287743696b",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "128/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L08": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L08-mix.wav",
+      "sha256": "f09c26a9b03e1be5d216d76f56da6858baa38b7c7b41148bae85df1a8102e6b7",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "8/5",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L09": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L09-mix.wav",
+      "sha256": "409f763339f5c38cff10c69ab67f3dd58b4b287f89bf739e7160c40004d890b2",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "26/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L10": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L10-mix.wav",
+      "sha256": "4bb2262746177f377c0ed6b62b57d184ccedaaf80a434a851aa9bc0386df2d06",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "46/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L11": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L11-mix.wav",
+      "sha256": "c0bd09bb3d65a4f2773b5a5006642073f285e5c677d3e5cc70994e5af9c73338",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "34/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L12": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L12-mix.wav",
+      "sha256": "b79ff6fb9f72d5348fb41862ea51473de811c3874655c495ed55f8504cd4cdf3",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "176/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L13": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L13-mix.wav",
+      "sha256": "af26676c36116532a12e81499fb228eaee8d8ba1782dc31ab8b692d0bffbf50a",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "4",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L14": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L14-mix.wav",
+      "sha256": "dfb6416183ddb29246fedb89eaf6dfbdf57713d56201a586c3f24d8e2259b762",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "174/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L15": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L15-mix.wav",
+      "sha256": "3409e6769bfb17b0e17cfe813360745c45781ac472e1c874a158f7273bc0bda3",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "2",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L16": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L16-mix.wav",
+      "sha256": "a981dc5341296460192adee56bc26a9cbe1dd92c2d7d3b3821b14468848aa0ca",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "32/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L17": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L17-mix.wav",
+      "sha256": "3e97582b7a2c71069efdb9e07311bb672741e60aa64b6b122a98c8d82e8e1580",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "38/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L18": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L18-mix.wav",
+      "sha256": "81107a385bb01a54557b009e313be4d9b69d5c6debe20a32fbad90eeb4e75b22",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "16/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L19": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L19-mix.wav",
+      "sha256": "90f92f6e269a26ffc55eb92e81617cac43aa8b074c25fbc517d15f0611372c3a",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "126/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L20": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L20-mix.wav",
+      "sha256": "91cb1a327924973eaff088635f2d73cf022dcc64f57f7bed7415ef456447766f",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "56/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L21": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L21-mix.wav",
+      "sha256": "b740d070f479b44c50edec7236cf4a2e97e7121d66c33a0bc5e18bcf10c65abb",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "46/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L22": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L22-mix.wav",
+      "sha256": "632036ad030adcba5bfd2f272c7af52d64ee98a08eb1c4200526d29b00f0387b",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "5699/3000",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L23": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L23-mix.wav",
+      "sha256": "568069ddceee315b3d454005131a979ffd4e40197b165b5c566d085736d2ff29",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "96/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L24": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L24-mix.wav",
+      "sha256": "c48d313a784e72757a59c29b910abe0daa892cc047b87bac41d5612911f19608",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "42/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L25": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L25-mix.wav",
+      "sha256": "8e260b7e0a6f6ac001ef9b88eebda56b968c608671c7dac8dfa6c8026a2bce3f",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "28/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L26": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L26-mix.wav",
+      "sha256": "c26f97756695b5c24e54a1d22ddd6653105d7cd905c463cae621bd9024620194",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "28/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L27": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L27-mix.wav",
+      "sha256": "3613fc7c213dd81c2d3a713ed89d121c01b3ef2b980952dcede0c4fd7c936a3b",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "12/5",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L28": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L28-mix.wav",
+      "sha256": "112aa67285ab6f4dbd9a519489167c1ad211b96d67ae54de97c93349c3f983d9",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "14/5",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L29": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L29-mix.wav",
+      "sha256": "92cf189ced0ef37ee0d14f1154cfbea354944338b749f6239cf9079606ddbfc6",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "78/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L30": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L30-mix.wav",
+      "sha256": "6f88f899a3ffda472ad141186cecad7c55f5bbf5c3a7e5d48f4c259c4d4c87dc",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "38/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L31": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L31-mix.wav",
+      "sha256": "6cc62ea46a537fa286962654e7043d064488d8f5ada858ef4e1036e879491256",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "74/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L32": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L32-mix.wav",
+      "sha256": "a25b46dc011d56f4bf1462590db8b07f89e35722f0e8695cbffad9926fad52dd",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "22/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L33": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L33-mix.wav",
+      "sha256": "42fd15257c3579488bd6d828cc17067714b77d883139f64c2f56de4bf8c919a3",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "55327/24000",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L34": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L34-mix.wav",
+      "sha256": "7becf47e59956eb5d52e0e20f414b3ecf34ee1b6f04e3025e22a45d8bfbb25dc",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "58/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L35": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L35-mix.wav",
+      "sha256": "8010a45081604e881b18ba5fe2f8e24585ec1ab28cdbdc143304345dd5227256",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "162/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L36": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L36-mix.wav",
+      "sha256": "16f80d515f39347909af76718a1742cff7a8df4dc9ac19694ef7de8abffd7a00",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "52/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L37": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L37-mix.wav",
+      "sha256": "899e9a9089cc9349072454c0e1c08b11f59ec7e7e4112390d592645c11ff925d",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "32/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L38": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L38-mix.wav",
+      "sha256": "10f17e7eaf113c2c123553e29893531c98ee120eee7c37f2f4485c51268e2a9c",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "12/5",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L39": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L39-mix.wav",
+      "sha256": "bb064d22e09b871e5d0d4b72f39c4f80aee475055bfd66851379a9b21c9007b7",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "74/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L40": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L40-mix.wav",
+      "sha256": "a09227c20159e0191b3f716faec5679e84658d377393ebdd3120e5fd53e14c07",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "6/5",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L41": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L41-mix.wav",
+      "sha256": "7ec602f6892601d659460046bde861c5069adb2852a5e419ffab4157c5f58e2b",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "36/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L42": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L42-mix.wav",
+      "sha256": "6fe8e8da70b7f97bb41c20b89b381fdc369e4d69e7ae0d5ed7b860f3c5d5920e",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "42/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L43": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L43-mix.wav",
+      "sha256": "1e760c3e580233cb34c03fc5365b5cede9502dda09d87a8b87977bf22f179129",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "32/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L44": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L44-mix.wav",
+      "sha256": "849d4a5e8d640dbdb730c05801753e0a4098ee9ae39aa1ca88f54b7fe3c27308",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "22/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L45": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L45-mix.wav",
+      "sha256": "cd904676fc377e6852413a634504cc7faef69148197ef4521a2ff976c48b850f",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "84/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L46": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L46-mix.wav",
+      "sha256": "aa3dba750b2aa67b2749a9c3b92a3446add4d7bd7af550e861e2ffe06511489b",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "42/25",
+        "codec": "pcm_s24le"
+      }
+    },
+    "L47": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/voices/L47-mix.wav",
+      "sha256": "274d3dbe8f9dd7e0d21baa8d15246c6a0c43c094bd8f11005e977cd43a39692a",
+      "source": "Local directed Qwen take; voice JSON retains text, direction, provenance and hearing limits",
+      "license": "Qwen model Apache-2.0; generated performance",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "14/5",
+        "codec": "pcm_s24le"
+      }
+    },
+    "ball-strike": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/ball-strike.wav",
+      "sha256": "a5670c8592b954ae9d5336e7fbc84c0ddb7c785467a911bb9db4e4936c297ec1",
+      "source": "https://freesound.org/people/volivieri/sounds/37157/",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "attribution": "kick by volivieri \u2014 https://freesound.org/people/volivieri/sounds/37157/ \u2014 https://creativecommons.org/licenses/by/4.0/; excerpted and processed.",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "11/20",
+        "codec": "pcm_s16le"
+      }
+    },
+    "shirt-move": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/shirt-move.wav",
+      "sha256": "c06498b9e083f4fc3c3c2d577827fc4af6d0caf237afe8f326350f767fcdcfe3",
+      "source": "https://freesound.org/people/NachtmahrTV/sounds/556711/",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "cloth by NachtmahrTV \u2014 https://freesound.org/people/NachtmahrTV/sounds/556711/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed.",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "13/20",
+        "codec": "pcm_s16le"
+      }
+    },
+    "paper-handoff": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/paper-handoff.wav",
+      "sha256": "4881e483b8b698397afb1fe87b5988886dd54d46388648130b2a4cd3cbf6959e",
+      "source": "https://freesound.org/people/Ezcah/sounds/248178/",
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution": "paper by Ezcah \u2014 https://freesound.org/people/Ezcah/sounds/248178/ \u2014 http://creativecommons.org/publicdomain/zero/1.0/; excerpted and processed.",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "11/20",
+        "codec": "pcm_s16le"
+      }
+    },
+    "ref-whistle": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/ref-whistle.wav",
+      "sha256": "989cdfce394bd2efa2939da2fdbf29a8eed84a0192322162d707bac51b8db781",
+      "source": "Original episode001 graphic synthesis",
+      "license": "Original production synthesis",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "21/50",
+        "codec": "pcm_s16le"
+      }
+    },
+    "dry-impact": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/dry-impact.wav",
+      "sha256": "e63d24f9c2d3f2028256cf1baa274b1b891514e5d110919f904e14cc4618d84e",
+      "source": "Original episode001 graphic synthesis",
+      "license": "Original production synthesis",
+      "attribution": "",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "duration": "1/5",
+        "codec": "pcm_s16le"
+      }
+    },
+    "goal-cheer": {
+      "path": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/sounds/crowd-goal.wav",
+      "sha256": "ba9525c914dded27d61dd4ea1ffd22ae0b4a92f8ce9bf838efb01b11fac3f485",
+      "source": "https://freesound.org/people/Krizin/sounds/651646/; public HQ preview acquired 2026-09-12; original preview retained in assets/audio-v002.",
+      "license": "CC0 1.0, per individual sound page; page snapshot retained locally.",
+      "attribution": "Krizin / Freesound (voluntary credit)",
+      "format": {
+        "sample_rate": 48000,
+        "channels": 2,
+        "duration": "999/160",
+        "codec": "pcm_s16le"
+      }
+    }
+  },
+  "cues": [
+    {
+      "id": "CP04_courier_L24_23",
+      "shot": "CP04_courier",
+      "event": "CP04_courier_L24_23",
+      "asset": "L24",
+      "stem": "dialogue",
+      "intent": "L24",
+      "duration_seconds": "42/25",
+      "gain_db": 0.0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "pan": 0.0,
+      "event_frame": "13",
+      "event_sample": 24000,
+      "start_sample": 24000,
+      "source_start_sample": 0,
+      "samples": 80640,
+      "onset_samples": 0,
+      "fade_in_samples": 240,
+      "fade_out_samples": 2880,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    },
+    {
+      "id": "CP04_courier_L25_24",
+      "shot": "CP04_courier",
+      "event": "CP04_courier_L25_24",
+      "asset": "L25",
+      "stem": "dialogue",
+      "intent": "L25",
+      "duration_seconds": "28/25",
+      "gain_db": 0.0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "pan": 0.0,
+      "event_frame": "65",
+      "event_sample": 128000,
+      "start_sample": 128000,
+      "source_start_sample": 0,
+      "samples": 53760,
+      "onset_samples": 0,
+      "fade_in_samples": 240,
+      "fade_out_samples": 2880,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    },
+    {
+      "id": "CP05_L26_25",
+      "shot": "CP05",
+      "event": "CP05_L26_25",
+      "asset": "L26",
+      "stem": "dialogue",
+      "intent": "L26",
+      "duration_seconds": "28/25",
+      "gain_db": 0.0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "pan": 0.0,
+      "event_frame": "183",
+      "event_sample": 364000,
+      "start_sample": 364000,
+      "source_start_sample": 0,
+      "samples": 53760,
+      "onset_samples": 0,
+      "fade_in_samples": 240,
+      "fade_out_samples": 2880,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    },
+    {
+      "id": "VH01_L27_26",
+      "shot": "VH01",
+      "event": "VH01_L27_26",
+      "asset": "L27",
+      "stem": "dialogue",
+      "intent": "L27",
+      "duration_seconds": "12/5",
+      "gain_db": 0.0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "pan": 0.0,
+      "event_frame": "308",
+      "event_sample": 614000,
+      "start_sample": 614000,
+      "source_start_sample": 0,
+      "samples": 115200,
+      "onset_samples": 0,
+      "fade_in_samples": 240,
+      "fade_out_samples": 2880,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    },
+    {
+      "id": "VH02_L28_27",
+      "shot": "VH02",
+      "event": "VH02_L28_27",
+      "asset": "L28",
+      "stem": "dialogue",
+      "intent": "L28",
+      "duration_seconds": "14/5",
+      "gain_db": 0.0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "pan": 0.0,
+      "event_frame": "401",
+      "event_sample": 800000,
+      "start_sample": 800000,
+      "source_start_sample": 0,
+      "samples": 134400,
+      "onset_samples": 0,
+      "fade_in_samples": 240,
+      "fade_out_samples": 2880,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    },
+    {
+      "id": "VH03_answer_L29_28",
+      "shot": "VH03_answer",
+      "event": "VH03_answer_L29_28",
+      "asset": "L29",
+      "stem": "dialogue",
+      "intent": "L29",
+      "duration_seconds": "78/25",
+      "gain_db": 0.0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "pan": 0.0,
+      "event_frame": "593",
+      "event_sample": 1184000,
+      "start_sample": 1184000,
+      "source_start_sample": 0,
+      "samples": 149760,
+      "onset_samples": 0,
+      "fade_in_samples": 240,
+      "fade_out_samples": 2880,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    },
+    {
+      "id": "VH04_mikel_L30_29",
+      "shot": "VH04_mikel",
+      "event": "VH04_mikel_L30_29",
+      "asset": "L30",
+      "stem": "dialogue",
+      "intent": "L30",
+      "duration_seconds": "38/25",
+      "gain_db": 0.0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "pan": 0.0,
+      "event_frame": "706",
+      "event_sample": 1410000,
+      "start_sample": 1410000,
+      "source_start_sample": 0,
+      "samples": 72960,
+      "onset_samples": 0,
+      "fade_in_samples": 240,
+      "fade_out_samples": 2880,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    },
+    {
+      "id": "CP04_courier_chase-score_57",
+      "shot": "CP04_courier",
+      "event": "CP04_courier_chase-score_57",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "6",
+      "gain_db": -24.0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "pan": 0.0,
+      "event_frame": "1",
+      "event_sample": 0,
+      "start_sample": 0,
+      "source_start_sample": 0,
+      "samples": 288000,
+      "onset_samples": 0,
+      "fade_in_samples": 240,
+      "fade_out_samples": 2880,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    },
+    {
+      "id": "CP05_chase-score_58",
+      "shot": "CP05",
+      "event": "CP05_chase-score_58",
+      "asset": "chase-score",
+      "stem": "music",
+      "intent": "Selected A chase score; absent under Pep reply",
+      "duration_seconds": "5",
+      "gain_db": -24.0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "pan": 0.0,
+      "event_frame": "145",
+      "event_sample": 288000,
+      "start_sample": 288000,
+      "source_start_sample": 0,
+      "samples": 240000,
+      "onset_samples": 0,
+      "fade_in_samples": 240,
+      "fade_out_samples": 2880,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    },
+    {
+      "id": "VH02_hold-phone_59",
+      "shot": "VH02",
+      "event": "VH02_hold-phone_59",
+      "asset": "hold-phone",
+      "stem": "music",
+      "intent": "hold-phone",
+      "duration_seconds": "2",
+      "gain_db": -4.0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "pan": 0.0,
+      "event_frame": "483",
+      "event_sample": 964000,
+      "start_sample": 964000,
+      "source_start_sample": 0,
+      "samples": 96000,
+      "onset_samples": 0,
+      "fade_in_samples": 240,
+      "fade_out_samples": 2880,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    },
+    {
+      "id": "VH01_shirt-move_73",
+      "shot": "VH01",
+      "event": "VH01_shirt-move_73",
+      "asset": "shirt-move",
+      "stem": "foley",
+      "intent": "shirt-move",
+      "duration_seconds": "13/20",
+      "gain_db": -3.0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "pan": 0.0,
+      "event_frame": "267",
+      "event_sample": 532000,
+      "start_sample": 532000,
+      "source_start_sample": 0,
+      "samples": 31200,
+      "onset_samples": 0,
+      "fade_in_samples": 240,
+      "fade_out_samples": 2880,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    },
+    {
+      "id": "VH01_ref-whistle_74",
+      "shot": "VH01",
+      "event": "VH01_ref-whistle_74",
+      "asset": "ref-whistle",
+      "stem": "foley",
+      "intent": "ref-whistle",
+      "duration_seconds": "21/50",
+      "gain_db": -6.0,
+      "fade_in_seconds": 0.005,
+      "fade_out_seconds": 0.06,
+      "pan": 0.0,
+      "event_frame": "289",
+      "event_sample": 576000,
+      "start_sample": 576000,
+      "source_start_sample": 0,
+      "samples": 20160,
+      "onset_samples": 0,
+      "fade_in_samples": 240,
+      "fade_out_samples": 2880,
+      "trimmed_start_samples": 0,
+      "trimmed_end_samples": 0
+    }
+  ],
+  "mix_gain_db": -2.0
+}

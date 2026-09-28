@@ -1,0 +1,14 @@
+{
+  "video": {
+    "width": 1280,
+    "height": 720,
+    "nb_frames": "240",
+    "r_frame_rate": "24/1",
+    "duration": "10.000000"
+  },
+  "full_decode_pass": true,
+  "audio_bitstream_sha256": "3c5a53792b3d56c1d64566511d48da57551dc3ed0fe911fcd960c07776801258",
+  "audio_bitstream_identical_to_v004": true,
+  "saved_render_matches_live_frame_139": true,
+  "scope": "Binding and export checks for this 10-second scene; not arbitrary-pose or creative approval."
+}

@@ -1,0 +1,4 @@
+{
+  "error": "/opt/homebrew/bin/ffmpeg failed: [aist#0:0/pcm_f32le @ 0x8ecc38600] Guessed Channel Layout: stereo\n[aist#1:0/pcm_f32le @ 0x8ecc38780] Guessed Channel Layout: stereo\n[aist#2:0/pcm_f32le @ 0x8ecc38900] Guessed Channel Layout: stereo\n[aost#0:0/pcm_f32le @ 0x8ed05c000] Error submitting a packet to the muxer: No space left on device\n    Last message repeated 1 times\n[out#0/wav @ 0x8ecc00b40] Error muxing a packet\n[out#0/wav @ 0x8ecc00b40] Task finished with error code: -28 (No space left on device)\n[out#0/wav @ 0x8ecc00b40] Terminating thread with return code -28 (No space left on device)\n[out#0/wav @ 0x8ecc00b40] Error writing trailer: No space left on device\n[out#0/wav @ 0x8ecc00b40] Error closing file: No space left on device\n",
+  "plan": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/audio-plan.json"
+}

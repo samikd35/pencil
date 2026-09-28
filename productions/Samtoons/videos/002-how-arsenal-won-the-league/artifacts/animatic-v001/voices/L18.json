@@ -1,0 +1,19 @@
+{
+  "id": "L18",
+  "chapter": 3,
+  "beat": "N02",
+  "role_and_direction": "ARTETA — suddenly quiet",
+  "text": "Again?",
+  "word_count": 1,
+  "seconds": 0.64,
+  "file": "L18.wav",
+  "sha256": "30e73e1bde8c69c2b3357960311863fc5e7b4b7b6ef559e0d9d64cf149b55ef7",
+  "reference_start_seconds": 46.43597916666667,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. A tiny shocked question, confidence suddenly gone. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 0.7877636660050484,
+  "path": "artifacts/animatic-v001/voices/L18.wav"
+}

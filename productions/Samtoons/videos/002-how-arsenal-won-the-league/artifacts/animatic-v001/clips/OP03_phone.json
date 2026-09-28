@@ -1,0 +1,19 @@
+{
+  "id": "OP03_phone",
+  "chapter": 1,
+  "panel": 5,
+  "start_frame": 661,
+  "frames": 84,
+  "lines": [
+    6
+  ],
+  "source": "boards/chapter-1.png",
+  "camera": "hold",
+  "crop": [
+    688,
+    770,
+    673,
+    377
+  ],
+  "source_sha256": "5e7d4d7c8655aa6aeb366fe50a7b02c3131b647b064e013b8bd744746d0cfcac"
+}

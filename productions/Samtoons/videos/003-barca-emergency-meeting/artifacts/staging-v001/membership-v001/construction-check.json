@@ -1,0 +1,8 @@
+{
+  "frames": 312,
+  "fps": 24,
+  "shared_wrist_parameter_error": 1.0038677004331475e-05,
+  "construction": "Source arm and weight field discarded. Explicit continuous arm contours, connected sweater silhouette and rigid shared grip/prop. Projected drawings, not dynamics.",
+  "review": "Requires close-up visual inspection; parameter check is not a geometry-quality pass.",
+  "voice_listened_by_agent": false
+}

@@ -1,0 +1,29 @@
+{
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 1280,
+      "height": 720,
+      "r_frame_rate": "24/1",
+      "duration": "18.000000",
+      "nb_frames": "432"
+    },
+    {
+      "codec_name": "aac",
+      "codec_type": "audio",
+      "r_frame_rate": "0/0",
+      "duration": "18.000000",
+      "nb_frames": "845"
+    }
+  ],
+  "format": {
+    "duration": "18.000000"
+  },
+  "full_decode_passed": true,
+  "visual_inspection": "Rendered frames 70 and 367 inspected after saved-file render; this is not normal-speed playback acceptance.",
+  "audio_review": "Existing approved audio excerpt; no new listening claimed.",
+  "creative_status": "pending user review"
+}

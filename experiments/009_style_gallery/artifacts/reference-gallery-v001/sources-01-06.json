@@ -1,0 +1,153 @@
+[
+  {
+    "id": "expressive-stickman",
+    "title": "Animation vs. Water - #TeamWater",
+    "creator": "Alan Becker",
+    "source_url": "https://www.youtube.com/watch?v=d_uDE3cD_Xg",
+    "credit": "Artwork: Alan Becker",
+    "rationale": "One large, clearly posed orange stick figure dominates a bright, uncluttered story setting. It stays legible at menu size and shows how much action a very simple body can communicate.",
+    "quality_targets": [
+      "Use an unmistakable line of action and clean negative space between limbs.",
+      "Keep round heads, continuous limb thickness and smooth joins consistent across the figure.",
+      "Separate the character from the environment with strong color contrast and a clear visual focal point."
+    ],
+    "acquisition_note": "Official video Open Graph image; title and creator verified through YouTube oEmbed. Still image only; no video downloaded.",
+    "local_path": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/artifacts/reference-gallery-v001/downloads/expressive-stickman.jpg",
+    "image_url": "https://i.ytimg.com/vi/d_uDE3cD_Xg/maxresdefault.jpg",
+    "original_dimensions": {
+      "width": 1280,
+      "height": 720
+    },
+    "format": "JPEG",
+    "sha256": "48c602ab56fb0f0f890d68e87d50305e85237535d01565e077ac7fdfb8b21837",
+    "retrieved_on": "2026-09-14",
+    "visually_inspected": true,
+    "use_context": "Attributed external visual quality reference for a local style-choice menu; not a production character asset or a claim of reuse rights."
+  },
+  {
+    "id": "rubber-hose",
+    "title": "The Cuphead Show! — Cuphead and King Dice on stage",
+    "creator": "Netflix / Lighthouse Studios / Studio MDHR",
+    "source_url": "https://lighthousestudios.ie/work/the-cuphead-show",
+    "credit": "The Cuphead Show! · Netflix / Lighthouse Studios / Studio MDHR",
+    "rationale": "Two complete figures, an open glove gesture and a bent microphone arm make the rounded construction and theatrical pose language immediately clear. The coordinated heads, bodies and textured background demonstrate a finished scene.",
+    "quality_targets": [
+      "Use flowing limb arcs, rounded shoes and readable glove silhouettes with visible thumbs.",
+      "Keep head, face, torso and clothing in one coherent line and shape language.",
+      "Stage the gesture clearly against a quieter background, with controlled shading and ground contact."
+    ],
+    "acquisition_note": "Unchanged PNG from the animation studio’s official project gallery.",
+    "local_path": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/artifacts/reference-gallery-v001/downloads/rubber-hose.png",
+    "image_url": "https://lighthousestudios.ie/wp-content/uploads/2025/12/The-Cuphead-Show-3.png",
+    "original_dimensions": {
+      "width": 1568,
+      "height": 884
+    },
+    "format": "PNG",
+    "sha256": "dc9462dc858f88b2f895947f2138f1fd420ffe9815704d4a2573bccbcf0b31bc",
+    "retrieved_on": "2026-09-14",
+    "visually_inspected": true,
+    "use_context": "Attributed external visual quality reference for a local style-choice menu; not a production character asset or a claim of reuse rights."
+  },
+  {
+    "id": "flat-vector",
+    "title": "Loneliness — Managing facts and feelings",
+    "creator": "Kurzgesagt – In a Nutshell",
+    "source_url": "https://kurzgesagt.org/projects/loneliness",
+    "credit": "Artwork: Kurzgesagt – In a Nutshell",
+    "rationale": "The clean character montage shows coordinated heads and bodies, different proportions and clear hand-to-prop relationships using economical flat shapes. Saturated color grouping keeps the image readable without heavy outlines.",
+    "quality_targets": [
+      "Build a coherent silhouette from economical flat shapes with clean, continuous edges.",
+      "Use a controlled palette and value separation so hands, faces and props remain readable.",
+      "Preserve character-specific hair, proportions and expressions while simplifying small detail."
+    ],
+    "acquisition_note": "Largest original PNG advertised in the official project page’s image data; unchanged.",
+    "local_path": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/artifacts/reference-gallery-v001/downloads/flat-vector.png",
+    "image_url": "https://ksite.fra1.cdn.digitaloceanspaces.com/uploads/458cc33c36f688d15a562869940bf9d6.png",
+    "original_dimensions": {
+      "width": 1988,
+      "height": 1004
+    },
+    "format": "PNG",
+    "sha256": "87e6fcd137a21f09e32468a029bc36c0b4ac821debbeb343bce156f48d244930",
+    "retrieved_on": "2026-09-14",
+    "visually_inspected": true,
+    "use_context": "Attributed external visual quality reference for a local style-choice menu; not a production character asset or a claim of reuse rights."
+  },
+  {
+    "id": "caricature",
+    "title": "Ronaldo",
+    "creator": "Fraser Davidson / Cub Studio",
+    "source_url": "https://dribbble.com/shots/27278756-Ronaldo",
+    "credit": "Artwork: Fraser Davidson / Cub Studio",
+    "rationale": "A complete football figure uses exaggerated forearms, shoulders and a large foreground boot while keeping the face, kit and pose in a unified drawing style. The source artwork contains no headline overlay.",
+    "quality_targets": [
+      "Exaggerate a few distinctive body and facial shapes deliberately instead of enlarging every feature.",
+      "Maintain one coherent outline, color and shading treatment across head, limbs, shirt and shorts.",
+      "Use open hand silhouettes, a strong action pose and clear overlap order around bent limbs."
+    ],
+    "acquisition_note": "Original 800×600 PNG still from the artist’s official Cub Studio portfolio feed, with its resize query removed. The project’s title and artist credit are independently visible on the linked project page. No video downloaded.",
+    "adaptation_note": "Its large foreground boot is an authored foreshortened pose, not evidence that our existing rig can freely rotate. Match the caricature finish; plan any such pose as authored artwork.",
+    "local_path": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/artifacts/reference-gallery-v001/downloads/caricature.png",
+    "image_url": "https://cdn.dribbble.com/userupload/47387828/file/still-fff0264b196820bcd76c59cbc7ae837f.png",
+    "original_dimensions": {
+      "width": 800,
+      "height": 600
+    },
+    "format": "PNG",
+    "sha256": "024a444b818c55200f7212fd4863dbfbc2ae34a8b2d868c28f219a85687a0089",
+    "retrieved_on": "2026-09-14",
+    "visually_inspected": true,
+    "use_context": "Attributed external visual quality reference for a local style-choice menu; not a production character asset or a claim of reuse rights."
+  },
+  {
+    "id": "chibi",
+    "title": "Chibi Tiny Tales — The Cheetah Girls: As Told By Chibi",
+    "creator": "Disney Television Animation",
+    "source_url": "https://disneynow.com/video/60136741-427a-4868-bd20-c831e708ae06/playlist/PL554083840",
+    "credit": "Chibi Tiny Tales · Disney",
+    "rationale": "Four complete characters show the large-head/small-body construction clearly, with distinct hair, bright expressions, recognizable clothing and several readable hand gestures. The actual artwork is clean and title-free.",
+    "quality_targets": [
+      "Keep oversized heads and eyes balanced with compact bodies, short limbs and simple shoes.",
+      "Use distinct hair masses, brows and mouth shapes so each character has a clear identity and emotion.",
+      "Draw clean cuffs, continuous clothing joins and visible hand silhouettes in both raised and resting poses."
+    ],
+    "acquisition_note": "DisneyNOW’s public episode image asset served at 1920×1080 through its image CDN, using the same asset ID and hash as the episode page’s 661×377 preview. The image was not locally enlarged or retouched.",
+    "local_path": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/artifacts/reference-gallery-v001/downloads/chibi.jpg",
+    "image_url": "https://cdn1.edgedatg.com/aws/v2/dch/ChibiTinyTales/video/40022890/5a639dcaccec153ae497465d29af6273/1920x1080-Q100_5a639dcaccec153ae497465d29af6273.jpg",
+    "original_dimensions": {
+      "width": 1920,
+      "height": 1080
+    },
+    "format": "JPEG",
+    "sha256": "ed4cce8ebafed14c2ae1a9bef5bd4337e27a47d9581fe52b8e7de244fb37877e",
+    "retrieved_on": "2026-09-14",
+    "visually_inspected": true,
+    "use_context": "Attributed external visual quality reference for a local style-choice menu; not a production character asset or a claim of reuse rights."
+  },
+  {
+    "id": "geometric",
+    "title": "Duggee — arms wide character artwork",
+    "creator": "Studio AKA / BBC Studios",
+    "source_url": "https://www.heyduggee.com/characters/duggee/",
+    "credit": "Hey Duggee · Studio AKA / BBC Studios",
+    "rationale": "An uncluttered complete character makes the circular, rounded-rectangle and triangular shape vocabulary explicit. Both hands, cuffs and feet remain visible in the open-arm pose.",
+    "quality_targets": [
+      "Build a distinctive silhouette from a few deliberate geometric masses.",
+      "Keep flat fills and crisp boundaries consistent, with a restrained family of accent colors.",
+      "Make hands, facial features and clothing symbols large enough to read at small viewing sizes."
+    ],
+    "acquisition_note": "Unchanged transparent PNG from the official character page; show against a light neutral gallery background.",
+    "local_path": "/Users/samikd/MyProjects/Pencil/experiments/009_style_gallery/artifacts/reference-gallery-v001/downloads/geometric.png",
+    "image_url": "https://www.heyduggee.com/wp-content/uploads/2024/02/Duggee-Arms-Wide.png",
+    "original_dimensions": {
+      "width": 1226,
+      "height": 1272
+    },
+    "format": "PNG",
+    "sha256": "2df611dab9826224ebb776afbea9f1eadc265b2636c6ec05ce22dcfd7c52f75f",
+    "retrieved_on": "2026-09-14",
+    "visually_inspected": true,
+    "use_context": "Attributed external visual quality reference for a local style-choice menu; not a production character asset or a claim of reuse rights."
+  }
+]

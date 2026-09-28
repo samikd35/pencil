@@ -1,0 +1,28 @@
+{
+  "frames": 300,
+  "fps": 24,
+  "seconds": 12.5,
+  "max_chain_length_error": 1.0036997871720743e-07,
+  "feet_planted_from": 18,
+  "ball_contact_frames": [
+    277,
+    286
+  ],
+  "cuts": [
+    77,
+    161,
+    206
+  ],
+  "events": {
+    "assistant": 13,
+    "flick": 88,
+    "reaction": 171,
+    "keeper": 202,
+    "watch": 238,
+    "clipboard": 254,
+    "ball_contact": 277,
+    "release": 286
+  },
+  "speech_rate_changed": false,
+  "normal_speed_creative_acceptance": false
+}

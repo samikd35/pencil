@@ -1,0 +1,749 @@
+[
+  {
+    "id": "N01",
+    "start_frame": 1,
+    "frames": 180,
+    "panel": null,
+    "source": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/N01.mp4",
+    "line": "B01",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/N01.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "OP01_banner",
+    "start_frame": 181,
+    "frames": 48,
+    "panel": 0,
+    "source": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/opening-v002/boards.png",
+    "line": null,
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/OP01_banner.mp4",
+    "crop": [
+      5,
+      5,
+      827,
+      339
+    ],
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "OP01_year",
+    "start_frame": 229,
+    "frames": 101,
+    "panel": 1,
+    "source": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/opening-v002/boards.png",
+    "line": "B02",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/OP01_year.mp4",
+    "crop": [
+      842,
+      5,
+      825,
+      339
+    ],
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "OP02_truck",
+    "start_frame": 330,
+    "frames": 56,
+    "panel": 2,
+    "source": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/opening-v002/boards.png",
+    "line": null,
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/OP02_truck.mp4",
+    "crop": [
+      5,
+      354,
+      827,
+      282
+    ],
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "OP02_arteta",
+    "start_frame": 386,
+    "frames": 60,
+    "panel": 3,
+    "source": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/opening-v002/boards.png",
+    "line": "B03",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/OP02_arteta.mp4",
+    "crop": [
+      842,
+      354,
+      825,
+      282
+    ],
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "OP02_driver",
+    "start_frame": 446,
+    "frames": 72,
+    "panel": 4,
+    "source": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/opening-v002/boards.png",
+    "line": "B04",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/OP02_driver.mp4",
+    "crop": [
+      5,
+      646,
+      827,
+      290
+    ],
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "OP03_phone",
+    "start_frame": 518,
+    "frames": 72,
+    "panel": 5,
+    "source": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/opening-v002/boards.png",
+    "line": "B05",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/OP03_phone.mp4",
+    "crop": [
+      842,
+      646,
+      825,
+      290
+    ],
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "TR01",
+    "chapter": 2,
+    "panel": 0,
+    "start_frame": 590,
+    "frames": 192,
+    "lines": [
+      7
+    ],
+    "source": "boards/chapter-2.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/TR01.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "TR02_flag",
+    "chapter": 2,
+    "panel": 1,
+    "start_frame": 782,
+    "frames": 96,
+    "lines": [],
+    "source": "boards/chapter-2.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/TR02_flag.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "TR02_reaction",
+    "chapter": 2,
+    "panel": 2,
+    "start_frame": 878,
+    "frames": 144,
+    "lines": [
+      8,
+      9
+    ],
+    "source": "boards/chapter-2.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/TR02_reaction.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "TR03_warning",
+    "chapter": 2,
+    "panel": 3,
+    "start_frame": 1022,
+    "frames": 96,
+    "lines": [
+      10
+    ],
+    "source": "boards/chapter-2.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/TR03_warning.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "TR03_kick",
+    "chapter": 2,
+    "panel": 4,
+    "start_frame": 1118,
+    "frames": 72,
+    "lines": [],
+    "source": "boards/chapter-2.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/TR03_kick.mp4"
+  },
+  {
+    "id": "TR03_praise",
+    "chapter": 2,
+    "panel": 5,
+    "start_frame": 1190,
+    "frames": 84,
+    "lines": [
+      11
+    ],
+    "source": "boards/chapter-2.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/TR03_praise.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "TR04",
+    "chapter": 3,
+    "panel": 0,
+    "start_frame": 1274,
+    "frames": 48,
+    "lines": [],
+    "source": "boards/chapter-3.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/TR04.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "CD01_cross",
+    "chapter": 3,
+    "panel": 0,
+    "start_frame": 1322,
+    "frames": 197,
+    "lines": [
+      12
+    ],
+    "source": "boards/chapter-3.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/CD01_cross.mp4"
+  },
+  {
+    "id": "CD01_header",
+    "chapter": 3,
+    "panel": 1,
+    "start_frame": 1519,
+    "frames": 72,
+    "lines": [],
+    "source": "boards/chapter-3.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/CD01_header.mp4"
+  },
+  {
+    "id": "CD02",
+    "chapter": 3,
+    "panel": 2,
+    "start_frame": 1591,
+    "frames": 122,
+    "lines": [
+      13
+    ],
+    "source": "boards/chapter-3.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/CD02.mp4"
+  },
+  {
+    "id": "CD03",
+    "chapter": 3,
+    "panel": 3,
+    "start_frame": 1713,
+    "frames": 120,
+    "lines": [],
+    "source": "boards/chapter-3.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/CD03.mp4"
+  },
+  {
+    "id": "CD04",
+    "chapter": 3,
+    "panel": 4,
+    "start_frame": 1833,
+    "frames": 200,
+    "lines": [
+      14
+    ],
+    "source": "boards/chapter-3.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/CD04.mp4"
+  },
+  {
+    "id": "CD05",
+    "chapter": 3,
+    "panel": 5,
+    "start_frame": 2033,
+    "frames": 144,
+    "lines": [
+      15,
+      16
+    ],
+    "source": "boards/chapter-3.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/CD05.mp4"
+  },
+  {
+    "id": "N02",
+    "chapter": 1,
+    "panel": 0,
+    "start_frame": 2177,
+    "frames": 48,
+    "lines": [],
+    "source": "boards/chapter-1.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/N02.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "CD05_proud",
+    "chapter": 3,
+    "panel": 2,
+    "start_frame": 2225,
+    "frames": 84,
+    "lines": [
+      17
+    ],
+    "source": "boards/chapter-3.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/CD05_proud.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "CD05_ping",
+    "chapter": 3,
+    "panel": 2,
+    "start_frame": 2309,
+    "frames": 60,
+    "lines": [
+      18
+    ],
+    "source": "boards/chapter-3.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/CD05_ping.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "CP01",
+    "chapter": 4,
+    "panel": 0,
+    "start_frame": 2369,
+    "frames": 216,
+    "lines": [
+      19
+    ],
+    "source": "boards/chapter-4.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v002/CP01/CP01-v002-silent.mp4",
+    "stage": "body motion candidate; phone transition and final acting unfinished"
+  },
+  {
+    "id": "CP02_far",
+    "chapter": 4,
+    "panel": 1,
+    "start_frame": 2585,
+    "frames": 120,
+    "lines": [
+      20
+    ],
+    "source": "boards/chapter-4.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/CP02_far.mp4"
+  },
+  {
+    "id": "CP02_near",
+    "chapter": 4,
+    "panel": 2,
+    "start_frame": 2705,
+    "frames": 72,
+    "lines": [],
+    "source": "boards/chapter-4.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/CP02_near.mp4"
+  },
+  {
+    "id": "CP03_panic",
+    "chapter": 4,
+    "panel": 3,
+    "start_frame": 2777,
+    "frames": 84,
+    "lines": [
+      21
+    ],
+    "source": "boards/chapter-4.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/CP03_panic.mp4"
+  },
+  {
+    "id": "CP03_pep",
+    "chapter": 4,
+    "panel": 2,
+    "start_frame": 2861,
+    "frames": 96,
+    "lines": [
+      22
+    ],
+    "source": "boards/chapter-4.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v001/CP03_pep/CP03_pep-v002-silent.mp4",
+    "stage": "user-approved body motion; mouth acting unfinished"
+  },
+  {
+    "id": "CP04_forward",
+    "chapter": 4,
+    "panel": 3,
+    "start_frame": 2957,
+    "frames": 123,
+    "lines": [
+      23
+    ],
+    "source": "boards/chapter-4.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/CP04_forward.mp4"
+  },
+  {
+    "id": "CP04_courier",
+    "chapter": 4,
+    "panel": 4,
+    "start_frame": 3080,
+    "frames": 144,
+    "lines": [
+      24,
+      25
+    ],
+    "source": "boards/chapter-4.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/CP04_courier.mp4"
+  },
+  {
+    "id": "CP05",
+    "chapter": 4,
+    "panel": 5,
+    "start_frame": 3224,
+    "frames": 120,
+    "lines": [
+      26
+    ],
+    "source": "boards/chapter-4.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/CP05.mp4"
+  },
+  {
+    "id": "VH01",
+    "chapter": 5,
+    "panel": 0,
+    "start_frame": 3344,
+    "frames": 122,
+    "lines": [
+      27
+    ],
+    "source": "boards/chapter-5.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/VH01.mp4"
+  },
+  {
+    "id": "VH02",
+    "chapter": 5,
+    "panel": 1,
+    "start_frame": 3466,
+    "frames": 144,
+    "lines": [
+      28
+    ],
+    "source": "boards/chapter-5.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/VH02.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "VH03",
+    "chapter": 5,
+    "panel": 2,
+    "start_frame": 3610,
+    "frames": 48,
+    "lines": [],
+    "source": "boards/chapter-5.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/VH03.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "VH03_answer",
+    "chapter": 5,
+    "panel": 3,
+    "start_frame": 3658,
+    "frames": 110,
+    "lines": [
+      29
+    ],
+    "source": "boards/chapter-5.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/VH03_answer.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "VH04_mikel",
+    "chapter": 5,
+    "panel": 4,
+    "start_frame": 3768,
+    "frames": 96,
+    "lines": [
+      30
+    ],
+    "source": "boards/chapter-5.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/VH04_mikel.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "VH04_operator",
+    "chapter": 5,
+    "panel": 3,
+    "start_frame": 3864,
+    "frames": 108,
+    "lines": [
+      31
+    ],
+    "source": "boards/chapter-5.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/VH04_operator.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "VH04_two",
+    "chapter": 5,
+    "panel": 4,
+    "start_frame": 3972,
+    "frames": 60,
+    "lines": [
+      32
+    ],
+    "source": "boards/chapter-5.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/VH04_two.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "VH04_button",
+    "chapter": 5,
+    "panel": 5,
+    "start_frame": 4032,
+    "frames": 48,
+    "lines": [],
+    "source": "boards/chapter-5.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/VH04_button.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "VH05",
+    "chapter": 7,
+    "panel": 1,
+    "start_frame": 4080,
+    "frames": 156,
+    "lines": [
+      33,
+      34
+    ],
+    "source": "boards/chapter-7.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/VH05.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "VH05_wait",
+    "chapter": 7,
+    "panel": 1,
+    "start_frame": 4236,
+    "frames": 72,
+    "lines": [],
+    "source": "boards/chapter-7.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/VH05_wait.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "FR01",
+    "chapter": 6,
+    "panel": 0,
+    "start_frame": 4308,
+    "frames": 200,
+    "lines": [
+      35
+    ],
+    "source": "boards/chapter-6.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/FR01.mp4"
+  },
+  {
+    "id": "FR02",
+    "chapter": 6,
+    "panel": 1,
+    "start_frame": 4508,
+    "frames": 144,
+    "lines": [
+      36,
+      37
+    ],
+    "source": "boards/chapter-6.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/FR02.mp4"
+  },
+  {
+    "id": "N03",
+    "chapter": 1,
+    "panel": 0,
+    "start_frame": 4652,
+    "frames": 93,
+    "lines": [
+      38
+    ],
+    "source": "boards/chapter-1.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/N03.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "FR03_cross",
+    "chapter": 6,
+    "panel": 2,
+    "start_frame": 4745,
+    "frames": 72,
+    "lines": [],
+    "source": "boards/chapter-6.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/FR03_cross.mp4"
+  },
+  {
+    "id": "FR03_complain",
+    "chapter": 6,
+    "panel": 1,
+    "start_frame": 4817,
+    "frames": 106,
+    "lines": [
+      39
+    ],
+    "source": "boards/chapter-6.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/FR03_complain.mp4"
+  },
+  {
+    "id": "FR03_bonk",
+    "chapter": 6,
+    "panel": 3,
+    "start_frame": 4923,
+    "frames": 24,
+    "lines": [],
+    "source": "boards/chapter-6.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/FR03_bonk.mp4"
+  },
+  {
+    "id": "FR03_goal",
+    "chapter": 6,
+    "panel": 4,
+    "start_frame": 4947,
+    "frames": 72,
+    "lines": [],
+    "source": "boards/chapter-6.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animatic-v001/clips/FR03_goal.mp4"
+  },
+  {
+    "id": "FR04",
+    "chapter": 6,
+    "panel": 5,
+    "start_frame": 5019,
+    "frames": 144,
+    "lines": [
+      40,
+      41
+    ],
+    "source": "boards/chapter-6.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/FR04.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "FR05",
+    "chapter": 7,
+    "panel": 0,
+    "start_frame": 5163,
+    "frames": 144,
+    "lines": [
+      42,
+      43
+    ],
+    "source": "boards/chapter-7.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/FR05.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "VH06",
+    "chapter": 7,
+    "panel": 1,
+    "start_frame": 5307,
+    "frames": 168,
+    "lines": [
+      44,
+      45
+    ],
+    "source": "boards/chapter-7.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/VH06.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "N04_trophy",
+    "chapter": 7,
+    "panel": 2,
+    "start_frame": 5475,
+    "frames": 120,
+    "lines": [],
+    "source": "boards/chapter-7.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/N04_trophy.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "N04_dark",
+    "chapter": 7,
+    "panel": 3,
+    "start_frame": 5595,
+    "frames": 96,
+    "lines": [],
+    "source": "boards/chapter-7.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/N04_dark.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "N04_reveal",
+    "chapter": 7,
+    "panel": 4,
+    "start_frame": 5691,
+    "frames": 36,
+    "lines": [],
+    "source": "boards/chapter-7.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/N04_reveal.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "N04_meltdown",
+    "chapter": 7,
+    "panel": 5,
+    "start_frame": 5727,
+    "frames": 168,
+    "lines": [
+      46,
+      47
+    ],
+    "source": "boards/chapter-7.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/N04_meltdown.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  },
+  {
+    "id": "N04_tap",
+    "chapter": 7,
+    "panel": 5,
+    "start_frame": 5895,
+    "frames": 60,
+    "lines": [],
+    "source": "boards/chapter-7.png",
+    "camera": "hold",
+    "clip": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/animation-v004/clips/N04_tap.mp4",
+    "stage": "First acting/prop animation pass; performance polish pending"
+  }
+]

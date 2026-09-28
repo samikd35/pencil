@@ -1,0 +1,25 @@
+{
+  "path": "barcelona-wasnt-ready-trent-was.mp4",
+  "sha256": "9a5592578eeba02326c0c8ad7363072c37a84d8fa2dc839788228845470ade14",
+  "width": 1080,
+  "height": 1920,
+  "frames": 912,
+  "fps": 24,
+  "seconds": 38,
+  "channels": 2,
+  "sample_rate": 48000,
+  "full_decode": true,
+  "levels": {
+    "input_i": "-21.31",
+    "input_tp": "-1.98",
+    "input_lra": "22.10",
+    "input_thresh": "-32.58",
+    "output_i": "-18.83",
+    "output_tp": "-2.00",
+    "output_lra": "13.30",
+    "output_thresh": "-29.67",
+    "normalization_type": "dynamic",
+    "target_offset": "0.83"
+  },
+  "listening": "A sound direction selected by user; complete-movie listening not performed by agent."
+}

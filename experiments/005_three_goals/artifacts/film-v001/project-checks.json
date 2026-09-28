@@ -1,0 +1,79 @@
+{
+  "frames": 720,
+  "seconds": 30,
+  "checked_frame_visibility": 720,
+  "contacts": [
+    {
+      "seconds": 3,
+      "player": "Mbappe",
+      "boot_surface_gap": -2.063958223427753e-08
+    },
+    {
+      "seconds": 7.5,
+      "player": "Mbappe",
+      "boot_surface_gap": 3.0505009004921924e-09
+    },
+    {
+      "seconds": 10.25,
+      "player": "Messi",
+      "boot_surface_gap": -8.758271885511704e-13
+    },
+    {
+      "seconds": 15.25,
+      "player": "Mbappe",
+      "boot_surface_gap": -2.063958223427753e-08
+    },
+    {
+      "seconds": 18.625,
+      "player": "Mbappe",
+      "boot_surface_gap": -2.063958223427753e-08
+    },
+    {
+      "seconds": 21.25,
+      "player": "Montiel",
+      "boot_surface_gap": -2.063958223427753e-08
+    }
+  ],
+  "score_checks": [
+    {
+      "seconds": 0,
+      "score": "2 - 0"
+    },
+    {
+      "seconds": 3.6,
+      "score": "2 - 1"
+    },
+    {
+      "seconds": 8.2,
+      "score": "2 - 2"
+    },
+    {
+      "seconds": 10.8,
+      "score": "3 - 2"
+    },
+    {
+      "seconds": 16,
+      "score": "3 - 3"
+    },
+    {
+      "seconds": 18.2,
+      "score": "0 - 0"
+    },
+    {
+      "seconds": 19.3,
+      "score": "0 - 1"
+    },
+    {
+      "seconds": 20.5,
+      "score": "3 - 2"
+    },
+    {
+      "seconds": 22,
+      "score": "4 - 2"
+    }
+  ],
+  "embedded_soundtrack": true,
+  "new_shoulders": 16,
+  "source_unchanged": true,
+  "limits": "Stylized reconstruction; geometric checks do not establish likeness, dramatic impact or audience comprehension."
+}

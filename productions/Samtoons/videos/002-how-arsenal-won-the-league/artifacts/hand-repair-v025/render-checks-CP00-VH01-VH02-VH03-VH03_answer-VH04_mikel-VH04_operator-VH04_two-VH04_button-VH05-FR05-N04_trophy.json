@@ -1,0 +1,23 @@
+{
+  "rendered": 1635,
+  "elapsed_seconds": 404.2173546250051,
+  "selection": [
+    "CP00",
+    "VH01",
+    "VH02",
+    "VH03",
+    "VH03_answer",
+    "VH04_mikel",
+    "VH04_operator",
+    "VH04_two",
+    "VH04_button",
+    "VH05",
+    "FR05",
+    "N04_trophy"
+  ],
+  "review_resolution": [
+    1280,
+    720
+  ],
+  "fps": 24
+}

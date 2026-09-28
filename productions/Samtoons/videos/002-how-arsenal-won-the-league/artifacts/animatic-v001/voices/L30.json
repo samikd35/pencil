@@ -1,0 +1,19 @@
+{
+  "id": "L30",
+  "chapter": 5,
+  "beat": "VH04",
+  "role_and_direction": "ARTETA — relaxed",
+  "text": "Can you make that go away?",
+  "word_count": 6,
+  "seconds": 1.52,
+  "file": "L30.wav",
+  "sha256": "0e12ea181325e1f4aa0348af86feda6fbfd9b55d72d457d0c16c8a64b7910700",
+  "reference_start_seconds": 74.83089583333333,
+  "role": "ARTETA",
+  "direction": "Adult man with a bright tight mid-register voice and light Spanish English accent. Comic football manager, clear English. Casual quiet request into a shielded phone. Clean dry microphone, no music or extra words.",
+  "seed": 43,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "generation_seconds": 1.5960120829986408,
+  "path": "artifacts/animatic-v001/voices/L30.wav"
+}

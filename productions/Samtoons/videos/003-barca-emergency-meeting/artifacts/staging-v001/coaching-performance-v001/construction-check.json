@@ -1,0 +1,12 @@
+{
+  "frames": 360,
+  "fps": 24,
+  "duration_seconds": 15.0,
+  "checks": [
+    "all authored arm/leg endpoints reachable, lengths retained",
+    "feet planted after approach",
+    "ball rests on field, shared hand/release schedule",
+    "preview drawing visibility matches render"
+  ],
+  "limits": "Geometry checks do not certify visible surfaces, acting, sound or benchmark quality."
+}

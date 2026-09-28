@@ -1,0 +1,16 @@
+{
+  "native_character_no_image_textures": true,
+  "same_shared_room": true,
+  "foot_control_max_drift_m": 1.2310379476739693e-07,
+  "one_mouth_per_frame": true,
+  "used_mouth_shapes": [
+    "A",
+    "E",
+    "FV",
+    "L",
+    "MBP",
+    "U",
+    "rest"
+  ],
+  "review_scope": "Construction and draft dialogue performance. Not approval of appearance, acting or final lip sync."
+}

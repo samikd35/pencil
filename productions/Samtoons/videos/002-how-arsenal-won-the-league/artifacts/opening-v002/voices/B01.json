@@ -1,0 +1,10 @@
+{
+  "id": "B01",
+  "text": "Arsenal. New season. Same bottle.",
+  "seed": 42,
+  "direction": "An elderly man, low weathered gravelly voice, restrained Scottish English accent. Original theatrical cartoon football manager voice. Calm smug certainty. Three dry thoughts, brief pauses, dismissive finality on same bottle. Clean dry microphone, no music or extra words.",
+  "duration": 4.72,
+  "sha256": "0a4db0cd86cfc684a05d242947a64e13bec0b42d492d9ff24a0ed3844fe47af4",
+  "heard_by_agent": false,
+  "source": "Pinned local Qwen VoiceDesign; original caricature performance, not a real-person recording"
+}

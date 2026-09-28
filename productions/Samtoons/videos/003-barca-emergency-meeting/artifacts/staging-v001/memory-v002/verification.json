@@ -1,0 +1,65 @@
+{
+  "frames": 264,
+  "fps": 24,
+  "size": [
+    1280,
+    720
+  ],
+  "audio_sample_rate": 48000,
+  "decoded_audio_identical_to_v001": true,
+  "full_decode": "passed",
+  "input_hashes": "matched",
+  "extracted_review_frames": [
+    1,
+    23,
+    38,
+    42,
+    46,
+    47,
+    48,
+    54,
+    64,
+    76,
+    81,
+    119,
+    138,
+    139,
+    149,
+    164,
+    170,
+    171,
+    172,
+    185,
+    220,
+    264
+  ],
+  "visual_review": {
+    "reviewer": "Assistant",
+    "method": "Viewed final encoded joint comparison and action/transition crop sheets; checked full shot frames for context.",
+    "frames_inspected": [
+      1,
+      23,
+      38,
+      42,
+      46,
+      47,
+      48,
+      54,
+      119,
+      138,
+      139,
+      149,
+      164,
+      170,
+      171,
+      172,
+      185
+    ],
+    "findings": "Both shoulder notches and transverse wrist seams removed; shorts track thigh directions in inspected kick/reception poses; neckline strip regression removed. No detached contours or fabric pose jumps in inspected frames.",
+    "limits": "Selected-frame visual inspection and all-frame numeric checks are not a normal-speed aesthetic approval. User motion/staging review pending; no general extreme-pose certification."
+  },
+  "native_checks": {
+    "connected_surface_samples": 288,
+    "shorts_pose_and_visibility_frames_per_actor": 264
+  }
+}

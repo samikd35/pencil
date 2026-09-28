@@ -1,0 +1,13 @@
+{
+  "scenes": 17,
+  "frames": 3768,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "eevee_samples": 64,
+  "scene_strip_timing": "passed",
+  "mix_packed": true,
+  "opening_scene": "SAMTOONS / repaired complete animatic"
+}

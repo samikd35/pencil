@@ -1,0 +1,19 @@
+{
+  "id": "VH02",
+  "chapter": 5,
+  "panel": 1,
+  "start_frame": 3621,
+  "frames": 144,
+  "lines": [
+    28
+  ],
+  "source": "boards/chapter-5.png",
+  "camera": "hold",
+  "crop": [
+    689,
+    5,
+    672,
+    375
+  ],
+  "source_sha256": "b039bc8664a318ce3c8235b70d059d2925934b797cc4d36af33aa5d20a4d7dd8"
+}

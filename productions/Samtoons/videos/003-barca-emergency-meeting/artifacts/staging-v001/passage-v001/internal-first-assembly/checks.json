@@ -1,0 +1,16 @@
+{
+  "frames": 1272,
+  "duration_seconds": 53,
+  "full_decode": true,
+  "speech_tail_check": true,
+  "agent_listening": false,
+  "output_sha256": "0503e5ff9573cafcfb1e3d5828d3079f584e65a96a922692e74d57efce8efdcd",
+  "source_hashes_verified": true,
+  "cut_frames": [
+    168,
+    480,
+    840,
+    1032
+  ],
+  "assembly_source_sha256": "a110fb062fc02e4647d411b0ac1f8c42057bab8aaf55d0f5d88f17a22e80ad34"
+}

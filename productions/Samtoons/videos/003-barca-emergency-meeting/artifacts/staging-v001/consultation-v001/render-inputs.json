@@ -1,0 +1,6 @@
+{
+  "artifacts/staging-v001/consultation-v001/consultation.blend": "42f35b21d661570cef150232688baa6d00335b809c916f99c110e866fa9c7703",
+  "scripts/render_staging_scene.py": "f801b5983bc5d267a76c257e8a6c34eeca11ede8e8ee1faf7226c394e08a95e4",
+  "artifacts/staging-v001/consultation-v001/render-selection.json": "4fc21f5ff3f14138850c85a2c56f323e3bacf732ec3c840d587439b928670e1a",
+  "artifacts/staging-v001/consultation-v001/audio/mix-premaster.wav": "da240c2f5f26ae89b82123e20bf241f3ab6dd73631a5e6685112bb3f710fe8bb"
+}

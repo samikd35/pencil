@@ -1,0 +1,19 @@
+{
+  "id": "L33",
+  "chapter": 5,
+  "beat": "VH05",
+  "role_and_direction": "REFEREE",
+  "text": "Hello? I’m still here.",
+  "word_count": 4,
+  "seconds": 2.3052916666666667,
+  "file": "L33.wav",
+  "sha256": "42fd15257c3579488bd6d828cc17067714b77d883139f64c2f56de4bf8c919a3",
+  "reference_start_seconds": 81.18447916666666,
+  "role": "REFEREE",
+  "direction": "Adult British male football referee, mid-register voice. Small hopeful Hello, then hurt disbelief; stress STILL. Clean dry microphone, no music or extra words.",
+  "seed": 46,
+  "heard_by_agent": false,
+  "selected_for_final": false,
+  "source": "Accepted A standalone performance: artifacts/sound-direction-v001/ref.wav",
+  "path": "artifacts/animatic-v001/voices/L33.wav"
+}

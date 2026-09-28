@@ -1,0 +1,17 @@
+{
+  "frames": 192,
+  "actors_in_sprint_shot": 4,
+  "actors_in_pep_cutaway": 1,
+  "cut_frame": 121,
+  "maximum_horizontal_registration_step_pixels": 0.0003814697265625,
+  "maximum_evaluated_support_error": 1.1072889369995176e-07,
+  "full_body_mesh_bounds_normalized": [
+    0.09164072573184967,
+    0.8965250849723816,
+    0.023620732128620148,
+    0.7137286067008972
+  ],
+  "script_unchanged": true,
+  "silence": "intentional motion review",
+  "creative_status": "pending user review; numerical checks do not certify likeness or comedy"
+}

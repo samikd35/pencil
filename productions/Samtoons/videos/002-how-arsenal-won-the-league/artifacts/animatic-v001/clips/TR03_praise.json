@@ -1,0 +1,19 @@
+{
+  "id": "TR03_praise",
+  "chapter": 2,
+  "panel": 5,
+  "start_frame": 1345,
+  "frames": 84,
+  "lines": [
+    11
+  ],
+  "source": "boards/chapter-2.png",
+  "camera": "hold",
+  "crop": [
+    688,
+    771,
+    673,
+    375
+  ],
+  "source_sha256": "cc22d241288d8ad53cde382cc85ea2c786b7b658e1b2f5b7ce1853e9fe84713f"
+}

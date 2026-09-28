@@ -1,0 +1,10 @@
+{
+  "id": "C22",
+  "shot": "CP03_pep",
+  "role": "PEP",
+  "text": "You always get tired around this part, Mikel.",
+  "reference": "/Users/samikd/MyProjects/Pencil/productions/Samtoons/videos/002-how-arsenal-won-the-league/artifacts/final-batch-v023/voices/L22.wav",
+  "reference_sha256": "632036ad030adcba5bfd2f272c7af52d64ee98a08eb1c4200526d29b00f0387b",
+  "seconds": 2.88,
+  "heard_by_agent": false
+}

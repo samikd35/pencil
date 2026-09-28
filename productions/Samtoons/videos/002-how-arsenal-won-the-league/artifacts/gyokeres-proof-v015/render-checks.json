@@ -1,0 +1,13 @@
+{
+  "frames": 336,
+  "fps": 24,
+  "seconds": 14,
+  "size": [
+    1280,
+    720
+  ],
+  "speech_start_seconds": 3.5,
+  "voice_source": "artifacts/animatic-v001/voices/L08-mix.wav",
+  "elapsed_seconds": 103.10963366700162,
+  "status": "review candidate; user acceptance pending"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "N04_trophy",
+  "chapter": 7,
+  "panel": 2,
+  "start_frame": 5630,
+  "frames": 120,
+  "lines": [],
+  "source": "boards/chapter-7.png",
+  "camera": "hold",
+  "crop": [
+    5,
+    389,
+    671,
+    361
+  ],
+  "source_sha256": "8cd255185144e8d79dd9c4c072056c409ae7f94f60d2dc5dbe02f24897ec6332"
+}
